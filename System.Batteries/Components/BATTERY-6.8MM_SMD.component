@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313185803034" name="BATTERY-6.8MM_SMD" prefix="BT" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012313185803018" symbolName="BATTERY" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012313185803016" footprintName="BATTCON-6.8MM">
+    <pad2pinMaps>
+      <map pad="+" gateId="1" pin="+" />
+      <map pad="-" gateId="1" pin="-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

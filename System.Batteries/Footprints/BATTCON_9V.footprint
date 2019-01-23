@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803009" name="BATTCON_9V">
+  <pad number="+" x="50" y="50" rot="360" width="3.81" height="3.81" cornerRadius="1.905" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.905" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="-" x="50" y="62.954" rot="360" width="3.81" height="3.81" cornerRadius="1.905" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.905" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="-3.0097999999999985" y1="41.440200000000004" x2="51.9304" y2="41.440200000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.9304" y1="41.440200000000004" x2="51.9304" y2="71.4122" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.9304" y1="71.4122" x2="-3.0097999999999985" y2="71.4122" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="-3.0097999999999985" y1="71.4122" x2="-3.0097999999999985" y2="41.440200000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="10.7316" y="45.2502" diameter="2.54" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="37.7064" y="45.2502" diameter="2.54" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="24.219" y="67.6022" diameter="2.54" borderWidth="0.127" isFilled="false" layer="201" />
+</footprint>

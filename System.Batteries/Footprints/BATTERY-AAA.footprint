@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803000" name="BATTERY-AAA">
+  <line x1="36.03" y1="46.19" x2="36.03" y2="53.81" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="36.03" y1="53.81" x2="26.505" y2="53.81" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="26.505" y1="53.81" x2="26.505" y2="46.19" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="26.505" y1="46.19" x2="36.03" y2="46.19" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="73.368" y1="46.19" x2="63.97" y2="46.19" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="63.97" y1="46.19" x2="63.97" y2="53.81" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="63.97" y1="53.81" x2="73.368" y2="53.81" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="73.368" y1="53.81" x2="73.368" y2="46.19" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="37.3" y1="46.19" x2="62.7" y2="46.19" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="62.7" y1="53.81" x2="37.3" y2="53.81" width="0.127" layer="201" lineStyle="Solid" />
+  <pad number="PWR@2" x="36.03" y="50" rot="360" width="3.4036" height="3.4036" cornerRadius="1.7018" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.7018" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="PWR@1" x="28.41" y="50" rot="360" width="3.4036" height="3.4036" cornerRadius="1.7018" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.7018" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND@2" x="63.97" y="50" rot="360" width="3.4036" height="3.4036" cornerRadius="1.7018" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.7018" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND@1" x="71.59" y="50" rot="360" width="3.4036" height="3.4036" cornerRadius="1.7018" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.7018" slotHeight="0" slotRot="0" plated="false" />
+  <mono x="38.57" y="51.27" layer="501" rot="0" fontName="Default" fontSize="2.54" strokeWidth="0.2">+</mono>
+  <mono x="58.89" y="51.27" layer="501" rot="0" fontName="Default" fontSize="2.54" strokeWidth="0.2">-</mono>
+</footprint>

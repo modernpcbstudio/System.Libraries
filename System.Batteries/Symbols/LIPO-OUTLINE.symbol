@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012313185803019" name="LIPO-OUTLINE">
+  <line x1="50" y1="50" x2="50" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="47.46" x2="55.08" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="47.46" x2="55.08" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="50" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="50.635" y="49.365" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">Lipo</text>
+</symbol>

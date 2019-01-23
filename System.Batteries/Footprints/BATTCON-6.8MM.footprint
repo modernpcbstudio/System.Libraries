@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803016" name="BATTCON-6.8MM">
+  <circle x="50" y="50" diameter="6.8" borderWidth="0.2032" isFilled="false" layer="501" />
+  <smd number="+" x="54.87" y="49.25" rot="-180" width="2.25" height="0.85" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="-" x="54.87" y="50.75" rot="-180" width="2.25" height="0.85" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="50" y="50" diameter="6.8" borderWidth="0.2032" isFilled="false" layer="201" />
+  <line x1="55.9" y1="49" x2="55.9" y2="49.5" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="55.9" y1="49.5" x2="53.6" y2="49.5" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="53.6" y1="50.5" x2="55.9" y2="50.5" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="55.9" y1="50.5" x2="55.9" y2="51" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="53.6" y1="50.5" x2="53.6" y2="49.5" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="55.9" y1="49" x2="47" y2="49" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="47" y1="49" x2="47" y2="51" width="0.0762" layer="201" lineStyle="Solid" />
+  <line x1="47" y1="51" x2="55.9" y2="51" width="0.0762" layer="201" lineStyle="Solid" />
+</footprint>

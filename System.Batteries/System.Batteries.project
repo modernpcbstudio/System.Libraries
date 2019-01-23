@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="BATTERY-6.8MM_SMD.component" />
+    <Component Path="BATTERY-9V.component" />
+    <Component Path="BATTERY-12MM_PTH.component" />
+    <Component Path="BATTERY-12MM_SMD.component" />
+    <Component Path="BATTERY-20MM_PTH.component" />
+    <Component Path="BATTERY-20MM_SMD.component" />
+    <Component Path="BATTERY-20MM_SMD_4LEGS.component" />
+    <Component Path="BATTERY-20MM_SMD_4LEGS_OVERPASTE.component" />
+    <Component Path="BATTERY-24.5MM_PTH.component" />
+    <Component Path="BATTERY-18650.component" />
+    <Component Path="BATTERY-AA.component" />
+    <Component Path="BATTERY-AA_KIT.component" />
+    <Component Path="BATTERY-AAA.component" />
+    <Component Path="BATTERY-AAA_KIT.component" />
+    <Component Path="BATTERY-AA-HOLDER_KIT.component" />
+    <Component Path="LIPO-OUTLINE100.component" />
+    <Component Path="LIPO-OUTLINE1100.component" />
+    <Component Path="LIPO-OUTLINE2000.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="BATTCOM_20MM_PTH.footprint" />
+    <Footprint Path="BATTCON_9V.footprint" />
+    <Footprint Path="BATTCON_12MM.footprint" />
+    <Footprint Path="BATTCON_12MM_PTH.footprint" />
+    <Footprint Path="BATTCON_20MM.footprint" />
+    <Footprint Path="BATTCON_20MM_4LEGS.footprint" />
+    <Footprint Path="BATTCON_20MM_4LEGS_OVERPASTE.footprint" />
+    <Footprint Path="BATTCON_24.5MM_PTH.footprint" />
+    <Footprint Path="BATTCON-6.8MM.footprint" />
+    <Footprint Path="BATTERY_18650-HOLDER.footprint" />
+    <Footprint Path="BATTERY-AA.footprint" />
+    <Footprint Path="BATTERY-AAA.footprint" />
+    <Footprint Path="BATTERY-AAA-KIT.footprint" />
+    <Footprint Path="BATTERY-AA-HOLDER-KIT.footprint" />
+    <Footprint Path="BATTERY-AA-KIT.footprint" />
+    <Footprint Path="LIPO-110.footprint" />
+    <Footprint Path="LIPO-1000.footprint" />
+    <Footprint Path="LIPO-2000.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="6.8MM_COIN_CELL.symbol" />
+    <Symbol Path="BATTERY.symbol" />
+    <Symbol Path="LIPO-OUTLINE.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

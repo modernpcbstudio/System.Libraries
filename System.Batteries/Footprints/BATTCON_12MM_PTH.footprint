@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803002" name="BATTCON_12MM_PTH">
+  <line x1="43.65" y1="53.81" x2="46.19" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="56.35" x2="53.81" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="56.35" x2="56.35" y2="53.81" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="53.81" x2="56.35" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="43.65" y1="53.81" x2="43.65" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="43.65" y1="47.46" x2="43.65" y2="45.936" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="47.46" x2="56.35" y2="45.936" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="44.412" x2="53.175" y2="44.412" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="43.65" y1="45.936" x2="46.825" y2="44.412" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="45.936" x2="53.175" y2="44.412" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="VCC@2" x="43.396" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="VCC@1" x="56.604" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <smd number="GND" x="50" y="50" rot="0" width="9" height="9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <circle x="50" y="50" diameter="2" borderWidth="2" isFilled="false" layer="301" />
+</footprint>

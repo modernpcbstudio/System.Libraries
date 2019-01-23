@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803008" name="BATTERY-AA-KIT">
+  <line x1="77.051" y1="45.174" x2="67.526" y2="45.174" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="67.526" y1="54.826" x2="77.051" y2="54.826" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="77.051" y1="54.826" x2="77.051" y2="45.174" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="23.33" y1="42.38" x2="76.67" y2="42.38" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="76.67" y1="57.62" x2="23.33" y2="57.62" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="32.474000000000004" y1="54.826" x2="22.949" y2="54.826" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="22.949" y1="54.826" x2="22.949" y2="45.174" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="22.949" y1="45.174" x2="32.474000000000004" y2="45.174" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="63.97" y1="47.46" x2="37.3" y2="47.46" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="47.46" x2="37.3" y2="49.4158" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="49.4158" x2="37.3" y2="50.6858" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="50.6858" x2="37.3" y2="52.54" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="52.54" x2="63.97" y2="52.54" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="63.97" y1="52.54" x2="63.97" y2="47.46" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="49.4158" x2="36.03" y2="49.4158" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="36.03" y1="49.4158" x2="36.03" y2="50.6858" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="36.03" y1="50.6858" x2="37.3" y2="50.6858" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="62.065" y1="50" x2="60.795" y2="50" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="40.475" y1="50" x2="39.205" y2="50" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="49.365" x2="39.84" y2="50.635" width="0.4064" layer="501" lineStyle="Solid" />
+  <pad number="GND@1" x="75.146" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND@2" x="68.033999999999992" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="PWR@1" x="24.854" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="PWR@2" x="31.966" y="50" rot="270" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="24.8794" y="50.8636" />
+    <vertex x="23.9904" y="50.0508" />
+    <vertex x="24.8286" y="49.1364" />
+    <vertex x="25.7176" y="50" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="75.1714" y="50.8636" />
+    <vertex x="74.2824" y="50.0508" />
+    <vertex x="75.1206" y="49.1364" />
+    <vertex x="76.0096" y="50" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="31.9914" y="50.8636" />
+    <vertex x="31.1024" y="50.0508" />
+    <vertex x="31.9406" y="49.1364" />
+    <vertex x="32.8296" y="50" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="68.0594" y="50.8636" />
+    <vertex x="67.1704" y="50.0508" />
+    <vertex x="68.0086" y="49.1364" />
+    <vertex x="68.8976" y="50" />
+  </poly>
+</footprint>

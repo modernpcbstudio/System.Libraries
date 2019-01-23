@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803015" name="LIPO-110">
+  <line x1="50" y1="50" x2="50" y2="34.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="34.5" x2="75" y2="34.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="75" y1="34.5" x2="75" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="75" y1="50" x2="50" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+</footprint>

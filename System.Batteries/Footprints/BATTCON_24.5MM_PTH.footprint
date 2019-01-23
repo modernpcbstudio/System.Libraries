@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803005" name="BATTCON_24.5MM_PTH">
+  <line x1="46.19" y1="62.7" x2="53.81" y2="62.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="62.7" x2="37.3" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="62.7" x2="62.7" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="42.38" y1="40.221000000000004" x2="57.62" y2="40.221000000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="56.35" x2="62.7" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="56.35" x2="37.3" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="43.65" x2="42.38" y2="40.221000000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="43.65" x2="57.62" y2="40.221000000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="43.65" x2="37.3" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="43.65" x2="62.7" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="24.5" borderWidth="0.2032" isFilled="false" layer="201" />
+  <pad number="1" x="37.3" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="62.7" y="50" rot="360" width="3.7084" height="3.7084" cornerRadius="1.8542" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.8542" slotHeight="0" slotRot="0" plated="false" />
+  <smd number="2" x="50" y="50" rot="0" width="4.064" height="4.064" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

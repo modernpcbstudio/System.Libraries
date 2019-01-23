@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803014" name="LIPO-2000">
+  <line x1="50" y1="50" x2="50" y2="27.14" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="27.14" x2="50" y2="25.87" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="25.87" x2="50" y2="18.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="18.25" x2="50" y2="16.979999999999997" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="16.979999999999997" x2="50" y2="-4.6099999999999994" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="-4.6099999999999994" x2="112.22999999999999" y2="-4.6099999999999994" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="112.22999999999999" y1="-4.6099999999999994" x2="112.22999999999999" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="112.22999999999999" y1="50" x2="50" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="27.14" x2="47.46" y2="27.14" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="27.14" x2="47.46" y2="25.87" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="25.87" x2="50" y2="25.87" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="18.25" x2="47.46" y2="18.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="18.25" x2="47.46" y2="16.979999999999997" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="16.979999999999997" x2="50" y2="16.979999999999997" width="0.127" layer="201" lineStyle="Solid" />
+</footprint>

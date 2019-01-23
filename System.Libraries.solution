@@ -2,4 +2,5 @@
 <Solution>
   <Project Path="System.Capacitors/System.Capacitors.project" />
   <Project Path="System.Widgets\System.Widgets.project" />
+  <Project Path="System.Batteries\System.Batteries.project" />
 </Solution>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313185803006" name="BATTCON_12MM">
+  <line x1="43.903999999999996" y1="45.682" x2="46.19" y2="44.666" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="44.666" x2="56.096000000000004" y2="45.682" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.096000000000004" y1="45.682" x2="56.096000000000004" y2="53.302" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.096000000000004" y1="53.302" x2="53.048" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.048" y1="56.35" x2="46.952" y2="56.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.952" y1="56.35" x2="43.903999999999996" y2="53.302" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="43.903999999999996" y1="53.302" x2="43.903999999999996" y2="45.682" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="44.666" x2="46.19" y2="44.666" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="GND" x="50" y="50" rot="0" width="8" height="8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="PWR@1" x="42.126" y="50" rot="0" width="3.175" height="3.175" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="PWR@2" x="57.874" y="50" rot="0" width="3.175" height="3.175" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="50" y="50" diameter="12" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="50" y="50" diameter="12" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="50" y="50" diameter="2" borderWidth="2" isFilled="false" layer="301" />
+</footprint>
