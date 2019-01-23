@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763036" name="SNAP-FEMALE">
+  <pad number="1" x="50" y="50" rot="360" width="4.572" height="4.572" cornerRadius="2.286" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.921" slotHeight="0" slotRot="0" plated="false" />
+  <poly borderWidth="0.254" isFilled="true" layer="1">
+    <vertex x="45.9995" y="50" />
+    <vertex x="50" y="45.9995" />
+    <vertex x="54.0005" y="50" />
+    <vertex x="50" y="54.0005" />
+  </poly>
+  <poly borderWidth="0.3556" isFilled="true" layer="401">
+    <vertex x="45.9995" y="50" />
+    <vertex x="50" y="45.9995" />
+    <vertex x="54.0005" y="50" />
+    <vertex x="50" y="54.0005" />
+  </poly>
+  <poly borderWidth="0.3556" isFilled="true" layer="301">
+    <vertex x="45.9995" y="50" />
+    <vertex x="50" y="45.9995" />
+    <vertex x="54.0005" y="50" />
+    <vertex x="50" y="54.0005" />
+  </poly>
+</footprint>

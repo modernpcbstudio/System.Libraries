@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="CRYSTAL-8MHZSMD-5X3.2.component" />
+    <Component Path="CRYSTAL-8MHZSMD-HC49UP.component" />
+    <Component Path="CRYSTAL-12.288MHZ_.component" />
+    <Component Path="CRYSTAL-12MHZ_.component" />
+    <Component Path="CRYSTAL-16MHZPTH-HC49US.component" />
+    <Component Path="CRYSTAL-16MHZSMD-5X3.2.component" />
+    <Component Path="CRYSTAL-24MHZ_.component" />
+    <Component Path="CRYSTAL-26MHZSMD-3.2X2.5.component" />
+    <Component Path="CRYSTAL-32.768KHZPTH-2X6.component" />
+    <Component Path="CRYSTAL-32.768KHZPTH-2X6-KIT.component" />
+    <Component Path="CRYSTAL-32.768KHZSMD-2X6.component" />
+    <Component Path="CRYSTAL-32.768KHZSMD-3.2X1.5.component" />
+    <Component Path="CRYSTAL-32.768KHZSMD-MC146.component" />
+    <Component Path="CRYSTAL-32MHZ-SMD-2.0X1.6MM.component" />
+    <Component Path="CRYSTAL-GROUNDEDSMD-3.2X2.5.component" />
+    <Component Path="CRYSTAL-GROUNDEDSMD-5X3.2.component" />
+    <Component Path="CRYSTALPTH-2X6.component" />
+    <Component Path="CRYSTALPTH-2X6-KIT.component" />
+    <Component Path="CRYSTALPTH-3X8.component" />
+    <Component Path="CRYSTALPTH-HC49US.component" />
+    <Component Path="CRYSTALPTH-HC49UV.component" />
+    <Component Path="CRYSTALSMD-2X6.component" />
+    <Component Path="CRYSTALSMD-3.2X1.5.component" />
+    <Component Path="CRYSTALSMD-3.2X2.5.component" />
+    <Component Path="CRYSTALSMD-5X3.2-2PAD.component" />
+    <Component Path="CRYSTALSMD-5X3.2-4PAD.component" />
+    <Component Path="CRYSTALSMD-HC49UP.component" />
+    <Component Path="CRYSTALSMD-MC146.component" />
+    <Component Path="DS1077U.component" />
+    <Component Path="DS1307Z.component" />
+    <Component Path="DS3231M.component" />
+    <Component Path="DS3234.component" />
+    <Component Path="OSCILLATOR-16MHZSMD-7X5-4PAD.component" />
+    <Component Path="OSCILLATOR-33MHZ.component" />
+    <Component Path="OSCILLATORSMD-5X3.component" />
+    <Component Path="OSCILLATORSMD-7X5-4PAD.component" />
+    <Component Path="OSCILLATORSMD-7X5-6PAD.component" />
+    <Component Path="RESONATOR-4MHZSMD-4.5X2.component" />
+    <Component Path="RESONATOR-8MHZSMD_3.2X1.3.component" />
+    <Component Path="RESONATOR-16MHZSMD_3.2X1.3.component" />
+    <Component Path="RESONATORPTH-7.6X3.8.component" />
+    <Component Path="RESONATORSMD-3.2X1.3.component" />
+    <Component Path="RESONATORSMD-4.5X2.0.component" />
+    <Component Path="RESONATORSMD-7.4X3.4.component" />
+    <Component Path="RV-1805.component" />
+    <Component Path="RV-4162-C7.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="CRYSTAL-PTH-2X6-CYL.footprint" />
+    <Footprint Path="CRYSTAL-PTH-2X6-CYL-KIT.footprint" />
+    <Footprint Path="CRYSTAL-PTH-3X8-CYL.footprint" />
+    <Footprint Path="CRYSTAL-SMD-2.0X1.6MM.footprint" />
+    <Footprint Path="CRYSTAL-SMD-2X6-CYL.footprint" />
+    <Footprint Path="CRYSTAL-SMD-3.2X1.5MM.footprint" />
+    <Footprint Path="CRYSTAL-SMD-3.2X2.5MM.footprint" />
+    <Footprint Path="CRYSTAL-SMD-5X3.2-2PAD.footprint" />
+    <Footprint Path="CRYSTAL-SMD-5X3.2-4PAD.footprint" />
+    <Footprint Path="CRYSTAL-SMD-MC-146.footprint" />
+    <Footprint Path="HC49U.footprint" />
+    <Footprint Path="HC49UP.footprint" />
+    <Footprint Path="HC49US.footprint" />
+    <Footprint Path="OSCILLATOR-SMD-5X3.2.footprint" />
+    <Footprint Path="OSCILLATOR-SMD-7.5X5.2-6PIN.footprint" />
+    <Footprint Path="OSCILLATOR-SMD-7X5-4PAD.footprint" />
+    <Footprint Path="RESONATOR-PTH-7.6X3.8.footprint" />
+    <Footprint Path="RESONATOR-SMD-3.2X1.3.footprint" />
+    <Footprint Path="RESONATOR-SMD-4.5X2.0.footprint" />
+    <Footprint Path="RESONATOR-SMD-7.4X3.4.footprint" />
+    <Footprint Path="RV-1805.footprint" />
+    <Footprint Path="RV-4162-C7-SMT.footprint" />
+    <Footprint Path="SO08.footprint" />
+    <Footprint Path="SO08-0.15.footprint" />
+    <Footprint Path="SO20-0.3.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="CRYSTAL.symbol" />
+    <Symbol Path="CRYSTAL-GND.symbol" />
+    <Symbol Path="DS1077.symbol" />
+    <Symbol Path="DS1307.symbol" />
+    <Symbol Path="DS3231M.symbol" />
+    <Symbol Path="DS3234.symbol" />
+    <Symbol Path="OSCILLATOR.symbol" />
+    <Symbol Path="RESONATOR.symbol" />
+    <Symbol Path="RV-1805.symbol" />
+    <Symbol Path="RV-4162-C7.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765094" name="DIN7">
+  <line x1="47.46" y1="39.84" x2="47.46" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="60.16" x2="52.54" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="60.16" x2="52.54" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="39.84" x2="47.46" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="1" showName="true" number="1" showNumber="true" x="42.38" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="true" number="2" showNumber="true" x="42.38" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="true" number="3" showNumber="true" x="42.38" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="true" number="4" showNumber="true" x="42.38" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5" showName="true" number="5" showNumber="true" x="42.38" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6" showName="true" number="6" showNumber="true" x="42.38" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="7" showName="true" number="7" showNumber="true" x="42.38" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

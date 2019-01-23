@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766172" name="EDISON_CONNECTOR_FULL_SOCKET" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765168" symbolName="EDISON_CONNECTOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765058" footprintName="DF40-XC-(X.X)-70DS-0.4V(51)">
+    <pad2pinMaps>
+      <map pad="12" gateId="1" pin="1.8V" />
+      <map pad="8" gateId="1" pin="3.3V@1" />
+      <map pad="10" gateId="1" pin="3.3V@2" />
+      <map pad="14" gateId="1" pin="DCIN" />
+      <map pad="19" gateId="1" pin="FAULT" />
+      <map pad="69" gateId="1" pin="FW_RCVR" />
+      <map pad="1" gateId="1" pin="GND@1" />
+      <map pad="5" gateId="1" pin="GND@2" />
+      <map pad="9" gateId="1" pin="GND@3" />
+      <map pad="11" gateId="1" pin="GND@4" />
+      <map pad="13" gateId="1" pin="GND@5" />
+      <map pad="15" gateId="1" pin="GND@6" />
+      <map pad="55" gateId="1" pin="GP109_SPI_2_CLK" />
+      <map pad="53" gateId="1" pin="GP110_SPI_2_FS0" />
+      <map pad="51" gateId="1" pin="GP111_SPI_2_FS1" />
+      <map pad="59" gateId="1" pin="GP114_SPI_2_RXD" />
+      <map pad="57" gateId="1" pin="GP115_SPI_2_TXD" />
+      <map pad="65" gateId="1" pin="GP128_UART_1_CTS" />
+      <map pad="63" gateId="1" pin="GP129_UART_1_RTS" />
+      <map pad="35" gateId="1" pin="GP12_PWM0" />
+      <map pad="61" gateId="1" pin="GP130_UART_1_RX" />
+      <map pad="46" gateId="1" pin="GP131_UART_1_TX" />
+      <map pad="22" gateId="1" pin="GP134_UART_2_RX" />
+      <map pad="27" gateId="1" pin="GP135_UART_2_TX" />
+      <map pad="33" gateId="1" pin="GP13_PWM1" />
+      <map pad="48" gateId="1" pin="GP14" />
+      <map pad="42" gateId="1" pin="GP15" />
+      <map pad="25" gateId="1" pin="GP165" />
+      <map pad="37" gateId="1" pin="GP182_PWM2" />
+      <map pad="39" gateId="1" pin="GP183_PWM3" />
+      <map pad="41" gateId="1" pin="GP19_I2C_1_SCL" />
+      <map pad="43" gateId="1" pin="GP20_I2C_1_SDA" />
+      <map pad="45" gateId="1" pin="GP27_I2C_6_SCL" />
+      <map pad="47" gateId="1" pin="GP28_I2C_6_SDA" />
+      <map pad="52" gateId="1" pin="GP40_I2S_2_CLK" />
+      <map pad="54" gateId="1" pin="GP41_I2S_2_FS" />
+      <map pad="50" gateId="1" pin="GP42_I2S_2_RXD" />
+      <map pad="56" gateId="1" pin="GP43_I2S_2_TXD" />
+      <map pad="24" gateId="1" pin="GP44" />
+      <map pad="26" gateId="1" pin="GP45" />
+      <map pad="28" gateId="1" pin="GP46" />
+      <map pad="30" gateId="1" pin="GP47" />
+      <map pad="32" gateId="1" pin="GP48" />
+      <map pad="34" gateId="1" pin="GP49" />
+      <map pad="60" gateId="1" pin="GP77_SD_0_CD#" />
+      <map pad="58" gateId="1" pin="GP78_SD_0_CLK" />
+      <map pad="62" gateId="1" pin="GP79_SD_0_CMD" />
+      <map pad="66" gateId="1" pin="GP80_SD_0_DAT0" />
+      <map pad="70" gateId="1" pin="GP81_SD_0_DAT1" />
+      <map pad="64" gateId="1" pin="GP82_SD_0_DAT2" />
+      <map pad="68" gateId="1" pin="GP83_SD_0_DAT3" />
+      <map pad="44" gateId="1" pin="GP84_SD_CLK_FB" />
+      <map pad="7" gateId="1" pin="MSIC_SLP_CLK" />
+      <map pad="67" gateId="1" pin="OSC_CLK_OUT_0" />
+      <map pad="21" gateId="1" pin="PSW" />
+      <map pad="17" gateId="1" pin="PWRBTN#" />
+      <map pad="31" gateId="1" pin="RCVR_MODE" />
+      <map pad="36" gateId="1" pin="RESET_OUT#" />
+      <map pad="18" gateId="1" pin="USB_DN" />
+      <map pad="16" gateId="1" pin="USB_DP" />
+      <map pad="3" gateId="1" pin="USB_ID" />
+      <map pad="20" gateId="1" pin="USB_VBUS" />
+      <map pad="2" gateId="1" pin="VSYS@1" />
+      <map pad="4" gateId="1" pin="VSYS@2" />
+      <map pad="6" gateId="1" pin="VSYS@3" />
+      <map pad="23" gateId="1" pin="V_VAT_BKUP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

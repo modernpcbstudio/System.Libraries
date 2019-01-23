@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765220" name="CONN_01SPRING-CONN" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765100" symbolName="CONN_01" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764137" footprintName="SPRING-CONNECTOR">
+    <pad2pinMaps>
+      <map pad="P$2" gateId="1" pin="1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764137" name="SPRING-CONNECTOR">
+  <smd number="P$2" x="50" y="50" rot="0" width="7.112" height="7.112" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

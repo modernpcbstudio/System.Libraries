@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759021" name="CRYSTAL-SMD-2.0X1.6MM">
+  <line x1="49" y1="49.3" x2="49" y2="50.7" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49" y1="50.7" x2="49.1" y2="50.8" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.1" y1="50.8" x2="50.9" y2="50.8" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.9" y1="50.8" x2="51" y2="50.7" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51" y1="50.7" x2="51" y2="49.3" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51" y1="49.3" x2="50.9" y2="49.2" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.9" y1="49.2" x2="49.1" y2="49.2" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.1" y1="49.2" x2="49" y2="49.3" width="0.127" layer="201" lineStyle="Solid" />
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="49.6" y="49.8" />
+    <vertex x="49.6" y="49.3" />
+    <vertex x="49.35" y="49.3" />
+    <vertex x="49.35" y="49.2" />
+    <vertex x="49.1" y="49.2" />
+    <vertex x="49" y="49.3" />
+    <vertex x="49" y="49.55" />
+    <vertex x="49.1" y="49.55" />
+    <vertex x="49.1" y="49.8" />
+  </poly>
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="50.4" y="50.2" />
+    <vertex x="50.4" y="50.7" />
+    <vertex x="50.65" y="50.7" />
+    <vertex x="50.65" y="50.8" />
+    <vertex x="50.9" y="50.8" />
+    <vertex x="51" y="50.7" />
+    <vertex x="51" y="50.45" />
+    <vertex x="50.9" y="50.45" />
+    <vertex x="50.9" y="50.2" />
+  </poly>
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="49.6" y="50.2" />
+    <vertex x="49.6" y="50.7" />
+    <vertex x="49.35" y="50.7" />
+    <vertex x="49.35" y="50.8" />
+    <vertex x="49.1" y="50.8" />
+    <vertex x="49" y="50.7" />
+    <vertex x="49" y="50.45" />
+    <vertex x="49.1" y="50.45" />
+    <vertex x="49.1" y="50.2" />
+  </poly>
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="50.4" y="49.8" />
+    <vertex x="50.4" y="49.3" />
+    <vertex x="50.65" y="49.3" />
+    <vertex x="50.65" y="49.2" />
+    <vertex x="50.9" y="49.2" />
+    <vertex x="51" y="49.3" />
+    <vertex x="51" y="49.55" />
+    <vertex x="50.9" y="49.55" />
+    <vertex x="50.9" y="49.8" />
+  </poly>
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="50.506065625" y="50.2" />
+    <vertex x="49.6" y="49.693934375" />
+    <vertex x="49.493934375" y="49.8" />
+    <vertex x="50.4" y="50.306065625" />
+  </poly>
+  <smd number="4" x="49.325" y="49.5" rot="0" width="0.75" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50.675" y="49.5" rot="-180" width="0.75" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.675" y="50.5" rot="-180" width="0.75" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="49.325" y="50.5" rot="0" width="0.75" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="49.15" y1="49.03" x2="48.83" y2="49.03" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.83" y1="49.35" x2="48.83" y2="49.03" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.85" y1="50.97" x2="51.17" y2="50.97" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.17" y1="50.65" x2="51.17" y2="50.97" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.83" y1="50.65" x2="48.83" y2="50.97" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.15" y1="50.97" x2="48.83" y2="50.97" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.17" y1="49.35" x2="51.17" y2="49.03" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.85" y1="49.03" x2="51.17" y2="49.03" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.81" y1="50.97" x2="50.19" y2="50.97" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.19" y1="49.03" x2="49.81" y2="49.03" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763011" name="AUDIO-JACK-3.5MM-SMD">
+  <line x1="53.9" y1="53" x2="60.2" y2="53" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="64.5" y1="50.635" x2="64.5" y2="53" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="64.5" y1="53" x2="63.2" y2="53" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="64.5" y1="47.7902" x2="64.5" y2="47" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="64.5" y1="47" x2="55.7" y2="47" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="47" x2="50" y2="47" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="47" x2="50" y2="52.5" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="52.5" x2="50" y2="53" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="53" x2="51" y2="53" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="49.8476" y1="47.5" x2="47.5" y2="47.5" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="47.5" x2="47.5" y2="52.5" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="52.5" x2="50" y2="52.5" width="0.254" layer="201" lineStyle="Solid" />
+  <smd number="SLEEVE" x="52.4" y="53.45" rot="0" width="2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="TIP" x="61.7" y="53.45" rot="0" width="2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="RING" x="54.3" y="46.55" rot="0" width="2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="TSH" x="65.75" y="49.25" rot="-90" width="2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="RSH" x="51.5" y="46.55" rot="-180" width="1.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="53.5" y="50" drill="2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="60.5" y="50" drill="2" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765210" name="EM408" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765098" symbolName="EM408" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764005" footprintName="1X05_1MM">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="EN" />
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="3" gateId="1" pin="RX" />
+      <map pad="4" gateId="1" pin="TX" />
+      <map pad="5" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

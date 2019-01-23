@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765065" name="USB-MICROB-PTH">
+  <smd number="GND" x="51.30601875" y="50.01528125" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="ID" x="50.65601875" y="50.01528125" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="D+" x="50.00601875" y="50.01528125" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="D-" x="49.35601875" y="50.01528125" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="VBUS" x="48.70601875" y="50.01528125" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD" x="47.19371875" y="49.74028125" rot="-90" width="1.46" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHEILD2" x="52.80561875" y="49.74028125" rot="-90" width="1.46" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD4" x="50.970778125" y="52.69798125" rot="-90" width="2.5" height="1.425" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD3" x="49.03411875" y="52.69528125" rot="-90" width="2.5" height="1.425" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD12" x="52.45601875" y="49.74828125" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.08" isFilled="true" layer="1">
+    <vertex x="46.21911875" y="50.70028125" />
+    <vertex x="46.21411875" y="51.34028125" />
+    <vertex x="46.65101875" y="51.34028125" />
+    <vertex x="46.65601875" y="53.23028125" />
+    <vertex x="47.06101875" y="53.52528125" />
+    <vertex x="47.66101875" y="53.52528125" />
+    <vertex x="48.00601875" y="53.24028125" />
+    <vertex x="48.01101875" y="50.70028125" />
+  </poly>
+  <smd number="SHIELD11" x="52.46201875" y="49.75228125" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD8" x="47.31605625" y="52.489984375" rot="-90" width="1.5" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD10" x="47.60661875" y="49.74228125" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="52.67601875" y="52.48828125" rot="-90" width="2.1" height="1.4" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD6" x="52.67601875" y="52.48828125" rot="-90" width="1.5" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.08" isFilled="true" layer="1">
+    <vertex x="53.77481875" y="50.68758125" />
+    <vertex x="53.77481875" y="51.33528125" />
+    <vertex x="53.34601875" y="51.33528125" />
+    <vertex x="53.34601875" y="53.22028125" />
+    <vertex x="52.94101875" y="53.51528125" />
+    <vertex x="52.34101875" y="53.51528125" />
+    <vertex x="52.01601875" y="53.21028125" />
+    <vertex x="52.01601875" y="50.70028125" />
+  </poly>
+  <hole x="47.28201875" y="52.48028125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <smd number="SHIELD5" x="47.31605625" y="52.489984375" rot="-90" width="2.1" height="1.4" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <hole x="47.28201875" y="52.64628125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.28101875" y="52.84528125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.28101875" y="53.01028125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <poly borderWidth="0.1016" isFilled="true" layer="401">
+    <vertex x="46.14681875" y="50.64008125" />
+    <vertex x="48.08991875" y="50.64008125" />
+    <vertex x="48.08991875" y="53.12928125" />
+    <vertex x="48.07721875" y="53.23088125" />
+    <vertex x="47.72161875" y="53.61188125" />
+    <vertex x="46.98501875" y="53.61188125" />
+    <vertex x="46.57861875" y="53.23088125" />
+    <vertex x="46.58361875" y="51.46408125" />
+    <vertex x="46.13911875" y="51.46408125" />
+  </poly>
+  <poly borderWidth="0.1016" isFilled="true" layer="401">
+    <vertex x="51.91261875" y="50.64008125" />
+    <vertex x="53.81761875" y="50.64008125" />
+    <vertex x="53.81761875" y="51.44138125" />
+    <vertex x="53.43661875" y="51.44138125" />
+    <vertex x="53.43661875" y="53.20548125" />
+    <vertex x="53.05561875" y="53.61188125" />
+    <vertex x="52.29361875" y="53.61188125" />
+    <vertex x="51.91261875" y="53.25628125" />
+  </poly>
+  <smd number="SHIELD9" x="47.60661875" y="49.74228125" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="46.60401875" y="51.37668125" />
+    <vertex x="46.18491875" y="51.37668125" />
+    <vertex x="46.18491875" y="50.66548125" />
+    <vertex x="48.02641875" y="50.66548125" />
+    <vertex x="48.02641875" y="53.23088125" />
+    <vertex x="47.69621875" y="53.56108125" />
+    <vertex x="46.93421875" y="53.56108125" />
+    <vertex x="46.62941875" y="53.25628125" />
+    <vertex x="46.62941875" y="51.42748125" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="53.38581875" y="51.38938125" />
+    <vertex x="53.80491875" y="51.38938125" />
+    <vertex x="53.80491875" y="50.66548125" />
+    <vertex x="51.98881875" y="50.66548125" />
+    <vertex x="51.98881875" y="53.20548125" />
+    <vertex x="52.31901875" y="53.53568125" />
+    <vertex x="53.05561875" y="53.53568125" />
+    <vertex x="53.36041875" y="53.23088125" />
+    <vertex x="53.37311875" y="51.40208125" />
+  </poly>
+  <hole x="47.61541875" y="49.52528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.62541875" y="49.65528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.61541875" y="49.80528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.62081875" y="49.91448125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="48.57601875" y="49.20228125" />
+    <vertex x="48.82601875" y="49.20228125" />
+    <vertex x="48.82601875" y="50.83228125" />
+    <vertex x="48.57601875" y="50.83228125" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="49.21601875" y="49.20228125" />
+    <vertex x="49.46601875" y="49.20228125" />
+    <vertex x="49.46601875" y="50.83228125" />
+    <vertex x="49.21601875" y="50.83228125" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="49.86601875" y="49.19228125" />
+    <vertex x="50.11601875" y="49.19228125" />
+    <vertex x="50.11601875" y="50.82228125" />
+    <vertex x="49.86601875" y="50.82228125" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="50.52601875" y="49.19228125" />
+    <vertex x="50.77601875" y="49.19228125" />
+    <vertex x="50.77601875" y="50.82228125" />
+    <vertex x="50.52601875" y="50.82228125" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="51.17601875" y="49.20228125" />
+    <vertex x="51.42601875" y="49.20228125" />
+    <vertex x="51.42601875" y="50.83228125" />
+    <vertex x="51.17601875" y="50.83228125" />
+  </poly>
+  <hole x="52.45541875" y="49.52528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.46541875" y="49.65528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.45541875" y="49.80528125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.46081875" y="49.91448125" drill="0.66" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.74301875" y="52.48028125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.74201875" y="52.64928125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.74101875" y="52.84228125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.74101875" y="53.01028125" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <line x1="46.25" y1="54.974199999999996" x2="53.75" y2="54.974199999999996" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="53.75" y1="54.974199999999996" x2="53.75" y2="49.9869" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="53.75" y1="49.9869" x2="46.25" y2="49.9869" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="46.25" y1="49.9869" x2="46.25" y2="54.974199999999996" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.019999999999996" y1="55.5942" x2="45.980000000000004" y2="55.5942" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="45.980000000000004" y1="55.5942" x2="46.25" y2="54.974199999999996" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.019999999999996" y1="55.5942" x2="53.75" y2="54.974199999999996" width="0.1524" layer="201" lineStyle="Solid" />
+</footprint>

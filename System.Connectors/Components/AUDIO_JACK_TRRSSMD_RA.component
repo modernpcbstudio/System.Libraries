@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766132" name="AUDIO_JACK_TRRSSMD_RA" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765151" symbolName="AUDIO-JACK3-TRRS" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764129" footprintName="AUDIO_JACK_3.5MM_TRRS_SMD_RA">
+    <pad2pinMaps>
+      <map pad="EARTH" gateId="1" pin="EARTH" />
+      <map pad="RING1" gateId="1" pin="RING1" />
+      <map pad="RING2" gateId="1" pin="RING2" />
+      <map pad="TIP" gateId="1" pin="TIP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

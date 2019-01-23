@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766041" name="CONN_13LOCK_NO_SILK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765115" symbolName="CONN_13" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765025" footprintName="1X13_LOCK_NO_SILK">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="10" gateId="1" pin="10" />
+      <map pad="11" gateId="1" pin="11" />
+      <map pad="12" gateId="1" pin="12" />
+      <map pad="13" gateId="1" pin="13" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="4" gateId="1" pin="4" />
+      <map pad="5" gateId="1" pin="5" />
+      <map pad="6" gateId="1" pin="6" />
+      <map pad="7" gateId="1" pin="7" />
+      <map pad="8" gateId="1" pin="8" />
+      <map pad="9" gateId="1" pin="9" />
+    </pad2pinMaps>
+  </footprint>
+</component>

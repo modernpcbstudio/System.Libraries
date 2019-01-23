@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759015" name="RESONATOR-SMD-3.2X1.3">
+  <line x1="51.87111875" y1="49.339840625" x2="51.87111875" y2="50.639840625" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.121259375" y1="50.639840625" x2="48.121259375" y2="49.339840625" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.4" y1="49.35" x2="51.6" y2="49.35" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="49.35" x2="51.6" y2="50.65" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="50.65" x2="48.4" y2="50.65" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.4" y1="50.65" x2="48.4" y2="49.35" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="1" x="48.8" y="50" rot="0" width="0.45" height="1.905" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="50" rot="0" width="0.45" height="1.905" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.2" y="50" rot="0" width="0.45" height="1.905" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="49.9974625" y="50.0025375" width="3.4950375000000022" height="1.5341562500000023" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="401" />
+  <line x1="48.8" y1="50" x2="48.8" y2="48.984" width="0.254" layer="1" lineStyle="Solid" />
+  <line x1="48.8" y1="51.016" x2="48.8" y2="50" width="0.254" layer="1" lineStyle="Solid" />
+  <line x1="51.2" y1="50" x2="51.2" y2="48.984" width="0.254" layer="1" lineStyle="Solid" />
+  <line x1="51.2" y1="50" x2="51.2" y2="51.016" width="0.254" layer="1" lineStyle="Solid" />
+  <line x1="50" y1="50" x2="50" y2="48.984" width="0.254" layer="1" lineStyle="Solid" />
+  <line x1="50" y1="50" x2="50" y2="51.016" width="0.254" layer="1" lineStyle="Solid" />
+</footprint>

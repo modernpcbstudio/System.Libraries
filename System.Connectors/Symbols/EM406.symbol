@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765097" name="EM406">
+  <line x1="44.92" y1="39.84" x2="55.08" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="39.84" x2="55.08" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="57.62" x2="44.92" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="57.62" x2="44.92" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="GND1" showName="true" number="GND1" showNumber="true" x="39.84" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND2" showName="true" number="GND2" showNumber="true" x="39.84" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TX" showName="true" number="TX" showNumber="true" x="39.84" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RX" showName="true" number="RX" showNumber="true" x="39.84" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1PPS" showName="true" number="1PPS" showNumber="true" x="39.84" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="39.84" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958011" name="DIP8SMD">
+  <line x1="46.19" y1="46.825" x2="53.81" y2="46.825" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="46.825" x2="53.81" y2="52.032" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="52.032" x2="53.81" y2="53.175" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="53.175" x2="46.19" y2="53.175" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="53.175" x2="46.19" y2="52.032" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="52.032" x2="46.19" y2="46.825" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="52.032" x2="53.81" y2="52.032" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="45.6185" y="53.1115" diameter="0.254" borderWidth="0.2032" isFilled="false" layer="501" />
+  <smd number="1" x="47.46" y="54.572" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="54.572" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.54" y="54.572" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="52.54" y="45.428" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50" y="45.428" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="47.46" y="45.428" rot="0" width="1.524" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766083" name="POWER_JACKSLT" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765136" symbolName="POWERJACK" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764101" footprintName="POWER_JACK_SLOT">
+    <pad2pinMaps>
+      <map pad="GND@2" gateId="1" pin="GND" />
+      <map pad="GND@1" gateId="1" pin="GNDBREAK" />
+      <map pad="PWR" gateId="1" pin="PWR" />
+    </pad2pinMaps>
+  </footprint>
+</component>

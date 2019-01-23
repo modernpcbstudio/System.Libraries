@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315075742041" name="OLED128X64BOTTOM" prefix="OLED" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315075742025" symbolName="OLED-UG-2832TSWGG01" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315075742013" footprintName="OLED-UG-2832HLBEG04">
+    <pad2pinMaps>
+      <map pad="13" gateId="1" pin="!CS!" />
+      <map pad="14" gateId="1" pin="!RESET!" />
+      <map pad="10" gateId="1" pin="BS0" />
+      <map pad="11" gateId="1" pin="BS1" />
+      <map pad="12" gateId="1" pin="BS2" />
+      <map pad="5" gateId="1" pin="C1N" />
+      <map pad="4" gateId="1" pin="C1P" />
+      <map pad="3" gateId="1" pin="C2N" />
+      <map pad="2" gateId="1" pin="C2P" />
+      <map pad="15" gateId="1" pin="D/!C!" />
+      <map pad="18" gateId="1" pin="D0" />
+      <map pad="19" gateId="1" pin="D1" />
+      <map pad="20" gateId="1" pin="D2" />
+      <map pad="21" gateId="1" pin="D3" />
+      <map pad="22" gateId="1" pin="D4" />
+      <map pad="23" gateId="1" pin="D5" />
+      <map pad="24" gateId="1" pin="D6" />
+      <map pad="25" gateId="1" pin="D7" />
+      <map pad="17" gateId="1" pin="E/!RD!" />
+      <map pad="26" gateId="1" pin="IREF" />
+      <map pad="1" gateId="1" pin="NC(GND)@1" />
+      <map pad="30" gateId="1" pin="NC(GND)@30" />
+      <map pad="7" gateId="1" pin="NC@7" />
+      <map pad="16" gateId="1" pin="R/!W!" />
+      <map pad="28" gateId="1" pin="VCC" />
+      <map pad="27" gateId="1" pin="VCOMH" />
+      <map pad="9" gateId="1" pin="VDD" />
+      <map pad="6" gateId="1" pin="VDDB" />
+      <map pad="29" gateId="1" pin="VLSS" />
+      <map pad="8" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

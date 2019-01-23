@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315075742008" name="NOKIA6100_LCD">
+  <line x1="51.016" y1="50" x2="51.016" y2="9.8680000000000021" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.016" y1="9.8680000000000021" x2="86.576" y2="9.8680000000000021" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="86.576" y1="9.8680000000000021" x2="86.576" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="86.576" y1="50" x2="51.016" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="82.765999999999991" y1="19.52" x2="82.765999999999991" y2="46.444" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.826" y1="19.52" x2="79.210000000000008" y2="19.52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="79.210000000000008" y1="19.52" x2="82.765999999999991" y2="19.52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.826" y1="19.52" x2="54.826" y2="46.444" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.826" y1="46.444" x2="82.765999999999991" y2="46.444" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="78.956" y1="19.52" x2="79.210000000000008" y2="19.52" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="74.257" y1="4.2038000000000011" x2="79.337" y2="4.2038000000000011" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="79.337" y1="9.2838" x2="74.257" y2="9.2838" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="74.25" y1="9.2800000000000011" x2="74.25" y2="8.39" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="79.35" y1="9.2800000000000011" x2="79.35" y2="8.4099999999999966" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="79.34" y1="4.2199999999999989" x2="79.34" y2="5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="74.26" y1="4.2100000000000009" x2="74.26" y2="5" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="5" x="74.255400000000009" y="7.689" rot="-90" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="74.255400000000009" y="7.189" rot="-90" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="74.255400000000009" y="6.689" rot="-90" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="74.255400000000009" y="6.189" rot="-90" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="74.255400000000009" y="5.689" rot="-90" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="79.3894" y="5.6970000000000027" rot="-270" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="79.3894" y="6.1970000000000027" rot="-270" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="79.3894" y="6.6970000000000027" rot="-270" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="79.3894" y="7.1970000000000027" rot="-270" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="79.3894" y="7.6970000000000027" rot="-270" width="0.3" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

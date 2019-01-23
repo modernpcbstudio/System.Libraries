@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766090" name="PSP_TOUCH_CONNECTOR" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765138" symbolName="PSP_TOUCH_CONNECTOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764106" footprintName="PSP_TOUCH_CONNECTOR">
+    <pad2pinMaps>
+      <map pad="X1" gateId="1" pin="X1" />
+      <map pad="X2" gateId="1" pin="X2" />
+      <map pad="Y1" gateId="1" pin="Y1" />
+      <map pad="Y2" gateId="1" pin="Y2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

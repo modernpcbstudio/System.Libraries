@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766150" name="BATTERY_CONN_DEANS" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765161" symbolName="BATTERY_CONN" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765034" footprintName="DEANS">
+    <pad2pinMaps>
+      <map pad="+" gateId="1" pin="+" />
+      <map pad="-" gateId="1" pin="-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

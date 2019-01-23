@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959007" name="OPTO_DARLINGTON_6N138-39">
+  <line x1="44.92" y1="60.16" x2="57.62" y2="60.16" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="60.16" x2="57.62" y2="44.92" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="44.92" x2="44.92" y2="44.92" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="44.92" x2="44.92" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="47.46" x2="44.92" y2="57.62" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="57.62" x2="44.92" y2="60.16" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="47.46" x2="46.698" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.698" y1="47.46" x2="46.698" y2="51.778" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.698" y1="52.794" x2="47.714" y2="52.794" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.682" y1="52.794" x2="46.698" y2="52.794" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.698" y1="52.794" x2="46.698" y2="57.62" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.698" y1="57.62" x2="44.92" y2="57.62" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="C" showName="true" number="C" showNumber="true" x="42.38" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A" showName="true" number="A" showNumber="true" x="42.38" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VOUT" showName="true" number="VOUT" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="60.16" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="45.682" y="51.778" />
+    <vertex x="46.698" y="52.794" />
+    <vertex x="47.714" y="51.778" />
+  </poly>
+</symbol>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764104" name="POWER_JACK_PTH_LOCK">
+  <line x1="54.3476" y1="35.7412" x2="52.4" y2="35.7412" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.6524" y1="46.7206" x2="45.6524" y2="49.9" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="54.3476" y1="49.9" x2="54.3476" y2="46.7206" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="54.3476" y1="49.9" x2="45.6524" y2="49.9" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="54.3476" y1="46.746" x2="54.3476" y2="41.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.3476" y1="35.7412" x2="54.3476" y2="37" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.6524" y1="46.746" x2="45.6524" y2="35.7412" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.6524" y1="35.7412" x2="47.6" y2="35.7412" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.6524" y1="46.746" x2="54.3476" y2="46.746" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="PWR" x="50" y="36.1222" rot="360" width="4.1148" height="4.1148" cornerRadius="2.0574" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="3.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND" x="50.0254" y="43.443" rot="360" width="4.1148" height="4.1148" cornerRadius="2.0574" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.9972" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GNDBREAK" x="53.7616" y="39.3" rot="270" width="4.1148" height="4.1148" cornerRadius="2.0574" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.9972" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="50.0127" y="36.3602" width="0.45720000000000027" height="2.9210000000000065" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="42.468900000000005" width="0.27939999999999543" height="2.4383999999999943" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.6101" y="39.3066" width="0.27940000000000254" height="2.4384000000000015" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

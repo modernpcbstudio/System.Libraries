@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765212" name="CONN_01PTH_LONGPAD" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765100" symbolName="CONN_01" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763030" footprintName="1X01_LONGPAD">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

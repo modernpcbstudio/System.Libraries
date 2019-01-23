@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766152" name="MICRO-SD_CARD_SOCKETTINY" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="J1" symbolId="2019012314360765174" symbolName="MICROSD" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765080" footprintName="MICROSD_TINY">
+    <pad2pinMaps>
+      <map pad="2" gateId="1" pin="CS" />
+      <map pad="3" gateId="1" pin="DI" />
+      <map pad="7" gateId="1" pin="DO" />
+      <map pad="6" gateId="1" pin="GND" />
+      <map pad="9" gateId="1" pin="NC" />
+      <map pad="1 8" gateId="1" pin="RSV" />
+      <map pad="5" gateId="1" pin="SCK" />
+      <map pad="GND1 GND2 GND3 GND4 GND5 GND6" gateId="1" pin="SHIELD" />
+      <map pad="4" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

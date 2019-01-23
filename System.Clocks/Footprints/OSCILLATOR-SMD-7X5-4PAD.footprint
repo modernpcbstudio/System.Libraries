@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759009" name="OSCILLATOR-SMD-7X5-4PAD">
+  <smd number="1" x="47.46" y="52.0955" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="52.54" y="52.0955" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.54" y="47.8955" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.46" y="47.8955" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="45.862" y="52.6049" diameter="0.6" borderWidth="0" isFilled="false" layer="501" />
+  <line x1="46.4" y1="52.6" x2="53.6" y2="52.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.6" y1="52.6" x2="53.6" y2="47.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.4" y1="47.4" x2="46.4" y2="52.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.3" y1="47.3" x2="46.3" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.6" y1="47.4" x2="46.4" y2="47.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.7" y1="52.7" x2="53.7" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.6" y1="52.7" x2="51.4" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.4" y1="47.3" x2="48.6" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="46.5" y="47.4" />
+    <vertex x="47.9" y="47.4" />
+    <vertex x="47.9" y="48.7" />
+    <vertex x="46.5" y="48.7" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="53.5" y="52.6" />
+    <vertex x="52.1" y="52.6" />
+    <vertex x="52.1" y="51.3" />
+    <vertex x="53.5" y="51.3" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="46.5" y="52.6" />
+    <vertex x="47.9" y="52.6" />
+    <vertex x="47.9" y="51.3" />
+    <vertex x="46.5" y="51.3" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="53.5" y="47.4" />
+    <vertex x="52.1" y="47.4" />
+    <vertex x="52.1" y="48.7" />
+    <vertex x="53.5" y="48.7" />
+  </poly>
+</footprint>

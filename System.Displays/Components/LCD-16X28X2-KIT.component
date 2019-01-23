@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315075742032" name="LCD-16X28X2-KIT" prefix="LCD" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315075742019" symbolName="LCD-16X2" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315075742004" footprintName="LCD-8X2-KIT">
+    <pad2pinMaps>
+      <map pad="15" gateId="1" pin="A" />
+      <map pad="7" gateId="1" pin="DB0" />
+      <map pad="8" gateId="1" pin="DB1" />
+      <map pad="9" gateId="1" pin="DB2" />
+      <map pad="10" gateId="1" pin="DB3" />
+      <map pad="11" gateId="1" pin="DB4" />
+      <map pad="12" gateId="1" pin="DB5" />
+      <map pad="13" gateId="1" pin="DB6" />
+      <map pad="14" gateId="1" pin="DB7" />
+      <map pad="6" gateId="1" pin="E" />
+      <map pad="16" gateId="1" pin="K" />
+      <map pad="5" gateId="1" pin="R/W" />
+      <map pad="4" gateId="1" pin="RS" />
+      <map pad="2" gateId="1" pin="VDD" />
+      <map pad="3" gateId="1" pin="VO" />
+      <map pad="1" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

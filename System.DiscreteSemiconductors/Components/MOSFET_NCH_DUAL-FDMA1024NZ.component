@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959059" name="MOSFET_NCH_DUAL-FDMA1024NZ" prefix="Q" componentType="Standard">
+  <gates>
+    <gate id="1" name="A" symbolId="2019012314550959016" symbolName="LABELED-NMOS" swaplevel="0" />
+    <gate id="2" name="B" symbolId="2019012314550959016" symbolName="LABELED-NMOS" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958014" footprintName="MICROFET_2X2">
+    <pad2pinMaps>
+      <map pad="D1 D1_2" gateId="1" pin="D" />
+      <map pad="G1" gateId="1" pin="G" />
+      <map pad="S1" gateId="1" pin="S" />
+      <map pad="D2 D2_2" gateId="2" pin="D" />
+      <map pad="G2" gateId="2" pin="G" />
+      <map pad="S2" gateId="2" pin="S" />
+    </pad2pinMaps>
+  </footprint>
+</component>

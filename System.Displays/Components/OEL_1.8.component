@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315075742042" name="OEL_1.8" prefix="DS" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315075742027" symbolName="OEL_1.8" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315075742015" footprintName="FPC-13">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="!CS!" />
+      <map pad="5" gateId="1" pin="!RES!" />
+      <map pad="6" gateId="1" pin="SCLK" />
+      <map pad="7" gateId="1" pin="SDIN" />
+      <map pad="1 13" gateId="1" pin="VCC" />
+      <map pad="12" gateId="1" pin="VCOMH" />
+      <map pad="10" gateId="1" pin="VDD" />
+      <map pad="2 9" gateId="1" pin="VLSS" />
+      <map pad="3 8" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765016" name="1X04_SMD_RA_FEMALE">
+  <line x1="44.795" y1="45.75" x2="44.795" y2="54.25" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="55.205" y1="45.75" x2="44.795" y2="45.75" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="55.205" y1="54.25" x2="55.205" y2="45.75" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="44.795" y1="54.25" x2="55.205" y2="54.25" width="0.1778" layer="501" lineStyle="Solid" />
+  <rect x="48.73" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.27" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.19" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="3" x="51.27" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="48.73" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="46.19" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="53.81" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="4" x="53.81" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

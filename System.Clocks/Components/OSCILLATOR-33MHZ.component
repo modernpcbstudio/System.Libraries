@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313415759058" name="OSCILLATOR-33MHZ" prefix="Y" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012313415759028" symbolName="OSCILLATOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012313415759017" footprintName="OSCILLATOR-SMD-5X3.2">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="EN" />
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="3" gateId="1" pin="OUT" />
+      <map pad="4" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

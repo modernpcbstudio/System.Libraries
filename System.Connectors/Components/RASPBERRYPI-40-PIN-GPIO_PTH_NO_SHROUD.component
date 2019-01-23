@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766175" name="RASPBERRYPI-40-PIN-GPIO_PTH_NO_SHROUD" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765169" symbolName="RASPBERRYPI_40_PIN_GPIO" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765031" footprintName="2X20">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="3.3V@1" />
+      <map pad="17" gateId="1" pin="3.3V@17" />
+      <map pad="2" gateId="1" pin="5V@2" />
+      <map pad="4" gateId="1" pin="5V@4" />
+      <map pad="24" gateId="1" pin="CE0" />
+      <map pad="26" gateId="1" pin="CE1" />
+      <map pad="14" gateId="1" pin="GND@14" />
+      <map pad="20" gateId="1" pin="GND@20" />
+      <map pad="25" gateId="1" pin="GND@25" />
+      <map pad="30" gateId="1" pin="GND@30" />
+      <map pad="34" gateId="1" pin="GND@34" />
+      <map pad="39" gateId="1" pin="GND@39" />
+      <map pad="6" gateId="1" pin="GND@6" />
+      <map pad="9" gateId="1" pin="GND@9" />
+      <map pad="32" gateId="1" pin="GP12" />
+      <map pad="33" gateId="1" pin="GP13" />
+      <map pad="36" gateId="1" pin="GP16" />
+      <map pad="11" gateId="1" pin="GP17" />
+      <map pad="12" gateId="1" pin="GP18#" />
+      <map pad="35" gateId="1" pin="GP19" />
+      <map pad="38" gateId="1" pin="GP20" />
+      <map pad="40" gateId="1" pin="GP21" />
+      <map pad="15" gateId="1" pin="GP22" />
+      <map pad="16" gateId="1" pin="GP23" />
+      <map pad="18" gateId="1" pin="GP24" />
+      <map pad="22" gateId="1" pin="GP25" />
+      <map pad="37" gateId="1" pin="GP26" />
+      <map pad="13" gateId="1" pin="GP27" />
+      <map pad="7" gateId="1" pin="GP4" />
+      <map pad="29" gateId="1" pin="GP5" />
+      <map pad="31" gateId="1" pin="GP6" />
+      <map pad="28" gateId="1" pin="ID_SC" />
+      <map pad="27" gateId="1" pin="ID_SD" />
+      <map pad="21" gateId="1" pin="MISO" />
+      <map pad="19" gateId="1" pin="MOSI" />
+      <map pad="10" gateId="1" pin="RXI" />
+      <map pad="5" gateId="1" pin="SCL" />
+      <map pad="23" gateId="1" pin="SCLK" />
+      <map pad="3" gateId="1" pin="SDA" />
+      <map pad="8" gateId="1" pin="TXO" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959065" name="TRIAC-Z0103MN" prefix="Q" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314550959012" symbolName="TRIAC-TAB" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958010" footprintName="SOT223">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="G" />
+      <map pad="1" gateId="1" pin="T1" />
+      <map pad="2" gateId="1" pin="T2@1" />
+      <map pad="4" gateId="1" pin="T2@2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

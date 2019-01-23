@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763021" name="BANANA_CONN">
+  <circle x="50" y="50" diameter="5.6796" borderWidth="0.127" isFilled="false" layer="501" />
+  <pad number="P$1" x="50" y="50" rot="360" width="5.461" height="5.461" cornerRadius="2.7305" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="3.81" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

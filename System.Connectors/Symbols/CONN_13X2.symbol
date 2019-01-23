@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765154" name="CONN_13X2">
+  <line x1="51.27" y1="60.16" x2="52.54" y2="60.16" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="62.7" x2="52.54" y2="62.7" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="65.24" x2="52.54" y2="65.24" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="67.78" x2="53.81" y2="32.22" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="55.08" x2="52.54" y2="55.08" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="57.62" x2="52.54" y2="57.62" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="52.54" x2="52.54" y2="52.54" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="50" x2="52.54" y2="50" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="47.46" x2="52.54" y2="47.46" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="44.92" x2="52.54" y2="44.92" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="42.38" x2="52.54" y2="42.38" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="39.84" x2="52.54" y2="39.84" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="37.3" x2="52.54" y2="37.3" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="34.76" x2="52.54" y2="34.76" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="26" showName="true" number="26" showNumber="true" x="57.62" y="65.24" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="24" showName="true" number="24" showNumber="true" x="57.62" y="62.7" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="22" showName="true" number="22" showNumber="true" x="57.62" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="20" showName="true" number="20" showNumber="true" x="57.62" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="18" showName="true" number="18" showNumber="true" x="57.62" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="16" showName="true" number="16" showNumber="true" x="57.62" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="14" showName="true" number="14" showNumber="true" x="57.62" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="12" showName="true" number="12" showNumber="true" x="57.62" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="10" showName="true" number="10" showNumber="true" x="57.62" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="8" showName="true" number="8" showNumber="true" x="57.62" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6" showName="true" number="6" showNumber="true" x="57.62" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="true" number="4" showNumber="true" x="57.62" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="true" number="2" showNumber="true" x="57.62" y="34.76" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="46.19" y1="32.22" x2="53.81" y2="32.22" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="39.84" x2="47.46" y2="39.84" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="37.3" x2="47.46" y2="37.3" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="34.76" x2="47.46" y2="34.76" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.19" y1="32.22" x2="46.19" y2="67.78" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="67.78" x2="46.19" y2="67.78" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="44.92" x2="47.46" y2="44.92" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="42.38" x2="47.46" y2="42.38" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="47.46" x2="47.46" y2="47.46" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="50" x2="47.46" y2="50" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="52.54" x2="47.46" y2="52.54" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="55.08" x2="47.46" y2="55.08" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="57.62" x2="47.46" y2="57.62" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="60.16" x2="47.46" y2="60.16" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="62.7" x2="47.46" y2="62.7" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="65.24" x2="47.46" y2="65.24" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="1" showName="true" number="1" showNumber="true" x="42.38" y="34.76" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="true" number="3" showNumber="true" x="42.38" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5" showName="true" number="5" showNumber="true" x="42.38" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="7" showName="true" number="7" showNumber="true" x="42.38" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="9" showName="true" number="9" showNumber="true" x="42.38" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="11" showName="true" number="11" showNumber="true" x="42.38" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="13" showName="true" number="13" showNumber="true" x="42.38" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="15" showName="true" number="15" showNumber="true" x="42.38" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="17" showName="true" number="17" showNumber="true" x="42.38" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="19" showName="true" number="19" showNumber="true" x="42.38" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="21" showName="true" number="21" showNumber="true" x="42.38" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="23" showName="true" number="23" showNumber="true" x="42.38" y="62.7" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="25" showName="true" number="25" showNumber="true" x="42.38" y="65.24" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

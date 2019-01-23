@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764129" name="AUDIO_JACK_3.5MM_TRRS_SMD_RA">
+  <line x1="50.5" y1="53.3" x2="60.5" y2="53.3" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="62.2" y1="46.7" x2="62.2" y2="53.3" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="62.2" y1="46.7" x2="61" y2="46.7" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="46.7" x2="50" y2="46.7" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="46.7" x2="50" y2="47.2" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="47.2" x2="50" y2="52.8" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="52.8" x2="50" y2="53.3" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="53.3" x2="50.5" y2="53.3" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="47.2" x2="48" y2="47.2" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="48" y1="47.2" x2="48" y2="52.8" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="48" y1="52.8" x2="50" y2="52.8" width="0.254" layer="201" lineStyle="Solid" />
+  <smd number="TIP" x="60.2" y="46.75" rot="0" width="1.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="EARTH" x="61.3" y="53.25" rot="0" width="1.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="RING1" x="56.2" y="46.75" rot="0" width="1.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="RING2" x="53.2" y="46.75" rot="-180" width="1.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="51.6" y="50" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="58.6" y="50" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <line x1="57" y1="46.7" x2="59.4" y2="46.7" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="46.7" x2="55.4" y2="46.7" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="46.7" x2="52.4" y2="46.7" width="0.254" layer="501" lineStyle="Solid" />
+</footprint>

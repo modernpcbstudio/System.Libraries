@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315075742007" name="LCD_BACKLIGHT_PADS">
+  <smd number="P$1" x="50" y="50" rot="0" width="3.81" height="3.81" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="50" y="43.65" rot="0" width="3.81" height="3.81" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

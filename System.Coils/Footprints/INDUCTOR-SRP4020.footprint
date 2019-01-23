@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875013" name="INDUCTOR-SRP4020">
+  <smd number="P$1" x="47.95" y="50" rot="-90" width="1.5" height="1.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="52.05" y="50" rot="-90" width="1.5" height="1.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48" y1="48" x2="52" y2="48" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="52" x2="48" y2="52" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="48" x2="48" y2="48.5" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="48" x2="52" y2="48.5" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="52" x2="52" y2="51.5" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="52" x2="48" y2="51.5" width="0.127" layer="501" lineStyle="Solid" />
+</footprint>

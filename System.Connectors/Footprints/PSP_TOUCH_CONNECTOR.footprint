@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764106" name="PSP_TOUCH_CONNECTOR">
+  <line x1="46.5" y1="54" x2="53.5" y2="54" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.5" y1="54" x2="46.5" y2="48.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.5" y1="54" x2="53.5" y2="48.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.5" y1="48.5" x2="53.5" y2="48.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47" y1="54.25" x2="46.3" y2="54.25" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="46.3" y1="53.55" x2="46.3" y2="54.25" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53.7" y1="53.55" x2="53.7" y2="54.25" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="54.25" x2="53.7" y2="54.25" width="0.127" layer="501" lineStyle="Solid" />
+  <smd number="X2" x="49.5" y="47.15" rot="-90" width="2.3" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="Y2" x="50.5" y="47.15" rot="-90" width="2.3" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="X1" x="51.5" y="47.15" rot="-90" width="2.3" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="Y1" x="48.5" y="47.15" rot="-90" width="2.3" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

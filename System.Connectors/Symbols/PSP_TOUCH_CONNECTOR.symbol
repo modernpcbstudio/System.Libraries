@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765138" name="PSP_TOUCH_CONNECTOR">
+  <line x1="44.92" y1="60.16" x2="55.08" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="60.16" x2="55.08" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="39.84" x2="44.92" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="39.84" x2="44.92" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="X1" showName="true" number="X1" showNumber="true" x="39.84" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Y2" showName="true" number="Y2" showNumber="true" x="39.84" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="X2" showName="true" number="X2" showNumber="true" x="39.84" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Y1" showName="true" number="Y1" showNumber="true" x="39.84" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

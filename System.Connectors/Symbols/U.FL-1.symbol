@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765170" name="U.FL-1">
+  <circle x="50" y="50" diameter="2.2718" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="50" y="50" diameter="5.08" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="GND" showName="false" number="GND" showNumber="false" x="50" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SIGNAL" showName="false" number="SIGNAL" showNumber="false" x="55.08" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

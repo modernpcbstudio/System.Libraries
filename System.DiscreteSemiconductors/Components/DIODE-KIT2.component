@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959050" name="DIODE-KIT2" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314550959002" symbolName="DIODE" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958016" footprintName="DIODE-1N4001-KIT">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="C" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

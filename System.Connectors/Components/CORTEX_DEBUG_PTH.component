@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766159" name="CORTEX_DEBUG_PTH" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765162" symbolName="CORTEX_DEBUG" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765046" footprintName="2X5-PTH-1.27MM">
+    <pad2pinMaps>
+      <map pad="10" gateId="1" pin="!RESET" />
+      <map pad="3" gateId="1" pin="GND@3" />
+      <map pad="5" gateId="1" pin="GND@5" />
+      <map pad="9" gateId="1" pin="GNDDTCT" />
+      <map pad="7" gateId="1" pin="KEY" />
+      <map pad="8" gateId="1" pin="NC/TDI" />
+      <map pad="4" gateId="1" pin="SWDCLK/TCK" />
+      <map pad="2" gateId="1" pin="SWDIO/TMS" />
+      <map pad="6" gateId="1" pin="SWO/TDO" />
+      <map pad="1" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

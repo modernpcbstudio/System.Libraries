@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875016" name="XFL4020">
+  <smd number="P$1" x="51" y="48.2" rot="-90" width="3.4" height="0.98" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="53.4" y="48.2" rot="-90" width="3.4" height="0.98" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="50" y1="50.4" x2="50" y2="46" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="46" x2="54.4" y2="46" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.4" y1="46" x2="54.4" y2="50.4" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.4" y1="50.4" x2="50" y2="50.4" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="50.1" y1="46.1" x2="54.3" y2="46.1" width="0.1524" layer="501" lineStyle="Solid" />
+</footprint>

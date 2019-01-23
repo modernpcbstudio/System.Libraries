@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765042" name="SMTSO-256-ET-0.165DIA">
+  <circle x="50" y="50" diameter="2.032" borderWidth="0.127" isFilled="false" layer="201" />
+  <line x1="48.984" y1="47.714" x2="47.714" y2="48.984" width="1.016" layer="301" lineStyle="Solid" />
+  <line x1="52.286" y1="48.984" x2="51.016" y2="47.714" width="1.016" layer="301" lineStyle="Solid" />
+  <line x1="51.016" y1="52.286" x2="52.286" y2="51.016" width="1.016" layer="301" lineStyle="Solid" />
+  <line x1="47.714" y1="51.016" x2="48.984" y2="52.286" width="1.016" layer="301" lineStyle="Solid" />
+  <pad number="P$1" x="50" y="50" rot="360" width="6.1976" height="6.1976" cornerRadius="3.0988" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="4.191" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765253" name="CONN_03SCREW_LOCK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="J$1" symbolId="2019012314360765102" symbolName="CONN_03" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763064" footprintName="SCREWTERMINAL-3.5MM-3_LOCK.007S">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+    </pad2pinMaps>
+  </footprint>
+</component>

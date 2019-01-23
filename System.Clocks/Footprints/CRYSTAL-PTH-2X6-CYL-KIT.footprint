@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759006" name="CRYSTAL-PTH-2X6-CYL-KIT">
+  <line x1="49.111" y1="48.349" x2="50.889" y2="48.349" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.762" y1="42.253" x2="51.016" y2="42.507" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.984" y1="42.507" x2="49.238" y2="42.253" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.238" y1="42.253" x2="50.762" y2="42.253" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.889" y1="48.349" x2="50.889" y2="47.968" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.016" y1="47.968" x2="51.016" y2="42.507" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.111" y1="48.349" x2="49.111" y2="47.968" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.984" y1="47.968" x2="49.111" y2="47.968" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.984" y1="47.968" x2="48.984" y2="42.507" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.508" y1="49.238" x2="50.508" y2="48.857" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="49.492" y1="49.238" x2="49.492" y2="48.73" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="49.365" x2="51.27" y2="50" width="0.4064" layer="201" lineStyle="Solid" />
+  <line x1="49.365" y1="49.365" x2="48.73" y2="50" width="0.4064" layer="201" lineStyle="Solid" />
+  <line x1="49.492" y1="45.047" x2="49.492" y2="45.428" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.508" y1="45.428" x2="49.492" y2="45.428" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.508" y1="45.428" x2="50.508" y2="45.047" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.492" y1="45.047" x2="50.508" y2="45.047" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.492" y1="44.666" x2="50" y2="44.666" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.492" y1="45.809" x2="50" y2="45.809" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="45.809" x2="50" y2="46.317" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="45.809" x2="50.508" y2="45.809" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="44.666" x2="50" y2="44.158" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="44.666" x2="50.508" y2="44.666" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.016" y1="47.968" x2="50.889" y2="47.968" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.889" y1="47.968" x2="49.111" y2="47.968" width="0.1524" layer="501" lineStyle="Solid" />
+  <pad number="1" x="48.73" y="50" rot="360" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="51.27" y="50" rot="360" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="50.507999999999996" y="48.691900000000004" width="0.40639999999999787" height="0.58420000000000272" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <rect x="49.492000000000004" y="48.691900000000004" width="0.40639999999999787" height="0.58420000000000272" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <circle x="48.73" y="50" diameter="1.016" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="51.27" y="50" diameter="1.016" borderWidth="0" isFilled="false" layer="401" />
+</footprint>

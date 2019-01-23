@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764150" name="AUDIO-JACK-KIT">
+  <line x1="57.5" y1="44" x2="57.5" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.5" y1="44" x2="46.5" y2="45.5" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="46.5" y1="54.5" x2="46.5" y2="56" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.5" y1="45.5" x2="45.5" y2="47" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.5" y1="53" x2="45.5" y2="54.5" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.5" y1="54.5" x2="46.5" y2="54.5" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.5" y1="45.5" x2="46.5" y2="45.5" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="43.5" y1="47" x2="43.5" y2="53" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="43.5" y1="53" x2="45.5" y2="53" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="43.5" y1="47" x2="45.5" y2="47" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="46.5" y1="44" x2="53.5" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="57.5" y1="44" x2="56.5" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.5" y1="44" x2="46.5" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.5" y1="56" x2="53.5" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="57.5" y1="56" x2="56.5" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="SLEEVE" x="50" y="50" rot="360" width="2.1844" height="2.1844" cornerRadius="1.0922" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="RSH" x="55" y="47.5" rot="360" width="2.1844" height="2.1844" cornerRadius="1.0922" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="RING" x="55" y="44.9" rot="360" width="2.1844" height="2.1844" cornerRadius="1.0922" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="TSH" x="55" y="52.5" rot="360" width="2.1844" height="2.1844" cornerRadius="1.0922" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="TIP" x="55" y="55.1" rot="360" width="2.1844" height="2.1844" cornerRadius="1.0922" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.3" slotHeight="0" slotRot="0" plated="false" />
+  <hole x="50" y="45" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.5" y="45" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="47.5" y="55" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="50" y="55" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="55" y="50" drill="1.2" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <circle x="50" y="50" diameter="1.3208" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="55" y="44.9" diameter="1.3208" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="55" y="47.5" diameter="1.3208" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="55" y="52.5" diameter="1.3208" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="55" y="55.1" diameter="1.3208" borderWidth="0" isFilled="false" layer="401" />
+</footprint>

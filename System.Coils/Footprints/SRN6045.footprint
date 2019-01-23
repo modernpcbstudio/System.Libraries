@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875004" name="SRN6045">
+  <smd number="1" x="47.825" y="50" rot="-90" width="6" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="52.125" y="50" rot="-90" width="6" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.825" y1="53" x2="46.825" y2="52" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.825" y1="52" x2="46.825" y2="48" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.825" y1="48" x2="47.825" y2="47" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.825" y1="47" x2="52.125" y2="47" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.125" y1="47" x2="53.125" y2="48" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.125" y1="48" x2="53.125" y2="52" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.125" y1="52" x2="52.125" y2="53" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.125" y1="53" x2="47.825" y2="53" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.238" y1="47.031" x2="50.762" y2="47.031" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.238" y1="53" x2="50.762" y2="53" width="0.1524" layer="501" lineStyle="Solid" />
+</footprint>

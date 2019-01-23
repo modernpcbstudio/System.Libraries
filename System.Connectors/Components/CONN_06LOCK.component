@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765312" name="CONN_06LOCK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765099" symbolName="CONN_06" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763004" footprintName="1X06_LOCK">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="4" gateId="1" pin="4" />
+      <map pad="5" gateId="1" pin="5" />
+      <map pad="6" gateId="1" pin="6" />
+    </pad2pinMaps>
+  </footprint>
+</component>

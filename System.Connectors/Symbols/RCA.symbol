@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765147" name="RCA">
+  <line x1="37.3" y1="52.54" x2="39.84" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="50" x2="42.38" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="52.54" x2="44.92" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="52.54" x2="47.46" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="50" x2="47.46" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="42.38" y="47.46" rot="0" width="10.16" height="1.524" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <pin name="SWITCH" showName="false" number="SWITCH" showNumber="false" x="50" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SHELL" showName="false" number="SHELL" showNumber="false" x="50" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PIN" showName="false" number="PIN" showNumber="false" x="50" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="44.92" y1="50" x2="44.92" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="45.174" y="48.984" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="2.3040000000000003" bold="false" italic="false">OPEN WHEN</text>
+  <text x="45.174" y="49.746" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="2.3040000000000003" bold="false" italic="false">CONNECTED</text>
+</symbol>

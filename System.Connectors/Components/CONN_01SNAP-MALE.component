@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765219" name="CONN_01SNAP-MALE" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765100" symbolName="CONN_01" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763037" footprintName="SNAP-MALE">
+    <pad2pinMaps>
+      <map pad="2" gateId="1" pin="1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

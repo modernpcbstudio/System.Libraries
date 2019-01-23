@@ -3,4 +3,9 @@
   <Project Path="System.Capacitors/System.Capacitors.project" />
   <Project Path="System.Widgets\System.Widgets.project" />
   <Project Path="System.Batteries\System.Batteries.project" />
+  <Project Path="System.Clocks\System.Clocks.project" />
+  <Project Path="System.Coils\System.Coils.project" />
+  <Project Path="System.Connectors\System.Connectors.project" />
+  <Project Path="System.DiscreteSemiconductors\System.DiscreteSemiconductors.project" />
+  <Project Path="System.Displays\System.Displays.project" />
 </Solution>

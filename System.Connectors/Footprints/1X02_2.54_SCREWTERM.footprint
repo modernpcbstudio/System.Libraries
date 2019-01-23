@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764138" name="1X02_2.54_SCREWTERM">
+  <pad number="P2" x="50" y="50" rot="360" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P1" x="52.54" y="50" rot="360" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="48.5" y1="46.75" x2="54" y2="46.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="46.75" x2="54" y2="47.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="47.5" x2="54" y2="53.25" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="53.25" x2="48.5" y2="53.25" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="53.25" x2="48.5" y2="47.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="47.5" x2="48.5" y2="46.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="47.5" x2="54" y2="47.5" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

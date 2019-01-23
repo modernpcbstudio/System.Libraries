@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766133" name="JST_2MM_MALE" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765153" symbolName="JST_2MM_MALE" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763041" footprintName="JST-2-SMD">
+    <pad2pinMaps>
+      <map pad="2" gateId="1" pin="+" />
+      <map pad="1" gateId="1" pin="-" />
+      <map pad="NC1" gateId="1" pin="PAD1" />
+      <map pad="NC2" gateId="1" pin="PAD2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

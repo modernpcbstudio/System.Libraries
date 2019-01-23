@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766125" name="CONN_03X2SHROUD" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765152" symbolName="CONN_03X2" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763017" footprintName="2X3-SHROUDED">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="4" gateId="1" pin="4" />
+      <map pad="5" gateId="1" pin="5" />
+      <map pad="6" gateId="1" pin="6" />
+    </pad2pinMaps>
+  </footprint>
+</component>

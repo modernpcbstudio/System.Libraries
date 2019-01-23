@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764116" name="USB-A-S-SILK-FEMALE">
+  <line x1="56.6957" y1="43.4341" x2="42.713" y2="43.4341" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="56.6957" y1="56.5659" x2="42.713" y2="56.5659" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.713" y1="43.522999999999996" x2="42.713" y2="56.477000000000004" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="56.7084" y1="43.4976" x2="56.7084" y2="56.5024" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.46" y1="55.08" x2="44.11" y2="54.445" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.11" y1="54.445" x2="44.11" y2="51.27" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.11" y1="51.27" x2="50.46" y2="50.635" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.46" y1="44.92" x2="44.11" y2="45.555" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.11" y1="45.555" x2="44.11" y2="48.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.11" y1="48.73" x2="50.46" y2="49.365" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.634" y1="43.396" x2="50.508" y2="43.396" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="42.634" y1="43.396" x2="42.634" y2="56.604" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="42.634" y1="56.604" x2="50.508" y2="56.604" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="56.604" x2="56.858" y2="56.604" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.858" y1="56.604" x2="56.858" y2="54.318" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.858" y1="45.682" x2="56.858" y2="43.396" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.858" y1="43.396" x2="55.08" y2="43.396" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="SHLD1" x="53" y="56.5659" rot="90" width="4.6228" height="4.6228" cornerRadius="2.3114" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.3114" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD2" x="53" y="43.4341" rot="90" width="4.6228" height="4.6228" cornerRadius="2.3114" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.3114" slotHeight="0" slotRot="0" plated="false" />
+  <smd number="D-" x="57.212" y="49" rot="0" width="3" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="VBUS" x="57.212" y="46.5" rot="0" width="3" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="D+" x="57.212" y="51" rot="0" width="3" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND" x="57.212" y="53.5" rot="0" width="3" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

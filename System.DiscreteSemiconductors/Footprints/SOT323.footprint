@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958013" name="SOT323">
+  <line x1="51.1224" y1="49.3396" x2="51.1224" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="51.1224" y1="50.6604" x2="48.8776" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="48.8776" y1="50.6604" x2="48.8776" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="48.8776" y1="49.3396" x2="51.1224" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="49.327" y1="49.3" x2="48.9" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.9" y1="49.3" x2="48.9" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.673" y1="49.3" x2="51.1" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.1" y1="49.3" x2="51.1" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="1" x="49.35" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.65" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50" y="49.075" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

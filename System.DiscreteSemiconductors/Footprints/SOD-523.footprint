@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958012" name="SOD-523">
+  <smd number="C" x="50.7" y="50" rot="0" width="0.4" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="A" x="49.3" y="50" rot="0" width="0.4" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="49.375" y1="50.425" x2="50.625" y2="50.425" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.625" y1="49.575" x2="49.375" y2="49.575" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="49.4" y1="50.4" x2="50.3" y2="50.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.3" y1="50.4" x2="50.6" y2="50.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.6" y1="50.4" x2="50.6" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.6" y1="50.1" x2="50.6" y2="49.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.6" y1="49.9" x2="50.6" y2="49.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.6" y1="49.6" x2="50.3" y2="49.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.3" y1="49.6" x2="49.4" y2="49.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.4" y1="49.6" x2="49.4" y2="49.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.4" y1="49.9" x2="49.4" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.4" y1="50.1" x2="49.4" y2="50.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.6" y1="49.9" x2="50.8" y2="49.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.8" y1="49.9" x2="50.8" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.8" y1="50.1" x2="50.6" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.4" y1="50.1" x2="49.2" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.4" y1="49.9" x2="49.2" y2="49.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.2" y1="49.9" x2="49.2" y2="50.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.3" y1="49.6" x2="50.3" y2="50.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.1176" y1="49.6952" x2="51.1176" y2="50.3048" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

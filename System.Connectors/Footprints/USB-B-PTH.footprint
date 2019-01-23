@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764113" name="USB-B-PTH">
+  <line x1="41.5" y1="44" x2="45.4" y2="44" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.4" y1="44" x2="45.4" y2="56" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.4" y1="56" x2="41.5" y2="56" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="41.5" y1="56" x2="41.5" y2="44" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="45.4" y1="44" x2="49.2" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.4" y1="56" x2="49.2" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.4" y1="56" x2="57.3" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="57.3" y1="56" x2="57.3" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="57.3" y1="44" x2="53.4" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="VBUS" x="55.9812" y="51.25" rot="270" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9144" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="D-" x="55.9812" y="48.75" rot="270" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9144" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="D+" x="54" y="48.75" rot="90" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9144" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND" x="54" y="51.25" rot="90" width="1.6764" height="1.6764" cornerRadius="0.8382" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9144" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD1" x="51.2822" y="56.019800000000004" rot="360" width="4.572" height="4.572" cornerRadius="2.286" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.286" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD2" x="51.2822" y="43.980199999999996" rot="360" width="4.572" height="4.572" cornerRadius="2.286" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.286" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

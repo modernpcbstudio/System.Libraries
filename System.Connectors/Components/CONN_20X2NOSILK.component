@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766147" name="CONN_20X2NOSILK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765160" symbolName="CONN_20X2" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765030" footprintName="2X20_NOSILK">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="10" gateId="1" pin="10" />
+      <map pad="11" gateId="1" pin="11" />
+      <map pad="12" gateId="1" pin="12" />
+      <map pad="13" gateId="1" pin="13" />
+      <map pad="14" gateId="1" pin="14" />
+      <map pad="15" gateId="1" pin="15" />
+      <map pad="16" gateId="1" pin="16" />
+      <map pad="17" gateId="1" pin="17" />
+      <map pad="18" gateId="1" pin="18" />
+      <map pad="19" gateId="1" pin="19" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="20" gateId="1" pin="20" />
+      <map pad="21" gateId="1" pin="21" />
+      <map pad="22" gateId="1" pin="22" />
+      <map pad="23" gateId="1" pin="23" />
+      <map pad="24" gateId="1" pin="24" />
+      <map pad="25" gateId="1" pin="25" />
+      <map pad="26" gateId="1" pin="26" />
+      <map pad="27" gateId="1" pin="27" />
+      <map pad="28" gateId="1" pin="28" />
+      <map pad="29" gateId="1" pin="29" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="30" gateId="1" pin="30" />
+      <map pad="31" gateId="1" pin="31" />
+      <map pad="32" gateId="1" pin="32" />
+      <map pad="33" gateId="1" pin="33" />
+      <map pad="34" gateId="1" pin="34" />
+      <map pad="35" gateId="1" pin="35" />
+      <map pad="36" gateId="1" pin="36" />
+      <map pad="37" gateId="1" pin="37" />
+      <map pad="38" gateId="1" pin="38" />
+      <map pad="39" gateId="1" pin="39" />
+      <map pad="4" gateId="1" pin="4" />
+      <map pad="40" gateId="1" pin="40" />
+      <map pad="5" gateId="1" pin="5" />
+      <map pad="6" gateId="1" pin="6" />
+      <map pad="7" gateId="1" pin="7" />
+      <map pad="8" gateId="1" pin="8" />
+      <map pad="9" gateId="1" pin="9" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012313415759025" name="DS1077">
+  <line x1="39.84" y1="39.84" x2="39.84" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="60.16" x2="60.16" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="60.16" x2="60.16" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="39.84" x2="39.84" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="OUT1" showName="true" number="OUT1" showNumber="true" x="37.3" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUT0" showName="true" number="OUT0" showNumber="true" x="37.3" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="37.3" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CTRL0" showName="true" number="CTRL0" showNumber="true" x="62.7" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CTRL1" showName="true" number="CTRL1" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SDA" showName="true" number="SDA" showNumber="true" x="62.7" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SCL" showName="true" number="SCL" showNumber="true" x="62.7" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

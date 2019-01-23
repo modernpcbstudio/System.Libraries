@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765201" name="BC9VPC" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765091" symbolName="BC9VPC" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763022" footprintName="BC9VPC">
+    <pad2pinMaps>
+      <map pad="V+" gateId="1" pin="V+" />
+      <map pad="V-" gateId="1" pin="V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

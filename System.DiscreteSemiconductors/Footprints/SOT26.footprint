@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958017" name="SOT26">
+  <smd number="G1" x="49.05" y="51.2" rot="0" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S2" x="50" y="51.2" rot="0" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="G2" x="50.95" y="51.2" rot="0" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="D2" x="50.95" y="48.8" rot="0" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="D1" x="49.05" y="48.8" rot="0" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="S1" x="50" y="48.8" rot="-180" width="0.55" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="51.5" y1="49.2" x2="48.5" y2="49.2" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.5" y1="49.2" x2="48.5" y2="50.8" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.5" y1="50.8" x2="51.5" y2="50.8" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.5" y1="50.8" x2="51.5" y2="49.2" width="0.127" layer="201" lineStyle="Solid" />
+  <circle x="48.9" y="50.4" diameter="0.2828375" borderWidth="0.127" isFilled="false" layer="201" />
+  <line x1="51.5" y1="49.2" x2="51.5" y2="50.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="49.2" x2="48.5" y2="50.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="48.3" y="51.2" diameter="0.2828375" borderWidth="0.2032" isFilled="false" layer="501" />
+</footprint>

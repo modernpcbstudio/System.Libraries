@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765052" name="TP_15TH">
+  <pad number="P$1" x="50" y="50" rot="360" width="0.6096" height="0.6096" cornerRadius="0.3048" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.381" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

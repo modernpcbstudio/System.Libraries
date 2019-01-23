@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765150" name="MYDAQ_CONNECTOR">
+  <line x1="42.38" y1="24.6" x2="42.38" y2="77.94" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="77.94" x2="57.62" y2="77.94" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="77.94" x2="57.62" y2="24.6" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="24.6" x2="42.38" y2="24.6" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="AN1-" showName="true" number="AN1-" showNumber="true" x="39.84" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="+15V" showName="true" number="+15V" showNumber="true" x="39.84" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="-15V" showName="true" number="-15V" showNumber="true" x="39.84" y="29.68" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AGND_15V" showName="true" number="AGND_15V" showNumber="true" x="39.84" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO2" showName="true" number="DIO2" showNumber="true" x="39.84" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO3" showName="true" number="DIO3" showNumber="true" x="39.84" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO4" showName="true" number="DIO4" showNumber="true" x="39.84" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO5" showName="true" number="DIO5" showNumber="true" x="39.84" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO6" showName="true" number="DIO6" showNumber="true" x="39.84" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO7" showName="true" number="DIO7" showNumber="true" x="39.84" y="70.32" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DGND" showName="true" number="DGND" showNumber="true" x="39.84" y="72.86" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO0" showName="true" number="DIO0" showNumber="true" x="39.84" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DIO1" showName="true" number="DIO1" showNumber="true" x="39.84" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5V" showName="true" number="5V" showNumber="true" x="39.84" y="75.4" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AO0" showName="true" number="AO0" showNumber="true" x="39.84" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AO1" showName="true" number="AO1" showNumber="true" x="39.84" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AGND_IO" showName="true" number="AGND_IO" showNumber="true" x="39.84" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AI0+" showName="true" number="AI0+" showNumber="true" x="39.84" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AI0-" showName="true" number="AI0-" showNumber="true" x="39.84" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AI1+" showName="true" number="AI1+" showNumber="true" x="39.84" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765203" name="BNCPTH" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765092" symbolName="BNC" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763023" footprintName="BNC">
+    <pad2pinMaps>
+      <map pad="GND" gateId="1" pin="GND" />
+      <map pad="S" gateId="1" pin="OUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765059" name="MICRO-SD-SOCKET-SDIO">
+  <line x1="49.97" y1="50" x2="49.97" y2="36.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="63.97" y1="37.9" x2="63.97" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.27" y1="34.7" x2="51.47" y2="34.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.97" y1="34" x2="63.97" y2="34" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="53.97" y1="36.4" x2="62.37" y2="36.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.97" y1="50" x2="54.87" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.57" y1="50" x2="57.57" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="63.97" y1="50" x2="63.269999999999996" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="63.97" y1="32.4" x2="52.97" y2="32.4" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="63.97" y1="29.3" x2="52.97" y2="29.3" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.27" y1="34.7" x2="52.97" y2="35.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.97" y1="35.4" x2="53.97" y2="36.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="CD2" x="56.22" y="49.6" rot="0" width="1.8" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="CD1" x="61.92" y="49.6" rot="0" width="1.8" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND3" x="63.519999999999996" y="36.45" rot="0" width="1.4" height="1.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND1" x="50.37" y="35.45" rot="0" width="1.4" height="1.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="DAT2" x="55.03" y="39.3" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="CD/DAT3" x="56.13" y="39.7" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="CMD" x="57.230000000000004" y="39.3" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="VCC" x="58.33" y="39.1" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="CLK" x="59.43" y="39.3" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND" x="60.53" y="39.1" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="DAT0" x="61.63" y="39.3" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="DAT1" x="62.730000000000004" y="39.3" rot="0" width="0.8" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <mono x="64.605" y="34.125" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">Pressed</mono>
+  <mono x="64.605" y="32.22" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">Locked</mono>
+  <mono x="64.605" y="29.045" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">Unlocked</mono>
+</footprint>

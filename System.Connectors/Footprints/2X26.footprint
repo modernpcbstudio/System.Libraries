@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764099" name="2X26">
+  <line x1="37.3" y1="51.905" x2="37.935" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="39.205" y1="52.54" x2="39.84" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="51.905" x2="40.475" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="41.745" y1="52.54" x2="42.38" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="42.38" y1="51.905" x2="43.015" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="44.285" y1="52.54" x2="44.92" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="51.905" x2="45.555" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="52.54" x2="47.46" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="51.905" x2="48.095" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="52.54" x2="50" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="51.905" x2="50.635" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="52.54" x2="52.54" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="51.905" x2="37.3" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="48.095" x2="37.935" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="37.935" y1="47.46" x2="39.205" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="39.205" y1="47.46" x2="39.84" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="48.095" x2="40.475" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="40.475" y1="47.46" x2="41.745" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="41.745" y1="47.46" x2="42.38" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="42.38" y1="48.095" x2="43.015" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="43.015" y1="47.46" x2="44.285" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="44.285" y1="47.46" x2="44.92" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="48.095" x2="45.555" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="45.555" y1="47.46" x2="46.825" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="47.46" x2="47.46" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="48.095" x2="48.095" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.095" y1="47.46" x2="49.365" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="47.46" x2="50" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="48.095" x2="50.635" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="47.46" x2="51.905" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="47.46" x2="52.54" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="48.095" x2="53.175" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="47.46" x2="54.445" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="54.445" y1="47.46" x2="55.08" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="48.095" x2="55.715" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.715" y1="47.46" x2="56.985" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="56.985" y1="47.46" x2="57.62" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="57.62" y1="48.095" x2="58.255" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="58.255" y1="47.46" x2="59.525" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="59.525" y1="47.46" x2="60.16" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.16" y1="51.905" x2="59.525" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="57.62" y1="51.905" x2="58.255" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="57.62" y1="51.905" x2="56.985" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="51.905" x2="55.715" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="51.905" x2="54.445" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="51.905" x2="53.175" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="48.095" x2="39.84" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="42.38" y1="48.095" x2="42.38" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="48.095" x2="44.92" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="48.095" x2="47.46" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="48.095" x2="50" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="48.095" x2="52.54" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="48.095" x2="55.08" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="57.62" y1="48.095" x2="57.62" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.16" y1="48.095" x2="60.16" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="58.255" y1="52.54" x2="59.525" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="55.715" y1="52.54" x2="56.985" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="52.54" x2="54.445" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="52.54" x2="51.905" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.095" y1="52.54" x2="49.365" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="45.555" y1="52.54" x2="46.825" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="43.015" y1="52.54" x2="44.285" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="40.475" y1="52.54" x2="41.745" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="37.935" y1="52.54" x2="39.205" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.16" y1="48.095" x2="60.795" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.795" y1="47.46" x2="62.065" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="62.065" y1="47.46" x2="62.7" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="51.905" x2="62.065" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.16" y1="51.905" x2="60.795" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="60.795" y1="52.54" x2="62.065" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="51.905" x2="63.335" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="64.605" y1="52.54" x2="65.24" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="65.24" y1="51.905" x2="65.875" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="67.145" y1="52.54" x2="67.78" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="67.78" y1="51.905" x2="68.414999999999992" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="69.685" y1="52.54" x2="70.32" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="70.32" y1="51.905" x2="70.955" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="72.225" y1="52.54" x2="72.86" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="72.86" y1="51.905" x2="73.495" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="74.765" y1="52.54" x2="75.4" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="75.4" y1="51.905" x2="76.035" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="77.305" y1="52.54" x2="77.94" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="51.905" x2="62.7" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="48.095" x2="63.335" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="63.335" y1="47.46" x2="64.605" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="64.605" y1="47.46" x2="65.24" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="65.24" y1="48.095" x2="65.875" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="65.875" y1="47.46" x2="67.145" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="67.145" y1="47.46" x2="67.78" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="67.78" y1="48.095" x2="68.414999999999992" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="68.414999999999992" y1="47.46" x2="69.685" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="69.685" y1="47.46" x2="70.32" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="70.32" y1="48.095" x2="70.955" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="70.955" y1="47.46" x2="72.225" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="72.225" y1="47.46" x2="72.86" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="72.86" y1="48.095" x2="73.495" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="73.495" y1="47.46" x2="74.765" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="74.765" y1="47.46" x2="75.4" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="75.4" y1="48.095" x2="76.035" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="76.035" y1="47.46" x2="77.305" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="77.305" y1="47.46" x2="77.94" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="77.94" y1="48.095" x2="78.575" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="78.575" y1="47.46" x2="79.845" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="79.845" y1="47.46" x2="80.48" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="80.48" y1="48.095" x2="81.115" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="81.115" y1="47.46" x2="82.384999999999991" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="82.384999999999991" y1="47.46" x2="83.02000000000001" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.02000000000001" y1="48.095" x2="83.655" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.655" y1="47.46" x2="84.925" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="84.925" y1="47.46" x2="85.56" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="85.56" y1="51.905" x2="84.925" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.02000000000001" y1="51.905" x2="83.655" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.02000000000001" y1="51.905" x2="82.384999999999991" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="80.48" y1="51.905" x2="81.115" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="80.48" y1="51.905" x2="79.845" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="77.94" y1="51.905" x2="78.575" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="65.24" y1="48.095" x2="65.24" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="67.78" y1="48.095" x2="67.78" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="70.32" y1="48.095" x2="70.32" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="72.86" y1="48.095" x2="72.86" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="75.4" y1="48.095" x2="75.4" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="77.94" y1="48.095" x2="77.94" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="80.48" y1="48.095" x2="80.48" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.02000000000001" y1="48.095" x2="83.02000000000001" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="85.56" y1="48.095" x2="85.56" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="83.655" y1="52.54" x2="84.925" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="81.115" y1="52.54" x2="82.384999999999991" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="78.575" y1="52.54" x2="79.845" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="76.035" y1="52.54" x2="77.305" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="73.495" y1="52.54" x2="74.765" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="70.955" y1="52.54" x2="72.225" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="68.414999999999992" y1="52.54" x2="69.685" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="65.875" y1="52.54" x2="67.145" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="63.335" y1="52.54" x2="64.605" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="85.56" y1="48.095" x2="86.195" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="86.195" y1="47.46" x2="87.465" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="85.56" y1="51.905" x2="86.195" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="86.195" y1="52.54" x2="87.465" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="87.465" y1="52.54" x2="88.1" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="88.1" y1="51.905" x2="88.735" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="90.005" y1="52.54" x2="90.64" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="90.64" y1="51.905" x2="91.275" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="92.545" y1="52.54" x2="93.18" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="87.465" y1="47.46" x2="88.1" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="88.1" y1="48.095" x2="88.735" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="88.735" y1="47.46" x2="90.005" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="90.005" y1="47.46" x2="90.64" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="90.64" y1="48.095" x2="91.275" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="91.275" y1="47.46" x2="92.545" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="92.545" y1="47.46" x2="93.18" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="93.18" y1="48.095" x2="93.815" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="93.815" y1="47.46" x2="95.085000000000008" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="95.085000000000008" y1="47.46" x2="95.72" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="95.72" y1="48.095" x2="96.35499999999999" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="96.35499999999999" y1="47.46" x2="97.625" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="97.625" y1="47.46" x2="98.259999999999991" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.259999999999991" y1="48.095" x2="98.89500000000001" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.89500000000001" y1="47.46" x2="100.16499999999999" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="100.16499999999999" y1="47.46" x2="100.8" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="100.8" y1="51.905" x2="100.16499999999999" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.259999999999991" y1="51.905" x2="98.89500000000001" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.259999999999991" y1="51.905" x2="97.625" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="95.72" y1="51.905" x2="96.35499999999999" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="95.72" y1="51.905" x2="95.085000000000008" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="93.18" y1="51.905" x2="93.815" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="88.1" y1="48.095" x2="88.1" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="90.64" y1="48.095" x2="90.64" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="93.18" y1="48.095" x2="93.18" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="95.72" y1="48.095" x2="95.72" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.259999999999991" y1="48.095" x2="98.259999999999991" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="100.8" y1="48.095" x2="100.8" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="98.89500000000001" y1="52.54" x2="100.16499999999999" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="96.35499999999999" y1="52.54" x2="97.625" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="93.815" y1="52.54" x2="95.085000000000008" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="91.275" y1="52.54" x2="92.545" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="88.735" y1="52.54" x2="90.005" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="100.8" y1="48.095" x2="101.435" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="101.435" y1="47.46" x2="102.705" y2="47.46" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="102.705" y1="47.46" x2="103.34" y2="48.095" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="103.34" y1="51.905" x2="102.705" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="100.8" y1="51.905" x2="101.435" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="103.34" y1="48.095" x2="103.34" y2="51.905" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="101.435" y1="52.54" x2="102.705" y2="52.54" width="0.1524" layer="501" lineStyle="Solid" />
+  <pad number="1" x="38.57" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="38.57" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="41.11" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="41.11" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="43.65" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" x="43.65" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="7" x="46.19" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="8" x="46.19" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="9" x="48.73" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="10" x="48.73" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="11" x="51.27" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="12" x="51.27" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="13" x="53.81" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="14" x="53.81" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="15" x="56.35" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="16" x="56.35" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="17" x="58.89" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="18" x="58.89" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="19" x="61.43" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="20" x="61.43" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="21" x="63.97" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="22" x="63.97" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="23" x="66.51" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="24" x="66.51" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="25" x="69.05" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="26" x="69.05" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="27" x="71.59" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="28" x="71.59" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="29" x="74.13" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="30" x="74.13" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="31" x="76.67" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="32" x="76.67" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="33" x="79.210000000000008" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="34" x="79.210000000000008" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="35" x="81.75" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="36" x="81.75" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="37" x="84.289999999999992" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="38" x="84.289999999999992" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="39" x="86.83" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="40" x="86.83" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="41" x="89.37" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="42" x="89.37" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="43" x="91.91" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="44" x="91.91" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="45" x="94.45" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="46" x="94.45" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="47" x="96.990000000000009" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="48" x="96.990000000000009" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="49" x="99.53" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="50" x="99.53" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="51" x="102.07" y="51.27" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="52" x="102.07" y="48.73" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="38.57" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="38.57" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="41.11" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="41.11" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="43.65" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="43.65" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.19" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.730000000000004" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.269999999999996" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.19" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.730000000000004" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.269999999999996" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.81" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.81" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="56.35" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="56.35" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="58.89" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="58.89" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="61.43" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="61.43" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="63.97" y="51.269999999999996" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="63.97" y="48.730000000000004" width="0.50800000000000267" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="66.509999999999991" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="66.509999999999991" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="69.05" y="48.730000000000004" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="69.05" y="51.269999999999996" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="71.59" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="74.13" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="76.67" y="48.730000000000004" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="71.59" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="74.13" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="76.67" y="51.269999999999996" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="79.210000000000008" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="79.210000000000008" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="81.75" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="81.75" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="84.289999999999992" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="84.289999999999992" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="86.83" y="48.730000000000004" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="86.83" y="51.269999999999996" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="89.37" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="91.91" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="89.37" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="91.91" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="94.45" y="48.730000000000004" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="94.45" y="51.269999999999996" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="96.99" y="48.730000000000004" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="96.99" y="51.269999999999996" width="0.50800000000000978" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="99.53" y="48.730000000000004" width="0.50799999999998136" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="99.53" y="51.269999999999996" width="0.50799999999998136" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="102.07" y="48.730000000000004" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="102.07" y="51.269999999999996" width="0.50799999999999557" height="0.50800000000000267" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

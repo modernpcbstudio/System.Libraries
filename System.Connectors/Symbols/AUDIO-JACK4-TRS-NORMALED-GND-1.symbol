@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765166" name="AUDIO-JACK4-TRS-NORMALED-GND-1">
+  <rect x="44.285" y="48.730000000000004" rot="0" width="1.2699999999999996" height="12.7" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="46.19" y1="52.54" x2="47.46" y2="53.81" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="53.81" x2="48.73" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="52.54" x2="52.54" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="42.38" x2="44.92" y2="42.38" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="47.46" x2="50" y2="48.73" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="48.73" x2="51.27" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="47.46" x2="52.54" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="53.048" y2="48.73" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="48.73" x2="52.032" y2="48.73" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.032" y1="48.73" x2="52.54" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="52.54" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="50" x2="55.08" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="52.54" x2="52.54" y2="55.08" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="55.08" x2="55.08" y2="55.08" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="52.54" x2="53.048" y2="53.81" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="53.81" x2="52.032" y2="53.81" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.032" y1="53.81" x2="52.54" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="44.92" x2="52.54" y2="44.92" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="44.92" x2="52.54" y2="42.38" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="42.38" x2="52.032" y2="43.65" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.032" y1="43.65" x2="53.048" y2="43.65" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="43.65" x2="52.54" y2="42.38" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="EARTH" showName="false" number="EARTH" showNumber="false" x="55.08" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EARTH-NORM" showName="false" number="EARTH-NORM" showNumber="false" x="55.08" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RING" showName="false" number="RING" showNumber="false" x="55.08" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RING-NORM" showName="false" number="RING-NORM" showNumber="false" x="55.08" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TIP" showName="false" number="TIP" showNumber="false" x="55.08" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TIP-NORM" showName="false" number="TIP-NORM" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="50" y="47.46" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">T</text>
+  <text x="47.46" y="52.54" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">R</text>
+</symbol>

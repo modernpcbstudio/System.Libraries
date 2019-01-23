@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958001" name="DIODE-1N4001">
+  <line x1="53.175" y1="48.73" x2="51.905" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="48.73" x2="46.825" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="48.73" x2="46.825" y2="50" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="50" x2="46.825" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="51.27" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="51.27" x2="53.175" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="51.27" x2="53.175" y2="50" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="50" x2="53.175" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="48.73" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="50" x2="46.19" y2="50" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="50" x2="53.81" y2="50" width="0.254" layer="501" lineStyle="Solid" />
+  <pad number="A" x="44.92" y="50" rot="360" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="C" x="55.08" y="50" rot="360" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

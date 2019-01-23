@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763071" name="JST-3-SMD">
+  <line x1="45.01" y1="52.07" x2="45.01" y2="55.57" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.01" y1="55.57" x2="45.81" y2="55.57" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.81" y1="55.57" x2="45.81" y2="53.07" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.81" y1="53.07" x2="47.01" y2="53.07" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.01" y1="53.07" x2="54.21" y2="53.07" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.21" y1="53.07" x2="54.21" y2="55.57" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.21" y1="55.57" x2="55.01" y2="55.57" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.01" y1="55.57" x2="55.01" y2="52.07" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.01" y1="48.07" x2="47.01" y2="48.07" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="3" x="48.01" y="54.769999999999996" rot="0" width="1" height="4.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="52.01" y="54.769999999999996" rot="0" width="1" height="4.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="45.61" y="49.57" rot="-90" width="3.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC2" x="54.41" y="49.57" rot="-90" width="3.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.01" y="54.769999999999996" rot="0" width="1" height="4.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

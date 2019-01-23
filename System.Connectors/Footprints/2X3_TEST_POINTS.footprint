@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765011" name="2X3_TEST_POINTS">
+  <pad number="1" x="47.46" y="51.27" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="47.46" y="48.73" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="50" y="51.27" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="50" y="48.73" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="52.54" y="51.27" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" x="52.54" y="48.73" rot="360" width="1.016" height="1.016" cornerRadius="0.508" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="47.1044" y1="52.0574" x2="47.7902" y2="52.0574" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="47.46" y="48.73" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="50" y="48.73" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="52.54" y="48.73" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="47.46" y="51.27" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="50" y="51.27" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="52.54" y="51.27" diameter="1.2213125" borderWidth="0" isFilled="false" layer="401" />
+  <mono x="48.095" y="50" layer="201" rot="0" fontName="Default" fontSize="0.254" strokeWidth="0.2">Programmer This Side</mono>
+</footprint>

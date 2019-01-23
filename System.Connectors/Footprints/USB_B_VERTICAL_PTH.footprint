@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765070" name="USB_B_VERTICAL_PTH">
+  <pad number="4" x="51.25" y="51.6" rot="360" width="1.84" height="1.84" cornerRadius="0.92" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.92" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="1" x="51.25" y="48.4" rot="360" width="1.84" height="1.84" cornerRadius="0.92" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.92" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="48.75" y="48.4" rot="360" width="1.84" height="1.84" cornerRadius="0.92" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.92" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="43.980000000000004" y="51.11" rot="360" width="4.6" height="4.6" cornerRadius="2.3" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" x="56.019999999999996" y="51.11" rot="360" width="4.6" height="4.6" cornerRadius="2.3" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.3" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="48.75" y="51.6" rot="360" width="1.84" height="1.84" cornerRadius="0.92" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.92" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="56" y1="55.66" x2="44" y2="55.66" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="44.51" x2="44" y2="44.51" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="44.51" x2="56" y2="55.66" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44" y1="44.51" x2="44" y2="55.66" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

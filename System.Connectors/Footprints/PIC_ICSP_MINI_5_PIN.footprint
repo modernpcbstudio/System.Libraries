@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764097" name="PIC_ICSP_MINI_5_PIN">
+  <line x1="46" y1="49" x2="46" y2="51" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="46" y1="51" x2="54" y2="51" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="54" y1="51" x2="54" y2="49" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="54" y1="49" x2="46" y2="49" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.6" y1="49" x2="46.4" y2="49" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="1" x="47" y="50" rot="360" width="1.4" height="1.4" cornerRadius="0.7" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="48.5" y="50" rot="360" width="1.4" height="1.4" cornerRadius="0.7" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="50" y="50" rot="360" width="1.4" height="1.4" cornerRadius="0.7" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="51.5" y="50" rot="360" width="1.4" height="1.4" cornerRadius="0.7" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="53" y="50" rot="360" width="1.4" height="1.4" cornerRadius="0.7" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

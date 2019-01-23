@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766123" name="MYDAQ" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765150" symbolName="MYDAQ_CONNECTOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764127" footprintName="3.81MM_TERMINAL_BLOCK_FEMALE_LOCKING">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="+15V" />
+      <map pad="2" gateId="1" pin="-15V" />
+      <map pad="20" gateId="1" pin="5V" />
+      <map pad="3" gateId="1" pin="AGND_15V" />
+      <map pad="6" gateId="1" pin="AGND_IO" />
+      <map pad="7" gateId="1" pin="AI0+" />
+      <map pad="8" gateId="1" pin="AI0-" />
+      <map pad="9" gateId="1" pin="AI1+" />
+      <map pad="10" gateId="1" pin="AN1-" />
+      <map pad="4" gateId="1" pin="AO0" />
+      <map pad="5" gateId="1" pin="AO1" />
+      <map pad="19" gateId="1" pin="DGND" />
+      <map pad="11" gateId="1" pin="DIO0" />
+      <map pad="12" gateId="1" pin="DIO1" />
+      <map pad="13" gateId="1" pin="DIO2" />
+      <map pad="14" gateId="1" pin="DIO3" />
+      <map pad="15" gateId="1" pin="DIO4" />
+      <map pad="16" gateId="1" pin="DIO5" />
+      <map pad="17" gateId="1" pin="DIO6" />
+      <map pad="18" gateId="1" pin="DIO7" />
+    </pad2pinMaps>
+  </footprint>
+</component>

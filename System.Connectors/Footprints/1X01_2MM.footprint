@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763032" name="1X01_2MM">
+  <pad number="1" x="50" y="50" rot="270" width="3.302" height="3.302" cornerRadius="1.651" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

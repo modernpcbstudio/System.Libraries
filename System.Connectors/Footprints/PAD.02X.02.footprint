@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765048" name="PAD.02X.02">
+  <smd number="P$1" x="50" y="50" rot="0" width="0.508" height="0.508" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

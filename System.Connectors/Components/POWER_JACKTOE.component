@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766087" name="POWER_JACKTOE" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765136" symbolName="POWERJACK" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764152" footprintName="POWER_JACK_SMD_OVERPASTE_TOE">
+    <pad2pinMaps>
+      <map pad="P$4" gateId="1" pin="GND" />
+      <map pad="GND" gateId="1" pin="GNDBREAK" />
+      <map pad="VIN0" gateId="1" pin="PWR" />
+    </pad2pinMaps>
+  </footprint>
+</component>

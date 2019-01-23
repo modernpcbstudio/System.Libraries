@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765179" name="6_PIN_SERIAL_TARGETLOCK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765084" symbolName="ARDUINO_SERIAL_PROGRAM" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763004" footprintName="1X06_LOCK">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="CTS" />
+      <map pad="1" gateId="1" pin="DTR" />
+      <map pad="6" gateId="1" pin="GND" />
+      <map pad="2" gateId="1" pin="RXI" />
+      <map pad="3" gateId="1" pin="TXO" />
+      <map pad="4" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

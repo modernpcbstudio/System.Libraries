@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763083" name="JST-4-PTH">
+  <pad number="1" x="47" y="50" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="49" y="50" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="51" y="50" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="53" y="50" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <mono x="46.6" y="49.3" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">+</mono>
+  <mono x="48.6" y="49.3" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">-</mono>
+  <mono x="50.7" y="49.1" layer="201" rot="0" fontName="Default" fontSize="0.8" strokeWidth="0.2">S</mono>
+  <mono x="52.7" y="49.1" layer="201" rot="0" fontName="Default" fontSize="0.8" strokeWidth="0.2">S</mono>
+  <line x1="45.05" y1="51.6" x2="45.05" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.05" y1="44" x2="54.95" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.95" y1="44" x2="54.95" y2="51.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.05" y1="51.6" x2="45.7" y2="51.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.95" y1="51.6" x2="54.3" y2="51.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45.7" y1="51.6" x2="45.7" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.3" y1="51.6" x2="54.3" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

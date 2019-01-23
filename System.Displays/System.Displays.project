@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="LCD_BACKLIGHT_PADS.component" />
+    <Component Path="LCD-16X2-MINMIN4-RGB.component" />
+    <Component Path="LCD-16X2NOHOLES.component" />
+    <Component Path="LCD-16X2NOSILK.component" />
+    <Component Path="LCD-16X2SILK.component" />
+    <Component Path="LCD-16X28X2.component" />
+    <Component Path="LCD-16X28X2-KIT.component" />
+    <Component Path="LCD-G12864-BARE.component" />
+    <Component Path="LCD-G12864-FULL.component" />
+    <Component Path="NOKIA6100_LCD.component" />
+    <Component Path="OEL_1.8.component" />
+    <Component Path="OEL_1.8-AYF331335.component" />
+    <Component Path="OEL_1.8OEL_1.8.component" />
+    <Component Path="OEL_1.8OEL_Y3B.component" />
+    <Component Path="OLED0.66.component" />
+    <Component Path="OLED128X64BOTTOM.component" />
+    <Component Path="OLED128X64SIDE.component" />
+    <Component Path="OLED128X64SIDEREAR-MOUNT.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="1X20.footprint" />
+    <Footprint Path="AYF331335.footprint" />
+    <Footprint Path="FPC-13.footprint" />
+    <Footprint Path="LCD_BACKLIGHT_PADS.footprint" />
+    <Footprint Path="LCD-8X2.footprint" />
+    <Footprint Path="LCD-8X2-KIT.footprint" />
+    <Footprint Path="LCD-16X2.footprint" />
+    <Footprint Path="LCD-16X2_NOHOLESNOSILK.footprint" />
+    <Footprint Path="LCD-16X2_NOSILK.footprint" />
+    <Footprint Path="LCD-16X2_NOSILK-KIT.footprint" />
+    <Footprint Path="LCD-16X2_NOSILK-KIT-4BIT.footprint" />
+    <Footprint Path="LCD-G12864.footprint" />
+    <Footprint Path="NOKIA6100_LCD.footprint" />
+    <Footprint Path="OEL_1.8_FPC.footprint" />
+    <Footprint Path="OEL_1.8_FPC_Y3B.footprint" />
+    <Footprint Path="OLED-0.66-64X48.footprint" />
+    <Footprint Path="OLED-UG-2832HLBEG04.footprint" />
+    <Footprint Path="OLED-UG-2832TSWGG01.footprint" />
+    <Footprint Path="OLED-UG-2832TSWGG01-REAR.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="LCD_BACKLIGHT_PADS.symbol" />
+    <Symbol Path="LCD-16X2.symbol" />
+    <Symbol Path="LCD-16X2-MIN.symbol" />
+    <Symbol Path="LCD-G12864.symbol" />
+    <Symbol Path="NOKIA6100_LCD.symbol" />
+    <Symbol Path="OEL_1.8.symbol" />
+    <Symbol Path="OLED0.66.symbol" />
+    <Symbol Path="OLED-UG-2832HLBEG04.symbol" />
+    <Symbol Path="OLED-UG-2832TSWGG01.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

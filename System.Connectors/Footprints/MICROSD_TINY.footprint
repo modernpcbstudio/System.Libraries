@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765080" name="MICROSD_TINY">
+  <line x1="61.3" y1="50" x2="61.3" y2="48.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="44.05" x2="50" y2="43.55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="43.55" x2="51.8246" y2="43.55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="49.45" x2="50" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="50" x2="61.3" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="61.3" y1="46.15" x2="61.3" y2="45.1" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.25" y1="43.55" x2="59.3754" y2="43.55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.0246" y1="43.55" x2="55.2" y2="43.55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="46.6246" x2="50" y2="45.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.7" y1="59.7" x2="61.7" y2="59.7" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="61.7" y1="59.7" x2="61.7" y2="58.2" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="61.7" y1="58.2" x2="61.7" y2="50.2" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="61.7" y1="50.2" x2="60.45" y2="48.95" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="60.45" y1="44.7" x2="50.7" y2="44.7" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="50.7" y1="44.7" x2="50.7" y2="58.2" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="50.7" y1="58.2" x2="50.7" y2="59.7" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="60.45" y1="48.95" x2="60.45" y2="44.7" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="50.7" y1="58.2" x2="61.7" y2="58.2" width="0.2032" layer="201" lineStyle="Solid" />
+  <rect x="55.334" y="47.079" width="8.6360000000000028" height="3.8100000000000023" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="1" x="59.2" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="58.1" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="57" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="55.9" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="54.8" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="53.7" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="52.6" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="51.5" y="50.85" rot="-90" width="1" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="61" y="48.17" rot="-180" width="0.72" height="0.78" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND1" x="61" y="46.9" rot="-90" width="1.08" height="1.05" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND2" x="61" y="44.29" rot="-90" width="1.2" height="1.05" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND3" x="50.325" y="44.86" rot="-90" width="1.2" height="1.05" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND4" x="50.325" y="48.045" rot="-90" width="2.39" height="1.05" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND5" x="53.505" y="43.615" rot="0" width="2.91" height="0.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND6" x="57.695" y="43.615" rot="0" width="2.91" height="0.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <mono x="54.85" y="55.95" layer="201" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">uSD</mono>
+</footprint>

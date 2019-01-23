@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766079" name="PIC_ICSP_MINI_5_PIN" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765133" symbolName="PIC-ISCP-MINI" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764097" footprintName="PIC_ICSP_MINI_5_PIN">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="GND" />
+      <map pad="5" gateId="1" pin="PGC" />
+      <map pad="4" gateId="1" pin="PGD" />
+      <map pad="2" gateId="1" pin="VCC" />
+      <map pad="1" gateId="1" pin="VPP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

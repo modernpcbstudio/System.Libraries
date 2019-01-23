@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959029" name="DIODE-ZENER-DZ2J150M0L" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314550959004" symbolName="DIODE-ZENER" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958020" footprintName="PANASONIC_SMINI2-F5-B">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="C" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

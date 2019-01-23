@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764118" name="USB_MICROB_VERTICAL">
+  <line x1="40.3" y1="46.23" x2="41.725" y2="46.23" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="40.3" y1="49.43" x2="41.725" y2="49.43" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="40.3" y1="46.23" x2="39.725" y2="45.7" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="39.725" y1="45.7" x2="39.725" y2="44.62" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="40.3" y1="49.43" x2="39.725" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="39.725" y1="50" x2="39.725" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="41.725" y1="46.23" x2="41.725" y2="49.43" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59.7" y1="49.43" x2="58.275" y2="49.43" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58.275" y1="49.43" x2="58.275" y2="46.23" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59.7" y1="46.23" x2="58.275" y2="46.23" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59.7" y1="49.43" x2="60.275" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60.275" y1="50" x2="60.275" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59.7" y1="46.23" x2="60.275" y2="45.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60.275" y1="45.6" x2="60.275" y2="44.62" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="39.725" y1="44.62" x2="45.725" y2="44.62" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60.275" y1="44.62" x2="54.275" y2="44.62" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="39.725" y1="50.9" x2="45.725" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60.275" y1="50.9" x2="54.275" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="45.725" y1="50.9" x2="45.725" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="54.275" y1="50.9" x2="54.275" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="45.725" y1="50" x2="54.275" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="45.725" y1="44.62" x2="45.725" y2="45.519999999999996" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="54.275" y1="44.62" x2="54.275" y2="45.519999999999996" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="45.725" y1="45.519999999999996" x2="54.275" y2="45.519999999999996" width="0.127" layer="201" lineStyle="Solid" />
+  <pad number="SHLD1" x="46.87946875" y="46.81698125" rot="270" width="2.2" height="2.2" cornerRadius="1.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD3" x="46.902078125" y="50.026921875" rot="270" width="2.2" height="2.2" cornerRadius="1.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD2" x="53.1218" y="46.839840625" rot="270" width="2.2" height="2.2" cornerRadius="1.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="SHLD4" x="53.10783125" y="50.02565625" rot="270" width="2.2" height="2.2" cornerRadius="1.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <smd number="D+" x="50" y="50" rot="-90" width="2.2" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="D-" x="49.35" y="50" rot="-90" width="2.2" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="VBUS" x="48.7" y="50" rot="-90" width="2.2" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="GND" x="51.3" y="50" rot="-90" width="2.2" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="ID" x="50.65" y="50" rot="-90" width="2.2" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="41.725" y="47.83" drill="3.3" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="58.275" y="47.83" drill="3.3" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

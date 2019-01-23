@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764130" name="1X03_SMD_RA_FEMALE">
+  <line x1="46.065" y1="45.75" x2="46.065" y2="54.25" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="53.935" y1="45.75" x2="46.065" y2="45.75" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="53.935" y1="54.25" x2="53.935" y2="45.75" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="46.065" y1="54.25" x2="53.935" y2="54.25" width="0.1778" layer="501" lineStyle="Solid" />
+  <rect x="50" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.54" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.46" y="42.775000000000006" width="0.64000000000000057" height="0.85000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="3" x="52.54" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.46" y="42.775" rot="-180" width="1.25" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

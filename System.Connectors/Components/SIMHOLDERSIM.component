@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766094" name="SIMHOLDERSIM" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="J1" symbolId="2019012314360765141" symbolName="SIMHOLDER" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764110" footprintName="SIMHOLDER">
+    <pad2pinMaps>
+      <map pad="C3" gateId="1" pin="CLK" />
+      <map pad="C5" gateId="1" pin="GND" />
+      <map pad="C7" gateId="1" pin="I/O" />
+      <map pad="C2" gateId="1" pin="RST" />
+      <map pad="C1" gateId="1" pin="VCC" />
+      <map pad="C6" gateId="1" pin="VPP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

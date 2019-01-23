@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315075742033" name="LCD-G12864-FULL" prefix="LCD" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315075742020" symbolName="LCD-G12864" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315075742005" footprintName="LCD-G12864">
+    <pad2pinMaps>
+      <map pad="19" gateId="1" pin="A" />
+      <map pad="13" gateId="1" pin="CS1" />
+      <map pad="12" gateId="1" pin="CS2" />
+      <map pad="16" gateId="1" pin="D/I" />
+      <map pad="4" gateId="1" pin="DB0" />
+      <map pad="5" gateId="1" pin="DB1" />
+      <map pad="6" gateId="1" pin="DB2" />
+      <map pad="7" gateId="1" pin="DB3" />
+      <map pad="8" gateId="1" pin="DB4" />
+      <map pad="9" gateId="1" pin="DB5" />
+      <map pad="10" gateId="1" pin="DB6" />
+      <map pad="11" gateId="1" pin="DB7" />
+      <map pad="17" gateId="1" pin="E" />
+      <map pad="20" gateId="1" pin="K" />
+      <map pad="15" gateId="1" pin="R/W" />
+      <map pad="14" gateId="1" pin="RST" />
+      <map pad="1" gateId="1" pin="VDD" />
+      <map pad="18" gateId="1" pin="VEE" />
+      <map pad="3" gateId="1" pin="VO" />
+      <map pad="2" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

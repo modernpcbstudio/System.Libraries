@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766169" name="USB_B_VERTICAL" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765143" symbolName="USB" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765070" footprintName="USB_B_VERTICAL_PTH">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="D+" />
+      <map pad="2" gateId="1" pin="D-" />
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="5 6" gateId="1" pin="SHIELD" />
+      <map pad="1" gateId="1" pin="VBUS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

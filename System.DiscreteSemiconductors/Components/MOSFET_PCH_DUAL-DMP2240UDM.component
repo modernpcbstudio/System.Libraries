@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959064" name="MOSFET_PCH_DUAL-DMP2240UDM" prefix="Q" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012314550959017" symbolName="LABELED-PMOS" swaplevel="0" />
+    <gate id="2" name="G$1" symbolId="2019012314550959017" symbolName="LABELED-PMOS" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958017" footprintName="SOT26">
+    <pad2pinMaps>
+      <map pad="D2" gateId="2" pin="D" />
+      <map pad="G2" gateId="2" pin="G" />
+      <map pad="S2" gateId="2" pin="S" />
+      <map pad="D1" gateId="1" pin="D" />
+      <map pad="G1" gateId="1" pin="G" />
+      <map pad="S1" gateId="1" pin="S" />
+    </pad2pinMaps>
+  </footprint>
+</component>

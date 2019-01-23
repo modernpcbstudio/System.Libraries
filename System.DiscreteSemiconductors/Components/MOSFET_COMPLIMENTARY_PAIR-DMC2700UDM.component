@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314550959060" name="MOSFET_COMPLIMENTARY_PAIR-DMC2700UDM" prefix="Q" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314550959008" symbolName="DMC2700UDM" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314550958017" footprintName="SOT26">
+    <pad2pinMaps>
+      <map pad="D1" gateId="1" pin="D1" />
+      <map pad="D2" gateId="1" pin="D2" />
+      <map pad="G1" gateId="1" pin="G1" />
+      <map pad="G2" gateId="1" pin="G2" />
+      <map pad="S1" gateId="1" pin="S1" />
+      <map pad="S2" gateId="1" pin="S2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764145" name="1X03_SMD_RA_MALE_POST">
+  <line x1="53.81" y1="48.75" x2="46.19" y2="48.75" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="46.19" y1="48.75" x2="46.19" y2="51.25" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="52.53" y2="51.25" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="52.53" y1="51.25" x2="49.99" y2="51.25" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="49.99" y1="51.25" x2="47.45" y2="51.25" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="47.45" y1="51.25" x2="46.19" y2="51.25" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="53.81" y2="48.75" width="0.1778" layer="201" lineStyle="Solid" />
+  <line x1="52.53" y1="51.25" x2="52.53" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.99" y1="51.25" x2="49.99" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.45" y1="51.25" x2="47.45" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <rect x="50" y="44.95" width="0.64000000000000057" height="1.8000000000000043" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.46" y="44.95" width="0.64000000000000057" height="1.8000000000000043" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.54" y="44.95" width="0.64000000000000057" height="1.8000000000000043" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="1" x="47.46" y="44.93" rot="-90" width="2.5" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="44.93" rot="-90" width="2.5" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.54" y="44.93" rot="-90" width="2.5" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="48.73" y="50" drill="1.6" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="51.27" y="50" drill="1.6" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

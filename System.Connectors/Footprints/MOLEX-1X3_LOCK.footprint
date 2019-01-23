@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763063" name="MOLEX-1X3_LOCK">
+  <line x1="48.73" y1="46.952" x2="48.73" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="46.952" x2="56.35" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="46.952" x2="48.73" y2="46.952" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.35" y1="52.54" x2="55.08" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="52.54" x2="50" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="52.54" x2="48.73" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="52.54" x2="50" y2="51.27" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="51.27" x2="55.08" y2="51.27" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="51.27" x2="55.08" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <pad number="1" x="50" y="49.873" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="52.54" y="50.127" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="55.08" y="49.873" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="50" y="50" width="0.58419999999999561" height="0.58419999999999561" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.54" y="50" width="0.58419999999999561" height="0.58419999999999561" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="55.08" y="50" width="0.58420000000000272" height="0.58419999999999561" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

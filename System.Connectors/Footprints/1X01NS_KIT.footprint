@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764149" name="1X01NS_KIT">
+  <pad number="1" x="50" y="50" rot="270" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="50" y="50" diameter="1.016" borderWidth="0" isFilled="false" layer="401" />
+</footprint>

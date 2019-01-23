@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765148" name="USB_AB">
+  <line x1="52.54" y1="43.65" x2="47.46" y2="43.65" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="43.65" x2="47.46" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="56.35" x2="52.54" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="51.27" y="55.334" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="7.296" bold="false" italic="false">USB AB</text>
+  <pin name="D+" showName="true" number="D+" showNumber="true" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D-" showName="true" number="D-" showNumber="true" x="44.92" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VBUS" showName="true" number="VBUS" showNumber="true" x="44.92" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="44.92" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="USBID" showName="true" number="USBID" showNumber="true" x="44.92" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SHIELD" showName="true" number="SHIELD" showNumber="true" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="52.54" y1="43.65" x2="52.54" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

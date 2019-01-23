@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759003" name="HC49US">
+  <line x1="46.571" y1="52.286" x2="53.429" y2="52.286" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.429" y1="47.714" x2="46.571" y2="47.714" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.429" y1="47.714" x2="53.429" y2="52.286" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.571" y1="47.714" x2="46.571" y2="52.286" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="1" x="47.46" y="50" rot="270" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="52.54" y="50" rot="270" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

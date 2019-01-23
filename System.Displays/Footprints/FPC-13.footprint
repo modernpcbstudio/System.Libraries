@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315075742015" name="FPC-13">
+  <line x1="47.225" y1="51.525" x2="48.5" y2="51.525" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="51.5" y1="51.525" x2="52.775" y2="51.525" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="52.775" y1="51.525" x2="52.775" y2="48.825" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="47.225" y1="48.825" x2="47.225" y2="51.525" width="0.0254" layer="201" lineStyle="Solid" />
+  <smd number="P$1" x="47.49" y="51.2" rot="0" width="0.3" height="0.85" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="52.51" y="51.2" rot="0" width="0.3" height="0.85" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="13" x="48.2" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="11" x="48.8" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="49.4" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="50" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50.6" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.2" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="51.8" y="51.265" rot="0" width="0.25" height="0.72" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="12" x="48.5" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="49.1" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="49.7" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="50.3" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50.9" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.5" y="48.835" rot="0" width="0.25" height="0.52" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.125" y1="48.725" x2="47.125" y2="51.525" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.775" y1="48.825" x2="47.225" y2="48.825" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="52.875" y1="51.525" x2="52.875" y2="48.725" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.195" y1="48.725" x2="47.125" y2="48.725" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.875" y1="48.725" x2="51.805" y2="48.725" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="51.525" x2="48.5" y2="53.025" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="48.5" y1="53.025" x2="51.5" y2="53.025" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="51.5" y1="53.025" x2="51.5" y2="51.525" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="51.5" y1="51.525" x2="48.5" y2="51.525" width="0.0254" layer="201" lineStyle="Solid" />
+  <mono x="50" y="52.3" layer="201" rot="0" fontName="Default" fontSize="0.254" strokeWidth="0.2">FPC Entry</mono>
+</footprint>

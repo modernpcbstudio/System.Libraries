@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959004" name="DIODE-ZENER">
+  <line x1="51.27" y1="49.111" x2="51.27" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="50" x2="51.27" y2="50.889" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="49.111" x2="51.778" y2="48.603" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="50.889" x2="50.762" y2="51.397" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="A" showName="false" number="A" showNumber="false" x="47.46" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="C" showName="false" number="C" showNumber="false" x="52.54" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="47.46" y1="50" x2="48.73" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="50" x2="51.27" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="48.73" y="48.73" />
+    <vertex x="51.27" y="50" />
+    <vertex x="48.73" y="51.27" />
+  </poly>
+</symbol>

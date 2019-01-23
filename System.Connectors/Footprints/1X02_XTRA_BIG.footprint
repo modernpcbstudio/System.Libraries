@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763052" name="1X02_XTRA_BIG">
+  <line x1="44.92" y1="47.46" x2="44.92" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="52.54" x2="55.08" y2="52.54" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="52.54" x2="55.08" y2="47.46" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="47.46" x2="44.92" y2="47.46" width="0.127" layer="501" lineStyle="Solid" />
+  <pad number="1" x="47.46" y="50" rot="360" width="3.556" height="3.556" cornerRadius="1.778" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.0574" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="52.54" y="50" rot="360" width="3.556" height="3.556" cornerRadius="1.778" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.0574" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

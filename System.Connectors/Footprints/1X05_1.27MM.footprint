@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764001" name="1X05_1.27MM">
+  <line x1="49.619" y1="50.889" x2="50.381" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.381" y1="50.889" x2="50.635" y2="50.635" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="50.635" x2="50.889" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.889" y1="50.889" x2="51.651" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.651" y1="50.889" x2="51.905" y2="50.635" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="50.635" x2="52.159" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52.159" y1="50.889" x2="52.921" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52.921" y1="50.889" x2="53.175" y2="50.635" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="50.635" x2="53.429" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53.429" y1="50.889" x2="54.191" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.191" y1="50.889" x2="54.445" y2="50.635" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.445" y1="50.635" x2="54.699" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.699" y1="50.889" x2="55.461" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.461" y1="49.111" x2="54.699" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.699" y1="49.111" x2="54.445" y2="49.365" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.445" y1="49.365" x2="54.191" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.191" y1="49.111" x2="53.429" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53.429" y1="49.111" x2="53.175" y2="49.365" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="49.365" x2="52.921" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52.921" y1="49.111" x2="52.159" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="52.159" y1="49.111" x2="51.905" y2="49.365" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="49.365" x2="51.651" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.651" y1="49.111" x2="50.889" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.889" y1="49.111" x2="50.635" y2="49.365" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="49.365" x2="50.381" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.381" y1="49.111" x2="49.619" y2="49.111" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="49.619" y1="49.111" x2="49.111" y2="49.619" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="49.111" y1="50.381" x2="49.619" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="49.111" y1="49.619" x2="49.111" y2="50.381" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.461" y1="49.111" x2="55.969" y2="49.619" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.969" y1="49.619" x2="55.969" y2="50.381" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.969" y1="50.381" x2="55.461" y2="50.889" width="0.127" layer="501" lineStyle="Solid" />
+  <pad number="5" x="55.08" y="50" rot="360" width="1" height="1" cornerRadius="0.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="53.81" y="50" rot="360" width="1" height="1" cornerRadius="0.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="52.54" y="50" rot="360" width="1" height="1" cornerRadius="0.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="51.27" y="50" rot="360" width="1" height="1" cornerRadius="0.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="1" x="50" y="50" rot="360" width="1" height="1" cornerRadius="0.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.508" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

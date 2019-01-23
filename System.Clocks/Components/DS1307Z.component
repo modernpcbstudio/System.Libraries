@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313415759047" name="DS1307Z" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012313415759026" symbolName="DS1307" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012313415759014" footprintName="SO08-0.15">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="6" gateId="1" pin="SCL" />
+      <map pad="5" gateId="1" pin="SDA" />
+      <map pad="7" gateId="1" pin="SQW" />
+      <map pad="3" gateId="1" pin="VBATT" />
+      <map pad="8" gateId="1" pin="VCC" />
+      <map pad="1" gateId="1" pin="X1" />
+      <map pad="2" gateId="1" pin="X2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

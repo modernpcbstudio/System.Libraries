@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766085" name="POWER_JACKPTH_SMD_COMBO" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765136" symbolName="POWERJACK" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764103" footprintName="POWER_JACK_COMBO">
+    <pad2pinMaps>
+      <map pad="GND@1" gateId="1" pin="GND" />
+      <map pad="GND" gateId="1" pin="GNDBREAK" />
+      <map pad="POWER" gateId="1" pin="PWR" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="FERRITE_BEAD-0603.component" />
+    <Component Path="INDUCTOR.component" />
+    <Component Path="INDUCTOR-0402-3.9NH.component" />
+    <Component Path="INDUCTOR-0603-15NH.component" />
+    <Component Path="INDUCTOR-0603-33NH.component" />
+    <Component Path="INDUCTOR-0805-3.3UH.component" />
+    <Component Path="INDUCTOR-CDRH-4.7UH.component" />
+    <Component Path="INDUCTOR-CDRH-10UH.component" />
+    <Component Path="INDUCTOR-CR54-3.3UH.component" />
+    <Component Path="INDUCTOR-CR54-47UH.component" />
+    <Component Path="INDUCTOR-CR75-68UH.component" />
+    <Component Path="INDUCTORFB-30OHM.component" />
+    <Component Path="INDUCTORINDUCTOR_10UH.component" />
+    <Component Path="INDUCTOR-SDR13-27UH.component" />
+    <Component Path="INDUCTOR-SRN6045-33UH.component" />
+    <Component Path="INDUCTOR-VLF4012AT-2.2UH.component" />
+    <Component Path="INDUCTOR-XFL4020.component" />
+    <Component Path="NEW2.2U.component" />
+    <Component Path="TRANSFORMER_QUADFILIAR.component" />
+    <Component Path="TRANSFORMERPTH.component" />
+    <Component Path="TRANSFORMERSMD.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="0402.footprint" />
+    <Footprint Path="0603.footprint" />
+    <Footprint Path="0805.footprint" />
+    <Footprint Path="COILCRAFT_DA230X.footprint" />
+    <Footprint Path="CR54.footprint" />
+    <Footprint Path="CR75.footprint" />
+    <Footprint Path="INDUCTOR_2.2UH.footprint" />
+    <Footprint Path="INDUCTOR_3X3.footprint" />
+    <Footprint Path="INDUCTOR_4.7UH.footprint" />
+    <Footprint Path="INDUCTOR_4X4MM.footprint" />
+    <Footprint Path="INDUCTOR_LQH32.footprint" />
+    <Footprint Path="INDUCTOR_SDR1307.footprint" />
+    <Footprint Path="INDUCTOR-SRP4020.footprint" />
+    <Footprint Path="SRN6045.footprint" />
+    <Footprint Path="TRANSFORMER.footprint" />
+    <Footprint Path="TRANSFORMER_SMD.footprint" />
+    <Footprint Path="XFL4020.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="FERRITE_BEAD.symbol" />
+    <Symbol Path="INDUCTOR.symbol" />
+    <Symbol Path="INDUCTORCOPY.symbol" />
+    <Symbol Path="TRANSFORMER.symbol" />
+    <Symbol Path="TRANSFORMER-QUADFILIAR.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

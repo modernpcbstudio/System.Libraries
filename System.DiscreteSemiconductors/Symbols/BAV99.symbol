@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550958025" name="BAV99">
+  <line x1="44.92" y1="47.46" x2="55.08" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="47.46" x2="55.08" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="50" x2="55.08" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="52.54" x2="50" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="52.54" x2="44.92" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="52.54" x2="44.92" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="50" x2="44.92" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="50" x2="46.444" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="48.984" x2="48.222" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="50" x2="48.222" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.556" y1="48.984" x2="53.556" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.556" y1="50" x2="53.556" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="50" x2="50" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="48.222" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="50" x2="53.556" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="52.54" x2="50" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="A1" showName="true" number="A1" showNumber="true" x="39.84" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="C2" showName="true" number="C2" showNumber="true" x="60.16" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="COM" showName="true" number="COM" showNumber="true" x="50" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="46.444" y="48.984" />
+    <vertex x="48.222" y="50" />
+    <vertex x="46.444" y="51.016" />
+  </poly>
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.8288" y="48.984" />
+    <vertex x="53.6068" y="50" />
+    <vertex x="51.8288" y="51.016" />
+  </poly>
+</symbol>

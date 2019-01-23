@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415758000" name="HC49U">
+  <line x1="47.079" y1="52.286" x2="52.921" y2="52.286" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="47.079" y1="47.714" x2="52.921" y2="47.714" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="47.079" y1="51.778" x2="52.921" y2="51.778" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.921" y1="48.222" x2="47.079" y2="48.222" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.921" y1="48.222" x2="52.921" y2="51.778" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="52.921" y1="47.714" x2="52.921" y2="52.286" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="47.079" y1="47.714" x2="47.079" y2="52.286" width="0.4064" layer="501" lineStyle="Solid" />
+  <line x1="47.079" y1="48.222" x2="47.079" y2="51.778" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.746" y1="49.111" x2="50.254" y2="49.111" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.254" y1="49.111" x2="50.254" y2="50.889" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.254" y1="50.889" x2="49.746" y2="50.889" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.746" y1="50.889" x2="49.746" y2="49.111" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="49.111" x2="50.635" y2="50" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="50" x2="50.635" y2="50.889" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="49.111" x2="49.365" y2="50" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="50" x2="49.365" y2="50.889" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.635" y1="50" x2="51.27" y2="50" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="50" x2="48.73" y2="50" width="0.1524" layer="501" lineStyle="Solid" />
+  <pad number="1" x="47.587" y="50" rot="360" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="52.413" y="50" rot="360" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766156" name="TEST-POINT3X4" prefix="TP" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765163" symbolName="TEST-POINT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765051" footprintName="PAD.03X.04">
+    <pad2pinMaps>
+      <map pad="P$1" gateId="1" pin="1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

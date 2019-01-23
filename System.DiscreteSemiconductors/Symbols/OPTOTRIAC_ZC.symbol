@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959006" name="OPTOTRIAC_ZC">
+  <line x1="42.38" y1="44.92" x2="57.62" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="44.92" x2="57.62" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="47.46" x2="57.62" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="52.54" x2="57.62" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="55.08" x2="42.38" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="55.08" x2="42.38" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="52.54" x2="42.38" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="47.46" x2="42.38" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.65" y1="51.016" x2="44.92" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="51.016" x2="46.19" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="52.54" x2="44.92" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="51.016" x2="44.92" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="51.016" x2="53.048" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="51.016" x2="54.318" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.0104" y1="48.984" x2="54.318" y2="48.984" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="47.46" x2="44.92" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="52.54" x2="42.38" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="47.46" x2="54.318" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="52.54" x2="54.318" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="52.54" x2="54.318" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="48.984" x2="54.318" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.968" y1="51.016" x2="47.968" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.968" y1="53.302" x2="51.016" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="53.302" x2="51.016" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="52.54" x2="51.016" y2="51.778" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="51.778" x2="51.016" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="51.016" x2="49.492" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.492" y1="51.016" x2="47.968" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="47.46" x2="49.492" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.492" y1="47.46" x2="49.492" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="52.54" x2="51.016" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.698" y1="49.238" x2="48.476" y2="47.968" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.476" y1="47.968" x2="47.714" y2="47.968" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.476" y1="47.968" x2="48.222" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.952" y1="50.508" x2="48.73" y2="49.238" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="49.238" x2="47.968" y2="49.238" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="49.238" x2="48.476" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="51.016" x2="52.54" y2="51.778" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="51.778" x2="51.016" y2="51.778" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="48.476" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">ZC</text>
+  <pin name="A" showName="true" number="A" showNumber="true" x="39.84" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="K" showName="true" number="K" showNumber="true" x="39.84" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="T2" showName="true" number="T2" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="T1" showName="true" number="T1" showNumber="true" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="43.65" y="48.984" />
+    <vertex x="44.92" y="51.016" />
+    <vertex x="46.19" y="48.984" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.778" y="48.984" />
+    <vertex x="53.048" y="51.016" />
+    <vertex x="54.318" y="48.984" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="56.858" y="51.016" />
+    <vertex x="55.588" y="48.984" />
+    <vertex x="54.318" y="51.016" />
+  </poly>
+  <line x1="51.8288" y1="48.984" x2="51.6256" y2="48.984" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.8072" y1="51.016" x2="57.0104" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.7272" y1="51.016" x2="51.6256" y2="51.016" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

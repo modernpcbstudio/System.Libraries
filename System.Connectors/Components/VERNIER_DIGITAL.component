@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766161" name="VERNIER_DIGITAL" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765165" symbolName="VERNIER_DIGITAL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764140" footprintName="BTD">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="GND" />
+      <map pad="1" gateId="1" pin="IO-0" />
+      <map pad="2" gateId="1" pin="IO-1" />
+      <map pad="3" gateId="1" pin="IO-2" />
+      <map pad="6" gateId="1" pin="IO-3" />
+      <map pad="4" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

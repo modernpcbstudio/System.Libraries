@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765075" name="USB-B-MICRO-SMD_VERT">
+  <line x1="53.77653125" y1="51.065228125" x2="53.172496875" y2="51.714565625" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.172496875" y1="51.714565625" x2="52.746740625" y2="51.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.746740625" y1="51.9" x2="47.253259375" y2="51.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.253259375" y1="51.9" x2="46.827503125" y2="51.714565625" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.827503125" y1="51.714565625" x2="46.22346875" y2="51.065228125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.22346875" y1="51.065228125" x2="46" y2="50.496903125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46" y1="50.496903125" x2="46" y2="50.493303125" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="46" y1="50.493303125" x2="46.743303125" y2="49.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.743303125" y1="49.75" x2="53.256696875" y2="49.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.256696875" y1="49.75" x2="54" y2="50.493303125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="50.493303125" x2="54" y2="50.496903125" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54" y1="50.496903125" x2="53.77653125" y2="51.065228125" width="0.2032" layer="501" lineStyle="Solid" />
+  <rect x="48.7" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.349999999999994" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50" y="50" width="0.26000000000000512" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.650000000000006" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="51.3" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <smd number="D+" x="50" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="D-" x="49.35" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="GND" x="51.3" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="ID" x="50.65" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <pad number="P1" x="47.2" y="49.75" rot="180" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P2" x="52.8" y="49.75" rot="180" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P3" x="50" y="51.9" rot="360" width="2.54" height="2.54" cornerRadius="1.27" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.27" slotHeight="0" slotRot="0" plated="false" />
+  <smd number="VBUS" x="48.7" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+</footprint>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759017" name="OSCILLATOR-SMD-5X3.2">
+  <circle x="47.173" y="51.927" diameter="0.508" borderWidth="0" isFilled="false" layer="501" />
+  <smd number="1" x="48.73" y="51.1" rot="0" width="1.397" height="1.1938" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.27" y="51.1" rot="0" width="1.397" height="1.1938" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.27" y="48.9" rot="0" width="1.397" height="1.1938" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="48.73" y="48.9" rot="0" width="1.397" height="1.1938" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.5" y1="48.4" x2="47.5" y2="51.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="51.6" x2="52.5" y2="51.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.5" y1="51.6" x2="52.5" y2="48.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.5" y1="48.4" x2="47.5" y2="48.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.427" y1="48.327" x2="47.427" y2="51.673" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.573" y1="51.673" x2="52.573" y2="48.327" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.427" y1="51.673" x2="47.8" y2="51.673" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.573" y1="48.327" x2="52.2" y2="48.327" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.427" y1="48.327" x2="47.8" y2="48.327" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.573" y1="51.673" x2="52.2" y2="51.673" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.7" y1="51.8" x2="50.3" y2="51.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.3" y1="48.2" x2="49.7" y2="48.2" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

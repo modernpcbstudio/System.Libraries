@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763049" name="1X02_LONGPADS">
+  <pad number="1" x="50" y="50" rot="180" width="1.8796" height="4.699" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1176" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="52.54" y="50" rot="180" width="1.8796" height="4.699" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1176" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

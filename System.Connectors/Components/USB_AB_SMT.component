@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766124" name="USB_AB_SMT" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765148" symbolName="USB_AB" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764146" footprintName="USB-AB-MICRO-SMD">
+    <pad2pinMaps>
+      <map pad="D+1" gateId="1" pin="D+" />
+      <map pad="D-1" gateId="1" pin="D-" />
+      <map pad="GND1" gateId="1" pin="GND" />
+      <map pad="SHLD1 SHLD2 SHLD3" gateId="1" pin="SHIELD" />
+      <map pad="ID1" gateId="1" pin="USBID" />
+      <map pad="VBUS1" gateId="1" pin="VBUS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360763072" name="1X03-1MM-RA">
+  <line x1="49" y1="54.6" x2="51" y2="54.6" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47.5" y1="52" x2="47.5" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="51.75" y1="50.35" x2="52.4997" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="52.4997" y1="50.35" x2="52.4997" y2="52" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47.5" y1="50.35" x2="48.25" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <circle x="48" y="49.7" diameter="0.2828" borderWidth="0.4" isFilled="false" layer="501" />
+  <smd number="NC2" x="47.7" y="53.675" rot="0" width="1.2" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="52.3" y="53.675" rot="0" width="1.2" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="49" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

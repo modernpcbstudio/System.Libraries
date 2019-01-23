@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314550959017" name="LABELED-PMOS">
+  <pin name="G" showName="false" number="G" showNumber="false" x="44.92" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="S" showName="false" number="S" showNumber="false" x="52.54" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D" showName="false" number="D" showNumber="false" x="52.54" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="47.46" y1="52.54" x2="47.46" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="49.3142" x2="48.0188" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="50" x2="48.0188" y2="50.8382" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="51.2954" x2="48.0188" y2="51.905" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="51.905" x2="48.0188" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="47.46" x2="48.0188" y2="48.196600000000004" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="48.196600000000004" x2="48.0188" y2="48.9078" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="51.905" x2="50" y2="51.905" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="51.905" x2="50" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="51.905" x2="50" y2="51.905" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.0188" y1="48.196600000000004" x2="52.54" y2="48.196600000000004" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="50.762" x2="53.302" y2="50.762" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="52.54" y2="48.196600000000004" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="52.54" x2="52.54" y2="51.905" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="53.302" y="49.492" />
+    <vertex x="52.54" y="50.762" />
+    <vertex x="51.778" y="49.492" />
+  </poly>
+  <line x1="51.778" y1="50.762" x2="51.6002" y2="50.9398" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.4798" y1="50.5842" x2="53.302" y2="50.762" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="49.8222" y="50" />
+    <vertex x="49.0602" y="50.254" />
+    <vertex x="49.0602" y="49.746" />
+  </poly>
+  <line x1="50" y1="50" x2="48.0188" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="51.905" x2="52.54" y2="50.7874" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="48.196600000000004" x2="52.54" y2="49.4158" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

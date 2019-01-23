@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766105" name="RCALOCK" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765147" symbolName="RCA" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764122" footprintName="RCA_LOCK">
+    <pad2pinMaps>
+      <map pad="PIN" gateId="1" pin="PIN" />
+      <map pad="SHELL" gateId="1" pin="SHELL" />
+      <map pad="SWITCH" gateId="1" pin="SWITCH" />
+    </pad2pinMaps>
+  </footprint>
+</component>

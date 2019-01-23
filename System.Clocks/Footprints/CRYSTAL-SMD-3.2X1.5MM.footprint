@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759018" name="CRYSTAL-SMD-3.2X1.5MM">
+  <smd number="P$1" x="48.75" y="50" rot="0" width="1" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="51.25" y="50" rot="0" width="1" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.4" y1="49.25" x2="51.6" y2="49.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="49.25" x2="51.6" y2="50.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="50.75" x2="48.4" y2="50.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.4" y1="50.75" x2="48.4" y2="49.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.5" y1="49.15" x2="50.5" y2="49.15" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="50.85" x2="49.5" y2="50.85" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

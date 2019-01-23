@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764151" name="1X04_SMD_LONG">
+  <line x1="55.08" y1="48.75" x2="44.92" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.92" y1="48.75" x2="44.92" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="44.92" y1="51.25" x2="46.19" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.19" y1="51.25" x2="48.73" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.73" y1="51.25" x2="51.27" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.27" y1="51.25" x2="53.81" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="55.08" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="55.08" y1="51.25" x2="55.08" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="53.81" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.27" y1="51.25" x2="51.27" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.73" y1="51.25" x2="48.73" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.19" y1="51.25" x2="46.19" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="4" x="53.81" y="44.5" rot="-90" width="4" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.27" y="44.5" rot="-90" width="4" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="48.73" y="44.5" rot="-90" width="4" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="46.19" y="44.5" rot="-90" width="4" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="47.46" y="50" drill="1.4" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="52.54" y="50" drill="1.4" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

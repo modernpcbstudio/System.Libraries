@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765066" name="1X04_1MM_RA_STRESSRELIEF">
+  <line x1="48.5" y1="54.6" x2="51.5" y2="54.6" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="52" x2="47" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="52.25" y1="50.35" x2="53" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="50.35" x2="53" y2="52" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="50.35" x2="47.75" y2="50.35" width="0.254" layer="501" lineStyle="Solid" />
+  <circle x="47.5" y="49.7" diameter="0.2828" borderWidth="0.4" isFilled="false" layer="501" />
+  <smd number="NC2" x="47.2" y="53.675" rot="0" width="1.2" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="52.8" y="53.675" rot="0" width="1.2" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="48.5" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="49.5" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50.5" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="51.5" y="50" rot="0" width="0.6" height="1.35" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="50" y="57" width="8" height="2" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="701" />
+  <rect x="47" y="59" width="2" height="2" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="701" />
+</footprint>

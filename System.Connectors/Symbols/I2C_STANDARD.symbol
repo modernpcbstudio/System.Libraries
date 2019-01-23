@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765159" name="I2C_STANDARD">
+  <line x1="53.81" y1="55.08" x2="44.92" y2="55.08" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="47.46" x2="52.54" y2="47.46" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="50" x2="52.54" y2="50" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="52.54" x2="52.54" y2="52.54" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="42.38" x2="44.92" y2="55.08" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="55.08" x2="53.81" y2="42.38" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="42.38" x2="53.81" y2="42.38" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="44.92" x2="52.54" y2="44.92" width="0.6096" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="1" showName="true" number="1" showNumber="true" x="57.62" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="true" number="2" showNumber="true" x="57.62" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="true" number="3" showNumber="true" x="57.62" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="true" number="4" showNumber="true" x="57.62" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="45.428" y="47.46" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">SDA</text>
+  <text x="45.428" y="50" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">VCC</text>
+  <text x="45.428" y="52.54" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">GND</text>
+  <text x="45.428" y="44.92" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">SCL</text>
+</symbol>

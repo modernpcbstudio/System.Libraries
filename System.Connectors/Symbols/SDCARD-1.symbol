@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012314360765149" name="SDCARD-1">
+  <line x1="42.38" y1="32.22" x2="57.62" y2="32.22" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="32.22" x2="57.62" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="67.78" x2="42.38" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="67.78" x2="42.38" y2="32.22" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="CD/DAT3" showName="true" number="CD/DAT3" showNumber="true" x="37.3" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CMD" showName="true" number="CMD" showNumber="true" x="37.3" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS1" showName="true" number="VSS1" showNumber="true" x="37.3" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="37.3" y="34.76" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CLK" showName="true" number="CLK" showNumber="true" x="37.3" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS2" showName="true" number="VSS2" showNumber="true" x="37.3" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DAT0" showName="true" number="DAT0" showNumber="true" x="37.3" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DAT1" showName="true" number="DAT1" showNumber="true" x="37.3" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DAT2" showName="true" number="DAT2" showNumber="true" x="37.3" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="WP" showName="true" number="WP" showNumber="true" x="37.3" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CD" showName="true" number="CD" showNumber="true" x="37.3" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SH@1" showName="true" number="SH@1" showNumber="true" x="37.3" y="65.24" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SH@2" showName="true" number="SH@2" showNumber="true" x="37.3" y="62.7" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313415759040" name="CRYSTALSMD-5X3.2-4PAD" prefix="Y" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012313415759024" symbolName="CRYSTAL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012313415759005" footprintName="CRYSTAL-SMD-5X3.2-4PAD">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="3" gateId="1" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

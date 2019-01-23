@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765040" name="6_PIN_SERIAL_TARGET_SIDE_RA_SMT">
+  <line x1="57.62" y1="48.75" x2="42.38" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.38" y1="48.75" x2="42.38" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.38" y1="51.25" x2="43.65" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="43.65" y1="51.25" x2="46.19" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.19" y1="51.25" x2="48.73" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.73" y1="51.25" x2="51.27" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.27" y1="51.25" x2="53.81" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="56.35" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="56.35" y1="51.25" x2="57.62" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="57.62" y1="51.25" x2="57.62" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="56.35" y1="51.25" x2="56.35" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.81" y1="51.25" x2="53.81" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.27" y1="51.25" x2="51.27" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.73" y1="51.25" x2="48.73" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.19" y1="51.25" x2="46.19" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="43.65" y1="51.25" x2="43.65" y2="57.25" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="4" x="51.27" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="53.81" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="56.35" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="48.73" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="46.19" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="43.65" y="45" rot="-90" width="3" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <mono x="46.19" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">TXO</mono>
+  <mono x="48.73" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">RXI</mono>
+  <mono x="51.27" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">VCC</mono>
+  <mono x="43.65" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">DTR</mono>
+  <mono x="56.35" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">GND</mono>
+  <mono x="53.81" y="51.016" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">CTS</mono>
+  <mono x="42.634" y="52.54" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">GRN</mono>
+  <mono x="57.366" y="52.54" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">BLK</mono>
+  <hole x="44.92" y="50" drill="1.4" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="55.08" y="50" drill="1.4" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

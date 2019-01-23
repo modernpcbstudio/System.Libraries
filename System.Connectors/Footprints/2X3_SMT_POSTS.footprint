@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764132" name="2X3_SMT_POSTS">
+  <hole x="48.73" y="50" drill="1.8" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="51.27" y="50" drill="1.8" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <smd number="4" x="50" y="47.46" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50" y="52.54" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="52.54" y="52.54" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="52.54" y="47.46" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="47.46" y="47.46" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.46" y="52.54" rot="-90" width="3.17" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.222" y1="47.46" x2="49.238" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.762" y1="47.46" x2="51.778" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.222" y1="52.54" x2="49.111" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.762" y1="52.54" x2="51.778" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="47.46" x2="46.19" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="47.46" x2="46.19" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="52.54" x2="46.825" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.175" y1="47.46" x2="53.81" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="47.46" x2="53.81" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="52.54" x2="53.175" y2="52.54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.571" y1="54.064" x2="46.571" y2="52.794" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

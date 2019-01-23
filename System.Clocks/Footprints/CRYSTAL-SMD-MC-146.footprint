@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759007" name="CRYSTAL-SMD-MC-146">
+  <line x1="50.35" y1="50" x2="57.05" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="57.05" y1="50" x2="57.05" y2="48.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="57.05" y1="48.5" x2="50.35" y2="48.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.35" y1="48.5" x2="50.35" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="P$1" x="50.6" y="49.7" rot="0" width="1.2" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="50.6" y="48.8" rot="0" width="1.2" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC2" x="56.9" y="49.7" rot="0" width="1.2" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="56.9" y="48.8" rot="0" width="1.2" height="0.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="57.05" y1="50.2" x2="50.35" y2="50.2" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.35" y1="48.3" x2="57.05" y2="48.3" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

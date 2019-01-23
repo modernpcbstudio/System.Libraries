@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314550958007" name="DPAK">
+  <line x1="53.2766" y1="47.5346" x2="53.277" y2="53.729" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.277" y1="53.729" x2="46.723" y2="53.729" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.723" y1="53.729" x2="46.7234" y2="47.5346" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.723" y1="47.535" x2="53.2774" y2="47.5354" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.4346" y1="47.433" x2="47.4346" y2="46.7218" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.4346" y1="46.7218" x2="47.8918" y2="46.2646" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.8918" y1="46.2646" x2="52.1082" y2="46.2646" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.1082" y1="46.2646" x2="52.5654" y2="46.7218" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.5654" y1="46.7218" x2="52.5654" y2="47.433" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.5654" y1="47.433" x2="47.4346" y2="47.433" width="0.2032" layer="201" lineStyle="Solid" />
+  <rect x="47.714" y="55.2784" width="0.86359999999999815" height="2.8956000000000017" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.286" y="55.2784" width="0.86359999999999815" height="2.8956000000000017" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="54.2116" width="0.86360000000000525" height="0.76200000000000045" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <smd number="1" x="47.72" y="55.31" rot="0" width="1.6" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.28" y="55.31" rot="0" width="1.6" height="3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50" y="48.412" rot="0" width="4.826" height="5.715" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.1998" isFilled="true" layer="201">
+    <vertex x="47.4346" y="47.433" />
+    <vertex x="47.4346" y="46.7218" />
+    <vertex x="47.8918" y="46.2646" />
+    <vertex x="52.1082" y="46.2646" />
+    <vertex x="52.5654" y="46.7218" />
+    <vertex x="52.5654" y="47.433" />
+  </poly>
+</footprint>

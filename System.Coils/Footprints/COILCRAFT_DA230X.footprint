@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875008" name="COILCRAFT_DA230X">
+  <line x1="45.9" y1="45" x2="47" y2="45" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="45" x2="53" y2="45" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="45" x2="54.1" y2="45" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="45.9" y1="55" x2="47" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="55" x2="53" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="55" x2="54.1" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="54.1" y1="45" x2="54.1" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="45.9" y1="45" x2="45.9" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="45" x2="47" y2="47" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="47" x2="47" y2="53" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="53" x2="47" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="45" x2="53" y2="47" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="47" x2="53" y2="53" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="53" x2="53" y2="55" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="47" y1="53" x2="47" y2="47" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="53" y1="47" x2="53" y2="53" width="0.127" layer="501" lineStyle="Solid" />
+  <smd number="P$1" x="44.6" y="47" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="44.6" y="49" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$3" x="44.6" y="51" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$4" x="44.6" y="53" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$5" x="55.4" y="53" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$6" x="55.4" y="51" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$7" x="55.4" y="49" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$8" x="55.4" y="47" rot="0" width="1.7" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="48.095" y="46.19" diameter="1.27" borderWidth="0" isFilled="false" layer="501" />
+</footprint>

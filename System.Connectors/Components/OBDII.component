@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766076" name="OBDII" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765131" symbolName="OBDII" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360764096" footprintName="OBDII">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="11" gateId="1" pin="11" />
+      <map pad="12" gateId="1" pin="12" />
+      <map pad="13" gateId="1" pin="13" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="8" gateId="1" pin="8" />
+      <map pad="9" gateId="1" pin="9" />
+      <map pad="16" gateId="1" pin="BATTPOWER" />
+      <map pad="6" gateId="1" pin="CANHIGH" />
+      <map pad="14" gateId="1" pin="CANLOW" />
+      <map pad="4" gateId="1" pin="CHASGND" />
+      <map pad="7" gateId="1" pin="ISOK-LINE" />
+      <map pad="15" gateId="1" pin="ISOL-LINE" />
+      <map pad="10" gateId="1" pin="J1850BUS" />
+      <map pad="2" gateId="1" pin="J1850BUS+" />
+      <map pad="5" gateId="1" pin="SIGGND" />
+    </pad2pinMaps>
+  </footprint>
+</component>

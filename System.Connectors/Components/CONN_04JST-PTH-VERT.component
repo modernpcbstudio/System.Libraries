@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765285" name="CONN_04JST-PTH-VERT" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765103" symbolName="CONN_04" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765005" footprintName="JST-4-PTH-VERT">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+      <map pad="4" gateId="1" pin="4" />
+    </pad2pinMaps>
+  </footprint>
+</component>

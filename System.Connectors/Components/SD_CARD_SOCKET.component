@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360766122" name="SD_CARD_SOCKET" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765149" symbolName="SDCARD-1" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360765010" footprintName="SD">
+    <pad2pinMaps>
+      <map pad="CD" gateId="1" pin="CD" />
+      <map pad="1" gateId="1" pin="CD/DAT3" />
+      <map pad="5" gateId="1" pin="CLK" />
+      <map pad="2" gateId="1" pin="CMD" />
+      <map pad="7" gateId="1" pin="DAT0" />
+      <map pad="8" gateId="1" pin="DAT1" />
+      <map pad="9" gateId="1" pin="DAT2" />
+      <map pad="SH@1" gateId="1" pin="SH@1" />
+      <map pad="SH@2" gateId="1" pin="SH@2" />
+      <map pad="4" gateId="1" pin="VDD" />
+      <map pad="3" gateId="1" pin="VSS1" />
+      <map pad="6" gateId="1" pin="VSS2" />
+      <map pad="WP" gateId="1" pin="WP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

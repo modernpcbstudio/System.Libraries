@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764005" name="1X05_1MM">
+  <line x1="52" y1="47.079" x2="47.92" y2="47.079" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.778" y1="49.238" x2="53.778" y2="50.635" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47.158" y1="50.635" x2="46.142" y2="50.635" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.142" y1="50.635" x2="46.142" y2="49.238" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.778" y1="50.635" x2="52.762" y2="50.635" width="0.254" layer="501" lineStyle="Solid" />
+  <smd number="NC2" x="53.3" y="47.775" rot="-180" width="1.2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="46.7" y="47.775" rot="-180" width="1.2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="52" y="50" rot="-180" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="51" y="50" rot="-180" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50" y="50" rot="-180" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="49" y="50" rot="-180" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="48" y="50" rot="-180" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="53.81" y="51.27" diameter="0" borderWidth="0.508" isFilled="false" layer="501" />
+</footprint>

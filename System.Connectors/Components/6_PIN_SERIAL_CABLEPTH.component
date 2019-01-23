@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012314360765211" name="6_PIN_SERIAL_CABLEPTH" prefix="J" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012314360765099" symbolName="CONN_06" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012314360763029" footprintName="FTDI_BASIC">
+    <pad2pinMaps>
+      <map pad="DTR" gateId="1" pin="1" />
+      <map pad="RXI" gateId="1" pin="2" />
+      <map pad="TXO" gateId="1" pin="3" />
+      <map pad="VCC" gateId="1" pin="4" />
+      <map pad="CTS" gateId="1" pin="5" />
+      <map pad="GND" gateId="1" pin="6" />
+    </pad2pinMaps>
+  </footprint>
+</component>

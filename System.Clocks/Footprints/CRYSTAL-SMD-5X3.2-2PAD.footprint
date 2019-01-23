@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759013" name="CRYSTAL-SMD-5X3.2-2PAD">
+  <smd number="P$1" x="51.85" y="50" rot="0" width="1.7" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="48.15" y="50" rot="0" width="1.7" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.4" y1="48.3" x2="52.6" y2="48.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.6" y1="51.7" x2="47.4" y2="51.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.5" y1="51.6" x2="52.5" y2="51.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.5" y1="51.6" x2="52.5" y2="48.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.5" y1="48.4" x2="47.5" y2="48.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="48.4" x2="47.5" y2="51.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.4" y1="48.3" x2="47.4" y2="48.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.6" y1="51.7" x2="52.6" y2="51.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.4" y1="51.7" x2="47.4" y2="51.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.6" y1="48.3" x2="52.6" y2="48.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="47.5" y="49" />
+    <vertex x="48.8" y="49" />
+    <vertex x="48.8" y="51" />
+    <vertex x="47.5" y="51" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="52.5" y="51" />
+    <vertex x="51.2" y="51" />
+    <vertex x="51.2" y="49" />
+    <vertex x="52.5" y="49" />
+  </poly>
+</footprint>

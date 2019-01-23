@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313415759010" name="OSCILLATOR-SMD-7.5X5.2-6PIN">
+  <line x1="53.75" y1="47.4" x2="46.25" y2="47.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="46.15" y1="47.3" x2="46.15" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.25" y1="52.6" x2="53.75" y2="52.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.75" y1="52.6" x2="53.75" y2="47.4" width="0.127" layer="201" lineStyle="Solid" />
+  <circle x="45.869" y="52.981" diameter="0.721" borderWidth="0" isFilled="false" layer="501" />
+  <smd number="2" x="52.54" y="52.1" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.54" y="47.9" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.46" y="47.9" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.46" y="52.1" rot="-90" width="2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC0" x="50" y="52.1" rot="-90" width="2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="NC1" x="50" y="47.9" rot="-90" width="2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="46.25" y1="47.4" x2="46.25" y2="52.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.85" y1="52.7" x2="53.85" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.15" y1="52.7" x2="46.35" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.6" y1="52.7" x2="49.05" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.95" y1="52.7" x2="51.4" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.65" y1="52.7" x2="53.85" y2="52.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.6" y1="47.3" x2="49.05" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.95" y1="47.3" x2="51.4" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.65" y1="47.3" x2="53.85" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.15" y1="47.3" x2="46.35" y2="47.3" width="0.2032" layer="501" lineStyle="Solid" />
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="46.76" y="47.4" />
+    <vertex x="46.99338125" y="47.4" />
+    <vertex x="47.11" y="47.51661875" />
+    <vertex x="47.11" y="47.64481875" />
+    <vertex x="47.31518125" y="47.85" />
+    <vertex x="47.621321875" y="47.85" />
+    <vertex x="47.81" y="47.661321875" />
+    <vertex x="47.81" y="47.507703125" />
+    <vertex x="47.917703125" y="47.4" />
+    <vertex x="48.16" y="47.4" />
+    <vertex x="48.16" y="48.7" />
+    <vertex x="46.76" y="48.7" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="49.3" y="47.4" />
+    <vertex x="49.53338125" y="47.4" />
+    <vertex x="49.65" y="47.51661875" />
+    <vertex x="49.65" y="47.64481875" />
+    <vertex x="49.85518125" y="47.85" />
+    <vertex x="50.161321875" y="47.85" />
+    <vertex x="50.35" y="47.661321875" />
+    <vertex x="50.35" y="47.507703125" />
+    <vertex x="50.457703125" y="47.4" />
+    <vertex x="50.7" y="47.4" />
+    <vertex x="50.7" y="48.7" />
+    <vertex x="49.3" y="48.7" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="51.84" y="47.4" />
+    <vertex x="52.07338125" y="47.4" />
+    <vertex x="52.19" y="47.51661875" />
+    <vertex x="52.19" y="47.64481875" />
+    <vertex x="52.39518125" y="47.85" />
+    <vertex x="52.701321875" y="47.85" />
+    <vertex x="52.89" y="47.661321875" />
+    <vertex x="52.89" y="47.507703125" />
+    <vertex x="52.997703125" y="47.4" />
+    <vertex x="53.24" y="47.4" />
+    <vertex x="53.24" y="48.7" />
+    <vertex x="51.84" y="48.7" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="53.24" y="52.6" />
+    <vertex x="53.00661875" y="52.6" />
+    <vertex x="52.89" y="52.48338125" />
+    <vertex x="52.89" y="52.35518125" />
+    <vertex x="52.68481875" y="52.15" />
+    <vertex x="52.378678125" y="52.15" />
+    <vertex x="52.19" y="52.338678125" />
+    <vertex x="52.19" y="52.492296875" />
+    <vertex x="52.082296875" y="52.6" />
+    <vertex x="51.84" y="52.6" />
+    <vertex x="51.84" y="51.3" />
+    <vertex x="53.24" y="51.3" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="50.7" y="52.6" />
+    <vertex x="50.46661875" y="52.6" />
+    <vertex x="50.35" y="52.48338125" />
+    <vertex x="50.35" y="52.35518125" />
+    <vertex x="50.14481875" y="52.15" />
+    <vertex x="49.838678125" y="52.15" />
+    <vertex x="49.65" y="52.338678125" />
+    <vertex x="49.65" y="52.492296875" />
+    <vertex x="49.542296875" y="52.6" />
+    <vertex x="49.3" y="52.6" />
+    <vertex x="49.3" y="51.3" />
+    <vertex x="50.7" y="51.3" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="48.16" y="52.6" />
+    <vertex x="47.92661875" y="52.6" />
+    <vertex x="47.81" y="52.48338125" />
+    <vertex x="47.81" y="52.35518125" />
+    <vertex x="47.60481875" y="52.15" />
+    <vertex x="47.298678125" y="52.15" />
+    <vertex x="47.11" y="52.338678125" />
+    <vertex x="47.11" y="52.492296875" />
+    <vertex x="47.002296875" y="52.6" />
+    <vertex x="46.76" y="52.6" />
+    <vertex x="46.76" y="51.3" />
+    <vertex x="48.16" y="51.3" />
+  </poly>
+</footprint>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765015" name="BINDING_POST">
+  <pad number="P$1" x="50" y="42.38" rot="360" width="3" height="3" cornerRadius="1.5" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.5" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="50" y="50" diameter="11" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="50" y="50" diameter="11" borderWidth="0.254" isFilled="false" layer="501" />
+</footprint>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360765081" name="USB-MICROB-PTH-MILL">
+  <smd number="SHIELD7" x="52.72858125" y="52.53091875" rot="-90" width="2.1" height="1.4" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="D+" x="50" y="50" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="D-" x="49.35" y="50" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="GND" x="51.3" y="50" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="ID" x="50.65" y="50" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD2" x="52.9" y="49.725" rot="-90" width="1.46" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD" x="47.1" y="49.725" rot="-90" width="1.46" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD3" x="49.0375" y="52.675" rot="-90" width="2.5" height="1.425" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD4" x="50.9625" y="52.675" rot="-90" width="2.5" height="1.425" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD5" x="47.26858125" y="52.53091875" rot="-90" width="2.1" height="1.4" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD6" x="52.7" y="52.575" rot="-90" width="1" height="1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD8" x="47.26858125" y="52.73091875" rot="-90" width="1.5" height="1.1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD9" x="47.57" y="49.805" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="SHIELD10" x="52.43" y="49.805" rot="-90" width="1.3" height="1" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="VBUS" x="48.7" y="50" rot="-90" width="1.75" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.2032" isFilled="true" layer="1">
+    <vertex x="46.275" y="50.685" />
+    <vertex x="46.27" y="51.325" />
+    <vertex x="46.645" y="51.325" />
+    <vertex x="46.65" y="53.215" />
+    <vertex x="47.055" y="53.51" />
+    <vertex x="47.655" y="53.51" />
+    <vertex x="47.9" y="53.225" />
+    <vertex x="47.905" y="50.685" />
+  </poly>
+  <poly borderWidth="0.2032" isFilled="true" layer="1">
+    <vertex x="53.718" y="50.685" />
+    <vertex x="53.718" y="51.32" />
+    <vertex x="53.34" y="51.32" />
+    <vertex x="53.34" y="53.405" />
+    <vertex x="53.2" y="53.525" />
+    <vertex x="52.335" y="53.5" />
+    <vertex x="52.137" y="53.295" />
+    <vertex x="52.137" y="50.685" />
+  </poly>
+  <poly borderWidth="0.1016" isFilled="true" layer="401">
+    <vertex x="46.2" y="50.625" />
+    <vertex x="48" y="50.625" />
+    <vertex x="48" y="53.225" />
+    <vertex x="47.7" y="53.625" />
+    <vertex x="47" y="53.625" />
+    <vertex x="46.6" y="53.225" />
+    <vertex x="46.6" y="51.425" />
+    <vertex x="46.2" y="51.425" />
+  </poly>
+  <poly borderWidth="0.1016" isFilled="true" layer="401">
+    <vertex x="52" y="50.625" />
+    <vertex x="53.8" y="50.625" />
+    <vertex x="53.8" y="51.425" />
+    <vertex x="53.5" y="51.425" />
+    <vertex x="53.5" y="53.325" />
+    <vertex x="53.1" y="53.625" />
+    <vertex x="52.3" y="53.625" />
+    <vertex x="52" y="53.325" />
+  </poly>
+  <poly borderWidth="0.1016" isFilled="true" layer="301">
+    <vertex x="53.3798" y="51.4376" />
+    <vertex x="53.8624" y="51.4376" />
+    <vertex x="53.8624" y="50.6502" />
+    <vertex x="51.9828" y="50.6502" />
+    <vertex x="51.9828" y="53.1902" />
+    <vertex x="52.313" y="53.5204" />
+    <vertex x="53.0496" y="53.5204" />
+    <vertex x="53.3544" y="53.2156" />
+    <vertex x="53.3544" y="51.463" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="48.575" y="49.180918750000004" />
+    <vertex x="48.825" y="49.180918750000004" />
+    <vertex x="48.825" y="50.805918750000004" />
+    <vertex x="48.575" y="50.805918750000004" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="49.225" y="49.180918750000004" />
+    <vertex x="49.475" y="49.180918750000004" />
+    <vertex x="49.475" y="50.805918750000004" />
+    <vertex x="49.225" y="50.805918750000004" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="49.875" y="49.180918750000004" />
+    <vertex x="50.125" y="49.180918750000004" />
+    <vertex x="50.125" y="50.805918750000004" />
+    <vertex x="49.875" y="50.805918750000004" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="50.525" y="49.180918750000004" />
+    <vertex x="50.775" y="49.180918750000004" />
+    <vertex x="50.775" y="50.805918750000004" />
+    <vertex x="50.525" y="50.805918750000004" />
+  </poly>
+  <poly borderWidth="0.05" isFilled="true" layer="301">
+    <vertex x="51.175" y="49.180918750000004" />
+    <vertex x="51.425" y="49.180918750000004" />
+    <vertex x="51.425" y="50.805918750000004" />
+    <vertex x="51.175" y="50.805918750000004" />
+  </poly>
+  <line x1="52.38" y1="52.525" x2="52.73" y2="52.225" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.73" y1="52.225" x2="53.08" y2="52.525" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="53.08" y1="52.525" x2="53.08" y2="53.125" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="53.08" y1="53.125" x2="52.73" y2="53.425" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.73" y1="53.425" x2="52.38" y2="53.125" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.38" y1="53.125" x2="52.38" y2="52.525" width="0.02" layer="701" lineStyle="Solid" />
+  <poly borderWidth="0.1016" isFilled="true" layer="301">
+    <vertex x="46.6073625" y="51.4376" />
+    <vertex x="46.1247625" y="51.4376" />
+    <vertex x="46.1247625" y="50.6502" />
+    <vertex x="48.0043625" y="50.6502" />
+    <vertex x="48.0043625" y="53.1902" />
+    <vertex x="47.6741625" y="53.5204" />
+    <vertex x="46.9375625" y="53.5204" />
+    <vertex x="46.6327625" y="53.2156" />
+    <vertex x="46.6327625" y="51.463" />
+  </poly>
+  <line x1="52.105" y1="49.595" x2="52.43" y2="49.27" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.43" y1="49.27" x2="52.755" y2="49.595" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.755" y1="49.595" x2="52.755" y2="49.995" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.755" y1="49.995" x2="52.44" y2="50.32" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.44" y1="50.32" x2="52.105" y2="49.995" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="52.105" y1="49.995" x2="52.105" y2="49.595" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.245" y1="49.595" x2="47.57" y2="49.27" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.57" y1="49.27" x2="47.895" y2="49.595" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.895" y1="49.595" x2="47.895" y2="49.995" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.895" y1="49.995" x2="47.58" y2="50.32" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.58" y1="50.32" x2="47.245" y2="49.995" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.245" y1="49.995" x2="47.245" y2="49.595" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="46.92" y1="52.525" x2="47.27" y2="52.225" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.27" y1="52.225" x2="47.62" y2="52.525" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.62" y1="52.525" x2="47.62" y2="53.125" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.62" y1="53.125" x2="47.27" y2="53.425" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="47.27" y1="53.425" x2="46.92" y2="53.125" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="46.92" y1="53.125" x2="46.92" y2="52.525" width="0.02" layer="701" lineStyle="Solid" />
+  <line x1="46.25" y1="55.025" x2="53.75" y2="55.025" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="53.75" y1="55.025" x2="53.75" y2="50.025" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="53.75" y1="50.025" x2="46.25" y2="50.025" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="46.25" y1="50.025" x2="46.25" y2="55.025" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.019999999999996" y1="55.644999999999996" x2="45.980000000000004" y2="55.644999999999996" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="45.980000000000004" y1="55.644999999999996" x2="46.25" y2="55.025" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="54.019999999999996" y1="55.644999999999996" x2="53.75" y2="55.025" width="0.1524" layer="201" lineStyle="Solid" />
+</footprint>

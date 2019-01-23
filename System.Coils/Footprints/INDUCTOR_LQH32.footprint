@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012313560875014" name="INDUCTOR_LQH32">
+  <smd number="P$1" x="49.93" y="48.795" rot="0" width="2" height="1.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="49.93" y="51.295" rot="0" width="2" height="1.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.73" y1="48.095" x2="48.73" y2="51.905" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.73" y1="51.905" x2="51.143" y2="51.905" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.143" y1="51.905" x2="51.143" y2="48.095" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.143" y1="48.095" x2="48.73" y2="48.095" width="0.127" layer="201" lineStyle="Solid" />
+</footprint>

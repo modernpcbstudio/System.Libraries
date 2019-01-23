@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012314360764147" name="1X06-1MM">
+  <line x1="47.46" y1="51.651" x2="52.54" y2="51.651" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="45.682" y1="49.492" x2="45.682" y2="48.095" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="53.302" y1="48.095" x2="54.318" y2="48.095" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="54.318" y1="48.095" x2="54.318" y2="49.492" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="45.682" y1="48.095" x2="46.698" y2="48.095" width="0.254" layer="501" lineStyle="Solid" />
+  <smd number="1" x="47.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="48.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="49.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="51.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="52.46" y="48.73" rot="0" width="0.6" height="1.55" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$1" x="46.16" y="50.955" rot="0" width="1.2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="53.76" y="50.955" rot="0" width="1.2" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="46.4" y="47.53" diameter="0.2094" borderWidth="0.4064" isFilled="false" layer="501" />
+</footprint>
