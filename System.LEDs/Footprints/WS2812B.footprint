@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359021" name="WS2812B">
+  <smd number="1" x="52.577" y="51.6" rot="-180" width="1.651" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.423" y="51.6" rot="-180" width="1.651" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="47.423" y="48.4" rot="-180" width="1.651" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="52.577" y="48.4" rot="-180" width="1.651" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="52.5" y1="52.5" x2="52.5" y2="47.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.5" y1="47.5" x2="47.5" y2="47.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="47.5" x2="47.5" y2="52.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.5" y1="52.5" x2="52.5" y2="52.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.4892" y1="52.362203125" x2="52.4892" y2="52.616203125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.4892" y1="52.616203125" x2="52.4384" y2="52.616203125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.4384" y1="52.616203125" x2="52.4384" y2="52.611121875" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.4384" y1="52.611121875" x2="47.487940625" y2="52.611121875" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.487940625" y1="52.611121875" x2="47.487940625" y2="52.37998125" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.50951875" y1="47.680978125" x2="52.50951875" y2="47.4092" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.50951875" y1="47.4092" x2="52.45871875" y2="47.4092" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.45871875" y1="47.4092" x2="52.45871875" y2="47.406659375" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.45871875" y1="47.406659375" x2="47.49048125" y2="47.406659375" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.49048125" y1="47.406659375" x2="47.49048125" y2="47.63271875" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="49.111" x2="52.54" y2="50.8128" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="50.8636" x2="47.46" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="50" x2="47.46" y2="49.1364" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="50" x2="50" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="47.1425" y="47.1425" diameter="0.4064" borderWidth="0" isFilled="false" layer="501" />
+  <circle x="48.73" y="48.095" diameter="0.4064" borderWidth="0" isFilled="false" layer="201" />
+</footprint>

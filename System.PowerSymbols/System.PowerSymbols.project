@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="2PT_GND_TIE.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="2PT_GND_TIE.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="1.0V.symbol" />
+    <Symbol Path="1.8V.symbol" />
+    <Symbol Path="2.8V.symbol" />
+    <Symbol Path="2PT_GND_TIE.symbol" />
+    <Symbol Path="3.3V.symbol" />
+    <Symbol Path="5V.symbol" />
+    <Symbol Path="12V.symbol" />
+    <Symbol Path="AGND.symbol" />
+    <Symbol Path="DGND.symbol" />
+    <Symbol Path="GND.symbol" />
+    <Symbol Path="GND-ISO.symbol" />
+    <Symbol Path="V_BATT.symbol" />
+    <Symbol Path="V_USB.symbol" />
+    <Symbol Path="VCC.symbol" />
+    <Symbol Path="VCC_1.symbol" />
+    <Symbol Path="VCC_2.symbol" />
+    <Symbol Path="VCCA.symbol" />
+    <Symbol Path="VCCIO.symbol" />
+    <Symbol Path="VCC-ISO.symbol" />
+    <Symbol Path="VDD.symbol" />
+    <Symbol Path="VDDA.symbol" />
+    <Symbol Path="VIN.symbol" />
+    <Symbol Path="VNEG.symbol" />
+    <Symbol Path="VOUT.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

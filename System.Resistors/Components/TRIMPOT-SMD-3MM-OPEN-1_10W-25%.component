@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317022546191" name="TRIMPOT-SMD-3MM-OPEN-1/10W-25%" prefix="VR" componentType="Standard">
+  <gates>
+    <gate id="1" name="R?" symbolId="2019012317022546035" symbolName="TRIMPOT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317022546009" footprintName="TRIMPOT-SMD-TC33X">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="CCW" />
+      <map pad="1" gateId="1" pin="CW" />
+      <map pad="2" gateId="1" pin="WIPER" />
+    </pad2pinMaps>
+  </footprint>
+</component>

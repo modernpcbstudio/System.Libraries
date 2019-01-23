@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751107" name="MOMENTARY-SWITCH-SPST-LED-PTH-CHERRY" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751058" symbolName="SWITCH-MOMENTARY-LED" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751001" footprintName="CHERRY-MX-LED">
+    <pad2pinMaps>
+      <map pad="S1" gateId="1" pin="1" />
+      <map pad="S2" gateId="1" pin="2" />
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="K" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

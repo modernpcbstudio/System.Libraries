@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885069" name="MCP73831" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885037" symbolName="MCP73831" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885003" footprintName="SOT23-5">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="PROG" />
+      <map pad="1" gateId="1" pin="STAT" />
+      <map pad="3" gateId="1" pin="VBAT" />
+      <map pad="4" gateId="1" pin="VIN" />
+      <map pad="2" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

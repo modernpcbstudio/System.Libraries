@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316124424015" name="CD4017">
+  <line x1="42.38" y1="67.78" x2="57.62" y2="67.78" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="67.78" x2="57.62" y2="34.76" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="34.76" x2="42.38" y2="34.76" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="34.76" x2="42.38" y2="67.78" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="Q5" showName="true" number="Q5" showNumber="true" x="60.16" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q1" showName="true" number="Q1" showNumber="true" x="60.16" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q0" showName="true" number="Q0" showNumber="true" x="60.16" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q2" showName="true" number="Q2" showNumber="true" x="60.16" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q6" showName="true" number="Q6" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q7" showName="true" number="Q7" showNumber="true" x="60.16" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q3" showName="true" number="Q3" showNumber="true" x="60.16" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q8" showName="true" number="Q8" showNumber="true" x="60.16" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q4" showName="true" number="Q4" showNumber="true" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Q9" showName="true" number="Q9" showNumber="true" x="60.16" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CO" showName="true" number="CO" showNumber="true" x="60.16" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ENA" showName="true" number="ENA" showNumber="true" x="39.84" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CLK" showName="true" number="CLK" showNumber="true" x="39.84" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RES" showName="true" number="RES" showNumber="true" x="39.84" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

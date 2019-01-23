@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316024757051" name="PCA9306" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316024757030" symbolName="PCA9306" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316024757010" footprintName="PSOP-8">
+    <pad2pinMaps>
+      <map pad="8" gateId="1" pin="EN" />
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="2" gateId="1" pin="SCL1" />
+      <map pad="6" gateId="1" pin="SCL2" />
+      <map pad="3" gateId="1" pin="SDA1" />
+      <map pad="5" gateId="1" pin="SDA2" />
+      <map pad="1" gateId="1" pin="VREF1" />
+      <map pad="7" gateId="1" pin="VREF2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

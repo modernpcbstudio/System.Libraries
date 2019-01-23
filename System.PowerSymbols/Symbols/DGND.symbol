@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316583317008" name="DGND">
+  <line x1="48.095" y1="50" x2="51.905" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="GND" showName="false" number="GND" showNumber="false" x="50" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

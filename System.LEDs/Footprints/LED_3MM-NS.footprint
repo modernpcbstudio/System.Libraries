@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359006" name="LED_3MM-NS">
+  <line x1="51.5748" y1="51.27" x2="51.5748" y2="48.73" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="47.968" x2="51.561" y2="48.6991" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="48.2071" y1="49.0438" x2="50" y2="47.968" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="52.032" x2="51.5512" y2="51.3126" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="48.2357" y1="51.0082" x2="50" y2="52.032" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="47.968" y1="50" x2="48.2109" y2="49.0366" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="47.968" y1="50" x2="48.2694" y2="51.065" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="51.5748" y1="48.7046" x2="51.5748" y2="49.2126" width="0.254" layer="201" lineStyle="Solid" />
+  <line x1="51.5748" y1="51.2954" x2="51.5748" y2="50.8382" width="0.254" layer="201" lineStyle="Solid" />
+  <pad number="A" x="48.73" y="50" rot="360" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="K" x="51.27" y="50" rot="360" width="1.6256" height="1.6256" cornerRadius="0.8128" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="51.8923" y1="48.7046" x2="51.8923" y2="49.2126" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="51.8923" y1="51.2954" x2="51.8923" y2="50.8382" width="0.254" layer="501" lineStyle="Solid" />
+</footprint>

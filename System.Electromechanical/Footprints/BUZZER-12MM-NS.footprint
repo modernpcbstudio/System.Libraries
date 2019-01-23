@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613001" name="BUZZER-12MM-NS">
+  <circle x="50" y="50" diameter="11.8" borderWidth="0.2032" isFilled="false" layer="201" />
+  <circle x="50" y="50" diameter="2.54" borderWidth="0.2032" isFilled="false" layer="201" />
+  <pad number="-" x="46.75" y="50" rot="360" width="1.8" height="1.8" cornerRadius="0.9" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="+" x="53.25" y="50" rot="360" width="1.8" height="1.8" cornerRadius="0.9" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <mono x="52.667" y="48.857" layer="201" rot="0" fontName="Default" fontSize="1.778" strokeWidth="0.2">+</mono>
+</footprint>

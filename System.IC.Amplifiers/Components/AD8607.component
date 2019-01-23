@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315341369020" name="AD8607" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012315341369011" symbolName="OP-AMP" swaplevel="0" />
+    <gate id="2" name="G2" symbolId="2019012315341369011" symbolName="OP-AMP" swaplevel="0" />
+    <gate id="3" name="G3" symbolId="2019012315341369015" symbolName="POWER_CONSORT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315341369000" footprintName="SO08">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="+IN" />
+      <map pad="2" gateId="1" pin="-IN" />
+      <map pad="1" gateId="1" pin="OUT" />
+      <map pad="5" gateId="2" pin="+IN" />
+      <map pad="6" gateId="2" pin="-IN" />
+      <map pad="7" gateId="2" pin="OUT" />
+      <map pad="8" gateId="3" pin="P$V+" />
+      <map pad="4" gateId="3" pin="P$V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

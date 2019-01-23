@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424047" name="74*4051BQ" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316124424025" symbolName="74HC4051" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424010" footprintName="DHVQFN-16-2.5X3.5MM">
+    <pad2pinMaps>
+      <map pad="6" gateId="1" pin="!E!" />
+      <map pad="8" gateId="1" pin="GND" />
+      <map pad="11" gateId="1" pin="S0" />
+      <map pad="10" gateId="1" pin="S1" />
+      <map pad="9" gateId="1" pin="S2" />
+      <map pad="16 EP" gateId="1" pin="VCC" />
+      <map pad="7" gateId="1" pin="VEE" />
+      <map pad="13" gateId="1" pin="Y0" />
+      <map pad="14" gateId="1" pin="Y1" />
+      <map pad="15" gateId="1" pin="Y2" />
+      <map pad="12" gateId="1" pin="Y3" />
+      <map pad="1" gateId="1" pin="Y4" />
+      <map pad="5" gateId="1" pin="Y5" />
+      <map pad="2" gateId="1" pin="Y6" />
+      <map pad="4" gateId="1" pin="Y7" />
+      <map pad="3" gateId="1" pin="Z" />
+    </pad2pinMaps>
+  </footprint>
+</component>

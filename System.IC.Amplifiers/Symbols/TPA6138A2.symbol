@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315341369013" name="TPA6138A2">
+  <pin name="CN" showName="true" number="CN" showNumber="true" x="37.3" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS" showName="true" number="VSS" showNumber="true" x="37.3" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!MUTE" showName="true" number="!MUTE" showNumber="true" x="37.3" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="37.3" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUTR" showName="true" number="OUTR" showNumber="true" x="37.3" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="INR-" showName="true" number="INR-" showNumber="true" x="37.3" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="INR+" showName="true" number="INR+" showNumber="true" x="37.3" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="INL+" showName="true" number="INL+" showNumber="true" x="62.7" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="INL-" showName="true" number="INL-" showNumber="true" x="62.7" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUTL" showName="true" number="OUTL" showNumber="true" x="62.7" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="UVP" showName="true" number="UVP" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="62.7" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CP" showName="true" number="CP" showNumber="true" x="62.7" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="39.84" y1="32.22" x2="60.16" y2="32.22" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="32.22" x2="60.16" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="67.78" x2="39.84" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="67.78" x2="39.84" y2="32.22" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

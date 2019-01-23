@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315341369006" name="POWER-SOP8">
+  <line x1="48.52" y1="48.77" x2="48.77" y2="48.52" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.23" y1="48.52" x2="51.48" y2="48.77" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.23" y1="51.49" x2="51.48" y2="51.24" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.52" y1="51.24" x2="48.77" y2="51.49" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.24" y1="51.49" x2="48.78" y2="51.49" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.78" y1="48.52" x2="51.24" y2="48.52" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.52" y1="48.77" x2="48.52" y2="51.23" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.48" y1="51.24" x2="51.48" y2="48.77" width="0.1524" layer="501" lineStyle="Solid" />
+  <circle x="49.35" y="50.65" diameter="0.65" borderWidth="0.254" isFilled="false" layer="501" />
+  <smd number="1" x="49.025" y="52.1" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="49.675" y="52.1" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50.325" y="52.1" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50.975" y="52.1" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50.975" y="47.9" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="50.325" y="47.9" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="49.675" y="47.9" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="49.025" y="47.9" rot="0" width="0.4" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="50" y="50" rot="0" width="1.89" height="1.57" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="49.025000000000006" y="52" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.675" y="52" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.325" y="52" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.974999999999994" y="52" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.974999999999994" y="48" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.325" y="48" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.675" y="48" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.025000000000006" y="48" width="0.39999999999999858" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <poly borderWidth="0.002540625" isFilled="true" layer="501">
+    <vertex x="48.57125" y="51.74625" />
+    <vertex x="48.25375" y="51.42875" />
+    <vertex x="47.93625" y="51.74625" />
+    <vertex x="48.25375" y="52.06375" />
+  </poly>
+</footprint>

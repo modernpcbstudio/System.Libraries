@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="74_1G04.component" />
+    <Component Path="74_1G04SE.component" />
+    <Component Path="74_1G66.component" />
+    <Component Path="74_1G125D.component" />
+    <Component Path="74_08SE.component" />
+    <Component Path="74_32DBV.component" />
+    <Component Path="74_125DG.component" />
+    <Component Path="74_165D.component" />
+    <Component Path="74_595.component" />
+    <Component Path="74_595D.component" />
+    <Component Path="74_595FK.component" />
+    <Component Path="74_595N.component" />
+    <Component Path="74_4051BQ.component" />
+    <Component Path="74_4052D.component" />
+    <Component Path="74_4067SM96.component" />
+    <Component Path="74_7014D.component" />
+    <Component Path="74LVC4066D_QUAD_BILATERAL_SWITCH.component" />
+    <Component Path="CD4013.component" />
+    <Component Path="CD4017.component" />
+    <Component Path="CD4017KIT.component" />
+    <Component Path="PCA9548A.component" />
+    <Component Path="TPIC6C596SOIC.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="DHVQFN-16-2.5X3.5MM.footprint" />
+    <Footprint Path="DIP14-KIT.footprint" />
+    <Footprint Path="DIP16.footprint" />
+    <Footprint Path="DIP16-KIT.footprint" />
+    <Footprint Path="LCC20.footprint" />
+    <Footprint Path="SO14.footprint" />
+    <Footprint Path="SO16.footprint" />
+    <Footprint Path="SOT23-5.footprint" />
+    <Footprint Path="SOT353.footprint" />
+    <Footprint Path="SSOP24.footprint" />
+    <Footprint Path="TSSOP16.footprint" />
+    <Footprint Path="TSSOP28.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="74HC4051.symbol" />
+    <Symbol Path="74HC4052.symbol" />
+    <Symbol Path="74165.symbol" />
+    <Symbol Path="74595.symbol" />
+    <Symbol Path="CD74HC4067.symbol" />
+    <Symbol Path="CD4013.symbol" />
+    <Symbol Path="CD4017.symbol" />
+    <Symbol Path="GATE_AND_2.symbol" />
+    <Symbol Path="GATE_INVERTER.symbol" />
+    <Symbol Path="GATE_INVERTER_SCHMITT_TRIGGER.symbol" />
+    <Symbol Path="GATE_INVERTER_WITH_ENABLE.symbol" />
+    <Symbol Path="GATE_OR_2.symbol" />
+    <Symbol Path="MUX_1_1_X4.symbol" />
+    <Symbol Path="POWER_CONSORT.symbol" />
+    <Symbol Path="SN74LVC1G66_SPST_AMUX.symbol" />
+    <Symbol Path="TCA9548A.symbol" />
+    <Symbol Path="TPIC6C595.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

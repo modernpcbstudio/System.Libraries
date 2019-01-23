@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359131" name="APA1025050" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359056" symbolName="APA102" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359038" footprintName="APA102-5050">
+    <pad2pinMaps>
+      <map pad="P2" gateId="1" pin="CI" />
+      <map pad="P5" gateId="1" pin="CO" />
+      <map pad="P1" gateId="1" pin="DI" />
+      <map pad="P6" gateId="1" pin="DO" />
+      <map pad="P3" gateId="1" pin="GND" />
+      <map pad="P4" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

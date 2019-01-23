@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316351885015" name="D2PACK/A">
+  <line x1="44.8" y1="54.575" x2="44.8" y2="45.425" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="55.2" y1="45.425" x2="55.2" y2="54.575" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="55.2" y1="54.575" x2="44.8" y2="54.575" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.8" y1="54.575" x2="44.8" y2="53.175" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.2" y1="54.575" x2="55.2" y2="53.175" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="TAB" x="50" y="48" rot="0" width="12.2" height="9.75" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="58.275" rot="0" width="1.6" height="3.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.54" y="58.275" rot="0" width="1.6" height="3.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.46" y="58.275" rot="0" width="1.6" height="3.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="50" y="58.175" width="1.0499999999999972" height="3.1999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.54" y="58.175" width="1.0499999999999972" height="3.1999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.46" y="58.175" width="1.0499999999999972" height="3.1999999999999957" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="55.425" width="1.0499999999999972" height="1.8999999999999986" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <rect x="47.46" y="55.425" width="1.0499999999999972" height="1.8999999999999986" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <rect x="52.54" y="55.425" width="1.0499999999999972" height="1.8999999999999986" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <poly borderWidth="0.2032" isFilled="true" layer="201">
+    <vertex x="44.8" y="45.4" />
+    <vertex x="44.8" y="44.3" />
+    <vertex x="47.2" y="43.925" />
+    <vertex x="52.8" y="43.925" />
+    <vertex x="55.2" y="44.3" />
+    <vertex x="55.2" y="45.4" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="201">
+    <vertex x="45.75" y="51.925" />
+    <vertex x="45.75" y="50" />
+    <vertex x="46.4" y="50" />
+    <vertex x="46.4" y="46.6" />
+    <vertex x="47.2" y="46.6" />
+    <vertex x="47.2" y="43.925" />
+    <vertex x="52.8" y="43.925" />
+    <vertex x="52.8" y="46.6" />
+    <vertex x="53.6" y="46.6" />
+    <vertex x="53.6" y="50" />
+    <vertex x="54.25" y="50" />
+    <vertex x="54.25" y="51.925" />
+  </poly>
+</footprint>

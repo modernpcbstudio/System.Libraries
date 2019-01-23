@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885068" name="MCP7384XX" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885036" symbolName="MCP73842" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885001" footprintName="MSOP8">
+    <pad2pinMaps>
+      <map pad="8" gateId="1" pin="DRV" />
+      <map pad="4" gateId="1" pin="EN" />
+      <map pad="1" gateId="1" pin="SENSE" />
+      <map pad="3" gateId="1" pin="STAT1" />
+      <map pad="5" gateId="1" pin="TIMER" />
+      <map pad="7" gateId="1" pin="VBAT" />
+      <map pad="2" gateId="1" pin="VDD" />
+      <map pad="6" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

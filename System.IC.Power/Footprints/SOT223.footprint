@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316351885013" name="SOT223">
+  <line x1="53.2766" y1="48.349" x2="53.2766" y2="51.651" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.2766" y1="51.651" x2="46.7234" y2="51.651" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.7234" y1="51.651" x2="46.7234" y2="48.349" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.7234" y1="48.349" x2="53.2766" y2="48.349" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="1" x="47.6886" y="53.0988" rot="0" width="1.2192" height="2.2352" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="53.0988" rot="0" width="1.2192" height="2.2352" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="52.3114" y="53.0988" rot="0" width="1.2192" height="2.2352" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50" y="46.900999999999996" rot="0" width="3.6" height="2.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="50" y="47.2695" width="3.2004000000000019" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.6886" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.3114" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="47.2695" width="3.2004000000000019" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.6886" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.3114" y="52.7305" width="0.86360000000000525" height="1.8542000000000058" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

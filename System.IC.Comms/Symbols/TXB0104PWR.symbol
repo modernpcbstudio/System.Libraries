@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316024757031" name="TXB0104PWR">
+  <line x1="37.3" y1="34.76" x2="62.7" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="34.76" x2="62.7" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="62.7" x2="37.3" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="62.7" x2="37.3" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="60.16" x2="47.46" y2="60.16" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="60.16" x2="47.46" y2="44.92" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="44.92" x2="37.3" y2="44.92" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="44.92" x2="52.54" y2="44.92" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="44.92" x2="52.54" y2="60.16" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="60.16" x2="62.7" y2="60.16" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="38.57" y="58.89" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">1.2-3.6V</text>
+  <text x="53.175" y="58.89" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">1.65-5.5V</text>
+  <pin name="VCCA" showName="true" number="VCCA" showNumber="true" x="44.92" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A1" showName="true" number="A1" showNumber="true" x="34.76" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A2" showName="true" number="A2" showNumber="true" x="34.76" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A3" showName="true" number="A3" showNumber="true" x="34.76" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A4" showName="true" number="A4" showNumber="true" x="34.76" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="50" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCCB" showName="true" number="VCCB" showNumber="true" x="55.08" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B1" showName="true" number="B1" showNumber="true" x="65.24" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B2" showName="true" number="B2" showNumber="true" x="65.24" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B3" showName="true" number="B3" showNumber="true" x="65.24" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B4" showName="true" number="B4" showNumber="true" x="65.24" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OE" showName="true" number="OE" showNumber="true" x="34.76" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="50" y="62.192" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">VCCA ≤ VCCB</text>
+</symbol>

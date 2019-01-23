@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885050" name="LT3652">
+  <pin name="TIMER" showName="true" number="TIMER" showNumber="true" x="44.92" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!FAULT" showName="true" number="!FAULT" showNumber="true" x="44.92" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!CHRG" showName="true" number="!CHRG" showNumber="true" x="44.92" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!SHDN" showName="true" number="!SHDN" showNumber="true" x="44.92" y="32.22" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIN_REG" showName="true" number="VIN_REG" showNumber="true" x="44.92" y="27.14" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIN" showName="true" number="VIN" showNumber="true" x="44.92" y="22.06" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SW" showName="true" number="SW" showNumber="true" x="80.48" y="22.06" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BOOST" showName="true" number="BOOST" showNumber="true" x="80.48" y="27.14" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SENSE" showName="true" number="SENSE" showNumber="true" x="80.48" y="32.22" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BAT" showName="true" number="BAT" showNumber="true" x="80.48" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="NTC" showName="true" number="NTC" showNumber="true" x="80.48" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VFB" showName="true" number="VFB" showNumber="true" x="80.48" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50" y1="19.52" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="75.4" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="75.4" y1="50" x2="75.4" y2="19.52" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="75.4" y1="19.52" x2="50" y2="19.52" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="GND_PAD" showName="true" number="GND_PAD" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

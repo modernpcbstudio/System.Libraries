@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885083" name="V_REG_LM1117SOT223" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885042" symbolName="78ADJ" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885013" footprintName="SOT223">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="ADJ" />
+      <map pad="3" gateId="1" pin="IN" />
+      <map pad="2" gateId="1" pin="OUT" />
+      <map pad="4" gateId="1" pin="OUT@1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

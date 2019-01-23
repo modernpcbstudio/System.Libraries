@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316024757016" name="TSSOP10">
+  <smd number="4" x="47.741" y="50.4825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="47.741" y="49.9825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="47.741" y="49.4825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.741" y="48.9825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="47.741" y="50.9875" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <circle x="49.046" y="48.9975" diameter="0.67081875" borderWidth="0.127" isFilled="false" layer="501" />
+  <poly borderWidth="0.002540625" isFilled="true" layer="501">
+    <vertex x="48.064750000000004" y="48.34875" />
+    <vertex x="48.38225" y="48.03125" />
+    <vertex x="48.064750000000004" y="47.71375" />
+    <vertex x="47.74725" y="48.03125" />
+  </poly>
+  <line x1="48.476" y1="51.5875" x2="51.626" y2="51.5875" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.626" y1="51.5875" x2="51.626" y2="48.4375" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.626" y1="48.4375" x2="48.476" y2="48.4375" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="48.476" y1="48.4375" x2="48.476" y2="51.5875" width="0.127" layer="501" lineStyle="Solid" />
+  <smd number="7" x="52.366" y="50.4825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="52.366" y="49.9825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="52.366" y="49.4825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="52.366" y="48.9825" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="52.366" y="50.9875" rot="0" width="1.1" height="0.25" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

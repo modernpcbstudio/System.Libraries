@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317022546016" name="TRIMPOT-SMD-3MM-OPEN">
+  <line x1="48.8984" y1="48.4" x2="47.9936" y2="48.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.9936" y1="48.4" x2="47.9936" y2="51.5238" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.1016" y1="48.4" x2="52.0064" y2="48.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.0064" y1="48.4" x2="52.0064" y2="51.5238" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="1" x="48.8452" y="51.4214" rot="0" width="1.0922" height="1.6002" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="48.5786" rot="0" width="1.6002" height="1.6002" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.1548" y="51.4214" rot="0" width="1.0922" height="1.6002" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

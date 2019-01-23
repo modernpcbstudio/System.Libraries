@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316523359049" name="LED-RG">
+  <line x1="56.35" y1="50" x2="55.08" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="52.54" x2="53.81" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="52.54" x2="55.08" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="52.54" x2="53.81" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="50" x2="55.08" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="50" x2="53.81" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="50.762" x2="51.651" y2="52.159" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.175" y1="51.905" x2="51.778" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="GC" showName="false" number="GC" showNumber="false" x="55.08" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GA" showName="false" number="GA" showNumber="false" x="55.08" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.651" y="52.159" />
+    <vertex x="52.032" y="51.27" />
+    <vertex x="52.54" y="51.778" />
+  </poly>
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.778" y="53.302" />
+    <vertex x="52.159" y="52.413" />
+    <vertex x="52.667" y="52.921" />
+  </poly>
+  <line x1="48.73" y1="50" x2="47.46" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="52.54" x2="46.19" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="52.54" x2="47.46" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="52.54" x2="46.19" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="50" x2="47.46" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="50" x2="46.19" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.428" y1="50.762" x2="44.031" y2="52.159" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.555" y1="51.905" x2="44.158" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="RC" showName="false" number="RC" showNumber="false" x="47.46" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA" showName="false" number="RA" showNumber="false" x="47.46" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="44.031" y="52.159" />
+    <vertex x="44.412" y="51.27" />
+    <vertex x="44.92" y="51.778" />
+  </poly>
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="44.158" y="53.302" />
+    <vertex x="44.539" y="52.413" />
+    <vertex x="45.047" y="52.921" />
+  </poly>
+  <line x1="42.38" y1="47.46" x2="47.46" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="47.46" x2="55.08" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="47.46" x2="60.16" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="47.46" x2="60.16" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="55.08" x2="55.08" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="55.08" x2="47.46" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="55.08" x2="42.38" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="55.08" x2="42.38" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="47.46" x2="47.46" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="47.46" x2="55.08" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="52.54" x2="55.08" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="52.54" x2="47.46" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="50" y="50" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">R</text>
+  <text x="57.62" y="50" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">G</text>
+</symbol>

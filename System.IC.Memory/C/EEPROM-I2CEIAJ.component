@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316185686009" name="EEPROM-I2CEIAJ" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316185686004" symbolName="EEPROM-I2C" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316185686001" footprintName="SO08-EIAJ">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="A0" />
+      <map pad="2" gateId="1" pin="A1" />
+      <map pad="3" gateId="1" pin="A2" />
+      <map pad="6" gateId="1" pin="SCL" />
+      <map pad="5" gateId="1" pin="SDA" />
+      <map pad="8" gateId="1" pin="VCC" />
+      <map pad="4" gateId="1" pin="VSS" />
+      <map pad="7" gateId="1" pin="WP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

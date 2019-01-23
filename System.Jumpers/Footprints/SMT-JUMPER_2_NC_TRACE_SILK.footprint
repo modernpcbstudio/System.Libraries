@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316461615012" name="SMT-JUMPER_2_NC_TRACE_SILK">
+  <line x1="50.762" y1="51.016" x2="49.238" y2="51.016" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.762" y1="48.984" x2="51.2192" y2="49.4412" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.7808" y1="49.4412" x2="49.238" y2="48.984" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.7808" y1="50.5588" x2="49.238" y2="51.016" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.762" y1="51.016" x2="51.2192" y2="50.5588" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.2192" y1="50.5588" x2="51.2192" y2="49.4412" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.7808" y1="50.5588" x2="48.7808" y2="49.4412" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.238" y1="48.984" x2="50.762" y2="48.984" width="0.1524" layer="501" lineStyle="Solid" />
+  <smd number="1" x="49.492" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.508" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="49.8095" y="49.873" />
+    <vertex x="50.1905" y="49.873" />
+    <vertex x="50.1905" y="50.127" />
+    <vertex x="49.8095" y="50.127" />
+  </poly>
+  <rect x="50" y="50" width="0.406400000000005" height="0.25400000000000489" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" />
+</footprint>

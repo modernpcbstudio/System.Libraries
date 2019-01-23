@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359039" name="WS2812B-PTH-KIT">
+  <line x1="46.825" y1="47.1425" x2="46.825" y2="48.5395" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="48.5395" x2="46.825" y2="52.159" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="47.1425" x2="46.825" y2="52.159" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="46.825" y1="48.5395" x2="46.8885" y2="50.8255" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="49.111" y1="48.6665" x2="49.619" y2="48.6665" width="0.127" layer="501" lineStyle="Solid" />
+  <pad number="1" x="52.413" y="49.9206" rot="90" width="1.27" height="1.27" cornerRadius="0.635" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.762" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="50.889" y="49.3491" rot="270" width="1.27" height="1.27" cornerRadius="0.635" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.762" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="49.365" y="49.9206" rot="90" width="1.27" height="1.27" cornerRadius="0.635" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.762" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="47.841" y="49.3491" rot="270" width="1.27" height="1.27" cornerRadius="0.635" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.762" slotHeight="0" slotRot="0" plated="false" />
+  <mono x="50.5842" y="51.0922" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">+</mono>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="47.841" y="49.8095" />
+    <vertex x="47.3965" y="49.3853" />
+    <vertex x="47.841" y="48.918" />
+    <vertex x="48.2829" y="49.3751" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="50.889" y="49.8095" />
+    <vertex x="50.4445" y="49.3853" />
+    <vertex x="50.889" y="48.918" />
+    <vertex x="51.3309" y="49.3751" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="49.365" y="50.381" />
+    <vertex x="48.9205" y="49.9568" />
+    <vertex x="49.365" y="49.4895" />
+    <vertex x="49.8069" y="49.9466" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="52.413" y="50.381" />
+    <vertex x="51.9685" y="49.9568" />
+    <vertex x="52.413" y="49.4895" />
+    <vertex x="52.8549" y="49.9466" />
+  </poly>
+</footprint>

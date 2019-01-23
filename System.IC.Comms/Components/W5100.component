@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316024757049" name="W5100" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316024757025" symbolName="W5100" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316024757002" footprintName="LQFP-80">
+    <pad2pinMaps>
+      <map pad="55" gateId="1" pin="*CS" />
+      <map pad="56" gateId="1" pin="*INT" />
+      <map pad="58" gateId="1" pin="*RD" />
+      <map pad="59" gateId="1" pin="*RESET" />
+      <map pad="29" gateId="1" pin="*SCS" />
+      <map pad="57" gateId="1" pin="*WR" />
+      <map pad="7" gateId="1" pin="1V8A@0" />
+      <map pad="74" gateId="1" pin="1V8A@1" />
+      <map pad="15" gateId="1" pin="1V8D@0" />
+      <map pad="16" gateId="1" pin="1V8D@1" />
+      <map pad="33" gateId="1" pin="1V8D@2" />
+      <map pad="69" gateId="1" pin="1V8D@3" />
+      <map pad="11" gateId="1" pin="1V8OUT" />
+      <map pad="2" gateId="1" pin="3V3A" />
+      <map pad="12" gateId="1" pin="3V3D@0" />
+      <map pad="18" gateId="1" pin="3V3D@1" />
+      <map pad="44" gateId="1" pin="3V3D@2" />
+      <map pad="54" gateId="1" pin="ADDR0" />
+      <map pad="53" gateId="1" pin="ADDR1" />
+      <map pad="42" gateId="1" pin="ADDR10" />
+      <map pad="41" gateId="1" pin="ADDR11" />
+      <map pad="40" gateId="1" pin="ADDR12" />
+      <map pad="39" gateId="1" pin="ADDR13" />
+      <map pad="38" gateId="1" pin="ADDR14" />
+      <map pad="52" gateId="1" pin="ADDR2" />
+      <map pad="51" gateId="1" pin="ADDR3" />
+      <map pad="50" gateId="1" pin="ADDR4" />
+      <map pad="49" gateId="1" pin="ADDR5" />
+      <map pad="48" gateId="1" pin="ADDR6" />
+      <map pad="47" gateId="1" pin="ADDR7" />
+      <map pad="46" gateId="1" pin="ADDR8" />
+      <map pad="45" gateId="1" pin="ADDR9" />
+      <map pad="71" gateId="1" pin="COLLED" />
+      <map pad="26" gateId="1" pin="DATA0" />
+      <map pad="25" gateId="1" pin="DATA1" />
+      <map pad="24" gateId="1" pin="DATA2" />
+      <map pad="23" gateId="1" pin="DATA3" />
+      <map pad="22" gateId="1" pin="DATA4" />
+      <map pad="21" gateId="1" pin="DATA5" />
+      <map pad="20" gateId="1" pin="DATA6" />
+      <map pad="19" gateId="1" pin="DATA7" />
+      <map pad="70" gateId="1" pin="FDXLED" />
+      <map pad="4" gateId="1" pin="GNDA@0" />
+      <map pad="10" gateId="1" pin="GNDA@1" />
+      <map pad="77" gateId="1" pin="GNDA@2" />
+      <map pad="13" gateId="1" pin="GNDD@0" />
+      <map pad="14" gateId="1" pin="GNDD@1" />
+      <map pad="17" gateId="1" pin="GNDD@2" />
+      <map pad="32" gateId="1" pin="GNDD@3" />
+      <map pad="43" gateId="1" pin="GNDD@4" />
+      <map pad="68" gateId="1" pin="GNDD@5" />
+      <map pad="66" gateId="1" pin="LINKLED" />
+      <map pad="27" gateId="1" pin="MISO" />
+      <map pad="28" gateId="1" pin="MOSI" />
+      <map pad="3" gateId="1" pin="NC@0" />
+      <map pad="60" gateId="1" pin="NC@1" />
+      <map pad="61" gateId="1" pin="NC@2" />
+      <map pad="62" gateId="1" pin="NC@3" />
+      <map pad="78" gateId="1" pin="NC@4" />
+      <map pad="79" gateId="1" pin="NC@5" />
+      <map pad="80" gateId="1" pin="NC@6" />
+      <map pad="63" gateId="1" pin="OPMODE0" />
+      <map pad="64" gateId="1" pin="OPMODE1" />
+      <map pad="65" gateId="1" pin="OPMODE2" />
+      <map pad="1" gateId="1" pin="RSET_BG" />
+      <map pad="6" gateId="1" pin="RXIN" />
+      <map pad="5" gateId="1" pin="RXIP" />
+      <map pad="72" gateId="1" pin="RXLED" />
+      <map pad="30" gateId="1" pin="SCLK" />
+      <map pad="31" gateId="1" pin="SEN" />
+      <map pad="67" gateId="1" pin="SPDLED" />
+      <map pad="37" gateId="1" pin="TEST0" />
+      <map pad="36" gateId="1" pin="TEST1" />
+      <map pad="35" gateId="1" pin="TEST2" />
+      <map pad="34" gateId="1" pin="TEST3" />
+      <map pad="73" gateId="1" pin="TXLED" />
+      <map pad="9" gateId="1" pin="TXON" />
+      <map pad="8" gateId="1" pin="TXOP" />
+      <map pad="75" gateId="1" pin="XTLN" />
+      <map pad="76" gateId="1" pin="XTLP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

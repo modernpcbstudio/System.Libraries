@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851109" name="STM32F405RG" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851043" symbolName="STM32F405RG" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851003" footprintName="TQFP64">
+    <pad2pinMaps>
+      <map pad="60" gateId="1" pin="BOOT0" />
+      <map pad="7" gateId="1" pin="NRST" />
+      <map pad="14" gateId="1" pin="PA0" />
+      <map pad="15" gateId="1" pin="PA1" />
+      <map pad="43" gateId="1" pin="PA10/UART1_RX" />
+      <map pad="44" gateId="1" pin="PA11" />
+      <map pad="45" gateId="1" pin="PA12" />
+      <map pad="46" gateId="1" pin="PA13/JTMS" />
+      <map pad="49" gateId="1" pin="PA14/JTCK" />
+      <map pad="50" gateId="1" pin="PA15/JTDI" />
+      <map pad="16" gateId="1" pin="PA2/UART2_TX" />
+      <map pad="17" gateId="1" pin="PA3/UART2_RX" />
+      <map pad="20" gateId="1" pin="PA4/SPI1_NSS" />
+      <map pad="21" gateId="1" pin="PA5/SPI1_SCK" />
+      <map pad="22" gateId="1" pin="PA6/SPI1_MISO" />
+      <map pad="23" gateId="1" pin="PA7/SPI1_MOSI" />
+      <map pad="41" gateId="1" pin="PA8" />
+      <map pad="42" gateId="1" pin="PA9/UART1_TX" />
+      <map pad="26" gateId="1" pin="PB0" />
+      <map pad="27" gateId="1" pin="PB1" />
+      <map pad="29" gateId="1" pin="PB10" />
+      <map pad="30" gateId="1" pin="PB11" />
+      <map pad="33" gateId="1" pin="PB12/I2S2_WS" />
+      <map pad="34" gateId="1" pin="PB13/I2S2_CK" />
+      <map pad="35" gateId="1" pin="PB14/I2S2_XD" />
+      <map pad="36" gateId="1" pin="PB15/I2S2_SD" />
+      <map pad="28" gateId="1" pin="PB2-BOOT1" />
+      <map pad="55" gateId="1" pin="PB3/JTDO" />
+      <map pad="56" gateId="1" pin="PB4/JTRST" />
+      <map pad="57" gateId="1" pin="PB5" />
+      <map pad="58" gateId="1" pin="PB6" />
+      <map pad="59" gateId="1" pin="PB7" />
+      <map pad="61" gateId="1" pin="PB8" />
+      <map pad="62" gateId="1" pin="PB9" />
+      <map pad="8" gateId="1" pin="PC0" />
+      <map pad="9" gateId="1" pin="PC1" />
+      <map pad="51" gateId="1" pin="PC10/SDIO_D2" />
+      <map pad="52" gateId="1" pin="PC11/SDIO_D3" />
+      <map pad="53" gateId="1" pin="PC12/SDIO_CLK" />
+      <map pad="2" gateId="1" pin="PC13" />
+      <map pad="3" gateId="1" pin="PC14" />
+      <map pad="4" gateId="1" pin="PC15" />
+      <map pad="10" gateId="1" pin="PC2" />
+      <map pad="11" gateId="1" pin="PC3" />
+      <map pad="24" gateId="1" pin="PC4" />
+      <map pad="25" gateId="1" pin="PC5" />
+      <map pad="37" gateId="1" pin="PC6/I2S2_MCK" />
+      <map pad="38" gateId="1" pin="PC7" />
+      <map pad="39" gateId="1" pin="PC8/SDIO_D0" />
+      <map pad="40" gateId="1" pin="PC9/SDIO_D1" />
+      <map pad="54" gateId="1" pin="PD2/SDIO_CMD" />
+      <map pad="5" gateId="1" pin="PH0" />
+      <map pad="6" gateId="1" pin="PH1" />
+      <map pad="1" gateId="1" pin="VBAT" />
+      <map pad="31" gateId="1" pin="VCAP1" />
+      <map pad="47" gateId="1" pin="VCAP2" />
+      <map pad="19" gateId="1" pin="VDD1" />
+      <map pad="32" gateId="1" pin="VDD2" />
+      <map pad="48" gateId="1" pin="VDD3" />
+      <map pad="64" gateId="1" pin="VDD4" />
+      <map pad="13" gateId="1" pin="VDDA" />
+      <map pad="18" gateId="1" pin="VSS1" />
+      <map pad="63" gateId="1" pin="VSS2" />
+      <map pad="12" gateId="1" pin="VSSA" />
+    </pad2pinMaps>
+  </footprint>
+</component>

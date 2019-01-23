@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751113" name="SWITCH-SPDT-SMD-RIGHT-ANGLE" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="1" symbolId="2019012317073751060" symbolName="TOGGLE" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751033" footprintName="SWITCH_SPST_SMD_A">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="O" />
+      <map pad="2" gateId="1" pin="P" />
+      <map pad="3" gateId="1" pin="S" />
+    </pad2pinMaps>
+  </footprint>
+</component>

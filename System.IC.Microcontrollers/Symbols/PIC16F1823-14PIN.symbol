@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316253851044" name="PIC16F1823-14PIN">
+  <line x1="65.24" y1="60.16" x2="34.76" y2="60.16" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="34.76" y1="60.16" x2="34.76" y2="39.84" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="34.76" y1="39.84" x2="65.24" y2="39.84" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.24" y1="39.84" x2="65.24" y2="60.16" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="RA3/*MCLR/VPP" showName="true" number="RA3/*MCLR/VPP" showNumber="true" x="32.22" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA0/ICSPDAT" showName="true" number="RA0/ICSPDAT" showNumber="true" x="32.22" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA1/ICSPCLK" showName="true" number="RA1/ICSPCLK" showNumber="true" x="32.22" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA2" showName="true" number="RA2" showNumber="true" x="32.22" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA4" showName="true" number="RA4" showNumber="true" x="32.22" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RA5" showName="true" number="RA5" showNumber="true" x="32.22" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC5" showName="true" number="RC5" showNumber="true" x="67.78" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC4" showName="true" number="RC4" showNumber="true" x="67.78" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS" showName="true" number="VSS" showNumber="true" x="67.78" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="32.22" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC3" showName="true" number="RC3" showNumber="true" x="67.78" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC2" showName="true" number="RC2" showNumber="true" x="67.78" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC1" showName="true" number="RC1" showNumber="true" x="67.78" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RC0" showName="true" number="RC0" showNumber="true" x="67.78" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

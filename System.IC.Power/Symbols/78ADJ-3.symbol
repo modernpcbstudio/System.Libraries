@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885045" name="78ADJ-3">
+  <line x1="42.38" y1="57.62" x2="57.62" y2="57.62" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="57.62" x2="57.62" y2="44.92" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="44.92" x2="42.38" y2="44.92" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="44.92" x2="42.38" y2="57.62" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="53.048" y="55.08" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="5.7600000000000007" bold="false" italic="false">ADJ</text>
+  <text x="43.269" y="48.095" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="5.7600000000000007" bold="false" italic="false">IN</text>
+  <text x="53.175" y="48.095" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="5.7600000000000007" bold="false" italic="false">OUT</text>
+  <text x="48.095" y="56.731" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="5.7600000000000007" bold="false" italic="false">GND</text>
+  <text x="43.269" y="55.207" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="5.7600000000000007" bold="false" italic="false">EN</text>
+  <pin name="IN" showName="false" number="IN" showNumber="false" x="39.84" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ADJ" showName="false" number="ADJ" showNumber="false" x="60.16" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUT" showName="false" number="OUT" showNumber="false" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="false" number="GND" showNumber="false" x="50" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EN" showName="false" number="EN" showNumber="false" x="39.84" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

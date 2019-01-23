@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316461615015" name="SMT-JUMPER_2_NC_PASTE_NO-SILK">
+  <rect x="50" y="50" width="2.4891999999999967" height="2.2352000000000061" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <smd number="1" x="49.5936" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.4064" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+</footprint>

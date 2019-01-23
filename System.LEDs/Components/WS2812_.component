@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359094" name="WS2812&quot;" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="U1" symbolId="2019012316523359048" symbolName="LED-TRICOLOR-WS28X1" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359015" footprintName="LED-TRICOLOR-5050-IC">
+    <pad2pinMaps>
+      <map pad="2" gateId="1" pin="DI" />
+      <map pad="1" gateId="1" pin="DO" />
+      <map pad="3 5" gateId="1" pin="VDD" />
+      <map pad="6" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

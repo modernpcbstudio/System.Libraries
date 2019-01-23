@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613009" name="RELAY-T90">
+  <line x1="23.59" y1="70.664999999999992" x2="23.59" y2="45.265" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="24.5" y1="44.265" x2="36.275" y2="44.265" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="40.44" y1="71.664999999999992" x2="24.5" y2="71.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="24.5" y1="71.664999999999992" x2="23.59" y2="70.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="24.5" y1="44.265" x2="23.59" y2="45.265" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="41.19" y1="70.965" x2="41.19" y2="70.365" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.025" y1="48.43" x2="37.025" y2="44.965" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="41.94" y1="69.664999999999992" x2="55.875" y2="69.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.775" y1="49.13" x2="55.775" y2="49.13" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.525" y1="68.965" x2="56.525" y2="49.83" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="41.19" y1="70.965" x2="40.44" y2="71.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="41.19" y1="70.365" x2="41.94" y2="69.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.525" y1="68.965" x2="55.875" y2="69.664999999999992" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.775" y1="49.13" x2="56.525" y2="49.83" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="37.775" y1="49.13" x2="37.025" y2="48.43" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="36.275" y1="44.265" x2="37.025" y2="44.965" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="NC" x="27.14" y="50" rot="270" width="4.2" height="4.2" cornerRadius="2.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="NO" x="34.76" y="50" rot="270" width="4.2" height="4.2" cornerRadius="2.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="MAIN" x="37.3" y="67.78" rot="270" width="4.2" height="4.2" cornerRadius="2.1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="COIL1" x="50" y="63.9" rot="270" width="1.9558" height="1.9558" cornerRadius="0.9779" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="COIL2" x="50" y="53.81" rot="270" width="1.9558" height="1.9558" cornerRadius="0.9779" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885052" name="LM25011">
+  <pin name="VIN" showName="true" number="VIN" showNumber="true" x="37.3" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RT" showName="true" number="RT" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PGD" showName="true" number="PGD" showNumber="true" x="37.3" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SS" showName="true" number="SS" showNumber="true" x="37.3" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SGND" showName="true" number="SGND" showNumber="true" x="50" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="FB" showName="true" number="FB" showNumber="true" x="65.24" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CS" showName="true" number="CS" showNumber="true" x="65.24" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CSG" showName="true" number="CSG" showNumber="true" x="65.24" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SW" showName="true" number="SW" showNumber="true" x="65.24" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BST" showName="true" number="BST" showNumber="true" x="65.24" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PAD_GND" showName="true" number="PAD_GND" showNumber="true" x="52.54" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="39.84" y1="65.24" x2="62.7" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="65.24" x2="62.7" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="34.76" x2="39.84" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="34.76" x2="39.84" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316351885021" name="MSOP-12_GND">
+  <smd number="13" x="50" y="50" rot="-90" width="2.845" height="1.651" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.9" y="50.325" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="52.1" y="50.325" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="47.9" y="49.675" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="47.9" y="49.025" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.9" y="48.375" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="47.9" y="50.975" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="47.9" y="51.625" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="52.1" y="49.675" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="11" x="52.1" y="49.025" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="12" x="52.1" y="48.375" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="52.1" y="50.975" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="52.1" y="51.625" rot="-180" width="0.889" height="0.42" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="49.599999999999994" y="49.25" width="0.60000000000000142" height="1.0999999999999943" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.400000000000006" y="49.25" width="0.60000000000000142" height="1.0999999999999943" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.400000000000006" y="50.75" width="0.60000000000000142" height="1.0999999999999943" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.599999999999994" y="50.75" width="0.60000000000000142" height="1.0999999999999943" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <line x1="48.5" y1="48" x2="48.5" y2="52" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="48.5" y1="52" x2="51.5" y2="52" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.5" y1="52" x2="51.5" y2="48" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51.5" y1="48" x2="48.5" y2="48" width="0.127" layer="501" lineStyle="Solid" />
+  <circle x="48.9" y="48.4" diameter="0.2" borderWidth="0.127" isFilled="false" layer="501" />
+</footprint>

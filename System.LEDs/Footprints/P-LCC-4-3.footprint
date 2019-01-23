@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359025" name="P-LCC-4-3">
+  <line x1="51.75" y1="51.4" x2="51.75" y2="48.6" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="51.75" y1="48.6" x2="48.25" y2="48.6" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="48.25" y1="48.6" x2="48.25" y2="51.4" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="48.25" y1="51.4" x2="51.75" y2="51.4" width="0.2032" layer="201" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="2.2" borderWidth="0.2032" isFilled="false" layer="201" />
+  <smd number="2" x="48.3" y="50.725" rot="-90" width="0.75" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="48.3" y="49.275" rot="-90" width="0.75" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="51.7" y="49.275" rot="-90" width="0.75" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.7" y="50.725" rot="-90" width="0.75" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="49.492" y1="51.4" x2="50.508" y2="51.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.25" y1="50.1016" x2="48.25" y2="49.8984" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.492" y1="48.6" x2="50.508" y2="48.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.75" y1="50.1016" x2="51.75" y2="49.8984" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.8338" y1="48.6402" x2="48.2838" y2="49.1902" width="0.2032" layer="201" lineStyle="Solid" />
+  <poly borderWidth="0.127" isFilled="true" layer="501">
+    <vertex x="50" y="50" />
+    <vertex x="50" y="49.4412" />
+    <vertex x="49.4412" y="50" />
+  </poly>
+  <circle x="50" y="50" diameter="1.1152875" borderWidth="0.127" isFilled="false" layer="501" />
+  <circle x="48.095" y="48.25375" diameter="0.1016" borderWidth="0.3048" isFilled="false" layer="501" />
+</footprint>

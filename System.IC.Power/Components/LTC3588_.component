@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885064" name="LTC3588_" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885033" symbolName="LTC3588" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885004" footprintName="MSOP-10-GNDPAD">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="CAP" />
+      <map pad="9" gateId="1" pin="D0" />
+      <map pad="8" gateId="1" pin="D1" />
+      <map pad="GND" gateId="1" pin="GND" />
+      <map pad="10" gateId="1" pin="PGOOD" />
+      <map pad="1" gateId="1" pin="PZ1" />
+      <map pad="2" gateId="1" pin="PZ2" />
+      <map pad="5" gateId="1" pin="SW" />
+      <map pad="4" gateId="1" pin="VIN" />
+      <map pad="7" gateId="1" pin="VIN2" />
+      <map pad="6" gateId="1" pin="VOUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

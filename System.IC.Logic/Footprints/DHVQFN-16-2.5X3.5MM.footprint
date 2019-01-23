@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316124424010" name="DHVQFN-16-2.5X3.5MM">
+  <line x1="51.75" y1="48.75" x2="48.25" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.25" y1="48.75" x2="48.25" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.25" y1="51.25" x2="51.75" y2="51.25" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.75" y1="51.25" x2="51.75" y2="48.75" width="0.127" layer="201" lineStyle="Solid" />
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="50.13" y="48.75" />
+    <vertex x="50.37" y="48.75" />
+    <vertex x="50.37" y="49.03" />
+    <vertex x="50.25" y="49.15" />
+    <vertex x="50.13" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="49.63" y="48.75" />
+    <vertex x="49.87" y="48.75" />
+    <vertex x="49.87" y="49.03" />
+    <vertex x="49.75" y="49.15" />
+    <vertex x="49.63" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="49.13" y="48.75" />
+    <vertex x="49.37" y="48.75" />
+    <vertex x="49.37" y="49.03" />
+    <vertex x="49.25" y="49.15" />
+    <vertex x="49.13" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="48.63" y="48.75" />
+    <vertex x="48.87" y="48.75" />
+    <vertex x="48.87" y="49.03" />
+    <vertex x="48.75" y="49.15" />
+    <vertex x="48.63" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="50.63" y="48.75" />
+    <vertex x="50.87" y="48.75" />
+    <vertex x="50.87" y="49.03" />
+    <vertex x="50.75" y="49.15" />
+    <vertex x="50.63" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="51.13" y="48.75" />
+    <vertex x="51.37" y="48.75" />
+    <vertex x="51.37" y="49.03" />
+    <vertex x="51.25" y="49.15" />
+    <vertex x="51.13" y="49.03" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="49.87" y="51.25" />
+    <vertex x="49.63" y="51.25" />
+    <vertex x="49.63" y="50.97" />
+    <vertex x="49.75" y="50.85" />
+    <vertex x="49.87" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="50.37" y="51.25" />
+    <vertex x="50.13" y="51.25" />
+    <vertex x="50.13" y="50.97" />
+    <vertex x="50.25" y="50.85" />
+    <vertex x="50.37" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="50.87" y="51.25" />
+    <vertex x="50.63" y="51.25" />
+    <vertex x="50.63" y="50.97" />
+    <vertex x="50.75" y="50.85" />
+    <vertex x="50.87" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="51.37" y="51.25" />
+    <vertex x="51.13" y="51.25" />
+    <vertex x="51.13" y="50.97" />
+    <vertex x="51.25" y="50.85" />
+    <vertex x="51.37" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="49.37" y="51.25" />
+    <vertex x="49.13" y="51.25" />
+    <vertex x="49.13" y="50.97" />
+    <vertex x="49.25" y="50.85" />
+    <vertex x="49.37" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="48.87" y="51.25" />
+    <vertex x="48.63" y="51.25" />
+    <vertex x="48.63" y="50.97" />
+    <vertex x="48.75" y="50.85" />
+    <vertex x="48.87" y="50.97" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="48.25" y="49.87" />
+    <vertex x="48.25" y="49.63" />
+    <vertex x="48.53" y="49.63" />
+    <vertex x="48.65" y="49.75" />
+    <vertex x="48.53" y="49.87" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="48.25" y="50.37" />
+    <vertex x="48.25" y="50.13" />
+    <vertex x="48.53" y="50.13" />
+    <vertex x="48.65" y="50.25" />
+    <vertex x="48.53" y="50.37" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="51.75" y="50.13" />
+    <vertex x="51.75" y="50.37" />
+    <vertex x="51.47" y="50.37" />
+    <vertex x="51.35" y="50.25" />
+    <vertex x="51.47" y="50.13" />
+  </poly>
+  <poly borderWidth="0.002540625" isFilled="true" layer="201">
+    <vertex x="51.75" y="49.63" />
+    <vertex x="51.75" y="49.87" />
+    <vertex x="51.47" y="49.87" />
+    <vertex x="51.35" y="49.75" />
+    <vertex x="51.47" y="49.63" />
+  </poly>
+  <rect x="50" y="50" width="2" height="1" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="1" x="48.2" y="50.25" rot="0" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="48.75" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="3" x="49.25" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="4" x="49.75" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50.25" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="6" x="50.75" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="7" x="51.25" y="51.3" rot="-90" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="8" x="51.8" y="50.25" rot="-180" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="9" x="51.8" y="49.75" rot="-180" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="10" x="51.25" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="11" x="50.75" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="12" x="50.25" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="13" x="49.75" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="14" x="49.25" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="15" x="48.75" y="48.7" rot="-270" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="16" x="48.2" y="49.75" rot="0" width="0.9" height="0.24" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="EP" x="50" y="50" rot="0" width="1.9" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <rect x="50.349999999999994" y="50" width="0.39999999999999858" height="0.40000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.650000000000006" y="50" width="0.39999999999999858" height="0.40000000000000568" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <circle x="47.869" y="51.631" diameter="0.508" borderWidth="0" isFilled="false" layer="501" />
+  <line x1="48.123" y1="50.5788" x2="48.123" y2="51.377" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.123" y1="48.623" x2="48.123" y2="49.4212" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.4226" y1="48.623" x2="48.123" y2="48.623" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.877" y1="48.623" x2="51.5774" y2="48.623" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.877" y1="49.4212" x2="51.877" y2="48.623" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.877" y1="51.377" x2="51.877" y2="50.5788" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.123" y1="51.377" x2="48.4226" y2="51.377" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.5774" y1="51.377" x2="51.877" y2="51.377" width="0.2032" layer="501" lineStyle="Solid" />
+  <rect x="51.8" y="49.75" width="0.85000000000000142" height="0.18999999999999773" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="51.8" y="50.25" width="0.85000000000000142" height="0.18999999999999773" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="51.25" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.75" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.25" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.75" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.25" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="48.75" y="51.3" width="0.84999999999999432" height="0.19000000000000483" rot="270" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="48.2" y="50.25" width="0.85000000000000142" height="0.18999999999999773" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="48.2" y="49.75" width="0.85000000000000142" height="0.18999999999999773" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="48.75" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.25" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="49.75" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.25" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50.75" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="51.25" y="48.7" width="0.84999999999999432" height="0.19000000000000483" rot="90" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+</footprint>

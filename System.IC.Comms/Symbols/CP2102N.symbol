@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316024757037" name="CP2102N">
+  <line x1="32.22" y1="65.24" x2="67.78" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="65.24" x2="67.78" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="34.76" x2="32.22" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="32.22" y1="34.76" x2="32.22" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="!RI!/CLK" showName="true" number="!RI!/CLK" showNumber="true" x="29.68" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="29.68" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D+" showName="true" number="D+" showNumber="true" x="29.68" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D-" showName="true" number="D-" showNumber="true" x="29.68" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIO" showName="true" number="VIO" showNumber="true" x="29.68" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="29.68" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VREGIN" showName="true" number="VREGIN" showNumber="true" x="29.68" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VBUS" showName="true" number="VBUS" showNumber="true" x="29.68" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!RSTB" showName="true" number="!RSTB" showNumber="true" x="29.68" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GPIO3/WAKEUP" showName="true" number="GPIO3/WAKEUP" showNumber="true" x="29.68" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GPIO2/RS485" showName="true" number="GPIO2/RS485" showNumber="true" x="29.68" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GPIO1/RXT" showName="true" number="GPIO1/RXT" showNumber="true" x="70.32" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GPIO0/TXT" showName="true" number="GPIO0/TXT" showNumber="true" x="70.32" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SUSPENDB" showName="true" number="SUSPENDB" showNumber="true" x="70.32" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SUSPEND" showName="true" number="SUSPEND" showNumber="true" x="70.32" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CTS" showName="true" number="CTS" showNumber="true" x="70.32" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RTS" showName="true" number="RTS" showNumber="true" x="70.32" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RXD" showName="true" number="RXD" showNumber="true" x="70.32" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TXD" showName="true" number="TXD" showNumber="true" x="70.32" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DSR" showName="true" number="DSR" showNumber="true" x="70.32" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DTR" showName="true" number="DTR" showNumber="true" x="70.32" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DCD" showName="true" number="DCD" showNumber="true" x="70.32" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

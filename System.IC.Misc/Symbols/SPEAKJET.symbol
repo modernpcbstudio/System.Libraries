@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316402532033" name="SPEAKJET">
+  <line x1="39.84" y1="67.78" x2="60.16" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="67.78" x2="60.16" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="34.76" x2="39.84" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="34.76" x2="39.84" y2="67.78" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="E0" showName="true" number="E0" showNumber="true" x="62.7" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E1" showName="true" number="E1" showNumber="true" x="62.7" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E2" showName="true" number="E2" showNumber="true" x="62.7" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E3" showName="true" number="E3" showNumber="true" x="62.7" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E4" showName="true" number="E4" showNumber="true" x="62.7" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E5" showName="true" number="E5" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E6/RC0" showName="true" number="E6/RC0" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E7/RC1" showName="true" number="E7/RC1" showNumber="true" x="62.7" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="37.3" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="37.3" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RX" showName="true" number="RX" showNumber="true" x="37.3" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RST" showName="true" number="RST" showNumber="true" x="37.3" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="M0" showName="true" number="M0" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="M1" showName="true" number="M1" showNumber="true" x="37.3" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D0/RDY" showName="true" number="D0/RDY" showNumber="true" x="62.7" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D1/SPK" showName="true" number="D1/SPK" showNumber="true" x="62.7" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D2/BHF" showName="true" number="D2/BHF" showNumber="true" x="62.7" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VOICE" showName="true" number="VOICE" showNumber="true" x="37.3" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316253851071" name="CY8C42M-68QFN_POWER">
+  <pin name="XRES" showName="true" number="XRES" showNumber="true" x="67.78" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCCD" showName="true" number="VCCD" showNumber="true" x="52.54" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDDD" showName="true" number="VDDD" showNumber="true" x="55.08" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDDA0" showName="true" number="VDDA0" showNumber="true" x="57.62" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDDA1" showName="true" number="VDDA1" showNumber="true" x="60.16" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDDIO" showName="true" number="VDDIO" showNumber="true" x="62.7" y="27.14" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSD" showName="true" number="VSSD" showNumber="true" x="52.54" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSA0" showName="true" number="VSSA0" showNumber="true" x="57.62" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSA1" showName="true" number="VSSA1" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSIO" showName="true" number="VSSIO" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50" y1="29.68" x2="65.24" y2="29.68" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.24" y1="29.68" x2="65.24" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.24" y1="50" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="50" y2="29.68" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

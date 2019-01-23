@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532052" name="556" prefix="IC" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532020" symbolName="556_TIMER_DUAL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531003" footprintName="DIP14">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="CV" />
+      <map pad="11" gateId="1" pin="CV2" />
+      <map pad="1" gateId="1" pin="DIS" />
+      <map pad="13" gateId="1" pin="DIS2" />
+      <map pad="7" gateId="1" pin="GND" />
+      <map pad="5" gateId="1" pin="OUT" />
+      <map pad="9" gateId="1" pin="OUT2" />
+      <map pad="4" gateId="1" pin="RST" />
+      <map pad="10" gateId="1" pin="RST2" />
+      <map pad="2" gateId="1" pin="THR" />
+      <map pad="12" gateId="1" pin="THR2" />
+      <map pad="6" gateId="1" pin="TRIG" />
+      <map pad="8" gateId="1" pin="TRIG2" />
+      <map pad="14" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

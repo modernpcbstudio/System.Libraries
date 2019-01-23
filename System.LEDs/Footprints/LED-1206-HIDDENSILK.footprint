@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359040" name="LED-1206-HIDDENSILK">
+  <line x1="50.6474" y1="49.3175" x2="50.6474" y2="50.6825" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="A" x="48.5" y="50" rot="0" width="1.2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="C" x="51.5" y="50" rot="0" width="1.2" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="50.65375" y1="49.3175" x2="50.65375" y2="50.6825" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="50.635" y1="50" x2="50.15875" y2="49.52375" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="50.635" y1="50" x2="50.15875" y2="50.47625" width="0.2032" layer="201" lineStyle="Solid" />
+</footprint>

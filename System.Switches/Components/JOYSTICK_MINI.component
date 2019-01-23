@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751086" name="JOYSTICK_MINI" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751053" symbolName="JOYSTICK_MINI" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751009" footprintName="JOYSTICK_MINI">
+    <pad2pinMaps>
+      <map pad="CTR" gateId="1" pin="CENT" />
+      <map pad="D" gateId="1" pin="DOWN" />
+      <map pad="GND" gateId="1" pin="GND" />
+      <map pad="C" gateId="1" pin="LEFT" />
+      <map pad="B" gateId="1" pin="RIGHT" />
+      <map pad="A" gateId="1" pin="UP" />
+    </pad2pinMaps>
+  </footprint>
+</component>

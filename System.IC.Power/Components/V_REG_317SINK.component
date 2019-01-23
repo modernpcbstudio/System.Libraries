@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885077" name="V_REG_317SINK" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885041" symbolName="78ADJ-2" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885012" footprintName="TO220-ADJ">
+    <pad2pinMaps>
+      <map pad="ADJ" gateId="1" pin="ADJ" />
+      <map pad="IN" gateId="1" pin="IN" />
+      <map pad="OUT" gateId="1" pin="OUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

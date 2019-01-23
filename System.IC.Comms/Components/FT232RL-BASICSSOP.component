@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316024757039" name="FT232RL-BASICSSOP" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316024757020" symbolName="FT232R-BASIC" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316024757000" footprintName="SSOP28DB">
+    <pad2pinMaps>
+      <map pad="17" gateId="1" pin="3V3OUT" />
+      <map pad="25" gateId="1" pin="AGND" />
+      <map pad="11" gateId="1" pin="CTS" />
+      <map pad="2" gateId="1" pin="DTR" />
+      <map pad="7" gateId="1" pin="GND1" />
+      <map pad="18" gateId="1" pin="GND2" />
+      <map pad="21" gateId="1" pin="GND3" />
+      <map pad="3" gateId="1" pin="RTS" />
+      <map pad="5" gateId="1" pin="RXD" />
+      <map pad="22" gateId="1" pin="RXLED" />
+      <map pad="26" gateId="1" pin="TEST" />
+      <map pad="1" gateId="1" pin="TXD" />
+      <map pad="23" gateId="1" pin="TXLED" />
+      <map pad="16" gateId="1" pin="USBDM" />
+      <map pad="15" gateId="1" pin="USBDP" />
+      <map pad="20" gateId="1" pin="VCC" />
+      <map pad="4" gateId="1" pin="VCCIO" />
+    </pad2pinMaps>
+  </footprint>
+</component>

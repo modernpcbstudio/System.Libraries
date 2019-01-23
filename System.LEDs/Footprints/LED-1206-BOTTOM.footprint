@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359016" name="LED-1206-BOTTOM">
+  <rect x="50" y="50" width="1.5" height="1.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <smd number="A" x="48.2" y="50" rot="0" width="1.5" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="C" x="51.8" y="50" rot="0" width="1.5" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="50" y="50" drill="2.3" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="51.1" y="50.5" />
+    <vertex x="51.1" y="49.5" />
+    <vertex x="51.6" y="49.5" />
+    <vertex x="51.6" y="49.75" />
+    <vertex x="51.4" y="49.95" />
+    <vertex x="51.4" y="50.05" />
+    <vertex x="51.6" y="50.25" />
+    <vertex x="51.6" y="50.5" />
+  </poly>
+  <poly borderWidth="0" isFilled="true" layer="201">
+    <vertex x="48.9" y="49.5" />
+    <vertex x="48.9" y="50.5" />
+    <vertex x="48.4" y="50.5" />
+    <vertex x="48.4" y="50.25" />
+    <vertex x="48.6" y="50.05" />
+    <vertex x="48.6" y="49.95" />
+    <vertex x="48.4" y="49.75" />
+    <vertex x="48.4" y="49.5" />
+  </poly>
+  <line x1="52.7686" y1="48.984" x2="52.7686" y2="51.016" width="0.127" layer="501" lineStyle="Solid" />
+</footprint>

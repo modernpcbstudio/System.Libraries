@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316024757029" name="M74HC4050">
+  <line x1="42.38" y1="60.16" x2="42.38" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="39.84" x2="57.62" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="39.84" x2="57.62" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="60.16" x2="42.38" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="39.84" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1A" showName="true" number="1A" showNumber="true" x="39.84" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2A" showName="true" number="2A" showNumber="true" x="39.84" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3A" showName="true" number="3A" showNumber="true" x="39.84" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4A" showName="true" number="4A" showNumber="true" x="39.84" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5A" showName="true" number="5A" showNumber="true" x="39.84" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6A" showName="true" number="6A" showNumber="true" x="39.84" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1Y" showName="true" number="1Y" showNumber="true" x="60.16" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2Y" showName="true" number="2Y" showNumber="true" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3Y" showName="true" number="3Y" showNumber="true" x="60.16" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4Y" showName="true" number="4Y" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5Y" showName="true" number="5Y" showNumber="true" x="60.16" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6Y" showName="true" number="6Y" showNumber="true" x="60.16" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="60.16" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

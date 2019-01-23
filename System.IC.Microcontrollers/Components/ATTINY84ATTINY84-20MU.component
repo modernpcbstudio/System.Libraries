@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851107" name="ATTINY84ATTINY84-20MU" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="U1" symbolId="2019012316253851042" symbolName="ATTINY84" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851007" footprintName="QFN20">
+    <pad2pinMaps>
+      <map pad="13" gateId="1" pin="(!RESET!)PB3" />
+      <map pad="5" gateId="1" pin="(ADC0)PA0" />
+      <map pad="4" gateId="1" pin="(ADC1)PA1" />
+      <map pad="3" gateId="1" pin="(ADC2)PA2" />
+      <map pad="2" gateId="1" pin="(ADC3)PA3" />
+      <map pad="15" gateId="1" pin="(ADC7)PA7" />
+      <map pad="14" gateId="1" pin="(INT0)PB2" />
+      <map pad="20" gateId="1" pin="(RX/MISO/ADC5)PA5" />
+      <map pad="1" gateId="1" pin="(SCL/SCK/ADC4)PA4" />
+      <map pad="16" gateId="1" pin="(TX/SDA/MOSI/ADC6)PA6" />
+      <map pad="11" gateId="1" pin="(XTAL1)PB0" />
+      <map pad="12" gateId="1" pin="(XTAL2)PB1" />
+      <map pad="8" gateId="1" pin="GND" />
+      <map pad="9" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

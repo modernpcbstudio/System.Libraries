@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424050" name="74LVC4066D_QUAD_BILATERAL_SWITCH" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316124424028" symbolName="MUX_1:1_X4" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424005" footprintName="SO14">
+    <pad2pinMaps>
+      <map pad="13" gateId="1" pin="1E" />
+      <map pad="1" gateId="1" pin="1Y" />
+      <map pad="2" gateId="1" pin="1Z" />
+      <map pad="5" gateId="1" pin="2E" />
+      <map pad="4" gateId="1" pin="2Y" />
+      <map pad="3" gateId="1" pin="2Z" />
+      <map pad="6" gateId="1" pin="3E" />
+      <map pad="8" gateId="1" pin="3Y" />
+      <map pad="9" gateId="1" pin="3Z" />
+      <map pad="12" gateId="1" pin="4E" />
+      <map pad="11" gateId="1" pin="4Y" />
+      <map pad="10" gateId="1" pin="4Z" />
+      <map pad="7" gateId="1" pin="GND" />
+      <map pad="14" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

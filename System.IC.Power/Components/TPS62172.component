@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885092" name="TPS62172" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885049" symbolName="TPS62172" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885019" footprintName="WSON-8-PAD">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="AGND" />
+      <map pad="3" gateId="1" pin="EN" />
+      <map pad="5" gateId="1" pin="FB" />
+      <map pad="PAD" gateId="1" pin="PAD" />
+      <map pad="8" gateId="1" pin="PG" />
+      <map pad="1" gateId="1" pin="PGND" />
+      <map pad="7" gateId="1" pin="SW" />
+      <map pad="2" gateId="1" pin="VIN" />
+      <map pad="6" gateId="1" pin="VOS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

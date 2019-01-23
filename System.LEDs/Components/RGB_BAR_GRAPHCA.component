@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359126" name="RGB_BAR_GRAPHCA" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="D1" symbolId="2019012316523359053" symbolName="RGB_BAR_GRAPH" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359032" footprintName="RGB_BAR_GRAPH">
+    <pad2pinMaps>
+      <map pad="24" gateId="1" pin="B1" />
+      <map pad="6" gateId="1" pin="B2" />
+      <map pad="14" gateId="1" pin="B3" />
+      <map pad="1" gateId="1" pin="C1" />
+      <map pad="8" gateId="1" pin="C10" />
+      <map pad="19" gateId="1" pin="C11" />
+      <map pad="18" gateId="1" pin="C12" />
+      <map pad="10" gateId="1" pin="C13" />
+      <map pad="11" gateId="1" pin="C14" />
+      <map pad="15" gateId="1" pin="C15" />
+      <map pad="12" gateId="1" pin="C16" />
+      <map pad="25" gateId="1" pin="C2" />
+      <map pad="3" gateId="1" pin="C3" />
+      <map pad="4" gateId="1" pin="C4" />
+      <map pad="23" gateId="1" pin="C5" />
+      <map pad="5" gateId="1" pin="C6" />
+      <map pad="22" gateId="1" pin="C7" />
+      <map pad="21" gateId="1" pin="C8" />
+      <map pad="20" gateId="1" pin="C9" />
+      <map pad="7" gateId="1" pin="G1" />
+      <map pad="16" gateId="1" pin="G2" />
+      <map pad="2" gateId="1" pin="G3" />
+      <map pad="9" gateId="1" pin="R1" />
+      <map pad="17" gateId="1" pin="R2" />
+      <map pad="13" gateId="1" pin="R3" />
+    </pad2pinMaps>
+  </footprint>
+</component>

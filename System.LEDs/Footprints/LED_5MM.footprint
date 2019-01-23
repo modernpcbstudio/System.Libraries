@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359000" name="LED_5MM">
+  <line x1="48.857" y1="50" x2="50" y2="48.857" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="51.143" x2="51.143" y2="50" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="48.349" y1="50" x2="50" y2="48.349" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="51.651" x2="51.651" y2="50" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="47.841" y1="50" x2="50" y2="47.841" width="0.1524" layer="201" lineStyle="Solid" />
+  <line x1="50" y1="52.159" x2="52.159" y2="50" width="0.1524" layer="201" lineStyle="Solid" />
+  <pad number="A" x="48.73" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="K" x="51.27" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="52.54" y1="51.905" x2="52.54" y2="48.095" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="51.905" x2="52.54" y2="48.095" width="0.254" layer="501" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="5.08" borderWidth="0.1524" isFilled="false" layer="501" />
+  <line x1="52.54" y1="51.905" x2="52.54" y2="48.095" width="0.2032" layer="201" lineStyle="Solid" />
+</footprint>

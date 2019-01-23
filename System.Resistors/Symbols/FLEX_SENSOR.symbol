@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317022546038" name="FLEX_SENSOR">
+  <line x1="42.38" y1="50" x2="44.92" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="50" x2="45.682" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.682" y1="48.73" x2="46.444" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.444" y1="51.524" x2="47.206" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.206" y1="48.73" x2="47.968" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.968" y1="51.524" x2="48.73" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.73" y1="48.73" x2="49.492" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.492" y1="51.524" x2="50.254" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.254" y1="48.73" x2="51.016" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="51.524" x2="51.778" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="50" x2="54.318" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="P$1" showName="true" number="P$1" showNumber="true" x="39.84" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P$2" showName="true" number="P$2" showNumber="true" x="57.62" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885054" name="LTC4150">
+  <line x1="39.84" y1="37.3" x2="39.84" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="60.16" x2="60.16" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="60.16" x2="60.16" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="37.3" x2="39.84" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="SENSE+" showName="true" number="SENSE+" showNumber="true" x="34.76" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SENSE-" showName="true" number="SENSE-" showNumber="true" x="34.76" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CF+" showName="true" number="CF+" showNumber="true" x="34.76" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CF-" showName="true" number="CF-" showNumber="true" x="34.76" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!SHDN!" showName="true" number="!SHDN!" showNumber="true" x="65.24" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="34.76" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!CLR!" showName="true" number="!CLR!" showNumber="true" x="65.24" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="34.76" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!INT!" showName="true" number="!INT!" showNumber="true" x="65.24" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="POL" showName="true" number="POL" showNumber="true" x="65.24" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

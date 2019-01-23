@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851130" name="PSOC6_6347BZI" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012316253851089" symbolName="CY8C6347BZI_ASST" swaplevel="0" />
+    <gate id="2" name="G2" symbolId="2019012316253851082" symbolName="CY8C6347BZI_P0_P1" swaplevel="0" />
+    <gate id="3" name="G3" symbolId="2019012316253851088" symbolName="CY8C6347BZI_SUPPLY" swaplevel="0" />
+    <gate id="4" name="G5" symbolId="2019012316253851086" symbolName="CY8C6347BZI_VDDA" swaplevel="0" />
+    <gate id="5" name="G6" symbolId="2019012316253851084" symbolName="CY8C6347BZI_VDDD" swaplevel="0" />
+    <gate id="6" name="G7" symbolId="2019012316253851087" symbolName="CY8C6347BZI_VDDIO0" swaplevel="0" />
+    <gate id="7" name="G8" symbolId="2019012316253851085" symbolName="CY8C6347BZI_VDDIO1" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851031" footprintName="BGA-116">
+    <pad2pinMaps>
+      <map pad="K1" gateId="1" pin="ANT" />
+      <map pad="M4" gateId="1" pin="XI" />
+      <map pad="M5" gateId="1" pin="XO" />
+      <map pad="C2" gateId="2" pin="P0.0" />
+      <map pad="D3" gateId="2" pin="P0.1" />
+      <map pad="E4" gateId="2" pin="P0.2" />
+      <map pad="E3" gateId="2" pin="P0.3" />
+      <map pad="F3" gateId="2" pin="P0.4" />
+      <map pad="D2" gateId="2" pin="P0.5" />
+      <map pad="C1" gateId="2" pin="V_BACKUP" />
+      <map pad="M6" gateId="3" pin="DVDD" />
+      <map pad="G2" gateId="3" pin="VBUCK1" />
+      <map pad="A2" gateId="3" pin="VCCD" />
+      <map pad="M7" gateId="3" pin="VDCDC" />
+      <map pad="L2" gateId="3" pin="VDDR1" />
+      <map pad="M1" gateId="3" pin="VDDR2" />
+      <map pad="M2" gateId="3" pin="VDDR3" />
+      <map pad="L7" gateId="3" pin="VDDR_HVL" />
+      <map pad="H3" gateId="3" pin="VDD_NS" />
+      <map pad="F1" gateId="3" pin="VIND1" />
+      <map pad="G1" gateId="3" pin="VIND2" />
+      <map pad="B10" gateId="3" pin="VREF" />
+      <map pad="H1" gateId="3" pin="VRF" />
+      <map pad="J1" gateId="3" pin="VSSR_0" />
+      <map pad="K2" gateId="3" pin="VSSR_1" />
+      <map pad="M8" gateId="3" pin="VSSR_10" />
+      <map pad="K3" gateId="3" pin="VSSR_2" />
+      <map pad="K4" gateId="3" pin="VSSR_3" />
+      <map pad="K5" gateId="3" pin="VSSR_4" />
+      <map pad="L1" gateId="3" pin="VSSR_5" />
+      <map pad="L3" gateId="3" pin="VSSR_6" />
+      <map pad="L4" gateId="3" pin="VSSR_7" />
+      <map pad="L5" gateId="3" pin="VSSR_8" />
+      <map pad="M3" gateId="3" pin="VSSR_9" />
+      <map pad="B2" gateId="3" pin="VSS_0" />
+      <map pad="B9" gateId="3" pin="VSS_1" />
+      <map pad="D1" gateId="3" pin="VSS_2" />
+      <map pad="H2" gateId="3" pin="VSS_3" />
+      <map pad="H9" gateId="3" pin="VSS_4" />
+      <map pad="E2" gateId="3" pin="XRES" />
+      <map pad="B8" gateId="4" pin="P10.0" />
+      <map pad="A8" gateId="4" pin="P10.1" />
+      <map pad="F6" gateId="4" pin="P10.2" />
+      <map pad="E6" gateId="4" pin="P10.3" />
+      <map pad="D6" gateId="4" pin="P10.4" />
+      <map pad="B7" gateId="4" pin="P10.5" />
+      <map pad="A7" gateId="4" pin="P10.6" />
+      <map pad="D10" gateId="4" pin="P9.0" />
+      <map pad="D9" gateId="4" pin="P9.1" />
+      <map pad="D8" gateId="4" pin="P9.2" />
+      <map pad="D7" gateId="4" pin="P9.3" />
+      <map pad="C10" gateId="4" pin="P9.4" />
+      <map pad="C9" gateId="4" pin="P9.5" />
+      <map pad="C8" gateId="4" pin="P9.6" />
+      <map pad="C7" gateId="4" pin="P9.7" />
+      <map pad="A9" gateId="4" pin="VDDA" />
+      <map pad="G3" gateId="5" pin="P1.0" />
+      <map pad="F2" gateId="5" pin="P1.1" />
+      <map pad="J5" gateId="5" pin="P1.2" />
+      <map pad="J4" gateId="5" pin="P1.3" />
+      <map pad="J3" gateId="5" pin="P1.4" />
+      <map pad="J2" gateId="5" pin="P1.5" />
+      <map pad="B1" gateId="5" pin="VDDD" />
+      <map pad="F5" gateId="6" pin="P11.0" />
+      <map pad="E5" gateId="6" pin="P11.1" />
+      <map pad="D5" gateId="6" pin="P11.2" />
+      <map pad="C6" gateId="6" pin="P11.3" />
+      <map pad="B6" gateId="6" pin="P11.4" />
+      <map pad="A6" gateId="6" pin="P11.5" />
+      <map pad="B5" gateId="6" pin="P11.6" />
+      <map pad="A5" gateId="6" pin="P11.7" />
+      <map pad="A4" gateId="6" pin="P12.0" />
+      <map pad="B4" gateId="6" pin="P12.1" />
+      <map pad="C4" gateId="6" pin="P12.2" />
+      <map pad="A3" gateId="6" pin="P12.3" />
+      <map pad="C5" gateId="6" pin="P12.4" />
+      <map pad="D4" gateId="6" pin="P12.5" />
+      <map pad="G5" gateId="6" pin="P12.6" />
+      <map pad="H5" gateId="6" pin="P12.7" />
+      <map pad="H4" gateId="6" pin="P13.0" />
+      <map pad="G4" gateId="6" pin="P13.1" />
+      <map pad="F4" gateId="6" pin="P13.6" />
+      <map pad="C3" gateId="6" pin="P13.7" />
+      <map pad="B3" gateId="6" pin="VDDIO0" />
+      <map pad="L6" gateId="7" pin="P5.0" />
+      <map pad="K6" gateId="7" pin="P5.1" />
+      <map pad="J6" gateId="7" pin="P5.2" />
+      <map pad="K7" gateId="7" pin="P5.3" />
+      <map pad="J7" gateId="7" pin="P5.4" />
+      <map pad="L8" gateId="7" pin="P5.5" />
+      <map pad="M9" gateId="7" pin="P5.6" />
+      <map pad="K8" gateId="7" pin="P6.0" />
+      <map pad="J8" gateId="7" pin="P6.1" />
+      <map pad="L9" gateId="7" pin="P6.2" />
+      <map pad="K9" gateId="7" pin="P6.3" />
+      <map pad="J9" gateId="7" pin="P6.4" />
+      <map pad="M10" gateId="7" pin="P6.5" />
+      <map pad="L10" gateId="7" pin="P6.6" />
+      <map pad="K10" gateId="7" pin="P6.7" />
+      <map pad="J10" gateId="7" pin="P7.0" />
+      <map pad="H10" gateId="7" pin="P7.1" />
+      <map pad="H8" gateId="7" pin="P7.2" />
+      <map pad="H7" gateId="7" pin="P7.3" />
+      <map pad="H6" gateId="7" pin="P7.4" />
+      <map pad="G9" gateId="7" pin="P7.5" />
+      <map pad="G8" gateId="7" pin="P7.6" />
+      <map pad="G7" gateId="7" pin="P7.7" />
+      <map pad="F10" gateId="7" pin="P8.0" />
+      <map pad="F9" gateId="7" pin="P8.1" />
+      <map pad="F8" gateId="7" pin="P8.2" />
+      <map pad="F7" gateId="7" pin="P8.3" />
+      <map pad="G6" gateId="7" pin="P8.4" />
+      <map pad="E9" gateId="7" pin="P8.5" />
+      <map pad="E8" gateId="7" pin="P8.6" />
+      <map pad="E7" gateId="7" pin="P8.7" />
+      <map pad="G10" gateId="7" pin="VDDIO1" />
+    </pad2pinMaps>
+  </footprint>
+</component>

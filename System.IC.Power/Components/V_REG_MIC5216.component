@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885087" name="V_REG_MIC5216" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885048" symbolName="MIC5216-1" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885001" footprintName="MSOP8">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="EN" />
+      <map pad="4" gateId="1" pin="FLAG" />
+      <map pad="5" gateId="1" pin="GND@5" />
+      <map pad="6" gateId="1" pin="GND@6" />
+      <map pad="7" gateId="1" pin="GND@7" />
+      <map pad="8" gateId="1" pin="GND@8" />
+      <map pad="2" gateId="1" pin="VIN" />
+      <map pad="3" gateId="1" pin="VOUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

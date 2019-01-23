@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316583317020" name="VNEG">
+  <line x1="50.762" y1="48.73" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="49.238" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="VNEG" showName="false" number="VNEG" showNumber="false" x="50" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

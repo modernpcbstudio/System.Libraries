@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316461615037" name="JUMPER-SMT_3_NO_NO_SILK" prefix="JP" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316461615026" symbolName="SMT-JUMPER_3_NO" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316461615018" footprintName="SMT-JUMPER_3_0-NO_TRACE_NO-SILK">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+      <map pad="3" gateId="1" pin="3" />
+    </pad2pinMaps>
+  </footprint>
+</component>

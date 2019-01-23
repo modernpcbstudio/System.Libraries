@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359114" name="7-SEGMENT-4DIGIT-10MM-BLUE" prefix="LED" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359050" symbolName="7-SEGMENT-4DIGIT-YOUNGSUN" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359026" footprintName="7-SEGMENT-4DIGIT-YOUNGSUN">
+    <pad2pinMaps>
+      <map pad="14" gateId="1" pin="A" />
+      <map pad="10" gateId="1" pin="APOS-A" />
+      <map pad="9" gateId="1" pin="APOS-C" />
+      <map pad="16" gateId="1" pin="B" />
+      <map pad="13" gateId="1" pin="C" />
+      <map pad="4" gateId="1" pin="COL-A" />
+      <map pad="12" gateId="1" pin="COL-C" />
+      <map pad="3" gateId="1" pin="D" />
+      <map pad="1" gateId="1" pin="DIG1" />
+      <map pad="2" gateId="1" pin="DIG2" />
+      <map pad="6" gateId="1" pin="DIG3" />
+      <map pad="8" gateId="1" pin="DIG4" />
+      <map pad="7" gateId="1" pin="DP" />
+      <map pad="5" gateId="1" pin="E" />
+      <map pad="11" gateId="1" pin="F" />
+      <map pad="15" gateId="1" pin="G" />
+    </pad2pinMaps>
+  </footprint>
+</component>

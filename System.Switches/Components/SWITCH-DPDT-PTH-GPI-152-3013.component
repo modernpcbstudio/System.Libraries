@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751091" name="SWITCH-DPDT-PTH-GPI-152-3013" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751043" symbolName="SWITCH-DPDT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751013" footprintName="SWITCH_DPDT_PTH_GPI-152-3013">
+    <pad2pinMaps>
+      <map pad="10" gateId="1" pin="1" />
+      <map pad="C@1" gateId="1" pin="2" />
+      <map pad="20" gateId="1" pin="3" />
+      <map pad="11" gateId="1" pin="4" />
+      <map pad="C@2" gateId="1" pin="5" />
+      <map pad="21" gateId="1" pin="6" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885033" name="LTC3588">
+  <line x1="39.84" y1="60.16" x2="60.16" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="60.16" x2="60.16" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="42.38" x2="39.84" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="42.38" x2="39.84" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="PZ1" showName="true" number="PZ1" showNumber="true" x="34.76" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PZ2" showName="true" number="PZ2" showNumber="true" x="65.24" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CAP" showName="true" number="CAP" showNumber="true" x="34.76" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIN" showName="true" number="VIN" showNumber="true" x="34.76" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SW" showName="true" number="SW" showNumber="true" x="65.24" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VOUT" showName="true" number="VOUT" showNumber="true" x="65.24" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIN2" showName="true" number="VIN2" showNumber="true" x="34.76" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D1" showName="true" number="D1" showNumber="true" x="34.76" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D0" showName="true" number="D0" showNumber="true" x="34.76" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PGOOD" showName="true" number="PGOOD" showNumber="true" x="65.24" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="65.24" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

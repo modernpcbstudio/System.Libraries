@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359035" name="PLCC4SMDLED">
+  <smd number="1" x="48.6" y="49.275" rot="0" width="1.2" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="48.6" y="50.725" rot="0" width="1.2" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.4" y="50.725" rot="0" width="1.2" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.4" y="49.275" rot="0" width="1.2" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="51.905" y1="51.5875" x2="48.095" y2="51.5875" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="48.2474" y1="48.603" x2="51.7526" y2="48.603" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="51.7526" y1="51.397" x2="48.2474" y2="51.397" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="51.7526" y1="51.397" x2="51.7526" y2="48.603" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="48.2474" y1="48.603" x2="48.2474" y2="51.397" width="0.0254" layer="201" lineStyle="Solid" />
+  <line x1="48.095" y1="48.4125" x2="51.905" y2="48.4125" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="48.4125" x2="51.905" y2="48.57125" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="48.095" y1="48.57125" x2="48.095" y2="48.4125" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="48.095" y1="51.5875" x2="48.095" y2="51.42875" width="0.1778" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="51.42875" x2="51.905" y2="51.5875" width="0.1778" layer="501" lineStyle="Solid" />
+  <circle x="47.71025" y="48.1385" diameter="0.508" borderWidth="0" isFilled="false" layer="501" />
+</footprint>

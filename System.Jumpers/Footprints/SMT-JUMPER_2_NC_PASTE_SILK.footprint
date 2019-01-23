@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316461615014" name="SMT-JUMPER_2_NC_PASTE_SILK">
+  <line x1="50.8636" y1="51.016" x2="49.1364" y2="51.016" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.8636" y1="48.984" x2="51.1176" y2="49.238" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.8824" y1="49.238" x2="49.1364" y2="48.984" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.8824" y1="50.762" x2="49.1364" y2="51.016" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="50.8636" y1="51.016" x2="51.1176" y2="50.762" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="51.1176" y1="50.762" x2="51.1176" y2="49.238" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="48.8824" y1="50.762" x2="48.8824" y2="49.238" width="0.1524" layer="501" lineStyle="Solid" />
+  <line x1="49.1364" y1="48.984" x2="50.8636" y2="48.984" width="0.1524" layer="501" lineStyle="Solid" />
+  <rect x="50" y="50" width="2.4891999999999967" height="2.2352000000000061" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <smd number="1" x="49.5936" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50.4064" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+</footprint>

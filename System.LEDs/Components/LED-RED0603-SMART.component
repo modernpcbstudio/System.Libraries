@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359078" name="LED-RED0603-SMART" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359042" symbolName="LED" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359003" footprintName="LED-0603">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="C" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

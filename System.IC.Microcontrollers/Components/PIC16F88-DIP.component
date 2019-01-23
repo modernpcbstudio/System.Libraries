@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851100" name="PIC16F88-DIP" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851039" symbolName="PIC16F88-DIP" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851026" footprintName="DIP18">
+    <pad2pinMaps>
+      <map pad="17" gateId="1" pin="RA0/AN0" />
+      <map pad="18" gateId="1" pin="RA1/AN1" />
+      <map pad="1" gateId="1" pin="RA2/AN2" />
+      <map pad="2" gateId="1" pin="RA3/AN3" />
+      <map pad="3" gateId="1" pin="RA4/AN4" />
+      <map pad="4" gateId="1" pin="RA5/MCLR" />
+      <map pad="15" gateId="1" pin="RA6/OSC2" />
+      <map pad="16" gateId="1" pin="RA7/OSC1" />
+      <map pad="6" gateId="1" pin="RB0/INT" />
+      <map pad="7" gateId="1" pin="RB1/SDA" />
+      <map pad="8" gateId="1" pin="RB2/RX" />
+      <map pad="9" gateId="1" pin="RB3" />
+      <map pad="10" gateId="1" pin="RB4/SCL" />
+      <map pad="11" gateId="1" pin="RB5/TX" />
+      <map pad="12" gateId="1" pin="RB6/PGC" />
+      <map pad="13" gateId="1" pin="RB7/PGD" />
+      <map pad="14" gateId="1" pin="VDD" />
+      <map pad="5" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

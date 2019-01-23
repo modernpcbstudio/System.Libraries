@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073750001" name="DIPSWITCH-02-209-2LPST">
+  <pad number="1" x="48.73" y="53.81" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="51.27" y="53.81" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="51.27" y="46.19" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="48.73" y="46.19" rot="360" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="46.725" y1="46.65" x2="48" y2="46.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.275" y1="46.65" x2="53.275" y2="53.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="53.35" x2="46.979" y2="53.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.979" y1="53.35" x2="46.725" y2="53.096000000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.725" y1="53.096000000000004" x2="46.725" y2="46.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="46.65" x2="53.27" y2="46.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.275" y1="53.35" x2="52" y2="53.35" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.5" y1="48" x2="47.5" y2="52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.5" y1="52" x2="49.5" y2="52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.5" y1="52" x2="49.5" y2="48" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.5" y1="48" x2="47.5" y2="48" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="48" x2="50.5" y2="52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="52" x2="52.5" y2="52" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.5" y1="52" x2="52.5" y2="48" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.5" y1="48" x2="50.5" y2="48" width="0.2032" layer="501" lineStyle="Solid" />
+  <rect x="48.5" y="50.52" width="1" height="1.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <rect x="51.5" y="50.52" width="1" height="1.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <mono x="50" y="47.5" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">ON</mono>
+</footprint>

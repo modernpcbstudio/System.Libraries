@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317022546188" name="TRIMPOT-PTH-10MM-KNOB-1/2W-10%" prefix="VR" componentType="Standard">
+  <gates>
+    <gate id="1" name="R?" symbolId="2019012317022546035" symbolName="TRIMPOT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317022546015" footprintName="TRIMPOT-PTH-3386U">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="CCW" />
+      <map pad="3" gateId="1" pin="CW" />
+      <map pad="2" gateId="1" pin="WIPER" />
+    </pad2pinMaps>
+  </footprint>
+</component>

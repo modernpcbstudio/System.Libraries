@@ -8,4 +8,18 @@
   <Project Path="System.Connectors\System.Connectors.project" />
   <Project Path="System.DiscreteSemiconductors\System.DiscreteSemiconductors.project" />
   <Project Path="System.Displays\System.Displays.project" />
+  <Project Path="System.Electromechanical\System.Electromechanical.project" />
+  <Project Path="System.Fuses\System.Fuses.project" />
+  <Project Path="System.IC.Amplifiers\System.IC.Amplifiers.project" />
+  <Project Path="System.IC.Comms\System.IC.Comms.project" />
+  <Project Path="System.IC.Logic\System.IC.Logic.project" />
+  <Project Path="System.IC.Memory\System.IC.Memory.project" />
+  <Project Path="System.IC.Microcontrollers\System.IC.Microcontrollers.project" />
+  <Project Path="System.IC.Power\System.IC.Power.project" />
+  <Project Path="System.IC.Misc\System.IC.Misc.project" />
+  <Project Path="System.Jumpers\System.Jumpers.project" />
+  <Project Path="System.LEDs\System.LEDs.project" />
+  <Project Path="System.PowerSymbols\System.PowerSymbols.project" />
+  <Project Path="System.Resistors\System.Resistors.project" />
+  <Project Path="System.Switches\System.Switches.project" />
 </Solution>

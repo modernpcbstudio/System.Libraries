@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359003" name="LED-0603">
+  <smd number="C" x="50.877" y="50" rot="-270" width="1" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="A" x="49.123" y="50" rot="-270" width="1" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="51.5875" y1="49.52375" x2="51.5875" y2="50.47625" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="50.15875" y1="49.52375" x2="50.15875" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.15875" y1="50" x2="50.15875" y2="50.47625" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.15875" y1="50" x2="49.84125" y2="49.6825" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="50.15875" y1="50" x2="49.84125" y2="50.3175" width="0.127" layer="201" lineStyle="Solid" />
+</footprint>

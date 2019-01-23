@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532080" name="DRV8811" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532039" symbolName="DRV8811" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402532004" footprintName="HTSSOP28">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="AOUT1" />
+      <map pad="25" gateId="1" pin="AOUT2" />
+      <map pad="11" gateId="1" pin="BOUT1" />
+      <map pad="18" gateId="1" pin="BOUT2" />
+      <map pad="23" gateId="1" pin="CP1" />
+      <map pad="24" gateId="1" pin="CP2" />
+      <map pad="5" gateId="1" pin="DECAY" />
+      <map pad="3" gateId="1" pin="DIR" />
+      <map pad="26" gateId="1" pin="ENABLEN" />
+      <map pad="7" gateId="1" pin="GND@1" />
+      <map pad="21" gateId="1" pin="GND@2" />
+      <map pad="2" gateId="1" pin="HOME" />
+      <map pad="1" gateId="1" pin="ISENA" />
+      <map pad="14" gateId="1" pin="ISENB" />
+      <map pad="GND@10 GND@11 GND@12 GND@13 GND@14 GND@15 GND@16 GND@17 GND@18 GND@19 GND@20 GND@21 GND@22 GND@23 GND@24 GND@25 GND@26 GND@27 GND@28 GND@29 GND@30 GND@PAD" gateId="1" pin="PAD" />
+      <map pad="6" gateId="1" pin="RCA" />
+      <map pad="9" gateId="1" pin="RCB" />
+      <map pad="17" gateId="1" pin="RESETN" />
+      <map pad="27" gateId="1" pin="SLEEPN" />
+      <map pad="16" gateId="1" pin="SRN" />
+      <map pad="19" gateId="1" pin="STEP" />
+      <map pad="13" gateId="1" pin="USM0" />
+      <map pad="12" gateId="1" pin="USM1" />
+      <map pad="10" gateId="1" pin="VCC" />
+      <map pad="22" gateId="1" pin="VCP" />
+      <map pad="20" gateId="1" pin="VGD" />
+      <map pad="28" gateId="1" pin="VMA" />
+      <map pad="15" gateId="1" pin="VMB" />
+      <map pad="8" gateId="1" pin="VREF" />
+    </pad2pinMaps>
+  </footprint>
+</component>

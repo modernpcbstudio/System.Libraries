@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359107" name="LED-RGBPLCC-6" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359047" symbolName="LED-RGB-INDV" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359022" footprintName="PLCC-6-LED">
+    <pad2pinMaps>
+      <map pad="AB" gateId="1" pin="BLU-A" />
+      <map pad="CB" gateId="1" pin="BLU-C" />
+      <map pad="AG" gateId="1" pin="GRN-A" />
+      <map pad="CG" gateId="1" pin="GRN-C" />
+      <map pad="AR" gateId="1" pin="RED-A" />
+      <map pad="CR" gateId="1" pin="RED-C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

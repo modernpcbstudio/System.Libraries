@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359063" name="LED-3MM-NO_SILK" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359042" symbolName="LED" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359006" footprintName="LED_3MM-NS">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="K" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

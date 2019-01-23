@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316351885031" name="DC-DC_CONVERTER_78XX">
+  <line x1="55.849440625" y1="43.50151875" x2="44.249440625" y2="43.50151875" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="44.249440625" y1="43.50151875" x2="44.249440625" y2="52.00151875" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="44.249440625" y1="52.00151875" x2="55.849440625" y2="52.00151875" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="55.849440625" y1="52.00151875" x2="55.849440625" y2="43.50151875" width="0.127" layer="501" lineStyle="Solid" />
+  <pad number="VIN" x="47.46" y="50" rot="180" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="GND" x="50" y="50" rot="180" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="VOUT" x="52.54" y="50" rot="180" width="1.6" height="1.6" cornerRadius="0.8" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="47.459440625" y="50.00151875" width="0.70000000000000284" height="0.25" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.999440625" y="50.00151875" width="0.70000000000000284" height="0.25" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.539440625" y="50.00151875" width="0.69999999999999574" height="0.25" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

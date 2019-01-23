@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316402532050" name="BNO080-IMU">
+  <line x1="32.22" y1="29.68" x2="32.22" y2="70.32" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="32.22" y1="70.32" x2="65.24" y2="70.32" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.24" y1="70.32" x2="65.24" y2="29.68" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.24" y1="29.68" x2="32.22" y2="29.68" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="29.68" y="65.24" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!RST" showName="true" number="!RST" showNumber="true" x="67.78" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CAP" showName="true" number="CAP" showNumber="true" x="67.78" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="29.68" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="XIN32" showName="true" number="XIN32" showNumber="true" x="67.78" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CLKSEL1" showName="true" number="CLKSEL1" showNumber="true" x="67.78" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="S_SDA" showName="true" number="S_SDA" showNumber="true" x="67.78" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="S_SCL" showName="true" number="S_SCL" showNumber="true" x="67.78" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!BOOT" showName="true" number="!BOOT" showNumber="true" x="29.68" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!H_INT" showName="true" number="!H_INT" showNumber="true" x="29.68" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="H_SCL/SCLK/RX" showName="true" number="H_SCL/SCLK/RX" showNumber="true" x="29.68" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="H_SDA/MISO/TX" showName="true" number="H_SDA/MISO/TX" showNumber="true" x="29.68" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="H_SA0/MOSI" showName="true" number="H_SA0/MOSI" showNumber="true" x="29.68" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDDIO" showName="true" number="VDDIO" showNumber="true" x="29.68" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GNDIO" showName="true" number="GNDIO" showNumber="true" x="29.68" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!H_CS" showName="true" number="!H_CS" showNumber="true" x="29.68" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CLKSEL0" showName="true" number="CLKSEL0" showNumber="true" x="29.68" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PS0/WAKE" showName="true" number="PS0/WAKE" showNumber="true" x="29.68" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PS1" showName="true" number="PS1" showNumber="true" x="29.68" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

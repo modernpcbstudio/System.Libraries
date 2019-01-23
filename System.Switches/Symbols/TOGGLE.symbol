@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317073751060" name="TOGGLE">
+  <line x1="50" y1="50" x2="52.54" y2="48.73" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="52.54" x2="53.175" y2="52.54" width="0.127" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="53.175" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="52.54" y="47.46" diameter="0.7184" borderWidth="0.2032" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="52.54" y="52.54" diameter="0.7184" borderWidth="0.2032" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="50" y="50" diameter="0.7184" borderWidth="0.2032" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="P" showName="false" number="P" showNumber="false" x="47.46" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="S" showName="false" number="S" showNumber="false" x="55.08" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="O" showName="false" number="O" showNumber="false" x="55.08" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

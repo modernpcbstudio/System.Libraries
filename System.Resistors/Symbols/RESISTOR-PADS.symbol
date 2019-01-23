@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317022546033" name="RESISTOR-PADS">
+  <line x1="47.46" y1="50" x2="47.841" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.841" y1="48.984" x2="48.476" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.476" y1="51.016" x2="49.111" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.111" y1="48.984" x2="49.746" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.746" y1="51.016" x2="50.381" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.381" y1="48.984" x2="51.016" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="51.016" x2="51.651" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.651" y1="48.984" x2="52.286" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.286" y1="51.016" x2="52.54" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="1" showName="true" number="1" showNumber="true" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="true" number="2" showNumber="true" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

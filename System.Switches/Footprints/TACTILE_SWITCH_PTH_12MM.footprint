@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751016" name="TACTILE_SWITCH_PTH_12MM">
+  <line x1="55" y1="51.3" x2="55" y2="50.7" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="55" y1="50.7" x2="54.5" y2="50.2" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="55" y1="49.8" x2="55" y2="49" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="44" y1="46" x2="44" y2="45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45" y1="44" x2="55" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="45" x2="56" y2="46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="49" x2="56" y2="51" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="54" x2="56" y2="55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55" y1="56" x2="45" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44" y1="55" x2="44" y2="54" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44" y1="51" x2="44" y2="49" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44" y1="45" x2="45" y2="44" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55" y1="44" x2="56" y2="45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56" y1="55" x2="55" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="45" y1="56" x2="44" y2="55" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="7" borderWidth="0.2032" isFilled="false" layer="501" />
+  <circle x="45.5" y="45.5" diameter="0.6" borderWidth="0.7" isFilled="false" layer="501" />
+  <circle x="54.5" y="45.5" diameter="0.6" borderWidth="0.7" isFilled="false" layer="501" />
+  <circle x="54.5" y="54.5" diameter="0.6" borderWidth="0.7" isFilled="false" layer="501" />
+  <circle x="45.5" y="54.5" diameter="0.6" borderWidth="0.7" isFilled="false" layer="501" />
+  <pad number="4" x="43.75" y="47.5" rot="360" width="2.159" height="2.159" cornerRadius="1.0795" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="43.75" y="52.5" rot="360" width="2.159" height="2.159" cornerRadius="1.0795" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="1" x="56.25" y="52.5" rot="360" width="2.159" height="2.159" cornerRadius="1.0795" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="56.25" y="47.5" rot="360" width="2.159" height="2.159" cornerRadius="1.0795" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317073751044" name="BUTTON-CONDUCTIVE">
+  <line x1="42.38" y1="50" x2="44.158" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="47.46" y2="48.476" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="48.476" x2="52.54" y2="50" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="50" x2="47.46" y2="51.27" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="51.27" x2="52.54" y2="52.54" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="52.54" x2="47.46" y2="53.556" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="53.556" x2="52.54" y2="55.08" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="47.46" x2="47.46" y2="46.19" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="46.19" x2="52.54" y2="44.92" width="0.1778" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.62" y1="50" x2="55.842" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="50" y="50" diameter="11.3592" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="42.38" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="57.62" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

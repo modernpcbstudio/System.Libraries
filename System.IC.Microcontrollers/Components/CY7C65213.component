@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851119" name="CY7C65213" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851056" symbolName="CY7C65213" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851008" footprintName="SSOP28DB">
+    <pad2pinMaps>
+      <map pad="11" gateId="1" pin="CTS" />
+      <map pad="10" gateId="1" pin="DCD" />
+      <map pad="26" gateId="1" pin="DNU" />
+      <map pad="9" gateId="1" pin="DSR" />
+      <map pad="2" gateId="1" pin="DTR" />
+      <map pad="18" gateId="1" pin="GND18" />
+      <map pad="21" gateId="1" pin="GND21" />
+      <map pad="7" gateId="1" pin="GND7" />
+      <map pad="8" gateId="1" pin="GPIO5" />
+      <map pad="24" gateId="1" pin="NC0" />
+      <map pad="25" gateId="1" pin="NC1" />
+      <map pad="27" gateId="1" pin="OSCI" />
+      <map pad="28" gateId="1" pin="OSCO" />
+      <map pad="14" gateId="1" pin="PWREN" />
+      <map pad="19" gateId="1" pin="RESET" />
+      <map pad="6" gateId="1" pin="RI" />
+      <map pad="3" gateId="1" pin="RTS" />
+      <map pad="5" gateId="1" pin="RXD" />
+      <map pad="22" gateId="1" pin="RXLED" />
+      <map pad="12" gateId="1" pin="SLEEP" />
+      <map pad="1" gateId="1" pin="TXD" />
+      <map pad="13" gateId="1" pin="TXDEN" />
+      <map pad="23" gateId="1" pin="TXLED" />
+      <map pad="16" gateId="1" pin="USBDM" />
+      <map pad="15" gateId="1" pin="USBDP" />
+      <map pad="20" gateId="1" pin="VCC" />
+      <map pad="17" gateId="1" pin="VCCD" />
+      <map pad="4" gateId="1" pin="VCCIO" />
+    </pad2pinMaps>
+  </footprint>
+</component>

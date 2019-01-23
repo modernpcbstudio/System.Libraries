@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315272249001" name="1206">
+  <line x1="47.6" y1="48.9" x2="52.4" y2="48.9" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="52.4" y1="51.1" x2="47.6" y2="51.1" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="47.6" y1="51.1" x2="47.6" y2="48.9" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="52.4" y1="48.9" x2="52.4" y2="51.1" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="49.035" y1="49.213" x2="50.965" y2="49.213" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="49.035" y1="50.787" x2="50.965" y2="50.787" width="0.1016" layer="201" lineStyle="Solid" />
+  <smd number="1" x="48.6" y="50" rot="0" width="1.6" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.4" y="50" rot="0" width="1.6" height="1.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="48.673249999999996" y="50.0009" width="0.75009999999999621" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.326750000000004" y="49.9991" width="0.75009999999999621" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

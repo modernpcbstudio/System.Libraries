@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316185686005" name="SPI_FLASH">
+  <line x1="39.84" y1="44.92" x2="39.84" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="57.62" x2="60.16" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="57.62" x2="60.16" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="44.92" x2="39.84" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="CS" showName="true" number="CS" showNumber="true" x="34.76" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="MISO" showName="true" number="MISO" showNumber="true" x="34.76" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="WP" showName="true" number="WP" showNumber="true" x="34.76" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="34.76" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="65.24" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="HOLD" showName="true" number="HOLD" showNumber="true" x="65.24" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SCK" showName="true" number="SCK" showNumber="true" x="65.24" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="MOSI" showName="true" number="MOSI" showNumber="true" x="65.24" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315272249000" name="PTH">
+  <line x1="46.19" y1="48.476" x2="53.81" y2="48.476" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="48.476" x2="53.81" y2="51.524" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.81" y1="51.524" x2="46.19" y2="51.524" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="51.524" x2="46.19" y2="48.476" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="P$1" x="47.46" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$2" x="52.54" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

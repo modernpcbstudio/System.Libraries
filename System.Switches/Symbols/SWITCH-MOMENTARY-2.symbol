@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317073751057" name="SWITCH-MOMENTARY-2">
+  <line x1="51.905" y1="50" x2="52.54" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="50" x2="51.905" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="47.46" y="50" diameter="0.254" borderWidth="0.4064" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="52.54" y="50" diameter="0.254" borderWidth="0.4064" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

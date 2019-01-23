@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316185686014" name="AT25SF041" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316185686007" symbolName="SPI_FLASH_DUAL/QUAD" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316185686000" footprintName="SO08">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="!CS" />
+      <map pad="7" gateId="1" pin="!HOLD(D3)" />
+      <map pad="3" gateId="1" pin="!WP(D2)" />
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="6" gateId="1" pin="SCK" />
+      <map pad="5" gateId="1" pin="SI(D0)" />
+      <map pad="2" gateId="1" pin="SO(D1)" />
+      <map pad="8" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

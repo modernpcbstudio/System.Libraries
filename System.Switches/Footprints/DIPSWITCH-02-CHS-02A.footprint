@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073750000" name="DIPSWITCH-02-CHS-02A">
+  <line x1="48.6082" y1="52.688" x2="49.365" y2="52.688" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.365" y1="52.688" x2="51.905" y2="52.688" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.905" y1="52.688" x2="52.6682" y2="52.688" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.6682" y1="52.688" x2="52.6682" y2="47.288" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.6682" y1="47.288" x2="51.905" y2="47.288" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.905" y1="47.288" x2="49.365" y2="47.288" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49.365" y1="47.288" x2="48.6082" y2="47.288" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.6082" y1="47.288" x2="48.6082" y2="52.688" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.6825" y1="49.0475" x2="50.3175" y2="49.0475" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.3175" y1="49.0475" x2="50.3175" y2="50.9525" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.3175" y1="50.9525" x2="49.6825" y2="50.9525" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.6825" y1="50.9525" x2="49.6825" y2="49.0475" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.9525" y1="49.0475" x2="51.5875" y2="49.0475" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.5875" y1="49.0475" x2="51.5875" y2="50.9525" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.5875" y1="50.9525" x2="50.9525" y2="50.9525" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.9525" y1="50.9525" x2="50.9525" y2="49.0475" width="0.2032" layer="501" lineStyle="Solid" />
+  <rect x="50" y="50.317499999999995" width="0.63500000000000512" height="0.634999999999998" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <rect x="51.269999999999996" y="50.317499999999995" width="0.634999999999998" height="0.634999999999998" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="501" />
+  <smd number="1" x="50" y="52.54" rot="0" width="0.76" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.27" y="52.54" rot="0" width="0.76" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.27" y="47.46" rot="0" width="0.76" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50" y="47.46" rot="0" width="0.76" height="1.6" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <mono x="50.3175" y="48.4125" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">O</mono>
+  <mono x="51.5875" y="48.4125" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">N</mono>
+  <mono x="50.3175" y="51.905" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">1</mono>
+  <mono x="51.5875" y="51.905" layer="201" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">2</mono>
+</footprint>

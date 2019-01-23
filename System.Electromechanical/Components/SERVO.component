@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315210613027" name="SERVO" prefix="M" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315210613015" symbolName="SMALL_SERVO_MOTOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315210613007" footprintName="1X03">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="GND" />
+      <map pad="1" gateId="1" pin="SIG" />
+      <map pad="2" gateId="1" pin="V+" />
+    </pad2pinMaps>
+  </footprint>
+</component>

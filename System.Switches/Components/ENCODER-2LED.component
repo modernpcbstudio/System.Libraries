@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751080" name="ENCODER-2LED" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751049" symbolName="ENCODER_LED_2-1" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751003" footprintName="ENCODER_LED_2">
+    <pad2pinMaps>
+      <map pad="+G" gateId="1" pin="+G" />
+      <map pad="+R" gateId="1" pin="+R" />
+      <map pad="GND" gateId="1" pin="-" />
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="B" gateId="1" pin="B" />
+      <map pad="C" gateId="1" pin="C" />
+      <map pad="SW" gateId="1" pin="SW" />
+    </pad2pinMaps>
+  </footprint>
+</component>

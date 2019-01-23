@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315341369003" name="DIP08-KIT">
+  <pad number="1" x="46.19" y="54.191" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="48.73" y="54.191" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="51.27" y="54.191" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="53.81" y="54.191" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="53.81" y="45.809" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" x="51.27" y="45.809" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="7" x="48.73" y="45.809" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8128" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="8" x="46.19" y="45.809" rot="360" width="1.905" height="1.905" cornerRadius="0.9525" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.8636" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="55.08" y1="47.079" x2="55.08" y2="52.921" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="47.079" x2="44.92" y2="48.984" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="52.921" x2="44.92" y2="51.016" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="51.016" x2="44.92" y2="48.984" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="47.079" x2="55.08" y2="47.079" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.92" y1="52.921" x2="55.08" y2="52.921" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="46.19" y="45.809" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="48.73" y="45.809" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="51.27" y="45.809" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="53.81" y="45.809" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="46.19" y="54.191" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="48.73" y="54.191" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="51.27" y="54.191" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="53.81" y="54.191" diameter="0.8636" borderWidth="0" isFilled="false" layer="401" />
+  <poly borderWidth="0.127" isFilled="true" layer="501">
+    <vertex x="43.80875" y="53.4925" />
+    <vertex x="44.285" y="53.01625" />
+    <vertex x="44.761250000000004" y="53.4925" />
+    <vertex x="44.285" y="53.96875" />
+  </poly>
+</footprint>

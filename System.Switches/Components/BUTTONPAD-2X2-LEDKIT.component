@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751076" name="BUTTONPAD-2X2-LEDKIT" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="C1" symbolId="2019012317073751047" symbolName="BUTTONPAD-LED" swaplevel="0" />
+    <gate id="2" name="C2" symbolId="2019012317073751047" symbolName="BUTTONPAD-LED" swaplevel="0" />
+    <gate id="3" name="C3" symbolId="2019012317073751047" symbolName="BUTTONPAD-LED" swaplevel="0" />
+    <gate id="4" name="C4" symbolId="2019012317073751047" symbolName="BUTTONPAD-LED" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073750009" footprintName="BUTTONPAD-2X2-SINGLE-LED-KIT">
+    <pad2pinMaps>
+      <map pad="A1" gateId="1" pin="A" />
+      <map pad="K1" gateId="1" pin="K" />
+      <map pad="SIG1" gateId="1" pin="SIG1" />
+      <map pad="SIG2" gateId="1" pin="SIG2" />
+      <map pad="A2" gateId="2" pin="A" />
+      <map pad="K2" gateId="2" pin="K" />
+      <map pad="SIG3" gateId="2" pin="SIG1" />
+      <map pad="SIG4" gateId="2" pin="SIG2" />
+      <map pad="A3" gateId="3" pin="A" />
+      <map pad="K3" gateId="3" pin="K" />
+      <map pad="SIG5" gateId="3" pin="SIG1" />
+      <map pad="SIG6" gateId="3" pin="SIG2" />
+      <map pad="A4" gateId="4" pin="A" />
+      <map pad="K4" gateId="4" pin="K" />
+      <map pad="SIG7" gateId="4" pin="SIG1" />
+      <map pad="SIG8" gateId="4" pin="SIG2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

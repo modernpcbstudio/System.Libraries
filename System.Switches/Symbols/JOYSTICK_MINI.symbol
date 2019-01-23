@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317073751053" name="JOYSTICK_MINI">
+  <line x1="39.84" y1="44.92" x2="60.16" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="44.92" x2="60.16" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="55.08" x2="39.84" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="55.08" x2="39.84" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="CENT" showName="true" number="CENT" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DOWN" showName="true" number="DOWN" showNumber="true" x="37.3" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="LEFT" showName="true" number="LEFT" showNumber="true" x="62.7" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RIGHT" showName="true" number="RIGHT" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="UP" showName="true" number="UP" showNumber="true" x="37.3" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613010" name="HEATSINK_PRT-9576">
+  <pad number="P$1" x="37.3" y="50" rot="360" width="5.08" height="5.08" cornerRadius="2.54" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.54" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$2" x="62.7" y="50" rot="360" width="5.08" height="5.08" cornerRadius="2.54" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="2.54" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="28.41" y1="62.7" x2="28.41" y2="37.3" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="71.59" y1="37.3" x2="71.59" y2="62.7" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="62.7" x2="37.3" y2="52.286" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="52.286" x2="62.7" y2="62.7" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="62.7" y1="62.7" x2="71.59" y2="62.7" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="37.3" y1="62.7" x2="28.41" y2="62.7" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="39.332" y1="50.762" x2="60.668" y2="50.762" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.096000000000004" y1="49.238" x2="43.903999999999996" y2="49.238" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.096000000000004" y1="49.238" x2="56.096000000000004" y2="37.3" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="43.903999999999996" y1="49.238" x2="43.903999999999996" y2="37.3" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="28.41" y1="37.3" x2="43.903999999999996" y2="37.3" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="71.59" y1="37.3" x2="56.096000000000004" y2="37.3" width="0.127" layer="501" lineStyle="Solid" />
+</footprint>

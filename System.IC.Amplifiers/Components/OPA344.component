@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315341369029" name="OPA344" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012315341369011" symbolName="OP-AMP" swaplevel="0" />
+    <gate id="2" name="G2" symbolId="2019012315341369015" symbolName="POWER_CONSORT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315341369005" footprintName="SOT23-5">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="+IN" />
+      <map pad="4" gateId="1" pin="-IN" />
+      <map pad="1" gateId="1" pin="OUT" />
+      <map pad="5" gateId="2" pin="P$V+" />
+      <map pad="2" gateId="2" pin="P$V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

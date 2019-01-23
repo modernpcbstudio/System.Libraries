@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424039" name="74*595" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="U1" symbolId="2019012316124424012" symbolName="74595" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424003" footprintName="TSSOP16">
+    <pad2pinMaps>
+      <map pad="13" gateId="1" pin="G" />
+      <map pad="8" gateId="1" pin="GND" />
+      <map pad="15" gateId="1" pin="QA" />
+      <map pad="1" gateId="1" pin="QB" />
+      <map pad="2" gateId="1" pin="QC" />
+      <map pad="3" gateId="1" pin="QD" />
+      <map pad="4" gateId="1" pin="QE" />
+      <map pad="5" gateId="1" pin="QF" />
+      <map pad="6" gateId="1" pin="QG" />
+      <map pad="7" gateId="1" pin="QH" />
+      <map pad="9" gateId="1" pin="QH*" />
+      <map pad="12" gateId="1" pin="RCK" />
+      <map pad="11" gateId="1" pin="SCK" />
+      <map pad="10" gateId="1" pin="SCL" />
+      <map pad="14" gateId="1" pin="SER" />
+      <map pad="16" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

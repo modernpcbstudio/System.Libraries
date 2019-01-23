@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359128" name="SUNLEDSMD1" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012316523359045" symbolName="LED-RGB-CC" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359035" footprintName="PLCC4SMDLED">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="BLU" />
+      <map pad="4" gateId="1" pin="C" />
+      <map pad="2" gateId="1" pin="GRN" />
+      <map pad="1" gateId="1" pin="RED" />
+    </pad2pinMaps>
+  </footprint>
+</component>

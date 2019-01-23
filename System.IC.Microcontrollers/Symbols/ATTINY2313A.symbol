@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316253851041" name="ATTINY2313A">
+  <pin name="PA2/!RESET" showName="true" number="PA2/!RESET" showNumber="true" x="27.14" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD0/RXD" showName="true" number="PD0/RXD" showNumber="true" x="27.14" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD1/TXD" showName="true" number="PD1/TXD" showNumber="true" x="27.14" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PA1/XTAL2" showName="true" number="PA1/XTAL2" showNumber="true" x="27.14" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PA0/XTAL1" showName="true" number="PA0/XTAL1" showNumber="true" x="27.14" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD2/INT0" showName="true" number="PD2/INT0" showNumber="true" x="27.14" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD3/INT1" showName="true" number="PD3/INT1" showNumber="true" x="27.14" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD4" showName="true" number="PD4" showNumber="true" x="27.14" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD5" showName="true" number="PD5" showNumber="true" x="27.14" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="27.14" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="72.86" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB7/SCK/SCL" showName="true" number="PB7/SCK/SCL" showNumber="true" x="72.86" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB6/MISO/DO" showName="true" number="PB6/MISO/DO" showNumber="true" x="72.86" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB5/MOSI/SDA/DI" showName="true" number="PB5/MOSI/SDA/DI" showNumber="true" x="72.86" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB4" showName="true" number="PB4" showNumber="true" x="72.86" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB3" showName="true" number="PB3" showNumber="true" x="72.86" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB2" showName="true" number="PB2" showNumber="true" x="72.86" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB1" showName="true" number="PB1" showNumber="true" x="72.86" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PB0" showName="true" number="PB0" showNumber="true" x="72.86" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PD6" showName="true" number="PD6" showNumber="true" x="72.86" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="32.22" y1="34.76" x2="32.22" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="32.22" y1="65.24" x2="67.78" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="65.24" x2="67.78" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="34.76" x2="32.22" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751025" name="TACTILE_SWITCH_SMD_RIGHT_ANGLE">
+  <hole x="50" y="49.1" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="50" y="50.9" drill="0.7" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <smd number="1" x="48.05" y="50" rot="-90" width="2" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.95" y="50" rot="-90" width="2" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48" y1="48.8" x2="48" y2="48.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="48.5" x2="52" y2="48.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="48.5" x2="52" y2="48.8" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="51.2" x2="48" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48" y1="51.5" x2="49.3" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.3" y1="51.5" x2="50.7" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.7" y1="51.5" x2="52" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52" y1="51.5" x2="52" y2="51.2" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.3" y1="52.1" x2="50.7" y2="52.1" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.7" y1="52.1" x2="50.7" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.3" y1="52.1" x2="49.3" y2="51.5" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

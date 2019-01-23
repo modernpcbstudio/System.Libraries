@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359067" name="LED_BARGRAPH_10YELLOW" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359044" symbolName="LED_BARGRAPH_10" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359009" footprintName="LED_BARGRAPH_10">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="A" />
+      <map pad="2" gateId="1" pin="A1" />
+      <map pad="3" gateId="1" pin="A2" />
+      <map pad="4" gateId="1" pin="A3" />
+      <map pad="5" gateId="1" pin="A4" />
+      <map pad="6" gateId="1" pin="A5" />
+      <map pad="7" gateId="1" pin="A6" />
+      <map pad="8" gateId="1" pin="A7" />
+      <map pad="9" gateId="1" pin="A8" />
+      <map pad="10" gateId="1" pin="A9" />
+      <map pad="20" gateId="1" pin="C" />
+      <map pad="19" gateId="1" pin="C1" />
+      <map pad="18" gateId="1" pin="C2" />
+      <map pad="17" gateId="1" pin="C3" />
+      <map pad="16" gateId="1" pin="C4" />
+      <map pad="15" gateId="1" pin="C5" />
+      <map pad="14" gateId="1" pin="C6" />
+      <map pad="13" gateId="1" pin="C7" />
+      <map pad="12" gateId="1" pin="C8" />
+      <map pad="11" gateId="1" pin="C9" />
+    </pad2pinMaps>
+  </footprint>
+</component>

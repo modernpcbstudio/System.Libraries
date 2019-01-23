@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316523359054" name="LED_BAR_SMD">
+  <line x1="52.54" y1="55.715" x2="52.54" y2="54.445" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="50.635" x2="52.54" y2="49.365" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="45.555" x2="52.54" y2="44.285" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="53.175" x2="52.54" y2="51.905" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="48.095" x2="52.54" y2="46.825" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="55.08" x2="50" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="1" showName="true" number="1" showNumber="true" x="55.08" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="true" number="2" showNumber="true" x="55.08" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="true" number="3" showNumber="true" x="55.08" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="true" number="4" showNumber="true" x="55.08" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5" showName="true" number="5" showNumber="true" x="55.08" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6" showName="true" number="6" showNumber="true" x="47.46" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.905" y="55.715" />
+    <vertex x="51.905" y="54.445" />
+    <vertex x="52.54" y="55.08" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.905" y="53.175" />
+    <vertex x="51.905" y="51.905" />
+    <vertex x="52.54" y="52.54" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.905" y="50.635" />
+    <vertex x="51.905" y="49.365" />
+    <vertex x="52.54" y="50" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.905" y="48.095" />
+    <vertex x="51.905" y="46.825" />
+    <vertex x="52.54" y="47.46" />
+  </poly>
+  <poly borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.905" y="45.555" />
+    <vertex x="51.905" y="44.285" />
+    <vertex x="52.54" y="44.92" />
+  </poly>
+</symbol>

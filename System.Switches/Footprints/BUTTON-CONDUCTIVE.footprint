@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073750004" name="BUTTON-CONDUCTIVE">
+  <line x1="50" y1="51.905" x2="50" y2="47.46" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="50.635" y1="48.095" x2="50.635" y2="52.54" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="51.27" y1="51.27" x2="51.27" y2="47.46" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="49.365" y1="48.095" x2="49.365" y2="52.54" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="48.73" y1="51.27" x2="48.73" y2="47.46" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="48.095" y1="48.73" x2="48.095" y2="52.54" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="51.905" y1="48.73" x2="51.905" y2="52.54" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="48.095" y1="52.54" x2="52.54" y2="52.54" width="0.2032" layer="1" lineStyle="Solid" />
+  <line x1="48.73" y1="47.46" x2="52.54" y2="47.46" width="0.2032" layer="1" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="4.064" borderWidth="0.127" isFilled="false" layer="201" />
+  <circle x="50" y="50" diameter="2" borderWidth="2" isFilled="false" layer="401" />
+  <smd number="1" x="52.54" y="47.46" rot="0" width="0.2032" height="0.2032" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="52.54" y="52.54" rot="0" width="0.2032" height="0.2032" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+</footprint>

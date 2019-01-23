@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851118" name="PIC16F1829" componentType="Standard">
+  <gates>
+    <gate id="1" name="1" symbolId="2019012316253851055" symbolName="PIC16F1829" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851012" footprintName="SSOP20">
+    <pad2pinMaps>
+      <map pad="16" gateId="1" pin="AN4/RC0" />
+      <map pad="14" gateId="1" pin="AN6/RC2" />
+      <map pad="7" gateId="1" pin="AN7/RC3" />
+      <map pad="8" gateId="1" pin="AN8/RC6" />
+      <map pad="19" gateId="1" pin="RA0/AN0/PGD" />
+      <map pad="18" gateId="1" pin="RA1/AN1/PGC" />
+      <map pad="17" gateId="1" pin="RA2/AN2/INT" />
+      <map pad="4" gateId="1" pin="RA3/VPP/!MCLR" />
+      <map pad="3" gateId="1" pin="RA4/OSC2/CLKOUT" />
+      <map pad="2" gateId="1" pin="RA5/OSC1/CLKIN/SDO2*" />
+      <map pad="13" gateId="1" pin="RB4/AN10/SDI1" />
+      <map pad="12" gateId="1" pin="RB5/AN11/SDI2/RX" />
+      <map pad="11" gateId="1" pin="RB6/SCK1" />
+      <map pad="10" gateId="1" pin="RB7/SCK2/TX" />
+      <map pad="5" gateId="1" pin="RX*/RC5" />
+      <map pad="9" gateId="1" pin="SDO1/AN9/RC7" />
+      <map pad="15" gateId="1" pin="SDO2/AN5/RC1" />
+      <map pad="6" gateId="1" pin="TX*/RC4" />
+      <map pad="1" gateId="1" pin="VDD" />
+      <map pad="20" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

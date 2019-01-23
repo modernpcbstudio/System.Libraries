@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424049" name="PCA9548A" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="U1" symbolId="2019012316124424027" symbolName="TCA9548A" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424011" footprintName="TSSOP28">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="!RST" />
+      <map pad="1" gateId="1" pin="A0" />
+      <map pad="2" gateId="1" pin="A1" />
+      <map pad="21" gateId="1" pin="A2" />
+      <map pad="12" gateId="1" pin="GND" />
+      <map pad="5" gateId="1" pin="SC0" />
+      <map pad="7" gateId="1" pin="SC1" />
+      <map pad="9" gateId="1" pin="SC2" />
+      <map pad="11" gateId="1" pin="SC3" />
+      <map pad="14" gateId="1" pin="SC4" />
+      <map pad="16" gateId="1" pin="SC5" />
+      <map pad="18" gateId="1" pin="SC6" />
+      <map pad="20" gateId="1" pin="SC7" />
+      <map pad="22" gateId="1" pin="SCL" />
+      <map pad="4" gateId="1" pin="SD0" />
+      <map pad="6" gateId="1" pin="SD1" />
+      <map pad="8" gateId="1" pin="SD2" />
+      <map pad="10" gateId="1" pin="SD3" />
+      <map pad="13" gateId="1" pin="SD4" />
+      <map pad="15" gateId="1" pin="SD5" />
+      <map pad="17" gateId="1" pin="SD6" />
+      <map pad="19" gateId="1" pin="SD7" />
+      <map pad="23" gateId="1" pin="SDA" />
+      <map pad="24" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

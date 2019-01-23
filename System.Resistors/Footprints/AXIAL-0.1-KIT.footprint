@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317022546006" name="AXIAL-0.1-KIT">
+  <line x1="50" y1="50.762" x2="50" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="50" x2="50" y2="49.238" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.254" y1="50" x2="50" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50" y1="50" x2="49.746" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="P$1" x="48.73" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$2" x="51.27" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="48.73" y="50" diameter="0.9144" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="48.73" y="50" diameter="0.9144" borderWidth="0" isFilled="false" layer="401" />
+  <circle x="51.27" y="50" diameter="0.9144" borderWidth="0" isFilled="false" layer="401" />
+</footprint>

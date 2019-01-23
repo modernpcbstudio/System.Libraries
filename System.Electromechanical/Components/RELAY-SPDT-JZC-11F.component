@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315210613024" name="RELAY-SPDT-JZC-11F" prefix="K" componentType="Standard">
+  <gates>
+    <gate id="1" name="K$1" symbolId="2019012315210613013" symbolName="RELAY-SPDT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315210613005" footprintName="RELAY-JZC">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="COIL1" />
+      <map pad="1" gateId="1" pin="COIL2" />
+      <map pad="4" gateId="1" pin="MAIN" />
+      <map pad="2" gateId="1" pin="NC" />
+      <map pad="3" gateId="1" pin="NO" />
+    </pad2pinMaps>
+  </footprint>
+</component>

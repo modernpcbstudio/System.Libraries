@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316402532007" name="MULTIWATT15">
+  <line x1="39.84" y1="47.46" x2="39.84" y2="44.06" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="44.06" x2="39.84" y2="42.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="39.84" y1="42.46" x2="60.04" y2="42.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.04" y1="42.46" x2="60.04" y2="44.06" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.04" y1="44.06" x2="60.04" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.04" y1="47.46" x2="39.84" y2="47.46" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="39.84" y1="44.06" x2="60.04" y2="44.06" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="39.85" y1="47.45" x2="41.15" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="43.5" y1="47.45" x2="43.7" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.05" y1="47.45" x2="46.25" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.55" y1="47.45" x2="48.75" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.1" y1="47.45" x2="51.3" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.65" y1="47.45" x2="53.85" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="56.2" y1="47.45" x2="56.4" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="60.05" y1="47.45" x2="58.75" y2="47.45" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="2" x="42.32" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="44.86" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="6" x="47.4" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="8" x="49.94" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="10" x="52.48" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="12" x="55.019999999999996" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="14" x="57.56" y="47.31" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="1" x="41.05" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="43.59" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="5" x="46.13" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="7" x="48.67" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="9" x="51.21" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="11" x="53.75" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="13" x="56.29" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="15" x="58.83" y="52.39" rot="360" width="1.9" height="1.9" cornerRadius="0.95" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.1" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

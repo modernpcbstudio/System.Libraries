@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751101" name="MOMENTARY-SWITCH-SPST-SMD-5.2-REDUNDANT" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751057" symbolName="SWITCH-MOMENTARY-2" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751024" footprintName="TACTILE_SWITCH_SMD_5.2MM">
+    <pad2pinMaps>
+      <map pad="1 2" gateId="1" pin="1" />
+      <map pad="3 4" gateId="1" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

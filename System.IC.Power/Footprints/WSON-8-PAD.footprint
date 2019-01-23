@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316351885019" name="WSON-8-PAD">
+  <line x1="49" y1="51" x2="49" y2="49" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="49" y1="49" x2="51" y2="49" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51" y1="49" x2="51" y2="51" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51" y1="51" x2="49" y2="51" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="6" x="50.25" y="49.05" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50.75" y="49.05" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="49.25" y="49.05" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="49.75" y="49.05" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="49.75" y="50.95" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="50.25" y="50.95" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50.75" y="50.95" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="49.25" y="50.95" rot="0" width="0.25" height="0.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="PAD" x="50" y="50" rot="0" width="1.6" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <line x1="49" y1="49" x2="49" y2="51" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="51" y1="49" x2="51" y2="51" width="0.127" layer="501" lineStyle="Solid" />
+  <circle x="49" y="51" diameter="0.1" borderWidth="0.127" isFilled="false" layer="501" />
+  <rect x="50" y="50" width="1.5999999999999943" height="0.90000000000000568" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.75" y="50.85" width="0.25" height="0.29999999999999716" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.25" y="50.85" width="0.25" height="0.29999999999999716" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.25" y="50.85" width="0.25" height="0.29999999999999716" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.75" y="50.85" width="0.25" height="0.29999999999999716" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.25" y="49.15" width="0.25" height="0.29999999999999716" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.75" y="49.15" width="0.25" height="0.29999999999999716" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.75" y="49.15" width="0.25" height="0.29999999999999716" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.25" y="49.15" width="0.25" height="0.29999999999999716" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="50" width="1.2999999999999972" height="0.70000000000000284" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <circle x="48.5" y="51" diameter="0.4472125" borderWidth="0.2032" isFilled="false" layer="501" />
+  <circle x="48.5" y="51" diameter="0.4472125" borderWidth="0.127" isFilled="false" layer="201" />
+</footprint>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885032" name="DC-DC_CONVERTER">
+  <line x1="37.3" y1="27.14" x2="37.3" y2="72.86" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="72.86" x2="62.7" y2="72.86" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="72.86" x2="62.7" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.7" y1="27.14" x2="37.3" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="VIN" showName="true" number="VIN" showNumber="true" x="32.22" y="29.68" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND1" showName="true" number="GND1" showNumber="true" x="32.22" y="70.32" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ON/OFF" showName="true" number="ON/OFF" showNumber="true" x="32.22" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PGOOD" showName="true" number="PGOOD" showNumber="true" x="32.22" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SEQ" showName="true" number="SEQ" showNumber="true" x="32.22" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VOUT" showName="true" number="VOUT" showNumber="true" x="67.78" y="29.68" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SENSE" showName="true" number="SENSE" showNumber="true" x="67.78" y="34.76" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TRIM" showName="true" number="TRIM" showNumber="true" x="67.78" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND2" showName="true" number="GND2" showNumber="true" x="67.78" y="70.32" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

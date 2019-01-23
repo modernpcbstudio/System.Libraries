@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751088" name="ENCODER-SWITCH" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751055" symbolName="ROT_ENCODER" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751011" footprintName="ROTARY_ENC_PLAIN">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="B" gateId="1" pin="B" />
+      <map pad="C" gateId="1" pin="C" />
+      <map pad="SW+" gateId="1" pin="SW+" />
+      <map pad="SW-" gateId="1" pin="SW-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

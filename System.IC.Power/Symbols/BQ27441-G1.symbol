@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885058" name="BQ27441-G1">
+  <pin name="SDA" showName="true" number="SDA" showNumber="true" x="62.7" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SCL" showName="true" number="SCL" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS" showName="true" number="VSS" showNumber="true" x="39.84" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="62.7" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BAT" showName="true" number="BAT" showNumber="true" x="39.84" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SRN" showName="true" number="SRN" showNumber="true" x="39.84" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SRP" showName="true" number="SRP" showNumber="true" x="39.84" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BIN" showName="true" number="BIN" showNumber="true" x="62.7" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GPOUT" showName="true" number="GPOUT" showNumber="true" x="62.7" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PWPD" showName="true" number="PWPD" showNumber="true" x="39.84" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="42.38" y1="39.84" x2="42.38" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="60.16" x2="60.16" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="60.16" x2="60.16" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="39.84" x2="42.38" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

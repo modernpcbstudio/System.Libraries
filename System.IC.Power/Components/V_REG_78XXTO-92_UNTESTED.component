@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885074" name="V_REG_78XXTO-92_UNTESTED" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885040" symbolName="78XX" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885010" footprintName="TO-92">
+    <pad2pinMaps>
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="3" gateId="1" pin="IN" />
+      <map pad="1" gateId="1" pin="OUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

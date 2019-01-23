@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316253851004" name="TQFP64_14X14MM">
+  <line x1="57" y1="43" x2="43" y2="43" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="43" y1="43" x2="43" y2="57" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="43" y1="57" x2="57" y2="57" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="57" y1="57" x2="57" y2="43" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.9" y1="43.6" x2="42.9" y2="42.9" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="42.9" y1="42.9" x2="43.6" y2="42.9" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="56.4" y1="42.9" x2="57.1" y2="42.9" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="57.1" y1="42.9" x2="57.1" y2="43.6" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="57.1" y1="56.4" x2="57.1" y2="57.1" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="57.1" y1="57.1" x2="56.4" y2="57.1" width="0.127" layer="501" lineStyle="Solid" />
+  <line x1="43" y1="56.4" x2="43.6" y2="57" width="0.127" layer="501" lineStyle="Solid" />
+  <smd number="56" x="42.4" y="49.6" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="57" x="42.4" y="50.4" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="58" x="42.4" y="51.2" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="55" x="42.4" y="48.8" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="54" x="42.4" y="48" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="59" x="42.4" y="52" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="60" x="42.4" y="52.8" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="53" x="42.4" y="47.2" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="52" x="42.4" y="46.4" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="61" x="42.4" y="53.6" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="62" x="42.4" y="54.4" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="51" x="42.4" y="45.6" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="50" x="42.4" y="44.8" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="63" x="42.4" y="55.2" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="49" x="42.4" y="44" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="64" x="42.4" y="56" rot="0" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="49.6" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="50.4" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="51.2" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="48.8" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="48" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="11" x="52" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="12" x="52.8" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="47.2" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="46.4" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="13" x="53.6" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="14" x="54.4" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="45.6" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="44.8" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="15" x="55.2" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="44" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="16" x="56" y="57.6" rot="-90" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="24" x="57.6" y="50.4" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="25" x="57.6" y="49.6" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="26" x="57.6" y="48.8" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="23" x="57.6" y="51.2" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="22" x="57.6" y="52" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="27" x="57.6" y="48" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="28" x="57.6" y="47.2" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="21" x="57.6" y="52.8" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="20" x="57.6" y="53.6" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="29" x="57.6" y="46.4" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="30" x="57.6" y="45.6" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="19" x="57.6" y="54.4" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="18" x="57.6" y="55.2" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="31" x="57.6" y="44.8" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="17" x="57.6" y="56" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="32" x="57.6" y="44" rot="-180" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="40" x="50.4" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="41" x="49.6" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="42" x="48.8" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="39" x="51.2" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="38" x="52" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="43" x="48" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="44" x="47.2" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="37" x="52.8" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="36" x="53.6" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="45" x="46.4" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="46" x="45.6" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="35" x="54.4" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="34" x="55.2" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="47" x="44.8" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="33" x="56" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="48" x="44" y="42.4" rot="-270" width="1.27" height="0.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

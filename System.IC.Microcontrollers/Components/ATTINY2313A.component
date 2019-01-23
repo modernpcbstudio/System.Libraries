@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851104" name="ATTINY2313A" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851041" symbolName="ATTINY2313A" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851014" footprintName="SOP20W">
+    <pad2pinMaps>
+      <map pad="10" gateId="1" pin="GND" />
+      <map pad="5" gateId="1" pin="PA0/XTAL1" />
+      <map pad="4" gateId="1" pin="PA1/XTAL2" />
+      <map pad="1" gateId="1" pin="PA2/!RESET" />
+      <map pad="12" gateId="1" pin="PB0" />
+      <map pad="13" gateId="1" pin="PB1" />
+      <map pad="14" gateId="1" pin="PB2" />
+      <map pad="15" gateId="1" pin="PB3" />
+      <map pad="16" gateId="1" pin="PB4" />
+      <map pad="17" gateId="1" pin="PB5/MOSI/SDA/DI" />
+      <map pad="18" gateId="1" pin="PB6/MISO/DO" />
+      <map pad="19" gateId="1" pin="PB7/SCK/SCL" />
+      <map pad="2" gateId="1" pin="PD0/RXD" />
+      <map pad="3" gateId="1" pin="PD1/TXD" />
+      <map pad="6" gateId="1" pin="PD2/INT0" />
+      <map pad="7" gateId="1" pin="PD3/INT1" />
+      <map pad="8" gateId="1" pin="PD4" />
+      <map pad="9" gateId="1" pin="PD5" />
+      <map pad="11" gateId="1" pin="PD6" />
+      <map pad="20" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

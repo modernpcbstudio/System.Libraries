@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751083" name="ENCODER-RGB-SWITCHKIT" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751050" symbolName="ENCODER_LED_3_CA" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073751006" footprintName="ENCODER_LED_3_KIT">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="+" />
+      <map pad="4" gateId="1" pin="-B" />
+      <map pad="2" gateId="1" pin="-G" />
+      <map pad="1" gateId="1" pin="-R" />
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="B" gateId="1" pin="B" />
+      <map pad="C" gateId="1" pin="C" />
+      <map pad="3" gateId="1" pin="SW" />
+    </pad2pinMaps>
+  </footprint>
+</component>

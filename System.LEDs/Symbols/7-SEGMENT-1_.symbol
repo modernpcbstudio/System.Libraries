@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316523359051" name="7-SEGMENT-1&quot;">
+  <line x1="34.76" y1="65.24" x2="34.76" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="34.76" y1="34.76" x2="60.16" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="34.76" x2="60.16" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="34.76" y1="65.24" x2="60.16" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.19" y1="37.3" x2="47.46" y2="36.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="36.03" x2="55.08" y2="36.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="36.03" x2="56.35" y2="37.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="37.3" x2="55.08" y2="38.57" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="38.57" x2="47.46" y2="38.57" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="38.57" x2="46.19" y2="37.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.334" y1="39.84" x2="54.064" y2="47.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.064" y1="47.46" x2="55.334" y2="48.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.334" y1="48.73" x2="56.604" y2="47.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.604" y1="47.46" x2="57.874" y2="39.84" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.874" y1="39.84" x2="56.604" y2="38.57" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.604" y1="38.57" x2="55.334" y2="39.84" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.412" y1="39.586" x2="43.142" y2="47.206" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.142" y1="47.206" x2="44.412" y2="48.476" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.412" y1="48.476" x2="45.682" y2="47.206" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.682" y1="47.206" x2="46.952" y2="39.586" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.952" y1="39.586" x2="45.682" y2="38.316" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.682" y1="38.316" x2="44.412" y2="39.586" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.666" y1="49.492" x2="45.936" y2="48.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.936" y1="48.222" x2="53.556" y2="48.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.556" y1="48.222" x2="54.826" y2="49.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.826" y1="49.492" x2="53.556" y2="50.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.556" y1="50.762" x2="45.936" y2="50.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.936" y1="50.762" x2="44.666" y2="49.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.888" y1="51.524" x2="41.618" y2="59.144" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="41.618" y1="59.144" x2="42.888" y2="60.414" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.888" y1="60.414" x2="44.158" y2="59.144" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.158" y1="59.144" x2="45.428" y2="51.524" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.428" y1="51.524" x2="44.158" y2="50.254" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.158" y1="50.254" x2="42.888" y2="51.524" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="51.778" x2="52.54" y2="59.397999999999996" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="59.397999999999996" x2="53.81" y2="60.668" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="60.668" x2="55.08" y2="59.397999999999996" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="59.397999999999996" x2="56.35" y2="51.778" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="51.778" x2="55.08" y2="50.508" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="50.508" x2="53.81" y2="51.778" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.142" y1="61.43" x2="44.412" y2="60.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.412" y1="60.16" x2="52.032" y2="60.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.032" y1="60.16" x2="53.302" y2="61.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="61.43" x2="52.032" y2="62.7" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.032" y1="62.7" x2="44.412" y2="62.7" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.412" y1="62.7" x2="43.142" y2="61.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="57.62" y="62.7" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <text x="50.762" y="37.808" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">A</text>
+  <text x="55.588" y="44.158" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">B</text>
+  <text x="54.064" y="56.35" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">C</text>
+  <text x="47.714" y="61.938" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">D</text>
+  <text x="43.142" y="55.842" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">E</text>
+  <text x="44.666" y="43.903999999999996" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">F</text>
+  <text x="49.238" y="50" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">G</text>
+  <text x="56.604" y="63.208" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">DP</text>
+  <pin name="A" showName="true" number="A" showNumber="true" x="29.68" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B" showName="true" number="B" showNumber="true" x="29.68" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="C" showName="true" number="C" showNumber="true" x="29.68" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D" showName="true" number="D" showNumber="true" x="29.68" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E" showName="true" number="E" showNumber="true" x="29.68" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="F" showName="true" number="F" showNumber="true" x="29.68" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="G" showName="true" number="G" showNumber="true" x="29.68" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DP" showName="true" number="DP" showNumber="true" x="29.68" y="57.62" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="G1" showName="true" number="G1" showNumber="true" x="29.68" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="G2" showName="true" number="G2" showNumber="true" x="29.68" y="62.7" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

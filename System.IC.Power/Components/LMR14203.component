@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885110" name="LMR14203" componentType="Standard">
+  <gates>
+    <gate id="1" name="A" symbolId="2019012316351885061" symbolName="LMR14203" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885026" footprintName="SOT23-6">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="CB" />
+      <map pad="3" gateId="1" pin="FB" />
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="4" gateId="1" pin="SHDN" />
+      <map pad="6" gateId="1" pin="SW" />
+      <map pad="5" gateId="1" pin="VIN" />
+    </pad2pinMaps>
+  </footprint>
+</component>

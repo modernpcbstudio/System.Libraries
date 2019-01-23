@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424029" name="74*08SE" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012316124424020" symbolName="GATE_AND_2" swaplevel="0" />
+    <gate id="2" name="G2" symbolId="2019012316124424024" symbolName="POWER_CONSORT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424000" footprintName="SOT23-5">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="A" />
+      <map pad="2" gateId="1" pin="B" />
+      <map pad="4" gateId="1" pin="Y" />
+      <map pad="5" gateId="2" pin="P$V+" />
+      <map pad="3" gateId="2" pin="P$V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

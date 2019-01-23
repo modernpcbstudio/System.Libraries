@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316124424020" name="GATE_AND_2">
+  <line x1="42.38" y1="55.08" x2="50" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="55.08" x2="42.38" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="44.92" x2="50" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+    <startPoint>
+      <X>50</X>
+      <Y>44.92</Y>
+    </startPoint>
+    <endPoint>
+      <X>50</X>
+      <Y>55.08</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <pin name="B" showName="true" number="B" showNumber="true" x="39.84" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="A" showName="true" number="A" showNumber="true" x="39.84" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Y" showName="true" number="Y" showNumber="true" x="57.62" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

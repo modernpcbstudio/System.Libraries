@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532065" name="ATECC108" prefix="ECC" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532028" symbolName="ATECC108" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531000" footprintName="SO08">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="1" gateId="1" pin="NC1" />
+      <map pad="2" gateId="1" pin="NC2" />
+      <map pad="3" gateId="1" pin="NC3" />
+      <map pad="7" gateId="1" pin="NC7" />
+      <map pad="6" gateId="1" pin="SCL" />
+      <map pad="5" gateId="1" pin="SDA" />
+      <map pad="8" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

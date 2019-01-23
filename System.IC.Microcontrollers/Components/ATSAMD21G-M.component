@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851124" name="ATSAMD21G-M" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851061" symbolName="ATSAMD21G" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851023" footprintName="QFN-48">
+    <pad2pinMaps>
+      <map pad="40" gateId="1" pin="!RESET!" />
+      <map pad="18" gateId="1" pin="GND@18" />
+      <map pad="35" gateId="1" pin="GND@35" />
+      <map pad="42" gateId="1" pin="GND@42" />
+      <map pad="5" gateId="1" pin="GNDANA" />
+      <map pad="1" gateId="1" pin="PA00(XIN32/SER1:0/TC2:0)" />
+      <map pad="2" gateId="1" pin="PA01(XOUT32/SER1:1/TC2:1)" />
+      <map pad="3" gateId="1" pin="PA02(AIN0/DAC)" />
+      <map pad="4" gateId="1" pin="PA03(AIN1/REFA)" />
+      <map pad="9" gateId="1" pin="PA04(AIN4/REFB/SER0:0/TC0:0)" />
+      <map pad="10" gateId="1" pin="PA05(AIN5/SER0:1/TC0:1)" />
+      <map pad="11" gateId="1" pin="PA06(AIN6/SER0:2/TC1:0)" />
+      <map pad="12" gateId="1" pin="PA07(AIN7/SER0:3/TC1:1)" />
+      <map pad="13" gateId="1" pin="PA08(I2C/AIN16/SER0:0+)" />
+      <map pad="14" gateId="1" pin="PA09(I2C/AIN17/SER0:1+)" />
+      <map pad="15" gateId="1" pin="PA10(AIN18/SER0:2+)" />
+      <map pad="16" gateId="1" pin="PA11(AIN19/SER0:3+)" />
+      <map pad="21" gateId="1" pin="PA12(I2C/SER2:0+)" />
+      <map pad="22" gateId="1" pin="PA13(I2C/SER2:1+)" />
+      <map pad="23" gateId="1" pin="PA14(XIN/SER2:2+)" />
+      <map pad="24" gateId="1" pin="PA15(XOUT/SER2:3+)" />
+      <map pad="25" gateId="1" pin="PA16(I2C/SER1:0+)" />
+      <map pad="26" gateId="1" pin="PA17(I2C/SER1:1+)" />
+      <map pad="27" gateId="1" pin="PA18(SER1:2+)" />
+      <map pad="28" gateId="1" pin="PA19(SER1:3+)" />
+      <map pad="29" gateId="1" pin="PA20(SER5:2+)" />
+      <map pad="30" gateId="1" pin="PA21(SER5:3+)" />
+      <map pad="31" gateId="1" pin="PA22(I2C/SER3:0+)" />
+      <map pad="32" gateId="1" pin="PA23(I2C/SER3:0+)" />
+      <map pad="33" gateId="1" pin="PA24(SER3:2+)" />
+      <map pad="34" gateId="1" pin="PA25(SER3:3+)" />
+      <map pad="39" gateId="1" pin="PA27" />
+      <map pad="41" gateId="1" pin="PA28" />
+      <map pad="45" gateId="1" pin="PA30(SWCLK/SER1:2+)" />
+      <map pad="46" gateId="1" pin="PA31(SWDIO/SER1:3+)" />
+      <map pad="47" gateId="1" pin="PB02(AIN10/SER5:0)" />
+      <map pad="48" gateId="1" pin="PB03(AIN11/SER5:1)" />
+      <map pad="7" gateId="1" pin="PB08(AIN2/SER4:0/TC4:0)" />
+      <map pad="8" gateId="1" pin="PB09(AIN3/SER4:1/TC4:1)" />
+      <map pad="19" gateId="1" pin="PB10(SER4:2+)" />
+      <map pad="20" gateId="1" pin="PB11(SER4:3+)" />
+      <map pad="37" gateId="1" pin="PB22(SER5:2+)" />
+      <map pad="38" gateId="1" pin="PB23(SER5:3+)" />
+      <map pad="6" gateId="1" pin="VDDANA" />
+      <map pad="43" gateId="1" pin="VDDCORE" />
+      <map pad="44" gateId="1" pin="VDDIN" />
+      <map pad="17" gateId="1" pin="VDDIO@17" />
+      <map pad="36" gateId="1" pin="VDDIO@36" />
+    </pad2pinMaps>
+  </footprint>
+</component>

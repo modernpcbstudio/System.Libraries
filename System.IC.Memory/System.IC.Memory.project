@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="C">
+    <Component Path="AT25SF041.component" />
+    <Component Path="EEPROM-I2CEIAJ.component" />
+    <Component Path="EEPROM-I2CSMD.component" />
+    <Component Path="SPI_FLASH-X25XXSMD.component" />
+    <Component Path="SPI_FLASH-X25XXSMD1.component" />
+    <Component Path="W25Q32FVSS.component" />
+    <Component Path="W25Q32FVZP.component" />
+  </Folder>
+  <Folder Path="F">
+    <Footprint Path="SO08.footprint" />
+    <Footprint Path="SO08-EIAJ.footprint" />
+    <Footprint Path="SOIC-8.footprint" />
+    <Footprint Path="WSON8-6X5MM.footprint" />
+  </Folder>
+  <Folder Path="S">
+    <Symbol Path="EEPROM-I2C.symbol" />
+    <Symbol Path="SPI_FLASH.symbol" />
+    <Symbol Path="SPI_FLASH_DUAL_QUAD.symbol" />
+    <Symbol Path="W25Q32FV.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>

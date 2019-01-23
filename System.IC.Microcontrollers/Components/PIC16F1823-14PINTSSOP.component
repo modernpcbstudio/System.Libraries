@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851110" name="PIC16F1823-14PINTSSOP" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851044" symbolName="PIC16F1823-14PIN" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851015" footprintName="TSSOP14">
+    <pad2pinMaps>
+      <map pad="13" gateId="1" pin="RA0/ICSPDAT" />
+      <map pad="12" gateId="1" pin="RA1/ICSPCLK" />
+      <map pad="11" gateId="1" pin="RA2" />
+      <map pad="4" gateId="1" pin="RA3/*MCLR/VPP" />
+      <map pad="3" gateId="1" pin="RA4" />
+      <map pad="2" gateId="1" pin="RA5" />
+      <map pad="10" gateId="1" pin="RC0" />
+      <map pad="9" gateId="1" pin="RC1" />
+      <map pad="8" gateId="1" pin="RC2" />
+      <map pad="7" gateId="1" pin="RC3" />
+      <map pad="6" gateId="1" pin="RC4" />
+      <map pad="5" gateId="1" pin="RC5" />
+      <map pad="1" gateId="1" pin="VDD" />
+      <map pad="14" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>

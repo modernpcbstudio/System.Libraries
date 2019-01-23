@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532059" name="MSGEQ7DIL" prefix="IC" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532024" symbolName="MSGEQ7" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531001" footprintName="DIP08">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="AUDIO_IN" />
+      <map pad="6" gateId="1" pin="CG" />
+      <map pad="8" gateId="1" pin="CKIN" />
+      <map pad="3" gateId="1" pin="DCOUT" />
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="7" gateId="1" pin="RESET" />
+      <map pad="4" gateId="1" pin="STROBE" />
+      <map pad="1" gateId="1" pin="VDD" />
+    </pad2pinMaps>
+  </footprint>
+</component>

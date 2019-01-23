@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851140" name="ATTINY84-ARDUINO" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="U1" symbolId="2019012316253851094" symbolName="ATTINY84-ARDUINO" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851025" footprintName="SO14">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="(!RESET!)11" />
+      <map pad="13" gateId="1" pin="(A0)0" />
+      <map pad="12" gateId="1" pin="(A1)1" />
+      <map pad="11" gateId="1" pin="(A2)2" />
+      <map pad="10" gateId="1" pin="(A3)3" />
+      <map pad="6" gateId="1" pin="(A7)~7" />
+      <map pad="5" gateId="1" pin="(INT0)~8" />
+      <map pad="7" gateId="1" pin="(RX/SDA/MOSI/A6)~6" />
+      <map pad="9" gateId="1" pin="(SCL/SCK/A4)4" />
+      <map pad="8" gateId="1" pin="(TX/MISO/A5)~5" />
+      <map pad="2" gateId="1" pin="(XTAL1)10" />
+      <map pad="3" gateId="1" pin="(XTAL2)9" />
+      <map pad="14" gateId="1" pin="GND" />
+      <map pad="1" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

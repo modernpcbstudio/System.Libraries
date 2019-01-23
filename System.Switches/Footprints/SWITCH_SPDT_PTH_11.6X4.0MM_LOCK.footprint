@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751031" name="SWITCH_SPDT_PTH_11.6X4.0MM_LOCK">
+  <line x1="52.175" y1="44.185" x2="47.825" y2="44.185" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.825" y1="44.185" x2="47.825" y2="55.815" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.825" y1="55.815" x2="52.175" y2="55.815" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.175" y1="55.815" x2="52.175" y2="44.185" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="1" x="50" y="47.2822" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="50" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="50" y="52.7178" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <rect x="50" y="50" width="0.45720000000000027" height="0.60960000000000036" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="47.46" width="0.45720000000000027" height="0.60960000000000036" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50" y="52.54" width="0.45720000000000027" height="0.60960000000000036" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

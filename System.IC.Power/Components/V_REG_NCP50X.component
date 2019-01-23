@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885086" name="V_REG_NCP50X" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885045" symbolName="78ADJ-3" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885017" footprintName="DPAK-5">
+    <pad2pinMaps>
+      <map pad="ADJ" gateId="1" pin="ADJ" />
+      <map pad="EN" gateId="1" pin="EN" />
+      <map pad="GND" gateId="1" pin="GND" />
+      <map pad="VIN" gateId="1" pin="IN" />
+      <map pad="VOUT" gateId="1" pin="OUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

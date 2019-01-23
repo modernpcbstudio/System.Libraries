@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316351885060" name="PAM2401">
+  <line x1="39.84" y1="37.3" x2="60.16" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="37.3" x2="60.16" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="62.7" x2="39.84" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="62.7" x2="39.84" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="AGND" showName="true" number="AGND" showNumber="true" x="62.7" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EN" showName="true" number="EN" showNumber="true" x="37.3" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="FB" showName="true" number="FB" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="LX" showName="true" number="LX" showNumber="true" x="62.7" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUT" showName="true" number="OUT" showNumber="true" x="62.7" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="PGND" showName="true" number="PGND" showNumber="true" x="62.7" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RSET" showName="true" number="RSET" showNumber="true" x="37.3" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VIN" showName="true" number="VIN" showNumber="true" x="37.3" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317022546182" name="1KOHM-ARRAY(4)-0805_ARV-1/10W-5%" prefix="RN" componentType="Standard">
+  <gates>
+    <gate id="1" name="B" symbolId="2019012317022546033" symbolName="RESISTOR-PADS" swaplevel="0" />
+    <gate id="2" name="C" symbolId="2019012317022546033" symbolName="RESISTOR-PADS" swaplevel="0" />
+    <gate id="3" name="D" symbolId="2019012317022546033" symbolName="RESISTOR-PADS" swaplevel="0" />
+    <gate id="4" name="A" symbolId="2019012317022546033" symbolName="RESISTOR-PADS" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317022546010" footprintName="0805-ARV">
+    <pad2pinMaps>
+      <map pad="1" gateId="4" pin="1" />
+      <map pad="8" gateId="4" pin="2" />
+      <map pad="2" gateId="1" pin="1" />
+      <map pad="7" gateId="1" pin="2" />
+      <map pad="3" gateId="2" pin="1" />
+      <map pad="6" gateId="2" pin="2" />
+      <map pad="4" gateId="3" pin="1" />
+      <map pad="5" gateId="3" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359108" name="LED-RGBNO_IC" prefix="D" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316523359047" symbolName="LED-RGB-INDV" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316523359014" footprintName="LED-TRICOLOR-5050">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="BLU-A" />
+      <map pad="4" gateId="1" pin="BLU-C" />
+      <map pad="1" gateId="1" pin="GRN-A" />
+      <map pad="6" gateId="1" pin="GRN-C" />
+      <map pad="2" gateId="1" pin="RED-A" />
+      <map pad="5" gateId="1" pin="RED-C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751026" name="TACTILE_SWITCH_SMD_4.6X2.8MM">
+  <smd number="3" x="52.05" y="49.2" rot="0" width="0.9" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="52.05" y="50.8" rot="0" width="0.9" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.95" y="50.8" rot="0" width="0.9" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.95" y="49.2" rot="0" width="0.9" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.9" y1="48.6" x2="47.9" y2="51.4" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.1" y1="51.4" x2="52.1" y2="48.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.9" y1="48.6" x2="52.1" y2="48.6" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.9" y1="51.4" x2="52.1" y2="51.4" width="0.127" layer="201" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="1.61" borderWidth="0.127" isFilled="false" layer="501" />
+  <line x1="51.338" y1="51.4" x2="48.662" y2="51.4" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="48.662" y1="48.6" x2="51.338" y2="48.6" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.9" y1="49.87" x2="47.9" y2="50.13" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.1" y1="50.13" x2="52.1" y2="49.87" width="0.2032" layer="501" lineStyle="Solid" />
+  <rect x="47.8" y="49.2" width="0.19999999999999574" height="0.60000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.8" y="50.8" width="0.19999999999999574" height="0.60000000000000142" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.2" y="50.8" width="0.19999999999999574" height="0.60000000000000142" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.2" y="49.2" width="0.19999999999999574" height="0.60000000000000142" rot="180" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>

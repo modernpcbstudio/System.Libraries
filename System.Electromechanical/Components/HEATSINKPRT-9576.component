@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315210613028" name="HEATSINKPRT-9576" prefix="HS" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012315210613016" symbolName="HEATSINK" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315210613010" footprintName="HEATSINK_PRT-9576" />
+</component>

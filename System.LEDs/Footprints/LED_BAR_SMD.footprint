@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316523359033" name="LED_BAR_SMD">
+  <circle x="39.84" y="58.89" diameter="0.898025" borderWidth="0" isFilled="false" layer="501" />
+  <smd number="1" x="44.92" y="58.84" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="58.84" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="55.08" y="58.84" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="55.08" y="41.16" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50" y="41.16" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="44.92" y="41.16" rot="-90" width="2.88" height="2.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+</footprint>

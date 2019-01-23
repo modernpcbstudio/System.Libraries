@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317022546035" name="TRIMPOT">
+  <pin name="CCW" showName="false" number="CCW" showNumber="false" x="50" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CW" showName="false" number="CW" showNumber="false" x="50" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="WIPER" showName="false" number="WIPER" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50" y1="52.54" x2="48.984" y2="52.159" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="52.159" x2="51.016" y2="51.524" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="51.524" x2="48.984" y2="50.889" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="50.889" x2="51.016" y2="50.254" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="50.254" x2="48.984" y2="49.619" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="49.619" x2="51.016" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="48.984" x2="48.984" y2="48.349" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="48.349" x2="51.016" y2="47.714" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.016" y1="47.714" x2="50" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+    <vertex x="51.016" y="50" />
+    <vertex x="52.54" y="51.016" />
+    <vertex x="52.54" y="48.984" />
+  </poly>
+</symbol>

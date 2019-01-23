@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316124424005" name="SO14">
+  <line x1="54.699" y1="48.044200000000004" x2="46.571" y2="48.044200000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.699" y1="51.955799999999996" x2="55.08" y2="51.5748" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.571" y1="48.044200000000004" x2="46.19" y2="48.4252" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="48.4252" x2="54.699" y2="48.044200000000004" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="51.5748" x2="46.571" y2="51.955799999999996" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.571" y1="51.955799999999996" x2="54.699" y2="51.955799999999996" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.08" y1="51.5748" x2="55.08" y2="48.4252" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="48.4252" x2="46.19" y2="49.492" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="49.492" x2="46.19" y2="50.508" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="50.508" x2="46.19" y2="51.5748" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="50.508" x2="46.19" y2="49.492" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.19" y1="51.6002" x2="55.08" y2="51.6002" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="1" x="46.825" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="48.095" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="49.365" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="50.635" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="51.905" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="53.175" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="54.445" y="52.8" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="54.445" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="53.175" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="51.905" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="11" x="50.635" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="12" x="49.365" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="13" x="48.095" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="14" x="46.825" y="47.2" rot="0" width="0.6" height="1.2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="49.364999999999995" y="47.4727" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.825" y="52.5273" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.095" y="52.5019" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.364999999999995" y="52.5273" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.095" y="47.4727" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.825" y="47.4727" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.635000000000005" y="52.5273" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.905" y="52.5273" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.175" y="52.5273" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.445" y="52.5273" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.635000000000005" y="47.4727" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.905" y="47.4727" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.175" y="47.4727" width="0.50800000000000267" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.445" y="47.4727" width="0.50799999999999557" height="1.1430000000000007" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <circle x="45.809" y="52.4384" diameter="0.3556" borderWidth="0.508" isFilled="false" layer="501" />
+</footprint>

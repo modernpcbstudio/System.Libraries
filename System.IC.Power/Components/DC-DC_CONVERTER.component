@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885063" name="DC-DC_CONVERTER" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885032" symbolName="DC-DC_CONVERTER" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885000" footprintName="DC-DC_CONVERTER">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="GND1" />
+      <map pad="7" gateId="1" pin="GND2" />
+      <map pad="1" gateId="1" pin="ON/OFF" />
+      <map pad="10" gateId="1" pin="PGOOD" />
+      <map pad="5" gateId="1" pin="SENSE" />
+      <map pad="9" gateId="1" pin="SEQ" />
+      <map pad="6" gateId="1" pin="TRIM" />
+      <map pad="2" gateId="1" pin="VIN" />
+      <map pad="4" gateId="1" pin="VOUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

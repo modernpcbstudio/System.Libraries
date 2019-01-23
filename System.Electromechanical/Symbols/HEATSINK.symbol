@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315210613016" name="HEATSINK">
+  <line x1="60.16" y1="50" x2="37.3" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="44.92" x2="60.16" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="50" x2="60.16" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="55.08" x2="37.3" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="50" x2="37.3" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="50" x2="32.22" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="50" x2="29.68" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="50" x2="32.22" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="50" x2="65.24" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="50" x2="67.78" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="50" x2="65.24" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

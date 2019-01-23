@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317022546158" name="100KOHM-HORIZ-1/4W-1%" prefix="R" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317022546032" symbolName="RESISTOR" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317022546002" footprintName="AXIAL-0.3">
+    <pad2pinMaps>
+      <map pad="P$1" gateId="1" pin="1" />
+      <map pad="P$2" gateId="1" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

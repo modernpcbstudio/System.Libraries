@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317073751070" name="DIP-04SMD" prefix="S" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317073751042" symbolName="DIPSWITCH-04" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317073750002" footprintName="DIPSWITCH-04-SMD">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1A" />
+      <map pad="8" gateId="1" pin="1B" />
+      <map pad="2" gateId="1" pin="2A" />
+      <map pad="7" gateId="1" pin="2B" />
+      <map pad="3" gateId="1" pin="3A" />
+      <map pad="6" gateId="1" pin="3B" />
+      <map pad="4" gateId="1" pin="4A" />
+      <map pad="5" gateId="1" pin="4B" />
+    </pad2pinMaps>
+  </footprint>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316253851068" name="CY8C42M-68QFN_P2_P3">
+  <pin name="P3.7" showName="true" number="P3.7" showNumber="true" x="70.32" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.6" showName="true" number="P3.6" showNumber="true" x="70.32" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.5" showName="true" number="P3.5" showNumber="true" x="70.32" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.4" showName="true" number="P3.4" showNumber="true" x="70.32" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.3" showName="true" number="P3.3" showNumber="true" x="70.32" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.2" showName="true" number="P3.2" showNumber="true" x="70.32" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.1" showName="true" number="P3.1" showNumber="true" x="70.32" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P3.0" showName="true" number="P3.0" showNumber="true" x="70.32" y="29.68" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.0" showName="true" number="P2.0" showNumber="true" x="47.46" y="29.68" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.1" showName="true" number="P2.1" showNumber="true" x="47.46" y="32.22" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.2" showName="true" number="P2.2" showNumber="true" x="47.46" y="34.76" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.3" showName="true" number="P2.3" showNumber="true" x="47.46" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.4" showName="true" number="P2.4" showNumber="true" x="47.46" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.5" showName="true" number="P2.5" showNumber="true" x="47.46" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.6" showName="true" number="P2.6" showNumber="true" x="47.46" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P2.7" showName="true" number="P2.7" showNumber="true" x="47.46" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50" y1="27.14" x2="67.78" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="27.14" x2="67.78" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="67.78" y1="50" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="50" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+</symbol>

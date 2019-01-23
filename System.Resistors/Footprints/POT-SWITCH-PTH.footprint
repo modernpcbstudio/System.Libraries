@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317022546023" name="POT-SWITCH-PTH">
+  <pad number="2" x="50" y="50" rot="360" width="2.4" height="2.4" cornerRadius="1.2" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="50" y="45" rot="360" width="2.4" height="2.4" cornerRadius="1.2" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="1" x="50" y="55" rot="360" width="2.4" height="2.4" cornerRadius="1.2" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="S2" x="44.5" y="55" rot="360" width="2.4" height="2.4" cornerRadius="1.2" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="S1" x="44.5" y="45" rot="360" width="2.4" height="2.4" cornerRadius="1.2" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="53.8" y1="43.5" x2="53.8" y2="47.27" width="0.127" layer="201" lineStyle="Solid" />
+  <mono x="54.699" y="52.27" layer="201" rot="0" fontName="Default" fontSize="0.4064" strokeWidth="0.2">mounting surface</mono>
+  <line x1="53.8" y1="47.27" x2="53.8" y2="52.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.8" y1="52.73" x2="53.8" y2="53.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.8" y1="53.1" x2="53.8" y2="54" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.8" y1="54" x2="53.8" y2="56.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="54.318" y1="48.333" x2="54.064" y2="48.333" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="54.318" y1="52.016" x2="54.064" y2="52.016" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.3" y1="43.5" x2="42.3" y2="56.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.3" y1="56.5" x2="53.8" y2="56.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.3" y1="43.5" x2="53.8" y2="43.5" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.8" y1="47.27" x2="58" y2="47.27" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58" y1="47.27" x2="58" y2="48.27" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58" y1="48.27" x2="58" y2="51.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58" y1="51.73" x2="58" y2="52.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58" y1="52.73" x2="53.8" y2="52.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="58" y1="48.27" x2="60" y2="48.27" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60" y1="51.73" x2="58" y2="51.73" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="42.126" y1="43.396" x2="53.683" y2="43.396" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.683" y1="43.396" x2="53.683" y2="45.809" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="42.126" y1="56.604" x2="53.683" y2="56.604" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.683" y1="56.604" x2="53.683" y2="54.191" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="42.126" y1="56.604" x2="42.126" y2="43.396" width="0.2032" layer="501" lineStyle="Solid" />
+  <mono x="56.28" y="53.72" layer="201" rot="0" fontName="Default" fontSize="0.4064" strokeWidth="0.2">*2.8mm diameter x 2mm tab at 9 o'clock (from front)</mono>
+  <line x1="60" y1="48.3" x2="59" y2="49" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59" y1="49" x2="60" y2="50" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="60" y1="50" x2="59" y2="51" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="59" y1="51" x2="60" y2="51.7" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="53.8" y1="53.1" x2="55.8" y2="53.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="55.8" y1="53.1" x2="55.8" y2="54" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="55.8" y1="54" x2="53.8" y2="54" width="0.127" layer="201" lineStyle="Solid" />
+</footprint>

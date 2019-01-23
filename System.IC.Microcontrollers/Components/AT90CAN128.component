@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316253851137" name="AT90CAN128" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316253851091" symbolName="AT90CAN128" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316253851032" footprintName="QFN-64">
+    <pad2pinMaps>
+      <map pad="37" gateId="1" pin="(A10)PC2" />
+      <map pad="38" gateId="1" pin="(A11)PC3" />
+      <map pad="39" gateId="1" pin="(A12)PC4" />
+      <map pad="40" gateId="1" pin="(A13)PC5" />
+      <map pad="41" gateId="1" pin="(A14)PC6" />
+      <map pad="42" gateId="1" pin="(A15)PC7" />
+      <map pad="35" gateId="1" pin="(A8)PC0" />
+      <map pad="36" gateId="1" pin="(A9)PC1" />
+      <map pad="51" gateId="1" pin="(AD0)PA0" />
+      <map pad="50" gateId="1" pin="(AD1)PA1" />
+      <map pad="49" gateId="1" pin="(AD2)PA2" />
+      <map pad="48" gateId="1" pin="(AD3)PA3" />
+      <map pad="47" gateId="1" pin="(AD4)PA4" />
+      <map pad="46" gateId="1" pin="(AD5)PA5" />
+      <map pad="45" gateId="1" pin="(AD6)PA6" />
+      <map pad="44" gateId="1" pin="(AD7)PA7" />
+      <map pad="61" gateId="1" pin="(ADC0)PF0" />
+      <map pad="60" gateId="1" pin="(ADC1)PF1" />
+      <map pad="59" gateId="1" pin="(ADC2)PF2" />
+      <map pad="58" gateId="1" pin="(ADC3)PF3" />
+      <map pad="57" gateId="1" pin="(ADC4/TCK)PF4" />
+      <map pad="56" gateId="1" pin="(ADC5/TMS)PF5" />
+      <map pad="55" gateId="1" pin="(ADC6/TDO)PF6" />
+      <map pad="54" gateId="1" pin="(ADC7/TDI)PF7" />
+      <map pad="29" gateId="1" pin="(IC1)PD4" />
+      <map pad="9" gateId="1" pin="(IC3/INT7)PE7" />
+      <map pad="13" gateId="1" pin="(MISO)PB3" />
+      <map pad="12" gateId="1" pin="(MOSI)PB2" />
+      <map pad="14" gateId="1" pin="(OC0)PB4" />
+      <map pad="15" gateId="1" pin="(OC1A)PB5" />
+      <map pad="16" gateId="1" pin="(OC1B)PB6" />
+      <map pad="17" gateId="1" pin="(OC2/OC1C)PB7" />
+      <map pad="5" gateId="1" pin="(OC3A/AIN1)PE3" />
+      <map pad="6" gateId="1" pin="(OC3B/INT4)PE4" />
+      <map pad="7" gateId="1" pin="(OC3C/INT5)PE5" />
+      <map pad="31" gateId="1" pin="(RXCAN/T1)PD6" />
+      <map pad="2" gateId="1" pin="(RXD/PDI)PE0" />
+      <map pad="27" gateId="1" pin="(RXD1/INT2)PD2" />
+      <map pad="11" gateId="1" pin="(SCK)PB1" />
+      <map pad="25" gateId="1" pin="(SCL/INT0)PD0" />
+      <map pad="26" gateId="1" pin="(SDA/INT1)PD1" />
+      <map pad="10" gateId="1" pin="(SS)PB0" />
+      <map pad="32" gateId="1" pin="(T2)PD7" />
+      <map pad="8" gateId="1" pin="(T3/INT6)PE6" />
+      <map pad="30" gateId="1" pin="(TXCAN/XCK1)PD5" />
+      <map pad="3" gateId="1" pin="(TXD/PDO)PE1" />
+      <map pad="28" gateId="1" pin="(TXD1/INT3)PD3" />
+      <map pad="4" gateId="1" pin="(XCK0/AIN0)PE2" />
+      <map pad="62" gateId="1" pin="AREF" />
+      <map pad="64" gateId="1" pin="AVCC" />
+      <map pad="22 65" gateId="1" pin="GND@0" />
+      <map pad="53" gateId="1" pin="GND@1" />
+      <map pad="63" gateId="1" pin="GND@2" />
+      <map pad="1" gateId="1" pin="PEN" />
+      <map pad="33" gateId="1" pin="PG0(WR)" />
+      <map pad="34" gateId="1" pin="PG1(RD)" />
+      <map pad="43" gateId="1" pin="PG2(ALE)" />
+      <map pad="18" gateId="1" pin="PG3(TOSC2)" />
+      <map pad="19" gateId="1" pin="PG4(TOSC1)" />
+      <map pad="20" gateId="1" pin="RESET" />
+      <map pad="21" gateId="1" pin="VCC@1" />
+      <map pad="52" gateId="1" pin="VCC@2" />
+      <map pad="24" gateId="1" pin="XTAL1" />
+      <map pad="23" gateId="1" pin="XTAL2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

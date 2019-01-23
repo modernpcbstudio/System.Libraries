@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073750003" name="SWITCH_DPDT_SMD_AYZ0202">
+  <line x1="46.4" y1="48.25" x2="46.4" y2="51.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.4" y1="51.75" x2="53.6" y2="51.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.6" y1="51.75" x2="53.6" y2="48.25" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.6" y1="48.25" x2="46.4" y2="48.25" width="0.2032" layer="501" lineStyle="Solid" />
+  <smd number="3" x="52.5" y="47.175" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="47.175" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="1" x="47.5" y="47.175" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="52.5" y="52.825" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="50" y="52.825" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="47.5" y="52.825" rot="0" width="1" height="1.15" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <hole x="51.5" y="50" drill="0.85" isPlated="false" height="0" rot="0" drillType="Drill" />
+  <hole x="48.5" y="50" drill="0.85" isPlated="false" height="0" rot="0" drillType="Drill" />
+</footprint>

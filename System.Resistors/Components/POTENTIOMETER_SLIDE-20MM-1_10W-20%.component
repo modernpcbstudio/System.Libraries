@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012317022547000" name="POTENTIOMETER_SLIDE-20MM-1/10W-20%" prefix="VR" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012317022546036" symbolName="POTENTIOMETER" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012317022546021" footprintName="SLIDER-SMALL">
+    <pad2pinMaps>
+      <map pad="BOTTOM" gateId="1" pin="A" />
+      <map pad="TOP" gateId="1" pin="E" />
+      <map pad="WIPER" gateId="1" pin="S" />
+    </pad2pinMaps>
+  </footprint>
+</component>

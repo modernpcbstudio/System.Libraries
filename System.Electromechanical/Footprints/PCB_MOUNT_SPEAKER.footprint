@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012315210613006" name="PCB_MOUNT_SPEAKER">
+  <circle x="50" y="50" diameter="29.21" borderWidth="0.2032" isFilled="false" layer="501" />
+  <pad number="+" x="42.38" y="50" rot="360" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="-" x="57.62" y="50" rot="270" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

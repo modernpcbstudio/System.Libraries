@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885100" name="LM25011" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885052" symbolName="LM25011" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885024" footprintName="HVSS0P-10">
+    <pad2pinMaps>
+      <map pad="10" gateId="1" pin="BST" />
+      <map pad="8" gateId="1" pin="CS" />
+      <map pad="7" gateId="1" pin="CSG" />
+      <map pad="6" gateId="1" pin="FB" />
+      <map pad="PAD" gateId="1" pin="PAD_GND" />
+      <map pad="3" gateId="1" pin="PGD" />
+      <map pad="2" gateId="1" pin="RT" />
+      <map pad="5" gateId="1" pin="SGND" />
+      <map pad="4" gateId="1" pin="SS" />
+      <map pad="9" gateId="1" pin="SW" />
+      <map pad="1" gateId="1" pin="VIN" />
+    </pad2pinMaps>
+  </footprint>
+</component>

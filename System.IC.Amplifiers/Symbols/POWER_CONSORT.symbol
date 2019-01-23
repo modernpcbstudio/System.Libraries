@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315341369015" name="POWER_CONSORT">
+  <line x1="47.46" y1="44.92" x2="52.54" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="44.92" x2="52.54" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.54" y1="55.08" x2="47.46" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.46" y1="55.08" x2="47.46" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="P$V+" showName="true" number="P$V+" showNumber="true" x="50" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="P$V-" showName="true" number="P$V-" showNumber="true" x="50" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="50.127" y="54.699" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">VEE</text>
+  <text x="50.127" y="46.571" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">VCC</text>
+</symbol>

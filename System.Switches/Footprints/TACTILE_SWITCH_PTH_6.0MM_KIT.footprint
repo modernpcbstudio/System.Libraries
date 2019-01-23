@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012317073751023" name="TACTILE_SWITCH_PTH_6.0MM_KIT">
+  <line x1="53.048" y1="48.984" x2="53.048" y2="47.46" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="53.048" y1="47.46" x2="52.54" y2="46.952" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.54" y1="53.048" x2="53.048" y2="52.54" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="53.048" y1="52.54" x2="53.048" y2="51.016" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="46.952" x2="46.952" y2="47.46" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="46.952" y1="47.46" x2="46.952" y2="48.984" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="53.048" x2="46.952" y2="52.54" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="46.952" y1="52.54" x2="46.952" y2="51.016" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.54" y1="53.048" x2="52.159" y2="53.048" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="53.048" x2="47.841" y2="53.048" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="46.952" x2="47.841" y2="46.952" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.54" y1="46.952" x2="52.159" y2="46.952" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="52.159" y1="46.952" x2="47.841" y2="46.952" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.841" y1="53.048" x2="52.159" y2="53.048" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="53.048" y1="49.002" x2="53.048" y2="51.016" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="46.952" y1="48.972" x2="46.952" y2="51.016" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.46" y1="48.73" x2="47.46" y2="49.492" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="50.508" x2="47.46" y2="51.27" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="47.46" y1="49.492" x2="47.841" y2="50.381" width="0.2032" layer="201" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="3.556" borderWidth="0.2032" isFilled="false" layer="501" />
+  <pad number="1" x="46.7488" y="47.7394" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="53.2512" y="47.7394" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="3" x="46.7488" y="52.2606" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="4" x="53.2512" y="52.2606" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="46.7538" y="47.2974" />
+    <vertex x="46.7411" y="47.2949" />
+    <vertex x="46.3119" y="47.7267" />
+    <vertex x="46.3119" y="47.7368" />
+    <vertex x="46.7438" y="48.1787" />
+    <vertex x="46.7741" y="48.181399999999996" />
+    <vertex x="47.1907" y="47.7342" />
+    <vertex x="47.1907" y="47.7394" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="53.2613" y="47.2999" />
+    <vertex x="53.2486" y="47.2974" />
+    <vertex x="52.8194" y="47.7292" />
+    <vertex x="52.8194" y="47.7393" />
+    <vertex x="53.2513" y="48.1812" />
+    <vertex x="53.2816" y="48.1839" />
+    <vertex x="53.6982" y="47.7367" />
+    <vertex x="53.6982" y="47.7419" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="46.7589" y="51.8262" />
+    <vertex x="46.7462" y="51.8237" />
+    <vertex x="46.317" y="52.2555" />
+    <vertex x="46.317" y="52.2656" />
+    <vertex x="46.7489" y="52.7075" />
+    <vertex x="46.7792" y="52.7102" />
+    <vertex x="47.1958" y="52.263" />
+    <vertex x="47.1958" y="52.2682" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="53.2613" y="51.8237" />
+    <vertex x="53.2486" y="51.8212" />
+    <vertex x="52.8194" y="52.253" />
+    <vertex x="52.8194" y="52.2631" />
+    <vertex x="53.2513" y="52.705" />
+    <vertex x="53.2816" y="52.7077" />
+    <vertex x="53.6982" y="52.2605" />
+    <vertex x="53.6982" y="52.2657" />
+  </poly>
+</footprint>

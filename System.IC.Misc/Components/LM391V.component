@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532073" name="LM391V" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532034" symbolName="LM3915" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531015" footprintName="PLCC20S">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="LED1" />
+      <map pad="12" gateId="1" pin="LED10" />
+      <map pad="20" gateId="1" pin="LED2" />
+      <map pad="19" gateId="1" pin="LED3" />
+      <map pad="18" gateId="1" pin="LED4" />
+      <map pad="17" gateId="1" pin="LED5" />
+      <map pad="16" gateId="1" pin="LED6" />
+      <map pad="15" gateId="1" pin="LED7" />
+      <map pad="14" gateId="1" pin="LED8" />
+      <map pad="13" gateId="1" pin="LED9" />
+      <map pad="11" gateId="1" pin="MODE" />
+      <map pad="10" gateId="1" pin="REFADJ" />
+      <map pad="8" gateId="1" pin="REFOUT" />
+      <map pad="6" gateId="1" pin="RHI" />
+      <map pad="4" gateId="1" pin="RLO" />
+      <map pad="5" gateId="1" pin="SIGIN" />
+      <map pad="3" gateId="1" pin="V+" />
+      <map pad="2" gateId="1" pin="V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

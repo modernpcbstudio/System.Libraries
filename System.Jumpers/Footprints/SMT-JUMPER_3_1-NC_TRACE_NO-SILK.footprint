@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316461615007" name="SMT-JUMPER_3_1-NC_TRACE_NO-SILK">
+  <smd number="1" x="48.984" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="2" x="50" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="3" x="51.016" y="50" rot="0" width="0.635" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="50.3175" y="49.873" />
+    <vertex x="50.6985" y="49.873" />
+    <vertex x="50.6985" y="50.127" />
+    <vertex x="50.3175" y="50.127" />
+  </poly>
+  <rect x="50.507999999999996" y="50" width="0.40639999999999787" height="0.25400000000000489" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="1" />
+</footprint>

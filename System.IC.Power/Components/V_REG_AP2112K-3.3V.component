@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885101" name="V_REG_AP2112K-3.3V" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885053" symbolName="V-REG-LDO_NO-BP" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885003" footprintName="SOT23-5">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="EN" />
+      <map pad="2" gateId="1" pin="GND" />
+      <map pad="1" gateId="1" pin="IN" />
+      <map pad="4" gateId="1" pin="NC" />
+      <map pad="5" gateId="1" pin="OUT" />
+    </pad2pinMaps>
+  </footprint>
+</component>

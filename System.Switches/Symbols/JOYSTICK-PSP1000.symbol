@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012317073751052" name="JOYSTICK-PSP1000">
+  <line x1="55.08" y1="37.3" x2="44.92" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="37.3" x2="44.92" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.92" y1="57.62" x2="55.08" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.08" y1="37.3" x2="55.08" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="53.81" y="56.604" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">Joystick-PSP</text>
+  <pin name="X" showName="true" number="X" showNumber="true" x="39.84" y="39.84" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="Y" showName="true" number="Y" showNumber="true" x="39.84" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="39.84" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="39.84" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

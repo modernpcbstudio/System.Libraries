@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532060" name="555P" prefix="IC" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532025" symbolName="NE555" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531001" footprintName="DIP08">
+    <pad2pinMaps>
+      <map pad="4" gateId="1" pin="/RES" />
+      <map pad="5" gateId="1" pin="CON" />
+      <map pad="7" gateId="1" pin="DIS" />
+      <map pad="1" gateId="1" pin="GND" />
+      <map pad="3" gateId="1" pin="OUT" />
+      <map pad="6" gateId="1" pin="TRE" />
+      <map pad="2" gateId="1" pin="TRI" />
+      <map pad="8" gateId="1" pin="VCC+" />
+    </pad2pinMaps>
+  </footprint>
+</component>

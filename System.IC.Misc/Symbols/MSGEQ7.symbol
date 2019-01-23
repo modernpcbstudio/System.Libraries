@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012316402532024" name="MSGEQ7">
+  <line x1="37.3" y1="42.38" x2="60.16" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="42.38" x2="60.16" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="55.08" x2="37.3" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="55.08" x2="37.3" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="43.903999999999996" y="57.874" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="6.72" bold="false" italic="false">MSGEQ7</text>
+  <pin name="DCOUT" showName="true" number="DCOUT" showNumber="true" x="65.24" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CG" showName="true" number="CG" showNumber="true" x="65.24" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CKIN" showName="true" number="CKIN" showNumber="true" x="65.24" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="65.24" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RESET" showName="true" number="RESET" showNumber="true" x="32.22" y="52.54" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="STROBE" showName="true" number="STROBE" showNumber="true" x="32.22" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="AUDIO_IN" showName="true" number="AUDIO_IN" showNumber="true" x="32.22" y="47.46" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="32.22" y="44.92" pinLength="5.08" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

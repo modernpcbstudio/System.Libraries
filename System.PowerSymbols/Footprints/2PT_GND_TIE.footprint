@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012316583317000" name="2PT_GND_TIE">
+  <smd number="P$1" x="50" y="49.365" rot="0" width="1.27" height="0.635" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <smd number="P$2" x="50" y="50.635" rot="0" width="1.27" height="0.635" cornerRadius="0" autoGenerateSolderMask="false" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+  <line x1="50" y1="49.365" x2="50" y2="50.635" width="0.4064" layer="1" lineStyle="Solid" />
+</footprint>

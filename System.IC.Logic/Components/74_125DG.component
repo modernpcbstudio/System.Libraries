@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316124424031" name="74*125DG" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G0" symbolId="2019012316124424022" symbolName="GATE_INVERTER_WITH_ENABLE" swaplevel="0" />
+    <gate id="2" name="G1" symbolId="2019012316124424022" symbolName="GATE_INVERTER_WITH_ENABLE" swaplevel="0" />
+    <gate id="3" name="G2" symbolId="2019012316124424022" symbolName="GATE_INVERTER_WITH_ENABLE" swaplevel="0" />
+    <gate id="4" name="G3" symbolId="2019012316124424022" symbolName="GATE_INVERTER_WITH_ENABLE" swaplevel="0" />
+    <gate id="5" name="PWR" symbolId="2019012316124424024" symbolName="POWER_CONSORT" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316124424005" footprintName="SO14">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="!EN" />
+      <map pad="2" gateId="1" pin="A" />
+      <map pad="3" gateId="1" pin="Y" />
+      <map pad="4" gateId="2" pin="!EN" />
+      <map pad="5" gateId="2" pin="A" />
+      <map pad="6" gateId="2" pin="Y" />
+      <map pad="13" gateId="3" pin="!EN" />
+      <map pad="12" gateId="3" pin="A" />
+      <map pad="11" gateId="3" pin="Y" />
+      <map pad="10" gateId="4" pin="!EN" />
+      <map pad="9" gateId="4" pin="A" />
+      <map pad="8" gateId="4" pin="Y" />
+      <map pad="14" gateId="5" pin="P$V+" />
+      <map pad="7" gateId="5" pin="P$V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

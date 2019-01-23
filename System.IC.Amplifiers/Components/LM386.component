@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012315341369025" name="LM386" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G1" symbolId="2019012315341369012" symbolName="OP-AMP+-FULL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012315341369002" footprintName="DIP08">
+    <pad2pinMaps>
+      <map pad="3" gateId="1" pin="+IN" />
+      <map pad="2" gateId="1" pin="-IN" />
+      <map pad="7" gateId="1" pin="BP" />
+      <map pad="1" gateId="1" pin="GAIN@1" />
+      <map pad="8" gateId="1" pin="GAIN@8" />
+      <map pad="5" gateId="1" pin="OUT" />
+      <map pad="6" gateId="1" pin="V+" />
+      <map pad="4" gateId="1" pin="V-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

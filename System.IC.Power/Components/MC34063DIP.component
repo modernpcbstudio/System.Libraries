@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316351885067" name="MC34063DIP" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316351885035" symbolName="MC34063" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316351885020" footprintName="DIP-08">
+    <pad2pinMaps>
+      <map pad="5" gateId="1" pin="COMP" />
+      <map pad="8" gateId="1" pin="DVR" />
+      <map pad="4" gateId="1" pin="GND" />
+      <map pad="7" gateId="1" pin="SEN" />
+      <map pad="1" gateId="1" pin="SWC" />
+      <map pad="2" gateId="1" pin="SWE" />
+      <map pad="3" gateId="1" pin="TC" />
+      <map pad="6" gateId="1" pin="VCC" />
+    </pad2pinMaps>
+  </footprint>
+</component>

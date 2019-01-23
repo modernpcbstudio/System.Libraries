@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012315210613015" name="SMALL_SERVO_MOTOR">
+  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+    <startPoint>
+      <X>37.3</X>
+      <Y>46.19</Y>
+    </startPoint>
+    <endPoint>
+      <X>39.84</X>
+      <Y>46.19</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+    <startPoint>
+      <X>39.84</X>
+      <Y>58.89</Y>
+    </startPoint>
+    <endPoint>
+      <X>37.3</X>
+      <Y>58.89</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+    <startPoint>
+      <X>42.38</X>
+      <Y>51.27</Y>
+    </startPoint>
+    <endPoint>
+      <X>42.38</X>
+      <Y>53.81</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+    <startPoint>
+      <X>34.76</X>
+      <Y>53.81</Y>
+    </startPoint>
+    <endPoint>
+      <X>34.76</X>
+      <Y>51.27</Y>
+    </endPoint>
+    <size>
+      <Width>1</Width>
+      <Height>1</Height>
+    </size>
+  </arc>
+  <line x1="34.76" y1="51.27" x2="37.3" y2="51.27" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="51.27" x2="37.3" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="48.73" x2="37.3" y2="46.19" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="46.19" x2="39.84" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="48.73" x2="39.84" y2="51.27" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="51.27" x2="42.38" y2="51.27" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="42.38" y1="53.81" x2="39.84" y2="53.81" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="53.81" x2="39.84" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="56.35" x2="39.84" y2="58.89" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="34.76" y1="53.81" x2="37.3" y2="53.81" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="53.81" x2="37.3" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="56.35" x2="37.3" y2="58.89" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.3" y1="48.73" x2="33.236000000000004" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="33.236000000000004" y1="48.73" x2="32.22" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="32.22" y1="48.73" x2="32.22" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="32.22" y1="56.35" x2="33.236000000000004" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="33.236000000000004" y1="56.35" x2="37.3" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.84" y1="56.35" x2="48.984" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="56.35" x2="50" y2="56.35" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="56.35" x2="50" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="48.73" x2="48.984" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="48.73" x2="39.84" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.984" y1="48.73" x2="48.984" y2="56.35" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="33.236000000000004" y1="48.73" x2="33.236000000000004" y2="56.35" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="SIG" showName="true" number="SIG" showNumber="true" x="52.54" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="V+" showName="true" number="V+" showNumber="true" x="52.54" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="true" x="52.54" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="50.508" y="49.746" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">W</text>
+  <text x="50.508" y="52.286" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">R</text>
+  <text x="50.508" y="54.826" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">B</text>
+</symbol>

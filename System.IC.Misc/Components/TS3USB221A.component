@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316402532063" name="TS3USB221A" prefix="U" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012316402532026" symbolName="TS3USB221A" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012316402531009" footprintName="QFN-10-RSE">
+    <pad2pinMaps>
+      <map pad="6" gateId="1" pin="!OE" />
+      <map pad="1" gateId="1" pin="1D+" />
+      <map pad="2" gateId="1" pin="1D-" />
+      <map pad="3" gateId="1" pin="2D+" />
+      <map pad="4" gateId="1" pin="2D-" />
+      <map pad="8" gateId="1" pin="D+" />
+      <map pad="7" gateId="1" pin="D-" />
+      <map pad="9" gateId="1" pin="S" />
+      <map pad="10" gateId="1" pin="VCC" />
+      <map pad="5" gateId="1" pin="VSS" />
+    </pad2pinMaps>
+  </footprint>
+</component>
