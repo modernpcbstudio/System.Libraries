@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012014511443000" name="PANASONIC_C">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="47.4" y1="47.55" x2="51.6" y2="47.55" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.6" y1="47.55" x2="52.7" y2="48.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.7" y1="51.75" x2="51.6" y2="52.85" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.6" y1="52.85" x2="47.4" y2="52.85" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.4" y1="47.55" x2="47.4" y2="49.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="47.4" y1="52.85" x2="47.4" y2="50.75" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.7" y1="48.65" x2="52.7" y2="49.65" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.7" y1="51.75" x2="52.7" y2="50.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <arc sizeDiameter="2.5" borderWidth="0.2" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0" layer="501">
+    <startPoint>
+      <X>47.7</X>
+      <Y>51</Y>
+    </startPoint>
+    <endPoint>
+      <X>52.400000000000006</X>
+      <Y>51</Y>
+    </endPoint>
+  </arc>
+  <arc sizeDiameter="2.5" borderWidth="0.2" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0" layer="501">
+    <startPoint>
+      <X>52.400000000000006</X>
+      <Y>49.300000000000004</Y>
+    </startPoint>
+    <endPoint>
+      <X>47.7</X>
+      <Y>49.300000000000004</Y>
+    </endPoint>
+  </arc>
+  <smd number="-" x="48.2" y="50.2" rot="0" width="2.2" height="0.65" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="+" x="51.9" y="50.2" rot="0" width="2.2" height="0.65" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="47.4" y1="47.55" x2="51.6" y2="47.55" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="47.55" x2="52.7" y2="48.65" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="52.7" y1="51.75" x2="51.6" y2="52.85" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="52.85" x2="47.4" y2="52.85" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="47.4" y1="47.55" x2="47.4" y2="52.85" width="0.1016" layer="201" lineStyle="Solid" />
+  <line x1="52.7" y1="48.65" x2="52.7" y2="51.75" width="0.1016" layer="201" lineStyle="Solid" />
+  <circle x="50.05" y="50.2" diameter="5.0008" borderWidth="0.1016" isFilled="false" layer="201" />
+</footprint>

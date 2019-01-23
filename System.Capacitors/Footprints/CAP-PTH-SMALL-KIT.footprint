@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012014511442007" name="CAP-PTH-SMALL-KIT">
+  <line x1="50" y1="49.365" x2="50" y2="50.635" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47.333" y1="48.73" x2="52.667" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="52.667" y1="48.73" x2="52.667" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="52.667" y1="51.27" x2="47.333" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="47.333" y1="51.27" x2="47.333" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
+  <pad number="1" x="48.603" y="50" rot="360" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="51.397" y="50" rot="360" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="48.5954" y="50.4395" />
+    <vertex x="48.1509" y="50.0153" />
+    <vertex x="48.5954" y="49.548" />
+    <vertex x="49.0373" y="50.0051" />
+  </poly>
+  <poly borderWidth="0.127" isFilled="true" layer="401">
+    <vertex x="51.3945" y="50.4395" />
+    <vertex x="50.95" y="50.0153" />
+    <vertex x="51.3945" y="49.548" />
+    <vertex x="51.8364" y="50.0051" />
+  </poly>
+</footprint>

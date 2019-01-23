@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012014511443008" name="CAP-PTH-10MM">
+  <line x1="49.5" y1="49.365" x2="49.5" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="1" x="45" y="50" rot="360" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="55" y="50" rot="360" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="49.5" y1="50" x2="49.5" y2="50.635" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="49.365" x2="50.5" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="50" x2="50.5" y2="50.635" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="49.5" y1="50" x2="46.5" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="50.5" y1="50" x2="53.5" y2="50" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

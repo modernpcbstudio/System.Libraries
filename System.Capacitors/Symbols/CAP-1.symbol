@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012014511443016" name="CAP-1">
+  <line x1="50" y1="47.46" x2="50" y2="47.968" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50" y1="50" x2="50" y2="49.492" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="50" y="49.238" rot="0" width="4.064" height="0.508" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <rect x="50" y="48.222" rot="0" width="4.064" height="0.508" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="50" y="44.92" pinLength="3" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="50" y="52.54" pinLength="3" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+</symbol>

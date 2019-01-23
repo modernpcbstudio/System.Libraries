@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012014511443031" name="100UF-POLAR-10X10.5-63V-20%" prefix="C" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012014511443015" symbolName="CAP_POL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012014511443006" footprintName="NIC_10X10.5_CAP">
+    <pad2pinMaps>
+      <map pad="+" gateId="1" pin="+" />
+      <map pad="-" gateId="1" pin="-" />
+    </pad2pinMaps>
+  </footprint>
+</component>

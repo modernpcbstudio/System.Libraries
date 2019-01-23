@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012014511443002" name="CPOL-RADIAL-5MM-10MM">
+  <line x1="48.095" y1="47.46" x2="46.825" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="10" borderWidth="0.2032" isFilled="false" layer="501" />
+  <pad number="-" x="47.5" y="50" rot="360" width="1.9304" height="1.9304" cornerRadius="0.9652" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="+" x="52.5" y="50" rot="360" width="1.9304" height="1.9304" cornerRadius="0.9652" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.9" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="53.175" y1="47.46" x2="51.905" y2="47.46" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="52.54" y1="46.825" x2="52.54" y2="48.095" width="0.2032" layer="501" lineStyle="Solid" />
+</footprint>

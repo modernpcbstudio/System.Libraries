@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012014511443003" name="1007">
+  <line x1="48.75" y1="49.1" x2="48.75" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.75" y1="50.9" x2="51.25" y2="50.9" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.25" y1="50.9" x2="51.25" y2="49.1" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.25" y1="49.1" x2="48.75" y2="49.1" width="0.127" layer="201" lineStyle="Solid" />
+  <smd number="1" x="49" y="50" rot="-90" width="2" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51" y="50" rot="-90" width="2" height="0.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.4" y1="48.8" x2="51.6" y2="48.8" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="48.8" x2="51.6" y2="51.2" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="51.6" y1="51.2" x2="48.4" y2="51.2" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="48.4" y1="51.2" x2="48.4" y2="48.8" width="0.0508" layer="201" lineStyle="Solid" />
+</footprint>
