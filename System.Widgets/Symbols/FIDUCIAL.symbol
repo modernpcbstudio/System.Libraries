@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<symbol id="2019012312263886013" name="FIDUCIAL">
+  <line x1="49.238" y1="49.238" x2="50.762" y2="50.762" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.762" y1="49.238" x2="49.238" y2="50.762" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="50" y="50" diameter="2.54" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+</symbol>

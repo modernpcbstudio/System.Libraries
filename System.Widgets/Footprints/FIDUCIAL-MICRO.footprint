@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019012312263884002" name="FIDUCIAL-MICRO">
+  <smd number="1" x="50" y="50" rot="0" width="0.635" height="0.635" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
+</footprint>

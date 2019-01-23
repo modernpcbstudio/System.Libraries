@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012312263887010" name="FIDUCIALUFIDUCIAL" prefix="FD" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012312263886013" symbolName="FIDUCIAL" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012312263884002" footprintName="FIDUCIAL-MICRO" />
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012312263887019" name="OSHW-LOGOS" prefix="LOGO" componentType="Standard">
+  <gates>
+    <gate id="1" name="G$1" symbolId="2019012312263886018" symbolName="OSHW-LOGO" swaplevel="0" />
+  </gates>
+  <footprint footprintId="2019012312263886002" footprintName="OSHW-LOGO-S" />
+</component>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Components">
+    <Component Path="FIDUCIAL1X2.component" />
+    <Component Path="FIDUCIALTAB.component" />
+    <Component Path="FIDUCIALUFIDUCIAL.component" />
+    <Component Path="NO_PB_LOGO.component" />
+    <Component Path="OSHW-LOGOL.component" />
+    <Component Path="OSHW-LOGOL-COPPER.component" />
+    <Component Path="OSHW-LOGOM.component" />
+    <Component Path="OSHW-LOGOM-COPPER.component" />
+    <Component Path="OSHW-LOGOMINI.component" />
+    <Component Path="OSHW-LOGOS.component" />
+    <Component Path="OSHW-LOGOS-COPPER.component" />
+    <Component Path="ROHS_LOGO.component" />
+  </Folder>
+  <Folder Path="Footprints">
+    <Footprint Path="FIDUCIAL-1X2.footprint" />
+    <Footprint Path="FIDUCIAL-MICRO.footprint" />
+    <Footprint Path="FIDUCIALTAB.footprint" />
+    <Footprint Path="NO_PB_LOGO_0.120.footprint" />
+    <Footprint Path="OSHW-LOGO-L.footprint" />
+    <Footprint Path="OSHW-LOGO-L_COPPER.footprint" />
+    <Footprint Path="OSHW-LOGO-M.footprint" />
+    <Footprint Path="OSHW-LOGO-M_COPPER.footprint" />
+    <Footprint Path="OSHW-LOGO-MINI.footprint" />
+    <Footprint Path="OSHW-LOGO-S.footprint" />
+    <Footprint Path="OSHW-LOGO-S_COPPER.footprint" />
+    <Footprint Path="ROHS_LOGO_0.18_IN.footprint" />
+  </Folder>
+  <Folder Path="Symbols">
+    <Symbol Path="DOCFIELD.symbol" />
+    <Symbol Path="FIDUCIAL.symbol" />
+    <Symbol Path="FIDUCIALTAB.symbol" />
+    <Symbol Path="NO_PB_LOGO.symbol" />
+    <Symbol Path="OSHW-LOGO.symbol" />
+    <Symbol Path="ROHS_LOGO.symbol" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
+</Project>
