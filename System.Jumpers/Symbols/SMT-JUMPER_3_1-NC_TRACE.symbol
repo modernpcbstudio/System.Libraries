@@ -1,42 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316461615023" name="SMT-JUMPER_3_1-NC_TRACE">
-  <arc borderWidth="1.27" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.762" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>49.365</X>
-      <Y>51.397</Y>
+      <X>50.127</X>
+      <Y>52.159</Y>
     </startPoint>
     <endPoint>
-      <X>50.635</X>
-      <Y>51.397</Y>
+      <X>51.397</X>
+      <Y>52.159</Y>
     </endPoint>
     <size>
-      <Width>1</Width>
-      <Height>1</Height>
+      <Width>2.032</Width>
+      <Height>2.032</Height>
     </size>
   </arc>
-  <arc borderWidth="1.27" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.762" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>49.365</X>
-      <Y>48.603</Y>
+      <X>50.127</X>
+      <Y>49.365</Y>
     </startPoint>
     <endPoint>
-      <X>50.635</X>
-      <Y>48.603</Y>
+      <X>51.397</X>
+      <Y>49.365</Y>
     </endPoint>
     <size>
-      <Width>1</Width>
-      <Height>1</Height>
+      <Width>2.032</Width>
+      <Height>2.032</Height>
     </size>
   </arc>
-  <line x1="51.27" y1="50.635" x2="48.73" y2="50.635" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.73" y1="50.635" x2="48.73" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.73" y1="50" x2="48.73" y2="49.365" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.73" y1="49.365" x2="51.27" y2="49.365" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.27" y1="49.365" x2="51.27" y2="50.635" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="50" x2="48.73" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <rect x="50" y="50" rot="0" width="2.54" height="1.27" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <pin name="3" showName="false" number="3" showNumber="false" x="50" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="1" showName="false" number="1" showNumber="false" x="50" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="false" number="2" showNumber="false" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="50" y1="50" x2="50" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="50.762" x2="49.492" y2="50.762" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="50.8" y="50.8" rot="0" width="2.54" height="1.27" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <pin name="3" showName="false" number="3" showNumber="false" x="50.8" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="50.8" y="45.72" pinLength="3.175" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="45.72" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50.8" y1="50.8" x2="50.8" y2="53.34" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

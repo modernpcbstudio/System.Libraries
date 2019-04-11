@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765086" name="AUDIO-JACK">
-  <line x1="48.73" y1="52.54" x2="50" y2="51.27" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="51.27" x2="51.27" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.27" y1="52.54" x2="52.54" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="50" x2="48.73" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.73" y1="50" x2="47.46" y2="51.27" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="51.27" x2="46.19" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="47.46" x2="44.92" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="52.286" y="52.286" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">L</text>
-  <text x="52.286" y="49.746" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">R</text>
-  <rect x="44.92" y="50" rot="0" width="5.08" height="1.524" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <pin name="RIGHT" showName="false" number="RIGHT" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="LEFT" showName="false" number="LEFT" showNumber="false" x="55.08" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SLEEVE" showName="false" number="SLEEVE" showNumber="false" x="55.08" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="49.53" y1="53.34" x2="50.8" y2="52.07" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.8" y1="52.07" x2="52.07" y2="53.34" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.07" y1="53.34" x2="53.34" y2="53.34" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="50.8" x2="49.53" y2="50.8" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.53" y1="50.8" x2="48.26" y2="52.07" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.26" y1="52.07" x2="46.99" y2="50.8" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="48.26" x2="45.72" y2="48.26" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="52.286" y="51.650999999999996" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">L</text>
+  <text x="52.286" y="49.111000000000004" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">R</text>
+  <rect x="44.45" y="50.8" rot="0" width="5.08" height="1.524" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <pin name="RIGHT" showName="false" number="RIGHT" showNumber="false" x="55.88" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="LEFT" showName="false" number="LEFT" showNumber="false" x="55.88" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SLEEVE" showName="false" number="SLEEVE" showNumber="false" x="55.88" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

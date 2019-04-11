@@ -1,199 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316523359052" name="7-SEGMENT-4DIGIT-COUNTER">
-  <line x1="14.439999999999998" y1="33.489999999999995" x2="85.56" y2="33.489999999999995" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="85.56" y1="33.489999999999995" x2="85.56" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="85.56" y1="65.24" x2="14.439999999999998" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="14.439999999999998" y1="65.24" x2="14.439999999999998" y2="33.489999999999995" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.41" y1="34.49" x2="28.68" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="28.68" y1="35.76" x2="27.41" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.41" y1="37.03" x2="20.79" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="20.79" y1="37.03" x2="19.52" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="19.52" y1="35.76" x2="20.79" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="20.79" y1="34.49" x2="27.41" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="28.934" y1="37.03" x2="30.204" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="28.934" y1="37.03" x2="27.664" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.664" y1="38.3" x2="26.394" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.394" y1="43.92" x2="27.664" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.664" y1="45.19" x2="28.934" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="28.934" y1="43.92" x2="30.204" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="18.25" y1="46.46" x2="19.52" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="18.25" y1="46.46" x2="19.52" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="19.52" y1="47.73" x2="26.14" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.14" y1="47.73" x2="27.41" y2="46.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.41" y1="46.46" x2="26.14" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.14" y1="45.19" x2="19.52" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="16.979999999999997" y1="57.16" x2="18.25" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="16.979999999999997" y1="57.16" x2="18.25" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="18.25" y1="58.43" x2="24.87" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="24.87" y1="58.43" x2="26.14" y2="57.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.14" y1="57.16" x2="24.87" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="24.87" y1="55.89" x2="18.25" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="19.266" y1="37.03" x2="20.536" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="19.266" y1="37.03" x2="17.996000000000002" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="17.996000000000002" y1="38.3" x2="16.726" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="16.726" y1="43.92" x2="17.996000000000002" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="17.996000000000002" y1="45.19" x2="19.266" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="19.266" y1="43.92" x2="20.536" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="17.996000000000002" y1="47.73" x2="19.266" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="17.996000000000002" y1="47.73" x2="16.726" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="16.726" y1="49" x2="15.456000000000003" y2="55.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="15.456000000000003" y1="55.62" x2="16.726" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="16.726" y1="55.89" x2="17.996000000000002" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="17.996000000000002" y1="54.62" x2="19.266" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.664" y1="47.73" x2="28.934" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.664" y1="47.73" x2="26.394" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.394" y1="49" x2="25.124" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="25.124" y1="54.62" x2="26.394" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="26.394" y1="55.89" x2="27.664" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="27.664" y1="54.62" x2="28.934" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.19" y1="34.49" x2="46.46" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="46.46" y1="35.76" x2="45.19" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.19" y1="37.03" x2="38.57" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="38.57" y1="37.03" x2="37.3" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.3" y1="35.76" x2="38.57" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="38.57" y1="34.49" x2="45.19" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="46.714" y1="37.03" x2="47.984" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="46.714" y1="37.03" x2="45.444" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.444" y1="38.3" x2="44.174" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.174" y1="43.92" x2="45.444" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.444" y1="45.19" x2="46.714" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="46.714" y1="43.92" x2="47.984" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="36.03" y1="46.46" x2="37.3" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="36.03" y1="46.46" x2="37.3" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.3" y1="47.73" x2="43.92" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.92" y1="47.73" x2="45.19" y2="46.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.19" y1="46.46" x2="43.92" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.92" y1="45.19" x2="37.3" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="34.76" y1="57.16" x2="36.03" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="34.76" y1="57.16" x2="36.03" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="36.03" y1="58.43" x2="42.65" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="42.65" y1="58.43" x2="43.92" y2="57.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.92" y1="57.16" x2="42.65" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="42.65" y1="55.89" x2="36.03" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.046" y1="37.03" x2="38.316" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.046" y1="37.03" x2="35.775999999999996" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="35.775999999999996" y1="38.3" x2="34.506" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="34.506" y1="43.92" x2="35.775999999999996" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="35.775999999999996" y1="45.19" x2="37.046" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.046" y1="43.92" x2="38.316" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="35.775999999999996" y1="47.73" x2="37.046" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="35.775999999999996" y1="47.73" x2="34.506" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="34.506" y1="49" x2="33.236000000000004" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="33.236000000000004" y1="54.62" x2="34.506" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="34.506" y1="55.89" x2="35.775999999999996" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="35.775999999999996" y1="54.62" x2="37.046" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.444" y1="47.73" x2="46.714" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.444" y1="47.73" x2="44.174" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.174" y1="49" x2="42.903999999999996" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="42.903999999999996" y1="54.62" x2="44.174" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.174" y1="55.89" x2="45.444" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.444" y1="54.62" x2="46.714" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="62.97" y1="34.49" x2="64.24" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="64.24" y1="35.76" x2="62.97" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="62.97" y1="37.03" x2="56.35" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="56.35" y1="37.03" x2="55.08" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.08" y1="35.76" x2="56.35" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="56.35" y1="34.49" x2="62.97" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="64.494" y1="37.03" x2="65.764" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="64.494" y1="37.03" x2="63.224000000000004" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.224000000000004" y1="38.3" x2="61.954" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.954" y1="43.92" x2="63.224000000000004" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.224000000000004" y1="45.19" x2="64.494" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="64.494" y1="43.92" x2="65.764" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.81" y1="46.46" x2="55.08" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.81" y1="46.46" x2="55.08" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.08" y1="47.73" x2="61.7" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.7" y1="47.73" x2="62.97" y2="46.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="62.97" y1="46.46" x2="61.7" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.7" y1="45.19" x2="55.08" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="57.16" x2="53.81" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="57.16" x2="53.81" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.81" y1="58.43" x2="60.43" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.43" y1="58.43" x2="61.7" y2="57.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.7" y1="57.16" x2="60.43" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.43" y1="55.89" x2="53.81" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="54.826" y1="37.03" x2="56.096000000000004" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="54.826" y1="37.03" x2="53.556" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.556" y1="38.3" x2="52.286" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.286" y1="43.92" x2="53.556" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.556" y1="45.19" x2="54.826" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="54.826" y1="43.92" x2="56.096000000000004" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.556" y1="47.73" x2="54.826" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.556" y1="47.73" x2="52.286" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.286" y1="49" x2="51.016" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.016" y1="54.62" x2="52.286" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.286" y1="55.89" x2="53.556" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.556" y1="54.62" x2="54.826" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.224000000000004" y1="47.73" x2="64.494" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.224000000000004" y1="47.73" x2="61.954" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.954" y1="49" x2="60.684" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.684" y1="54.62" x2="61.954" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="61.954" y1="55.89" x2="63.224000000000004" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.224000000000004" y1="54.62" x2="64.494" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="80.75" y1="34.49" x2="82.02000000000001" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="82.02000000000001" y1="35.76" x2="80.75" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="80.75" y1="37.03" x2="74.13" y2="37.03" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="74.13" y1="37.03" x2="72.86" y2="35.76" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="72.86" y1="35.76" x2="74.13" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="74.13" y1="34.49" x2="80.75" y2="34.49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="82.274" y1="37.03" x2="83.544" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="82.274" y1="37.03" x2="81.004" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="81.004" y1="38.3" x2="79.734000000000009" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.734000000000009" y1="43.92" x2="81.004" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="81.004" y1="45.19" x2="82.274" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="82.274" y1="43.92" x2="83.544" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.59" y1="46.46" x2="72.86" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.59" y1="46.46" x2="72.86" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="72.86" y1="47.73" x2="79.48" y2="47.73" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.48" y1="47.73" x2="80.75" y2="46.46" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="80.75" y1="46.46" x2="79.48" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.48" y1="45.19" x2="72.86" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="70.32" y1="57.16" x2="71.59" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="70.32" y1="57.16" x2="71.59" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.59" y1="58.43" x2="78.210000000000008" y2="58.43" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="78.210000000000008" y1="58.43" x2="79.48" y2="57.16" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.48" y1="57.16" x2="78.210000000000008" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="78.210000000000008" y1="55.89" x2="71.59" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="72.606" y1="37.03" x2="73.876" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="72.606" y1="37.03" x2="71.336" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.336" y1="38.3" x2="70.066" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="70.066" y1="43.92" x2="71.336" y2="45.19" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.336" y1="45.19" x2="72.606" y2="43.92" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="72.606" y1="43.92" x2="73.876" y2="38.3" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.336" y1="47.73" x2="72.606" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.336" y1="47.73" x2="70.066" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="70.066" y1="49" x2="68.795999999999992" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="68.795999999999992" y1="54.62" x2="70.066" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="70.066" y1="55.89" x2="71.336" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="71.336" y1="54.62" x2="72.606" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="81.004" y1="47.73" x2="82.274" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="81.004" y1="47.73" x2="79.734000000000009" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.734000000000009" y1="49" x2="78.464" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="78.464" y1="54.62" x2="79.734000000000009" y2="55.89" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="79.734000000000009" y1="55.89" x2="81.004" y2="54.62" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="81.004" y1="54.62" x2="82.274" y2="49" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
-  <circle x="29.95" y="57.16" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="47.73" y="57.16" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="65.51" y="57.16" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="83.289999999999992" y="57.16" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <text x="23.346" y="36.268" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">A</text>
-  <text x="27.918" y="42.618" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">B</text>
-  <text x="26.648" y="51.318" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">C</text>
-  <text x="21.806" y="57.668" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">D</text>
-  <text x="16.979999999999997" y="51.318" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">E</text>
-  <text x="18.25" y="42.618" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">F</text>
-  <text x="23.076" y="46.968" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">G</text>
-  <text x="29.188" y="57.668" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">DP</text>
-  <pin name="A" showName="true" number="A" showNumber="true" x="32.22" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="B" showName="true" number="B" showNumber="true" x="34.76" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="C" showName="true" number="C" showNumber="true" x="37.3" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D" showName="true" number="D" showNumber="true" x="39.84" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="E" showName="true" number="E" showNumber="true" x="42.38" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="F" showName="true" number="F" showNumber="true" x="44.92" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="G" showName="true" number="G" showNumber="true" x="47.46" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="DP" showName="true" number="DP" showNumber="true" x="50" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D1" showName="true" number="D1" showNumber="true" x="60.16" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D2" showName="true" number="D2" showNumber="true" x="62.7" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D3" showName="true" number="D3" showNumber="true" x="65.24" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D4" showName="true" number="D4" showNumber="true" x="67.78" y="67.78" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="15.201999999999998" y1="34.251999999999995" x2="86.322" y2="34.251999999999995" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="86.322" y1="34.251999999999995" x2="86.322" y2="66.002" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="86.322" y1="66.002" x2="15.201999999999998" y2="66.002" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="15.201999999999998" y1="66.002" x2="15.201999999999998" y2="34.251999999999995" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.172" y1="35.252" x2="29.442" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="29.442" y1="36.522" x2="28.172" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.172" y1="37.792" x2="21.552" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="21.552" y1="37.792" x2="20.282" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="20.282" y1="36.522" x2="21.552" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="21.552" y1="35.252" x2="28.172" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="29.696" y1="37.792" x2="30.966" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="29.696" y1="37.792" x2="28.426000000000002" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.426000000000002" y1="39.062" x2="27.156" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="27.156" y1="44.682" x2="28.426000000000002" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.426000000000002" y1="45.952" x2="29.696" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="29.696" y1="44.682" x2="30.966" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="19.012" y1="47.222" x2="20.282" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="19.012" y1="47.222" x2="20.282" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="20.282" y1="48.492" x2="26.902" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="26.902" y1="48.492" x2="28.172" y2="47.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.172" y1="47.222" x2="26.902" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="26.902" y1="45.952" x2="20.282" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="17.741999999999997" y1="57.922" x2="19.012" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="17.741999999999997" y1="57.922" x2="19.012" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="19.012" y1="59.192" x2="25.632" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="25.632" y1="59.192" x2="26.902" y2="57.922" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="26.902" y1="57.922" x2="25.632" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="25.632" y1="56.652" x2="19.012" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="20.028" y1="37.792" x2="21.298000000000002" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="20.028" y1="37.792" x2="18.758000000000003" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="18.758000000000003" y1="39.062" x2="17.488" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="17.488" y1="44.682" x2="18.758000000000003" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="18.758000000000003" y1="45.952" x2="20.028" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="20.028" y1="44.682" x2="21.298000000000002" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="18.758000000000003" y1="48.492" x2="20.028" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="18.758000000000003" y1="48.492" x2="17.488" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="17.488" y1="49.762" x2="16.218000000000004" y2="56.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="16.218000000000004" y1="56.382" x2="17.488" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="17.488" y1="56.652" x2="18.758000000000003" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="18.758000000000003" y1="55.382" x2="20.028" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.426000000000002" y1="48.492" x2="29.696" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.426000000000002" y1="48.492" x2="27.156" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="27.156" y1="49.762" x2="25.886" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="25.886" y1="55.382" x2="27.156" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="27.156" y1="56.652" x2="28.426000000000002" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="28.426000000000002" y1="55.382" x2="29.696" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.952" y1="35.252" x2="47.222" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.222" y1="36.522" x2="45.952" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.952" y1="37.792" x2="39.332" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.332" y1="37.792" x2="38.062" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="38.062" y1="36.522" x2="39.332" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="39.332" y1="35.252" x2="45.952" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.476" y1="37.792" x2="48.746" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.476" y1="37.792" x2="46.206" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.206" y1="39.062" x2="44.936" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.936" y1="44.682" x2="46.206" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.206" y1="45.952" x2="47.476" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.476" y1="44.682" x2="48.746" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.792" y1="47.222" x2="38.062" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.792" y1="47.222" x2="38.062" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="38.062" y1="48.492" x2="44.682" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.682" y1="48.492" x2="45.952" y2="47.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.952" y1="47.222" x2="44.682" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.682" y1="45.952" x2="38.062" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="35.522" y1="57.922" x2="36.792" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="35.522" y1="57.922" x2="36.792" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.792" y1="59.192" x2="43.412" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.412" y1="59.192" x2="44.682" y2="57.922" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.682" y1="57.922" x2="43.412" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.412" y1="56.652" x2="36.792" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.808" y1="37.792" x2="39.078" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.808" y1="37.792" x2="36.538" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.538" y1="39.062" x2="35.268" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="35.268" y1="44.682" x2="36.538" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.538" y1="45.952" x2="37.808" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="37.808" y1="44.682" x2="39.078" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.538" y1="48.492" x2="37.808" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.538" y1="48.492" x2="35.268" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="35.268" y1="49.762" x2="33.998000000000005" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="33.998000000000005" y1="55.382" x2="35.268" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="35.268" y1="56.652" x2="36.538" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="36.538" y1="55.382" x2="37.808" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.206" y1="48.492" x2="47.476" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.206" y1="48.492" x2="44.936" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.936" y1="49.762" x2="43.666" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.666" y1="55.382" x2="44.936" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="44.936" y1="56.652" x2="46.206" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.206" y1="55.382" x2="47.476" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.732" y1="35.252" x2="65.002" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.002" y1="36.522" x2="63.732" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.732" y1="37.792" x2="57.112" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.112" y1="37.792" x2="55.842" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.842" y1="36.522" x2="57.112" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.112" y1="35.252" x2="63.732" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.256" y1="37.792" x2="66.526" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.256" y1="37.792" x2="63.986000000000004" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.986000000000004" y1="39.062" x2="62.716" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.716" y1="44.682" x2="63.986000000000004" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.986000000000004" y1="45.952" x2="65.256" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="65.256" y1="44.682" x2="66.526" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.572" y1="47.222" x2="55.842" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.572" y1="47.222" x2="55.842" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.842" y1="48.492" x2="62.462" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.462" y1="48.492" x2="63.732" y2="47.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.732" y1="47.222" x2="62.462" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.462" y1="45.952" x2="55.842" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="57.922" x2="54.572" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="57.922" x2="54.572" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.572" y1="59.192" x2="61.192" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="61.192" y1="59.192" x2="62.462" y2="57.922" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.462" y1="57.922" x2="61.192" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="61.192" y1="56.652" x2="54.572" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.588" y1="37.792" x2="56.858000000000004" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.588" y1="37.792" x2="54.318" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="39.062" x2="53.048" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="44.682" x2="54.318" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="45.952" x2="55.588" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.588" y1="44.682" x2="56.858000000000004" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="48.492" x2="55.588" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="48.492" x2="53.048" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="49.762" x2="51.778" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="55.382" x2="53.048" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="56.652" x2="54.318" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="54.318" y1="55.382" x2="55.588" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.986000000000004" y1="48.492" x2="65.256" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.986000000000004" y1="48.492" x2="62.716" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.716" y1="49.762" x2="61.446" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="61.446" y1="55.382" x2="62.716" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="62.716" y1="56.652" x2="63.986000000000004" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.986000000000004" y1="55.382" x2="65.256" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.512" y1="35.252" x2="82.782000000000011" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="82.782000000000011" y1="36.522" x2="81.512" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.512" y1="37.792" x2="74.892" y2="37.792" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="74.892" y1="37.792" x2="73.622" y2="36.522" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="73.622" y1="36.522" x2="74.892" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="74.892" y1="35.252" x2="81.512" y2="35.252" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="83.036" y1="37.792" x2="84.306" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="83.036" y1="37.792" x2="81.766" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.766" y1="39.062" x2="80.496000000000009" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.496000000000009" y1="44.682" x2="81.766" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.766" y1="45.952" x2="83.036" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="83.036" y1="44.682" x2="84.306" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.352" y1="47.222" x2="73.622" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.352" y1="47.222" x2="73.622" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="73.622" y1="48.492" x2="80.242" y2="48.492" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.242" y1="48.492" x2="81.512" y2="47.222" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.512" y1="47.222" x2="80.242" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.242" y1="45.952" x2="73.622" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="71.082" y1="57.922" x2="72.352" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="71.082" y1="57.922" x2="72.352" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.352" y1="59.192" x2="78.972000000000008" y2="59.192" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="78.972000000000008" y1="59.192" x2="80.242" y2="57.922" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.242" y1="57.922" x2="78.972000000000008" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="78.972000000000008" y1="56.652" x2="72.352" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="73.368" y1="37.792" x2="74.638" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="73.368" y1="37.792" x2="72.098" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.098" y1="39.062" x2="70.828" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="70.828" y1="44.682" x2="72.098" y2="45.952" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.098" y1="45.952" x2="73.368" y2="44.682" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="73.368" y1="44.682" x2="74.638" y2="39.062" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.098" y1="48.492" x2="73.368" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.098" y1="48.492" x2="70.828" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="70.828" y1="49.762" x2="69.557999999999993" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="69.557999999999993" y1="55.382" x2="70.828" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="70.828" y1="56.652" x2="72.098" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="72.098" y1="55.382" x2="73.368" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.766" y1="48.492" x2="83.036" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.766" y1="48.492" x2="80.496000000000009" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.496000000000009" y1="49.762" x2="79.226" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="79.226" y1="55.382" x2="80.496000000000009" y2="56.652" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="80.496000000000009" y1="56.652" x2="81.766" y2="55.382" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="81.766" y1="55.382" x2="83.036" y2="49.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="30.712" y="57.922" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="48.492" y="57.922" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="66.272" y="57.922" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="84.051999999999992" y="57.922" diameter="2.54" borderWidth="0.508" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <text x="23.346" y="36.268" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">A</text>
+  <text x="27.918" y="42.618" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">B</text>
+  <text x="26.648" y="51.318" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">C</text>
+  <text x="21.806" y="57.668" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">D</text>
+  <text x="16.979999999999997" y="51.318" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">E</text>
+  <text x="18.25" y="42.618" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">F</text>
+  <text x="23.076" y="46.968" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">G</text>
+  <text x="29.188" y="57.668" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.8400000000000003" bold="false" italic="false">DP</text>
+  <pin name="A" showName="true" number="A" showNumber="false" x="33.02" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="B" showName="true" number="B" showNumber="false" x="35.56" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="C" showName="true" number="C" showNumber="false" x="38.1" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D" showName="true" number="D" showNumber="false" x="40.64" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="E" showName="true" number="E" showNumber="false" x="43.18" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="F" showName="true" number="F" showNumber="false" x="45.72" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="G" showName="true" number="G" showNumber="false" x="48.26" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="DP" showName="true" number="DP" showNumber="false" x="50.8" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D1" showName="true" number="D1" showNumber="false" x="60.96" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D2" showName="true" number="D2" showNumber="false" x="63.5" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D3" showName="true" number="D3" showNumber="false" x="66.04" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D4" showName="true" number="D4" showNumber="false" x="68.58" y="68.58" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

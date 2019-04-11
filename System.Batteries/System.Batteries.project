@@ -41,12 +41,12 @@
     <Footprint Path="LIPO-2000.footprint" />
   </Folder>
   <Folder Path="Symbols">
-    <Symbol Path="6.8MM_COIN_CELL.symbol" />
     <Symbol Path="BATTERY.symbol" />
     <Symbol Path="LIPO-OUTLINE.symbol" />
   </Folder>
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

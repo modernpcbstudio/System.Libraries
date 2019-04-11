@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316124424016" name="TPIC6C595">
-  <line x1="37.3" y1="37.3" x2="62.7" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="62.7" y1="37.3" x2="62.7" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="62.7" y1="65.24" x2="37.3" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="37.3" y1="65.24" x2="37.3" y2="37.3" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="!CLR" showName="true" number="!CLR" showNumber="true" x="34.76" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="!G" showName="true" number="!G" showNumber="true" x="34.76" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D0" showName="true" number="D0" showNumber="true" x="65.24" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D1" showName="true" number="D1" showNumber="true" x="65.24" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D2" showName="true" number="D2" showNumber="true" x="65.24" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D3" showName="true" number="D3" showNumber="true" x="65.24" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D4" showName="true" number="D4" showNumber="true" x="65.24" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D5" showName="true" number="D5" showNumber="true" x="65.24" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D6" showName="true" number="D6" showNumber="true" x="65.24" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D7" showName="true" number="D7" showNumber="true" x="65.24" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="true" x="34.76" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="RCK" showName="true" number="RCK" showNumber="true" x="34.76" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SER_IN" showName="true" number="SER_IN" showNumber="true" x="34.76" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SER_OUT" showName="true" number="SER_OUT" showNumber="true" x="65.24" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SRCK" showName="true" number="SRCK" showNumber="true" x="34.76" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VCC" showName="true" number="VCC" showNumber="true" x="34.76" y="39.84" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!CLR" showName="true" number="!CLR" showNumber="false" x="35.56" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!G" showName="true" number="!G" showNumber="false" x="35.56" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D0" showName="true" number="D0" showNumber="false" x="66.04" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D1" showName="true" number="D1" showNumber="false" x="66.04" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D2" showName="true" number="D2" showNumber="false" x="66.04" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D3" showName="true" number="D3" showNumber="false" x="66.04" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D4" showName="true" number="D4" showNumber="false" x="66.04" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D5" showName="true" number="D5" showNumber="false" x="66.04" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D6" showName="true" number="D6" showNumber="false" x="66.04" y="60.96" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D7" showName="true" number="D7" showNumber="false" x="66.04" y="63.5" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="false" x="35.56" y="63.5" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RCK" showName="true" number="RCK" showNumber="false" x="35.56" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SER_IN" showName="true" number="SER_IN" showNumber="false" x="35.56" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SER_OUT" showName="true" number="SER_OUT" showNumber="false" x="66.04" y="40.64" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SRCK" showName="true" number="SRCK" showNumber="false" x="35.56" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="VCC" showNumber="false" x="35.56" y="40.64" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="38.1" y1="38.1" x2="38.1" y2="66.04" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="38.1" y1="66.04" x2="63.5" y2="66.04" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.5" y1="66.04" x2="63.5" y2="38.1" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="63.5" y1="38.1" x2="38.1" y2="38.1" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

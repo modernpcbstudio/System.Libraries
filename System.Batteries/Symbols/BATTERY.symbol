@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012313185803018" name="BATTERY">
-  <line x1="48.73" y1="46.19" x2="48.73" y2="53.81" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="48.73" x2="50" y2="51.27" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.27" y1="46.19" x2="51.27" y2="53.81" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="48.73" x2="52.54" y2="51.27" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="50" x2="48.476" y2="50" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="-" showName="false" number="-" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="+" showName="false" number="+" showNumber="false" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="49.53" y1="46.99" x2="49.53" y2="54.61" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.8" y1="49.53" x2="50.8" y2="52.07" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.07" y1="46.99" x2="52.07" y2="54.61" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="49.53" x2="53.34" y2="52.07" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.26" y1="50.8" x2="49.53" y2="50.8" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="-" showName="false" number="-" showNumber="false" x="55.879999999999995" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="+" showName="false" number="+" showNumber="false" x="45.72" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

@@ -693,7 +693,6 @@
     <Symbol Path="AUDIO-JACK.symbol" />
     <Symbol Path="AUDIO-JACK2.symbol" />
     <Symbol Path="AUDIO-JACK3-TRRS.symbol" />
-    <Symbol Path="AUDIO-JACK4-TRS-NORMALED-GND-1.symbol" />
     <Symbol Path="AVR_SPI_PROGRAMMER.symbol" />
     <Symbol Path="AVR_SPI_PROGRAMMER_6.symbol" />
     <Symbol Path="BANANA_CONN.symbol" />
@@ -754,7 +753,6 @@
     <Symbol Path="JST_6_1MM_VERT.symbol" />
     <Symbol Path="MAGJACK.symbol" />
     <Symbol Path="MAGJACK-POE.symbol" />
-    <Symbol Path="MICROB-PLUG.symbol" />
     <Symbol Path="MICROB-PLUG-1.symbol" />
     <Symbol Path="MICROSD.symbol" />
     <Symbol Path="MYDAQ_CONNECTOR.symbol" />
@@ -776,11 +774,10 @@
     <Symbol Path="USB.symbol" />
     <Symbol Path="USB_AB.symbol" />
     <Symbol Path="USB-5PIN.symbol" />
-    <Symbol Path="VERNIER_ANALOG.symbol" />
-    <Symbol Path="VERNIER_DIGITAL.symbol" />
   </Folder>
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

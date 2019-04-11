@@ -10,7 +10,6 @@
     <Component Path="LCD-16X28X2-KIT.component" />
     <Component Path="LCD-G12864-BARE.component" />
     <Component Path="LCD-G12864-FULL.component" />
-    <Component Path="NOKIA6100_LCD.component" />
     <Component Path="OEL_1.8.component" />
     <Component Path="OEL_1.8-AYF331335.component" />
     <Component Path="OEL_1.8OEL_1.8.component" />
@@ -33,7 +32,6 @@
     <Footprint Path="LCD-16X2_NOSILK-KIT.footprint" />
     <Footprint Path="LCD-16X2_NOSILK-KIT-4BIT.footprint" />
     <Footprint Path="LCD-G12864.footprint" />
-    <Footprint Path="NOKIA6100_LCD.footprint" />
     <Footprint Path="OEL_1.8_FPC.footprint" />
     <Footprint Path="OEL_1.8_FPC_Y3B.footprint" />
     <Footprint Path="OLED-0.66-64X48.footprint" />
@@ -46,7 +44,6 @@
     <Symbol Path="LCD-16X2.symbol" />
     <Symbol Path="LCD-16X2-MIN.symbol" />
     <Symbol Path="LCD-G12864.symbol" />
-    <Symbol Path="NOKIA6100_LCD.symbol" />
     <Symbol Path="OEL_1.8.symbol" />
     <Symbol Path="OLED0.66.symbol" />
     <Symbol Path="OLED-UG-2832HLBEG04.symbol" />
@@ -55,5 +52,6 @@
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

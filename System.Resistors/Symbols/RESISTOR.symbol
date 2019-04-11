@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012317022546032" name="RESISTOR">
-  <line x1="47.46" y1="50" x2="47.841" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.841" y1="48.984" x2="48.476" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.476" y1="51.016" x2="49.111" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="49.111" y1="48.984" x2="49.746" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="49.746" y1="51.016" x2="50.381" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.381" y1="48.984" x2="51.016" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.016" y1="51.016" x2="51.651" y2="48.984" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.651" y1="48.984" x2="52.286" y2="51.016" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.286" y1="51.016" x2="52.54" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="2" showName="false" number="2" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="1" showName="false" number="1" showNumber="false" x="44.92" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="48.222" y1="50.762" x2="48.603" y2="49.746" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.603" y1="49.746" x2="49.238" y2="51.778" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.238" y1="51.778" x2="49.873" y2="49.746" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="49.873" y1="49.746" x2="50.508" y2="51.778" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.508" y1="51.778" x2="51.143" y2="49.746" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.143" y1="49.746" x2="51.778" y2="51.778" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.778" y1="51.778" x2="52.413000000000004" y2="49.746" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.413000000000004" y1="49.746" x2="53.048" y2="51.778" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.048" y1="51.778" x2="53.302" y2="50.762" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="55.88" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="45.72" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

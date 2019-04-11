@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765088" name="AVR_SPI_PROGRAMMER_6">
-  <line x1="44.92" y1="55.08" x2="57.62" y2="55.08" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="57.62" y1="55.08" x2="57.62" y2="44.92" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="57.62" y1="44.92" x2="44.92" y2="44.92" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.92" y1="44.92" x2="44.92" y2="55.08" width="0.4064" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="58.001" y="49.746" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">MOSI</text>
-  <text x="44.92" y="52.286" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">RST</text>
-  <text x="44.793" y="49.746" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">SCK</text>
-  <text x="44.793" y="47.206" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">MISO</text>
-  <text x="58.001" y="47.206" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">VCC</text>
-  <text x="58.001" y="52.286" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.0719999999999996" bold="false" italic="false">GND</text>
-  <pin name="1" showName="true" number="1" showNumber="true" x="42.38" y="47.46" pinLength="7.62" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="true" number="2" showNumber="true" x="60.16" y="47.46" pinLength="7.62" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="3" showName="true" number="3" showNumber="true" x="42.38" y="50" pinLength="7.62" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="true" number="4" showNumber="true" x="60.16" y="50" pinLength="7.62" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="5" showName="true" number="5" showNumber="true" x="42.38" y="52.54" pinLength="7.62" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="6" showName="true" number="6" showNumber="true" x="60.16" y="52.54" pinLength="7.62" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="MISO" showName="true" number="1" showNumber="false" x="43.18" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCC" showName="true" number="2" showNumber="false" x="60.96" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SCK" showName="true" number="3" showNumber="false" x="43.18" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="MOSI" showName="true" number="4" showNumber="false" x="60.96" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RST" showName="true" number="5" showNumber="false" x="43.18" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="6" showNumber="false" x="60.96" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="45.72" y1="45.72" x2="45.72" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.72" y1="55.88" x2="58.42" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.42" y1="55.88" x2="58.42" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.42" y1="45.72" x2="45.72" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

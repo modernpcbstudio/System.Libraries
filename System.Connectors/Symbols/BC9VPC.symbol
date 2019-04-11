@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765091" name="BC9VPC">
-  <line x1="44.92" y1="47.46" x2="55.08" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="50" x2="52.54" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.92" y1="52.54" x2="55.08" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="55.08" x2="52.54" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.72" y1="48.26" x2="55.88" y2="48.26" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.26" y1="50.8" x2="53.34" y2="50.8" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.72" y1="53.34" x2="55.88" y2="53.34" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.26" y1="55.88" x2="53.34" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="52.54" y1="44.158" x2="52.54" y2="45.682" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="51.778" y1="44.92" x2="53.302" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="V+" showName="false" number="V+" showNumber="false" x="50" y="42.38" pinLength="5.08" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="V-" showName="false" number="V-" showNumber="false" x="50" y="60.16" pinLength="5.08" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="V+" showName="false" number="V+" showNumber="false" x="50.8" y="43.18" pinLength="5.08" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="V-" showName="false" number="V-" showNumber="false" x="50.8" y="60.96" pinLength="5.08" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

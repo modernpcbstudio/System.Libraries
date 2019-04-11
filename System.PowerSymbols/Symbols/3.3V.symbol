@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316583317004" name="3.3V">
-  <line x1="50.762" y1="48.73" x2="50" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="47.46" x2="49.238" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="3.3V" showName="false" number="3.3V" showNumber="false" x="50" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="49.022" y1="46.736000000000004" x2="48.26" y2="45.466" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.26" y1="45.466" x2="47.498" y2="46.736000000000004" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="3.3V" showName="false" number="3.3V" showNumber="false" x="48.26" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

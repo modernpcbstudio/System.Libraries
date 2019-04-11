@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012313560876001" name="TRANSFORMER">
-  <line x1="47.46" y1="44.92" x2="47.46" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="44.92" x2="52.54" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
+  <line x1="48.26" y1="45.72" x2="48.26" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="45.72" x2="53.34" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>44.92</X>
-      <Y>44.92</Y>
+      <X>45.72</X>
+      <Y>45.72</Y>
     </startPoint>
     <endPoint>
-      <X>44.92</X>
-      <Y>47.46</Y>
+      <X>45.72</X>
+      <Y>48.26</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>44.92</X>
-      <Y>47.46</Y>
+      <X>45.72</X>
+      <Y>48.26</Y>
     </startPoint>
     <endPoint>
-      <X>44.92</X>
-      <Y>50</Y>
+      <X>45.72</X>
+      <Y>50.8</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>44.92</X>
-      <Y>50</Y>
+      <X>45.72</X>
+      <Y>50.8</Y>
     </startPoint>
     <endPoint>
-      <X>44.92</X>
-      <Y>52.54</Y>
+      <X>45.72</X>
+      <Y>53.34</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>44.92</X>
-      <Y>52.54</Y>
+      <X>45.72</X>
+      <Y>53.34</Y>
     </startPoint>
     <endPoint>
-      <X>44.92</X>
-      <Y>55.08</Y>
+      <X>45.72</X>
+      <Y>55.88</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>55.08</X>
-      <Y>44.92</Y>
+      <X>55.88</X>
+      <Y>45.72</Y>
     </startPoint>
     <endPoint>
-      <X>55.08</X>
-      <Y>47.46</Y>
+      <X>55.88</X>
+      <Y>48.26</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>55.08</X>
-      <Y>47.46</Y>
+      <X>55.88</X>
+      <Y>48.26</Y>
     </startPoint>
     <endPoint>
-      <X>55.08</X>
-      <Y>50</Y>
+      <X>55.88</X>
+      <Y>50.8</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>55.08</X>
-      <Y>50</Y>
+      <X>55.88</X>
+      <Y>50.8</Y>
     </startPoint>
     <endPoint>
-      <X>55.08</X>
-      <Y>52.54</Y>
+      <X>55.88</X>
+      <Y>53.34</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <arc borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
+  <arc borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0">
     <startPoint>
-      <X>55.08</X>
-      <Y>52.54</Y>
+      <X>55.88</X>
+      <Y>53.34</Y>
     </startPoint>
     <endPoint>
-      <X>55.08</X>
-      <Y>55.08</Y>
+      <X>55.88</X>
+      <Y>55.88</Y>
     </endPoint>
     <size>
       <Width>1</Width>
       <Height>1</Height>
     </size>
   </arc>
-  <pin name="1" showName="true" number="1" showNumber="true" x="44.92" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="true" number="4" showNumber="true" x="55.08" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="true" number="2" showNumber="true" x="44.92" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="3" showName="true" number="3" showNumber="true" x="55.08" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1" showName="false" number="1" showNumber="true" x="45.72" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="false" number="4" showNumber="true" x="55.879999999999995" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="true" x="45.72" y="58.419999999999995" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="false" number="3" showNumber="true" x="55.879999999999995" y="58.419999999999995" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

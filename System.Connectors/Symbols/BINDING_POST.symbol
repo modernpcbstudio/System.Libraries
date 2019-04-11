@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765157" name="BINDING_POST">
-  <pin name="P$1" showName="false" number="P$1" showNumber="false" x="47.46" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <circle x="50" y="50" diameter="2.54" borderWidth="0.6096" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="P$1" showName="false" number="P$1" showNumber="false" x="48.26" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <circle x="50.8" y="50.8" diameter="2.54" borderWidth="0.6096" borderColor="#FF000080" fillColor="#00FFFFFF" />
 </symbol>

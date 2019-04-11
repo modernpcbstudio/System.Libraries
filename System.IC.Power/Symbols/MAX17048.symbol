@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316351885056" name="MAX17048">
-  <line x1="57.62" y1="60.16" x2="57.62" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="57.62" y1="39.84" x2="39.84" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="39.84" y1="39.84" x2="39.84" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="39.84" y1="60.16" x2="57.62" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="!ALRT" showName="true" number="!ALRT" showNumber="true" x="60.16" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="CELL" showName="true" number="CELL" showNumber="true" x="37.3" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="CTG" showName="true" number="CTG" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="true" x="37.3" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="QSTRT" showName="true" number="QSTRT" showNumber="true" x="60.16" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SCL" showName="true" number="SCL" showNumber="true" x="60.16" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SDA" showName="true" number="SDA" showNumber="true" x="60.16" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="37.3" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!ALRT" showName="true" number="!ALRT" showNumber="false" x="60.96" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CELL" showName="true" number="CELL" showNumber="false" x="38.1" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="CTG" showName="true" number="CTG" showNumber="false" x="38.1" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="false" x="38.1" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="QSTRT" showName="true" number="QSTRT" showNumber="false" x="60.96" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SCL" showName="true" number="SCL" showNumber="false" x="60.96" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SDA" showName="true" number="SDA" showNumber="false" x="60.96" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="false" x="38.1" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="40.64" y1="40.64" x2="40.64" y2="60.96" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="40.64" y1="60.96" x2="58.42" y2="60.96" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.42" y1="60.96" x2="58.42" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.42" y1="40.64" x2="40.64" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

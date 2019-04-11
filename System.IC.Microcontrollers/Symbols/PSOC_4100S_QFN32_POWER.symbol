@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316253851075" name="PSOC_4100S_QFN32_POWER">
-  <line x1="50" y1="50" x2="50" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="27.14" x2="67.78" y2="27.14" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="67.78" y1="27.14" x2="67.78" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="67.78" y1="50" x2="50" y2="50" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="VSSA" showName="true" number="VSSA" showNumber="true" x="55.08" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VSSD" showName="true" number="VSSD" showNumber="true" x="62.7" y="55.08" pinLength="5.08" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VCCD" showName="true" number="VCCD" showNumber="true" x="57.62" y="22.06" pinLength="5.08" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="62.7" y="22.06" pinLength="5.08" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="XRES" showName="true" number="XRES" showNumber="true" x="72.86" y="37.3" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSA" showName="true" number="VSSA" showNumber="false" x="58.42" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSSD" showName="true" number="VSSD" showNumber="false" x="63.5" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VCCD" showName="true" number="VCCD" showNumber="false" x="58.42" y="22.86" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="false" x="63.5" y="22.86" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="XRES" showName="true" number="XRES" showNumber="false" x="73.66" y="38.1" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50.8" y1="25.4" x2="71.12" y2="25.4" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="71.12" y1="25.4" x2="71.12" y2="53.34" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="71.12" y1="53.34" x2="50.8" y2="53.34" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.8" y1="53.34" x2="50.8" y2="25.4" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

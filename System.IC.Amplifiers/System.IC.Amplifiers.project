@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
   <Folder Path="Components">
-    <Component Path="AD8045-PAD.component" />
     <Component Path="AD8607.component" />
     <Component Path="LM339.component" />
     <Component Path="LM358.component" />
     <Component Path="LM358KIT.component" />
-    <Component Path="LM386.component" />
     <Component Path="LM4853.component" />
     <Component Path="LMV324.component" />
     <Component Path="LMV358SOIC.component" />
@@ -14,9 +12,6 @@
     <Component Path="OPA344.component" />
     <Component Path="OPAMP-DUAL.component" />
     <Component Path="OPAMP-DUALU.component" />
-    <Component Path="TPA2005D1DGN.component" />
-    <Component Path="TPA2005D1DRB.component" />
-    <Component Path="TPA3137D2.component" />
     <Component Path="TPA6111SMD-T.component" />
     <Component Path="TPA6138A2.component" />
   </Folder>
@@ -34,18 +29,15 @@
     <Footprint Path="TSSOP-14.footprint" />
   </Folder>
   <Folder Path="Symbols">
-    <Symbol Path="AD8045.symbol" />
     <Symbol Path="LM4853.symbol" />
     <Symbol Path="OP-AMP.symbol" />
-    <Symbol Path="OP-AMP+-FULL.symbol" />
     <Symbol Path="POWER_CONSORT.symbol" />
-    <Symbol Path="TPA2005D1.symbol" />
-    <Symbol Path="TPA3137D2.symbol" />
     <Symbol Path="TPA6111.symbol" />
     <Symbol Path="TPA6138A2.symbol" />
   </Folder>
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

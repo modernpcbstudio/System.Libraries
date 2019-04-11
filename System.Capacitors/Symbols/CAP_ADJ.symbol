@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012014511443014" name="CAP_ADJ">
-  <line x1="47.968" y1="50.762" x2="52.032" y2="46.698" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.016" y1="46.698" x2="52.032" y2="46.698" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.032" y1="46.698" x2="52.032" y2="47.714" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="47.46" x2="50" y2="47.968" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="50" x2="50" y2="49.492" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <rect x="50" y="49.238" rot="0" width="4.064" height="0.508" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <rect x="50" y="48.222" rot="0" width="4.064" height="0.508" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <pin name="3" showName="false" number="3" showNumber="false" x="50" y="44.92" pinLength="3" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="false" number="4" showNumber="false" x="50" y="52.54" pinLength="3" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="false" number="3" showNumber="false" x="48.26" y="45.72" pinLength="3.175" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="false" number="4" showNumber="false" x="48.26" y="53.339999999999996" pinLength="3.175" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="46.355000000000004" y1="48.895" x2="50.165" y2="48.895" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.355000000000004" y1="50.165" x2="50.165" y2="50.165" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.355000000000004" y1="51.435" x2="50.165" y2="47.625" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.165" y1="47.625" x2="49.53" y2="47.625" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.165" y1="48.26" x2="50.165" y2="47.625" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765144" name="USB-5PIN">
-  <line x1="47.46" y1="57.62" x2="52.54" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="57.62" x2="52.54" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="39.84" x2="47.46" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="50" y="48.476" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="9.6000000000000014" bold="false" italic="false">USB</text>
-  <pin name="D+" showName="true" number="D+" showNumber="true" x="55.08" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D-" showName="true" number="D-" showNumber="true" x="55.08" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VBUS" showName="true" number="VBUS" showNumber="true" x="55.08" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="true" x="55.08" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="ID" showName="true" number="ID" showNumber="true" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SHIELD" showName="true" number="SHIELD" showNumber="true" x="55.08" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="47.46" y1="57.62" x2="47.46" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.18" y1="58.42" x2="53.34" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="58.42" x2="53.34" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.34" y1="40.64" x2="43.18" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="D+" showName="true" number="D+" showNumber="false" x="55.879999999999995" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="D-" showName="true" number="D-" showNumber="false" x="55.879999999999995" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VBUS" showName="true" number="VBUS" showNumber="false" x="55.879999999999995" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="false" x="55.879999999999995" y="53.339999999999996" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ID" showName="true" number="ID" showNumber="false" x="55.879999999999995" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SHIELD" showName="true" number="SHIELD" showNumber="false" x="55.879999999999995" y="55.879999999999995" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="43.18" y1="58.42" x2="43.18" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

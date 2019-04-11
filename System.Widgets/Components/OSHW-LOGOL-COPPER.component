@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component id="2019012312263887016" name="OSHW-LOGOL-COPPER" prefix="LOGO" componentType="Standard">
-  <gates>
-    <gate id="1" name="G$1" symbolId="2019012312263886018" symbolName="OSHW-LOGO" swaplevel="0" />
-  </gates>
-  <footprint footprintId="2019012312263885002" footprintName="OSHW-LOGO-L_COPPER" />
-</component>

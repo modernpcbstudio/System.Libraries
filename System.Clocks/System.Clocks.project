@@ -29,10 +29,6 @@
     <Component Path="CRYSTALSMD-5X3.2-4PAD.component" />
     <Component Path="CRYSTALSMD-HC49UP.component" />
     <Component Path="CRYSTALSMD-MC146.component" />
-    <Component Path="DS1077U.component" />
-    <Component Path="DS1307Z.component" />
-    <Component Path="DS3231M.component" />
-    <Component Path="DS3234.component" />
     <Component Path="OSCILLATOR-16MHZSMD-7X5-4PAD.component" />
     <Component Path="OSCILLATOR-33MHZ.component" />
     <Component Path="OSCILLATORSMD-5X3.component" />
@@ -78,10 +74,6 @@
   <Folder Path="Symbols">
     <Symbol Path="CRYSTAL.symbol" />
     <Symbol Path="CRYSTAL-GND.symbol" />
-    <Symbol Path="DS1077.symbol" />
-    <Symbol Path="DS1307.symbol" />
-    <Symbol Path="DS3231M.symbol" />
-    <Symbol Path="DS3234.symbol" />
     <Symbol Path="OSCILLATOR.symbol" />
     <Symbol Path="RESONATOR.symbol" />
     <Symbol Path="RV-1805.symbol" />
@@ -90,5 +82,6 @@
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

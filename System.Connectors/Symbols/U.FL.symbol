@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765142" name="U.FL">
-  <line x1="50" y1="52.54" x2="50" y2="57.62" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <circle x="50" y="50" diameter="2.2718" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="50" y="50" diameter="5.08" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <pin name="GND@0" showName="false" number="GND@0" showNumber="false" x="47.46" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SIGNAL" showName="false" number="SIGNAL" showNumber="false" x="55.08" y="50" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND@1" showName="false" number="GND@1" showNumber="false" x="47.46" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="50.8" y1="53.34" x2="50.8" y2="58.42" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="50.8" y="50.8" diameter="2.2718" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="50.8" y="50.8" diameter="5.08" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="GND@0" showName="false" number="GND@0" showNumber="false" x="48.26" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SIGNAL" showName="false" number="SIGNAL" showNumber="false" x="55.88" y="50.8" pinLength="5.08" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND@1" showName="false" number="GND@1" showNumber="false" x="48.26" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

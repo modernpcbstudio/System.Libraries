@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316351885057" name="BQ24075">
-  <pin name="TS" showName="true" number="TS" showNumber="true" x="37.3" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="BAT" showName="true" number="BAT" showNumber="true" x="37.3" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="!CE!" showName="true" number="!CE!" showNumber="true" x="62.7" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="EN2" showName="true" number="EN2" showNumber="true" x="62.7" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="EN1" showName="true" number="EN1" showNumber="true" x="62.7" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="!PGOOD!" showName="true" number="!PGOOD!" showNumber="true" x="62.7" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VSS" showName="true" number="VSS" showNumber="true" x="37.3" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="EP" showName="true" number="EP" showNumber="true" x="37.3" y="62.7" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="!CHG!" showName="true" number="!CHG!" showNumber="true" x="62.7" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="OUT" showName="true" number="OUT" showNumber="true" x="62.7" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="ILIM" showName="true" number="ILIM" showNumber="true" x="37.3" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="IN" showName="true" number="IN" showNumber="true" x="37.3" y="37.3" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="TMR" showName="true" number="TMR" showNumber="true" x="37.3" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SYSOFF" showName="true" number="SYSOFF" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="ISET" showName="true" number="ISET" showNumber="true" x="37.3" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="39.84" y1="34.76" x2="39.84" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="39.84" y1="65.24" x2="60.16" y2="65.24" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.16" y1="65.24" x2="60.16" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.16" y1="34.76" x2="39.84" y2="34.76" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <pin name="TS" showName="true" number="TS" showNumber="false" x="38.1" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BAT" showName="true" number="BAT" showNumber="false" x="38.1" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!CE!" showName="true" number="!CE!" showNumber="false" x="63.5" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EN2" showName="true" number="EN2" showNumber="false" x="63.5" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EN1" showName="true" number="EN1" showNumber="false" x="63.5" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!PGOOD!" showName="true" number="!PGOOD!" showNumber="false" x="63.5" y="63.5" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VSS" showName="true" number="VSS" showNumber="false" x="38.1" y="60.96" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="EP" showName="true" number="EP" showNumber="false" x="38.1" y="63.5" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="!CHG!" showName="true" number="!CHG!" showNumber="false" x="63.5" y="60.96" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="OUT" showName="true" number="OUT" showNumber="false" x="63.5" y="38.1" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ILIM" showName="true" number="ILIM" showNumber="false" x="38.1" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="IN" showName="true" number="IN" showNumber="false" x="38.1" y="38.1" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="TMR" showName="true" number="TMR" showNumber="false" x="38.1" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SYSOFF" showName="true" number="SYSOFF" showNumber="false" x="63.5" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ISET" showName="true" number="ISET" showNumber="false" x="38.1" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="40.64" y1="35.56" x2="40.64" y2="66.04" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="40.64" y1="66.04" x2="60.96" y2="66.04" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.96" y1="66.04" x2="60.96" y2="35.56" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.96" y1="35.56" x2="40.64" y2="35.56" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

@@ -18,8 +18,6 @@
     <Component Path="INDUCTOR-SRN6045-33UH.component" />
     <Component Path="INDUCTOR-VLF4012AT-2.2UH.component" />
     <Component Path="INDUCTOR-XFL4020.component" />
-    <Component Path="NEW2.2U.component" />
-    <Component Path="TRANSFORMER_QUADFILIAR.component" />
     <Component Path="TRANSFORMERPTH.component" />
     <Component Path="TRANSFORMERSMD.component" />
   </Folder>
@@ -45,12 +43,11 @@
   <Folder Path="Symbols">
     <Symbol Path="FERRITE_BEAD.symbol" />
     <Symbol Path="INDUCTOR.symbol" />
-    <Symbol Path="INDUCTORCOPY.symbol" />
     <Symbol Path="TRANSFORMER.symbol" />
-    <Symbol Path="TRANSFORMER-QUADFILIAR.symbol" />
   </Folder>
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

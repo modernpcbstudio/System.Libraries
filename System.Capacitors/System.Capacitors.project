@@ -4,7 +4,6 @@
     <Symbol Path="CAP.symbol" />
     <Symbol Path="CAP_ADJ.symbol" />
     <Symbol Path="CAP_POL.symbol" />
-    <Symbol Path="CAP-1.symbol" />
   </Folder>
   <Folder Path="Footprints">
     <Footprint Path="0402.footprint" />
@@ -124,5 +123,6 @@
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

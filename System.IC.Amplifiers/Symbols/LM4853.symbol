@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012315341369017" name="LM4853">
-  <line x1="39.84" y1="62.7" x2="60.16" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.16" y1="62.7" x2="60.16" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="60.16" y1="39.84" x2="39.84" y2="39.84" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="39.84" y1="39.84" x2="39.84" y2="62.7" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="HP-IN" showName="true" number="HP-IN" showNumber="true" x="37.3" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SDN" showName="true" number="SDN" showNumber="true" x="37.3" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="LIN" showName="true" number="LIN" showNumber="true" x="37.3" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="RIN" showName="true" number="RIN" showNumber="true" x="37.3" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="BP" showName="true" number="BP" showNumber="true" x="37.3" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VDD" showName="true" number="VDD" showNumber="true" x="62.7" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="LOUT" showName="true" number="LOUT" showNumber="true" x="62.7" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="ROUT" showName="true" number="ROUT" showNumber="true" x="62.7" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="true" x="62.7" y="60.16" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="BTL" showName="true" number="BTL" showNumber="true" x="62.7" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="HP-IN" showName="true" number="HP-IN" showNumber="false" x="38.1" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="SDN" showName="true" number="SDN" showNumber="false" x="38.1" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="LIN" showName="true" number="LIN" showNumber="false" x="38.1" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="RIN" showName="true" number="RIN" showNumber="false" x="38.1" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BP" showName="true" number="BP" showNumber="false" x="38.1" y="60.96" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="VDD" showName="true" number="VDD" showNumber="false" x="63.5" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="LOUT" showName="true" number="LOUT" showNumber="false" x="63.5" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="ROUT" showName="true" number="ROUT" showNumber="false" x="63.5" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="true" number="GND" showNumber="false" x="63.5" y="60.96" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="BTL" showName="true" number="BTL" showNumber="false" x="63.5" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="40.64" y1="40.64" x2="40.64" y2="63.5" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="40.64" y1="63.5" x2="60.96" y2="63.5" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.96" y1="63.5" x2="60.96" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.96" y1="40.64" x2="40.64" y2="40.64" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

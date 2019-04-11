@@ -3,7 +3,6 @@
   <Folder Path="Components">
     <Component Path="74_1G04.component" />
     <Component Path="74_1G04SE.component" />
-    <Component Path="74_1G66.component" />
     <Component Path="74_1G125D.component" />
     <Component Path="74_08SE.component" />
     <Component Path="74_32DBV.component" />
@@ -53,12 +52,12 @@
     <Symbol Path="GATE_OR_2.symbol" />
     <Symbol Path="MUX_1_1_X4.symbol" />
     <Symbol Path="POWER_CONSORT.symbol" />
-    <Symbol Path="SN74LVC1G66_SPST_AMUX.symbol" />
     <Symbol Path="TCA9548A.symbol" />
     <Symbol Path="TPIC6C595.symbol" />
   </Folder>
   <References />
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
   </Properties>
 </Project>

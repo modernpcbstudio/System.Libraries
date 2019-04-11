@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012317073751066" name="DIPSWITCH-06">
-  <rect x="44.92" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="44.412" y1="52.54" x2="45.428" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.428" y1="52.54" x2="45.428" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.428" y1="47.46" x2="44.412" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="44.412" y1="47.46" x2="44.412" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.142" y1="44.92" x2="59.397999999999996" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="59.397999999999996" y1="44.92" x2="59.397999999999996" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="59.397999999999996" y1="55.08" x2="43.142" y2="55.08" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.142" y1="55.08" x2="43.142" y2="44.92" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <rect x="47.46" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="46.952" y1="52.54" x2="47.968" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.968" y1="52.54" x2="47.968" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.968" y1="47.46" x2="46.952" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="46.952" y1="47.46" x2="46.952" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="45.174" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">1</text>
-  <pin name="1" showName="true" number="1" showNumber="true" x="44.92" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="true" number="2" showNumber="true" x="47.46" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="11" showName="true" number="11" showNumber="true" x="47.46" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="12" showName="true" number="12" showNumber="true" x="44.92" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <text x="46.19" y="46.952" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">ON</text>
-  <text x="47.714" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">2</text>
-  <rect x="50" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="49.492" y1="52.54" x2="50.508" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.508" y1="52.54" x2="50.508" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.508" y1="47.46" x2="49.492" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="49.492" y1="47.46" x2="49.492" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <rect x="52.54" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="52.032" y1="52.54" x2="53.048" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.048" y1="52.54" x2="53.048" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="53.048" y1="47.46" x2="52.032" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.032" y1="47.46" x2="52.032" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="50.254" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">3</text>
-  <text x="52.794" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">4</text>
-  <rect x="55.08" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="54.572" y1="52.54" x2="55.588" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.588" y1="52.54" x2="55.588" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.588" y1="47.46" x2="54.572" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="54.572" y1="47.46" x2="54.572" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <rect x="57.62" y="51.143" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
-  <line x1="57.112" y1="52.54" x2="58.128" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="58.128" y1="52.54" x2="58.128" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="58.128" y1="47.46" x2="57.112" y2="47.46" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="57.112" y1="47.46" x2="57.112" y2="52.54" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="55.334" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">5</text>
-  <text x="57.874" y="52.794" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">6</text>
-  <pin name="10" showName="true" number="10" showNumber="true" x="50" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="9" showName="true" number="9" showNumber="true" x="52.54" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="8" showName="true" number="8" showNumber="true" x="55.08" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="7" showName="true" number="7" showNumber="true" x="57.62" y="42.38" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="3" showName="true" number="3" showNumber="true" x="50" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="true" number="4" showNumber="true" x="52.54" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="5" showName="true" number="5" showNumber="true" x="55.08" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="6" showName="true" number="6" showNumber="true" x="57.62" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <rect x="45.682" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="45.174" y1="53.302" x2="46.19" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.19" y1="53.302" x2="46.19" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="46.19" y1="48.222" x2="45.174" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="45.174" y1="48.222" x2="45.174" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.904" y1="45.682" x2="60.16" y2="45.682" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="45.682" x2="60.16" y2="55.842" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="60.16" y1="55.842" x2="43.904" y2="55.842" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="43.904" y1="55.842" x2="43.904" y2="45.682" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="48.222" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="47.714" y1="53.302" x2="48.730000000000004" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.730000000000004" y1="53.302" x2="48.730000000000004" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.730000000000004" y1="48.222" x2="47.714" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="47.714" y1="48.222" x2="47.714" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="45.174" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">1</text>
+  <pin name="1" showName="false" number="1" showNumber="true" x="45.72" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="true" x="48.26" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="11" showName="false" number="11" showNumber="true" x="48.26" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="12" showName="false" number="12" showNumber="true" x="45.72" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <text x="44.919999999999995" y="45.682" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">ON</text>
+  <text x="47.714" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">2</text>
+  <rect x="50.762" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="50.254" y1="53.302" x2="51.27" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="53.302" x2="51.27" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="51.27" y1="48.222" x2="50.254" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.254" y1="48.222" x2="50.254" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="53.302" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="52.794" y1="53.302" x2="53.81" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="53.302" x2="53.81" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.81" y1="48.222" x2="52.794" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="52.794" y1="48.222" x2="52.794" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="50.254" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">3</text>
+  <text x="52.794" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">4</text>
+  <rect x="55.842" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="55.334" y1="53.302" x2="56.35" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="53.302" x2="56.35" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="56.35" y1="48.222" x2="55.334" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="55.334" y1="48.222" x2="55.334" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <rect x="58.382" y="51.905" rot="0" width="0.508" height="2.286" borderWidth="0" borderColor="#FF000080" fillColor="#FF000080" radiusX="0" radiusY="0" />
+  <line x1="57.874" y1="53.302" x2="58.89" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.89" y1="53.302" x2="58.89" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="58.89" y1="48.222" x2="57.874" y2="48.222" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="57.874" y1="48.222" x2="57.874" y2="53.302" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <text x="55.334" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">5</text>
+  <text x="57.874" y="53.556" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="4.8000000000000007" bold="false" italic="false">6</text>
+  <pin name="10" showName="false" number="10" showNumber="true" x="50.8" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="9" showName="false" number="9" showNumber="true" x="53.34" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="8" showName="false" number="8" showNumber="true" x="55.88" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="7" showName="false" number="7" showNumber="true" x="58.42" y="43.18" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="false" number="3" showNumber="true" x="50.8" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="false" number="4" showNumber="true" x="53.34" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5" showName="false" number="5" showNumber="true" x="55.88" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6" showName="false" number="6" showNumber="true" x="58.42" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

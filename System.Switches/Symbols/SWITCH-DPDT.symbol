@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012317073751043" name="SWITCH-DPDT">
-  <line x1="51.27" y1="44.92" x2="47.714" y2="47.206" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.714" y1="54.826" x2="51.27" y2="52.54" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="43.65" x2="52.54" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="42.38" x2="47.46" y2="42.38" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="42.38" x2="47.46" y2="46.19" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="48.73" x2="47.46" y2="53.81" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="56.35" x2="47.46" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="60.16" x2="52.54" y2="60.16" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="60.16" x2="52.54" y2="58.89" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="56.35" x2="52.54" y2="53.81" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.54" y1="46.19" x2="52.54" y2="48.73" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="45.936" x2="50" y2="47.46" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="48.73" x2="50" y2="51.27" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50" y1="52.54" x2="50" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <circle x="47.46" y="47.46" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="52.54" y="44.92" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="52.54" y="50" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="52.54" y="52.54" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="52.54" y="57.62" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <circle x="47.46" y="55.08" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <pin name="1" showName="false" number="1" showNumber="false" x="55.08" y="44.92" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="false" number="2" showNumber="false" x="44.92" y="47.46" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="3" showName="false" number="3" showNumber="false" x="55.08" y="50" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="false" number="4" showNumber="false" x="55.08" y="52.54" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="5" showName="false" number="5" showNumber="false" x="44.92" y="55.08" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="6" showName="false" number="6" showNumber="false" x="55.08" y="57.62" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line x1="52.032000000000004" y1="45.682" x2="48.476" y2="47.968" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.476" y1="55.588" x2="52.032000000000004" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="44.412" x2="53.302" y2="43.142" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="43.142" x2="48.222" y2="43.142" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="43.142" x2="48.222" y2="46.952" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="49.492" x2="48.222" y2="54.572" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="57.112" x2="48.222" y2="60.922" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="48.222" y1="60.922" x2="53.302" y2="60.922" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="60.922" x2="53.302" y2="59.652" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="57.112" x2="53.302" y2="54.572" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="53.302" y1="46.952" x2="53.302" y2="49.492" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.762" y1="46.698" x2="50.762" y2="48.222" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.762" y1="49.492" x2="50.762" y2="52.032000000000004" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <line x1="50.762" y1="53.302" x2="50.762" y2="54.064" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
+  <circle x="48.26" y="48.26" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="53.34" y="45.72" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="53.34" y="50.8" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="53.34" y="53.34" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="53.34" y="58.42" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <circle x="48.26" y="55.88" diameter="0.7184" borderWidth="0.254" borderColor="#FF000080" fillColor="#00FFFFFF" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="55.88" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="45.72" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="false" number="3" showNumber="false" x="55.88" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="4" showName="false" number="4" showNumber="false" x="55.88" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="5" showName="false" number="5" showNumber="false" x="45.72" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="6" showName="false" number="6" showNumber="false" x="55.88" y="58.42" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>
