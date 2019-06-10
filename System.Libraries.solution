@@ -22,4 +22,6 @@
   <Project Path="System.PowerSymbols\System.PowerSymbols.project" />
   <Project Path="System.Resistors\System.Resistors.project" />
   <Project Path="System.Switches\System.Switches.project" />
+  <Project Path="System.Common.Footprints\System.Common.Footprints.project" />
+  <Project Path="System.Common.Models\System.Common.Models.project" />
 </Solution>

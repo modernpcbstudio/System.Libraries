@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019041120010289000" name="+5V" prefix="5V" componentType="StandardNoBom">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012316583317005" symbolName="5V" swaplevel="0" />
+  </gates>
+</component>

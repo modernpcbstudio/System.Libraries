@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316583317010" name="GND">
-  <pin name="GND" showName="false" number="GND" showNumber="false" x="48.26" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="GND" showName="false" number="GND" showNumber="false" x="48.26" y="48.26" pinLength="2.54" width="0.5" pinType="Supply" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
   <line x1="46.355000000000004" y1="50.8" x2="50.165" y2="50.8" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="46.736000000000004" y1="51.816" x2="49.784" y2="51.816" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="47.752" y1="52.832" x2="48.768" y2="52.832" width="0.5" lineStyle="Solid" lineColor="#FF000080" />

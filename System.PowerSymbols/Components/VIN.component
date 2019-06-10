@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019041120031372000" name="VIN" prefix="VIN" componentType="StandardNoBom">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012316583317019" symbolName="VIN" swaplevel="0" />
+  </gates>
+</component>

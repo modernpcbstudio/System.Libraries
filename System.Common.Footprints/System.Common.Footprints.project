@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project OutputType="Library">
+  <Folder Path="Resistors">
+    <Footprint Path="RES-0402.footprint" />
+    <Footprint Path="RES-0603.footprint" />
+    <Footprint Path="RES-0805.footprint" />
+    <Footprint Path="RES-1206.footprint" />
+    <Footprint Path="RES-1210.footprint" />
+    <Footprint Path="RES-2010.footprint" />
+    <Footprint Path="RES-2512.footprint" />
+    <Footprint Path="RES-AXIAL-0.1.footprint" />
+    <Footprint Path="RES-AXIAL-0.3.footprint" />
+  </Folder>
+  <Folder Path="Capacitors">
+    <Footprint Path="CAP-0402.footprint" />
+    <Footprint Path="CAP-0603.footprint" />
+    <Footprint Path="CAP-0805.footprint" />
+    <Footprint Path="CAP-1206.footprint" />
+    <Footprint Path="CAP-1210.footprint" />
+    <Footprint Path="CAP-PTH-2.54.footprint" />
+    <Footprint Path="CAP-PTH-5MM.footprint" />
+    <Footprint Path="CAP-PTH-10MM.footprint" />
+    <Footprint Path="CAP-PTH-LARGE.footprint" />
+    <Footprint Path="CAP-RADIAL-5MM-21.5MM.footprint" />
+    <Footprint Path="CPOL-RADIAL-2.5MM-5MM.footprint" />
+    <Footprint Path="CPOL-RADIAL-2.5MM-6.5MM.footprint" />
+    <Footprint Path="CPOL-RADIAL-5MM-10MM.footprint" />
+    <Footprint Path="CAP-PANASONIC_C.footprint" />
+    <Footprint Path="CAP-PANASONIC_D.footprint" />
+    <Footprint Path="CAP-PANASONIC_G.footprint" />
+  </Folder>
+  <Folder Path="Connectors">
+    <File Path="TODO.txt" />
+  </Folder>
+  <Folder Path="SOD">
+    <Footprint Path="SOD-323.footprint" />
+    <Footprint Path="SOD-523.footprint" />
+  </Folder>
+  <Folder Path="SOT">
+    <Footprint Path="SOT23-3.footprint" />
+    <Footprint Path="SOT26.footprint" />
+    <Footprint Path="SOT223.footprint" />
+    <Footprint Path="SOT323.footprint" />
+    <Footprint Path="SOT23-5.footprint" />
+    <Footprint Path="SOT353.footprint" />
+  </Folder>
+  <Folder Path="Diodes">
+    <Footprint Path="DIODE-1N4001.footprint" />
+    <Footprint Path="DIODE-1N4148.footprint" />
+    <Footprint Path="SMA-DIODE.footprint" />
+  </Folder>
+  <Folder Path="Displays">
+    <Footprint Path="LCD-16X2.footprint" />
+    <Footprint Path="LCD-16X2_NOHOLESNOSILK.footprint" />
+    <Footprint Path="LCD-16X2_NOSILK.footprint" />
+  </Folder>
+  <Folder Path="QFP">
+    <Footprint Path="TQFP32-08.footprint" />
+    <Footprint Path="TQFP44.footprint" />
+    <Footprint Path="TQFP-48.footprint" />
+    <Footprint Path="TQFP64.footprint" />
+    <Footprint Path="TQFP64_14X14MM.footprint" />
+    <Footprint Path="TQFP100.footprint" />
+    <Footprint Path="TQFP-100-14X14MM.footprint" />
+  </Folder>
+  <Folder Path="DIP">
+    <Footprint Path="DIP14.footprint" />
+    <Footprint Path="DIP18.footprint" />
+    <Footprint Path="DIP28.footprint" />
+  </Folder>
+  <Folder Path="Switches">
+    <Footprint Path="TACTILE_SWITCH_PTH_6.0MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_PTH_12MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_PTH_RIGHT_ANGLE.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_4.5MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_4.6X2.8MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_5.2MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_6.0X3.5MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_6.2MM_TALL.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_12MM.footprint" />
+    <Footprint Path="TACTILE_SWITCH_SMD_RIGHT_ANGLE.footprint" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+    <properties />
+  </Properties>
+</Project>

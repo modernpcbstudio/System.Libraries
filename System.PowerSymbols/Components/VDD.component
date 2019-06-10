@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019041120024167000" name="VDD" prefix="VDD" componentType="StandardNoBom">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012316583317017" symbolName="VDD" swaplevel="0" />
+  </gates>
+</component>

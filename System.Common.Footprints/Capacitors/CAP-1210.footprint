@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019060919524726000" name="CAP-1210">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <smd number="1" x="48.245" y="50" rot="0" width="1.27" height="2.06" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="51.755" y="50" rot="0" width="1.27" height="2.06" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.4635" y1="48.8135" x2="51.5365" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.5365" y1="48.8135" x2="51.5365" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="51.5365" y1="51.1865" x2="48.4635" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="48.4635" y1="51.1865" x2="48.4635" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.41" y1="48.55" x2="52.59" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="52.59" y1="48.55" x2="52.59" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="52.59" y1="51.45" x2="47.41" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" />
+  <line x1="47.41" y1="51.45" x2="47.41" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" />
+</footprint>

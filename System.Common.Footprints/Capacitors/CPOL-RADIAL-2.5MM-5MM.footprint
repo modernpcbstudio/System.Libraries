@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019060919554716000" name="CPOL-RADIAL-2.5MM-5MM">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <circle x="50" y="50" diameter="5" borderWidth="0.2032" isFilled="false" layer="501" />
+  <line x1="49.258" y1="48.603" x2="48.242" y2="48.603" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.758" y1="48.603" x2="50.742" y2="48.603" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="51.25" y1="48.095" x2="51.25" y2="49.111" width="0.2032" layer="501" lineStyle="Solid" />
+  <pad number="1" x="51.25" y="50" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="2" x="48.75" y="50" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+</footprint>

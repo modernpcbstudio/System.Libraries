@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components" />
+  <Folder Path="Components">
+    <Component Path="3.3V.component" />
+    <Component Path="+5V.component" />
+    <Component Path="GND.component" />
+    <Component Path="VCC.component" />
+    <Component Path="VDD.component" />
+    <Component Path="VIN.component" />
+  </Folder>
   <Folder Path="Footprints" />
   <Folder Path="Symbols">
     <Symbol Path="1.0V.symbol" />

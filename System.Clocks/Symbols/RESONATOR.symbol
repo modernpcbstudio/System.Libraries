@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012313415759029" name="RESONATOR">
-  <line x1="51.816" y1="50.8" x2="53.34" y2="50.8" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.26" y1="50.8" x2="49.784" y2="50.8" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="50.292" y1="49.276" x2="50.292" y2="52.324" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="50.292" y1="52.324" x2="51.308" y2="52.324" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="51.308" y1="52.324" x2="51.308" y2="49.276" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
@@ -17,8 +15,7 @@
   <line x1="49.022" y1="52.832" x2="47.498" y2="52.832" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="48.26" y1="52.832" x2="48.26" y2="50.8" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
   <line x1="53.34" y1="55.88" x2="48.26" y2="55.88" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.8" y1="55.88" x2="50.8" y2="58.42" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="3" showName="false" number="3" showNumber="false" x="53.339999999999996" y="50.8" pinLength="0" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="1" showName="false" number="1" showNumber="false" x="48.26" y="50.8" pinLength="0" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="false" number="2" showNumber="false" x="50.8" y="58.419999999999995" pinLength="0" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="3" showName="false" number="3" showNumber="false" x="53.339999999999996" y="50.8" pinLength="1.524" width="0.15239999999999998" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="1" showName="false" number="1" showNumber="false" x="48.26" y="50.8" pinLength="1.524" width="0.15239999999999998" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin name="2" showName="false" number="2" showNumber="false" x="50.8" y="58.419999999999995" pinLength="2.54" width="0.15239999999999998" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
 </symbol>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<footprint id="2019061019271233000" name="TQFP100">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
+  <line x1="43" y1="43.75" x2="43.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43.75" y1="43" x2="56.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="56.75" y1="43" x2="57" y2="43.25" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="57" y1="43.25" x2="57" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="57" y1="56.75" x2="56.75" y2="57" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="56.75" y1="57" x2="43.25" y2="57" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43.25" y1="57" x2="43" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43" y1="56.75" x2="43" y2="43.75" width="0.254" layer="501" lineStyle="Solid" />
+  <circle x="42.730000000000004" y="42.730000000000004" diameter="0.4998" borderWidth="0.254" isFilled="false" layer="501" />
+  <smd number="1" x="42" y="44" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" x="42" y="44.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" x="42" y="45" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="4" x="42" y="45.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="5" x="42" y="46" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="6" x="42" y="46.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="7" x="42" y="47" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="8" x="42" y="47.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="9" x="42" y="48" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="10" x="42" y="48.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="11" x="42" y="49" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="12" x="42" y="49.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="13" x="42" y="50" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="14" x="42" y="50.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="15" x="42" y="51" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="16" x="42" y="51.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="17" x="42" y="52" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="18" x="42" y="52.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="19" x="42" y="53" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="20" x="42" y="53.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="21" x="42" y="54" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="22" x="42" y="54.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="23" x="42" y="55" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="24" x="42" y="55.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="25" x="42" y="56" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="26" x="44" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="27" x="44.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="28" x="45" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="29" x="45.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="30" x="46" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="31" x="46.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="32" x="47" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="33" x="47.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="34" x="48" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="35" x="48.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="36" x="49" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="37" x="49.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="38" x="50" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="39" x="50.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="40" x="51" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="41" x="51.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="42" x="52" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="43" x="52.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="44" x="53" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="45" x="53.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="46" x="54" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="47" x="54.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="48" x="55" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="49" x="55.5" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="50" x="56" y="58" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="51" x="58" y="56" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="52" x="58" y="55.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="53" x="58" y="55" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="54" x="58" y="54.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="55" x="58" y="54" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="56" x="58" y="53.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="57" x="58" y="53" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="58" x="58" y="52.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="59" x="58" y="52" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="60" x="58" y="51.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="61" x="58" y="51" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="62" x="58" y="50.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="63" x="58" y="50" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="64" x="58" y="49.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="65" x="58" y="49" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="66" x="58" y="48.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="67" x="58" y="48" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="68" x="58" y="47.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="69" x="58" y="47" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="70" x="58" y="46.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="71" x="58" y="46" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="72" x="58" y="45.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="73" x="58" y="45" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="74" x="58" y="44.5" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="75" x="58" y="44" rot="0" width="1.5" height="0.3" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="76" x="56" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="77" x="55.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="78" x="55" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="79" x="54.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="80" x="54" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="81" x="53.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="82" x="53" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="83" x="52.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="84" x="52" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="85" x="51.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="86" x="51" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="87" x="50.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="88" x="50" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="89" x="49.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="90" x="49" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="91" x="48.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="92" x="48" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="93" x="47.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="94" x="47" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="95" x="46.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="96" x="46" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="97" x="45.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="98" x="45" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="99" x="44.5" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="100" x="44" y="42" rot="0" width="0.3" height="1.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <rect x="42.325050000000005" y="43.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="44.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="44.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="45.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="45.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="46.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="46.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="47.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="47.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="48.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="48.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="49.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="49.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="50.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="50.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="51.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="51.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="52.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="52.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="53.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="53.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="54.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="54.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="55.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="42.325050000000005" y="55.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="44.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="44.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="45.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="45.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="55.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="55.50005" y="57.674949999999995" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="56.00005" y="57.674949999999995" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="55.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="55.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="54.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="54.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="53.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="53.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="52.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="52.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="51.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="51.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="50.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="50.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="49.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="49.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="48.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="48.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="47.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="47.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="46.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="46.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="45.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="45.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="44.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="44.49995" width="1.0499000000000009" height="0.30010000000000048" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="57.67505" y="43.99995" width="1.0499000000000009" height="0.3003" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="56.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="55.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="55.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="54.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="53.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="52.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="51.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="50.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="49.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="48.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="47.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="46.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="45.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="45.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="44.50005" y="42.32495" width="0.30010000000000048" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <rect x="44.00005" y="42.32495" width="0.3003" height="1.0499000000000009" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+</footprint>
