@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2019061115574507000" name="RES-2010">
+  <box id="0" fillColor="#FFC0C0C0" padNumber="1" centerX="2.2" centerY="0" centerZ="0.38" width="2.7" height="0.7" length="0.8" rotationX="0" rotationY="0" rotationZ="0" />
+  <box id="0" fillColor="#FFC0C0C0" padNumber="2" centerX="-2.2" centerY="0" centerZ="0.38" width="2.7" height="0.7" length="0.8" rotationX="0" rotationY="0" rotationZ="0" />
+  <box id="0" fillColor="#FF000000" centerX="0" centerY="0" centerZ="0.38" width="2.7" height="0.7" length="3.6000000000000005" rotationX="0" rotationY="0" rotationZ="0" />
+</model>

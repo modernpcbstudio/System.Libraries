@@ -80,7 +80,9 @@
     <Footprint Path="TACTILE_SWITCH_SMD_12MM.footprint" />
     <Footprint Path="TACTILE_SWITCH_SMD_RIGHT_ANGLE.footprint" />
   </Folder>
-  <References />
+  <References>
+    <ProjectReference projectPath="System.Common.Models\System.Common.Models.project" />
+  </References>
   <Properties>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />

@@ -8,13 +8,6 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <line x1="44.9" y1="45.9" x2="44.9" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="44.9" y1="44.9" x2="45.9" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="54.1" y1="44.9" x2="55.1" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="55.1" y1="44.9" x2="55.1" y2="45.9" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="44.9" y1="54.1" x2="45.9" y2="55.1" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="54.1" y1="55.1" x2="55.1" y2="55.1" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="55.1" y1="55.1" x2="55.1" y2="54.1" width="0.2032" layer="501" lineStyle="Solid" />
   <smd number="8" x="49.75" y="55.75" rot="0" width="0.22" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <smd number="9" x="50.25" y="55.75" rot="0" width="0.22" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <smd number="6" x="48.75" y="55.75" rot="0" width="0.22" height="1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
@@ -83,4 +76,12 @@
   <line x1="55" y1="55" x2="45" y2="55" width="0.2032" layer="201" lineStyle="Solid" />
   <line x1="45" y1="55" x2="45" y2="45" width="0.2032" layer="201" lineStyle="Solid" />
   <line x1="45" y1="45" x2="55" y2="45" width="0.2032" layer="201" lineStyle="Solid" />
+  <line x1="44.9" y1="45.9" x2="44.9" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.9" y1="44.9" x2="45.9" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.1" y1="44.9" x2="55.1" y2="44.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.1" y1="44.9" x2="55.1" y2="45.9" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="44.9" y1="54.1" x2="45.9" y2="55.1" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="54.1" y1="55.1" x2="55.1" y2="55.1" width="0.2032" layer="501" lineStyle="Solid" />
+  <line x1="55.1" y1="55.1" x2="55.1" y2="54.1" width="0.2032" layer="501" lineStyle="Solid" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="270" modelId="2019061117465086000" modelName="TQFP64" modelLibrary="System.Common.Models" />
 </footprint>

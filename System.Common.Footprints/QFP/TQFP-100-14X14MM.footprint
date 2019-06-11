@@ -8,15 +8,6 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <line x1="43" y1="43.75" x2="43.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="43.75" y1="43" x2="56.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="56.75" y1="43" x2="57" y2="43.25" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="57" y1="43.25" x2="57" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="57" y1="56.75" x2="56.75" y2="57" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="56.75" y1="57" x2="43.25" y2="57" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="43.25" y1="57" x2="43" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="43" y1="56.75" x2="43" y2="43.75" width="0.254" layer="501" lineStyle="Solid" />
-  <circle x="44" y="44" diameter="0.4998" borderWidth="0.254" isFilled="false" layer="501" />
   <smd number="1" x="42" y="44" rot="0" width="1.5" height="0.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <smd number="2" x="42" y="44.5" rot="0" width="1.5" height="0.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <smd number="3" x="42" y="45" rot="0" width="1.5" height="0.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
@@ -217,4 +208,14 @@
   <rect x="45" y="42.325" width="0.3002000000000038" height="1.0497999999999976" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
   <rect x="44.5" y="42.325" width="0.29999999999999716" height="1.0497999999999976" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
   <rect x="44" y="42.325" width="0.3002000000000038" height="1.0497999999999976" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <line x1="43" y1="43.75" x2="43.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43.75" y1="43" x2="56.75" y2="43" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="56.75" y1="43" x2="57" y2="43.25" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="57" y1="43.25" x2="57" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="57" y1="56.75" x2="56.75" y2="57" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="56.75" y1="57" x2="43.25" y2="57" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43.25" y1="57" x2="43" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
+  <line x1="43" y1="56.75" x2="43" y2="43.75" width="0.254" layer="501" lineStyle="Solid" />
+  <circle x="44" y="44" diameter="0.4998" borderWidth="0.254" isFilled="false" layer="501" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061117282032000" modelName="TQFP100-14x14" modelLibrary="System.Common.Models" />
 </footprint>

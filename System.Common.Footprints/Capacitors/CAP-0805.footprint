@@ -14,4 +14,5 @@
   <line x1="51.5" y1="49.2" x2="51.5" y2="50.8" width="0.0508" layer="201" lineStyle="Solid" />
   <line x1="51.5" y1="50.8" x2="48.5" y2="50.8" width="0.0508" layer="201" lineStyle="Solid" />
   <line x1="48.5" y1="50.8" x2="48.5" y2="49.2" width="0.0508" layer="201" lineStyle="Solid" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061117192738000" modelName="CAP-0805" modelLibrary="System.Common.Models" />
 </footprint>

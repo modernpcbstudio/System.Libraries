@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  
+  <Folder Path="Resistors">
+    <Model Path="RES-0402.model" />
+    <Model Path="RES-0603.model" />
+    <Model Path="RES-0805.model" />
+    <Model Path="RES-1206.model" />
+    <Model Path="RES-1210.model" />
+    <Model Path="RES-2010.model" />
+    <Model Path="RES-2512.model" />
+  </Folder>
+  <Folder Path="Capacitors">
+    <Model Path="CAP-0402.model" />
+    <Model Path="CAP-0603.model" />
+    <Model Path="CAP-0805.model" />
+    <Model Path="CAP-1206.model" />
+    <Model Path="CAP-1210.model" />
+  </Folder>
+  <Folder Path="QFP">
+    <Model Path="TQFP100-14x14.model" />
+    <Model Path="TQFP32-08.model" />
+    <Model Path="TQFP44.model" />
+    <Model Path="TQFP-48.model" />
+    <Model Path="TQFP64.model" />
+    <Model Path="TQFP64-14x14.model" />
+  </Folder>
+  <References />
+  <Properties>
+    <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
+  </Properties>
 </Project>

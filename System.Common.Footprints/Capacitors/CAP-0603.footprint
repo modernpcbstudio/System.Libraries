@@ -18,4 +18,5 @@
   <line x1="49.644" y1="50.419" x2="50.356" y2="50.419" width="0.1016" layer="201" lineStyle="Solid" />
   <rect x="49.41185" y="49.9949" width="0.50010000000000332" height="0.95000000000000284" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
   <rect x="50.58025" y="49.9949" width="0.50010000000000332" height="0.95000000000000284" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061116581748000" modelName="CAP-0603" modelLibrary="System.Common.Models" />
 </footprint>

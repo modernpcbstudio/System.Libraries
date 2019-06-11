@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019060919291200000" name="1206">
+<footprint id="2019060919291200000" name="RES-1206">
   <layers>
     <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
@@ -18,4 +18,5 @@
   <line x1="49.035" y1="50.787" x2="50.965" y2="50.787" width="0.1016" layer="201" lineStyle="Solid" />
   <rect x="48.673249999999996" y="50.0009" width="0.75009999999999621" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
   <rect x="51.326750000000004" y="49.9991" width="0.75009999999999621" height="1.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061115530352000" modelName="RES-1206" modelLibrary="System.Common.Models" />
 </footprint>
