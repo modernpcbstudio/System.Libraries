@@ -84,6 +84,7 @@
     <ProjectReference projectPath="System.Common.Models\System.Common.Models.project" />
   </References>
   <Properties>
+    <Version>0.7.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

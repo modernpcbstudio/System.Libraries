@@ -51,6 +51,7 @@
   </Folder>
   <References />
   <Properties>
+    <Version>0.7.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>
