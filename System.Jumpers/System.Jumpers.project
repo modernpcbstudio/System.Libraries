@@ -1,60 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="JUMPER-SMT_2_NC_PASTE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_2_NC_PASTE_SILK.component" />
-    <Component Path="JUMPER-SMT_2_NC_TRACE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_2_NC_TRACE_SILK.component" />
-    <Component Path="JUMPER-SMT_2_NO_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_2_NO_NO-SILK_ROUND.component" />
-    <Component Path="JUMPER-SMT_2_NO_SILK.component" />
-    <Component Path="JUMPER-SMT_2_NO_SILK_ROUND.component" />
-    <Component Path="JUMPER-SMT_3_1-NC_PASTE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_3_1-NC_PASTE_SILK.component" />
-    <Component Path="JUMPER-SMT_3_1-NC_TRACE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_3_1-NC_TRACE_SILK.component" />
-    <Component Path="JUMPER-SMT_3_2-NC_PASTE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_3_2-NC_PASTE_SILK.component" />
-    <Component Path="JUMPER-SMT_3_2-NC_TRACE_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_3_2-NC_TRACE_SILK.component" />
-    <Component Path="JUMPER-SMT_3_NO_NO_SILK.component" />
-    <Component Path="JUMPER-SMT_3_NO_NO-SILK.component" />
-    <Component Path="JUMPER-SMT_3_NO_SILK.component" />
-  </Folder>
-  <Folder Path="Footprints">
-    <Footprint Path="SMT-JUMPER_2_NC_PASTE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NC_PASTE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NC_TRACE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NC_TRACE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NO_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NO_NO-SILK_ROUND.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NO_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_2_NO_SILK_ROUND.footprint" />
-    <Footprint Path="SMT-JUMPER_3_0-NO_TRACE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_1-NC_PASTE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_1-NC_PASTE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_1-NC_TRACE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_1-NC_TRACE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_2-NC_PASTE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_2-NC_PASTE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_2-NC_TRACE_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_2-NC_TRACE_SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_NO_NO-SILK.footprint" />
-    <Footprint Path="SMT-JUMPER_3_NO_SILK.footprint" />
-  </Folder>
-  <Folder Path="Symbols">
-    <Symbol Path="SMT-JUMPER_2_NC_PASTE.symbol" />
-    <Symbol Path="SMT-JUMPER_2_NC_TRACE.symbol" />
-    <Symbol Path="SMT-JUMPER_2_NO.symbol" />
-    <Symbol Path="SMT-JUMPER_3_1-NC_PASTE.symbol" />
-    <Symbol Path="SMT-JUMPER_3_1-NC_TRACE.symbol" />
-    <Symbol Path="SMT-JUMPER_3_2-NC_PASTE.symbol" />
-    <Symbol Path="SMT-JUMPER_3_2-NC_TRACE.symbol" />
-    <Symbol Path="SMT-JUMPER_3_NO.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

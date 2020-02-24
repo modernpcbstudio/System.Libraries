@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012014511443011" name="CAP-RADIAL-5MM-21.5MM">
-  <pad number="+" x="47.5" y="50" rot="360" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="-" x="52.5" y="50" rot="360" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
-  <circle x="50" y="50" diameter="21.5" borderWidth="0.2032" isFilled="false" layer="501" />
-  <text x="38.5" y="50" layer="501" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="1.27" bold="false" italic="false">+</text>
-  <text x="45.5" y="50" layer="501" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="1.27" bold="false" italic="false">+</text>
-</footprint>

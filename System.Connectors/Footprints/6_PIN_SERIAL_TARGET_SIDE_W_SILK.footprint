@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <footprint id="2019012314360764126" name="6_PIN_SERIAL_TARGET_SIDE_W_SILK">
-  <pad number="P$1" x="43.65" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P$2" x="46.19" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P$3" x="48.73" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P$4" x="51.27" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P$5" x="53.81" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P$6" x="56.35" y="50" rot="360" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
   <line x1="42.38" y1="48.73" x2="57.62" y2="48.73" width="0.127" layer="501" lineStyle="Solid" />
   <line x1="57.62" y1="48.73" x2="57.62" y2="51.27" width="0.127" layer="501" lineStyle="Solid" />
   <line x1="57.62" y1="51.27" x2="42.38" y2="51.27" width="0.127" layer="501" lineStyle="Solid" />
   <line x1="42.38" y1="51.27" x2="42.38" y2="48.73" width="0.127" layer="501" lineStyle="Solid" />
-  <mono x="42.126" y="50.889" layer="501" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">GRN</mono>
-  <mono x="59.144" y="50.889" layer="501" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">BLK</mono>
-  <mono x="45.174" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">TXO</mono>
-  <mono x="47.714" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">RXI</mono>
-  <mono x="50.254" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">VCC</mono>
-  <mono x="42.634" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">DTR</mono>
-  <mono x="55.334" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">GND</mono>
-  <mono x="52.794" y="48.476" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">CTS</mono>
+  <mono x="42.126" y="51.639" layer="501" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">GRN</mono>
+  <mono x="54.144" y="51.389" layer="501" rot="0" fontName="Default" fontSize="1.27" strokeWidth="0.2">BLK</mono>
+  <mono x="45.174" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">TXO</mono>
+  <mono x="47.714" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">RXI</mono>
+  <mono x="50.254" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">VCC</mono>
+  <mono x="42.634" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">DTR</mono>
+  <mono x="55.334" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">GND</mono>
+  <mono x="52.794" y="47.726" layer="501" rot="0" fontName="Default" fontSize="0.8128" strokeWidth="0.2">CTS</mono>
+  <pad number="P$1" x="43.65" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$2" x="46.19" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$3" x="48.73" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$4" x="51.27" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$5" x="53.81" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P$6" x="56.35" y="50" rot="0" width="1.8796" height="1.8796" cornerRadius="0.9398" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
 </footprint>

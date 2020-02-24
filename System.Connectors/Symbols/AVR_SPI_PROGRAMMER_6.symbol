@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765088" name="AVR_SPI_PROGRAMMER_6">
-  <pin name="MISO" showName="true" number="1" showNumber="false" x="43.18" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VCC" showName="true" number="2" showNumber="false" x="60.96" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SCK" showName="true" number="3" showNumber="false" x="43.18" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="MOSI" showName="true" number="4" showNumber="false" x="60.96" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="RST" showName="true" number="5" showNumber="false" x="43.18" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="6" showNumber="false" x="60.96" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="45.72" y1="45.72" x2="45.72" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="45.72" y1="55.88" x2="58.42" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="58.42" y1="55.88" x2="58.42" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="58.42" y1="45.72" x2="45.72" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin zIndex="0" name="MISO" showName="true" pinNameX="0.365000000000002" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="43.18" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="VCC" showName="true" pinNameX="-0.2700000000000031" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="60.96" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="SCK" showName="true" pinNameX="0.365000000000002" pinNameY="-1.45" pinNameRot="0" number="3" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="43.18" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="MOSI" showName="true" pinNameX="-0.2700000000000031" pinNameY="-1.45" pinNameRot="0" number="4" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="60.96" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="RST" showName="true" pinNameX="0.365000000000002" pinNameY="-1.45" pinNameRot="0" number="5" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="43.18" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="GND" showName="true" pinNameX="-0.904999999999994" pinNameY="-1.45" pinNameRot="0" number="6" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="60.96" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="45.72" y1="45.72" x2="45.72" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="45.72" y1="55.88" x2="58.42" y2="55.88" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="58.42" y1="55.88" x2="58.42" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="58.42" y1="45.72" x2="45.72" y2="45.72" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

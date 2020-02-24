@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="PPTC_6V500MA.component" />
-    <Component Path="PPTC_HALF-AMP.component" />
-    <Component Path="PPTC_PTH.component" />
-    <Component Path="PPTC_THREE-QUARTER-AMP.component" />
-  </Folder>
-  <Folder Path="Footprints">
-    <Footprint Path="0805.footprint" />
-    <Footprint Path="1206.footprint" />
-    <Footprint Path="PTH.footprint" />
-  </Folder>
-  <Folder Path="Symbols">
-    <Symbol Path="FUSE.symbol" />
-    <Symbol Path="PPTC.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

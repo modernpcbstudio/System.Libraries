@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="BUZZER-PTH.component" />
-    <Component Path="BUZZER-PTH_KIT.component" />
-    <Component Path="BUZZER-PTH_KIT_NO_SILK.component" />
-    <Component Path="BUZZER-PTH_NO_SILK.component" />
-    <Component Path="BUZZER-SMD.component" />
-    <Component Path="BUZZER-SMD_KIT.component" />
-    <Component Path="HEATSINKPRT-9576.component" />
-    <Component Path="MOTOR10MM.component" />
-    <Component Path="RELAY-SPDT-JQX-15F.component" />
-    <Component Path="RELAY-SPDT-JZC-11F.component" />
-    <Component Path="SERVO.component" />
-    <Component Path="SPEAKER.component" />
-  </Folder>
-  <Folder Path="Footprints">
-    <Footprint Path="1X03.footprint" />
-    <Footprint Path="BUZZER-12MM.footprint" />
-    <Footprint Path="BUZZER-12MM-KIT.footprint" />
-    <Footprint Path="BUZZER-12MM-NS.footprint" />
-    <Footprint Path="BUZZER-12MM-NS-KIT.footprint" />
-    <Footprint Path="BUZZER-CCV.footprint" />
-    <Footprint Path="BUZZER-CCV-KIT.footprint" />
-    <Footprint Path="HEATSINK_PRT-9576.footprint" />
-    <Footprint Path="PCB_MOUNT_SPEAKER.footprint" />
-    <Footprint Path="RELAY-JZC.footprint" />
-    <Footprint Path="RELAY-T90.footprint" />
-    <Footprint Path="VIBE-MOTOR-10MM.footprint" />
-  </Folder>
-  <Folder Path="Symbols">
-    <Symbol Path="BUZZER.symbol" />
-    <Symbol Path="HEATSINK.symbol" />
-    <Symbol Path="MOTOR.symbol" />
-    <Symbol Path="RELAY-SPDT.symbol" />
-    <Symbol Path="SMALL_SERVO_MOTOR.symbol" />
-    <Symbol Path="SPEAKER.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

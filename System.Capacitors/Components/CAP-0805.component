@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2020022314412417000" name="CAP-0805" prefix="C" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012014511443013" symbolName="CAP" swaplevel="0" />
+  </gates>
+  <footprint libraryName="System.Common.Footprints" footprintId="2019060919524010000" footprintName="CAP-0805">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="1" />
+      <map pad="2" gateId="1" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

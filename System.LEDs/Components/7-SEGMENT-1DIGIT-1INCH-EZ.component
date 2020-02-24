@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012316523359119" name="7-SEGMENT-1DIGIT-1INCH-EZ" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G$1" libraryName="local" symbolId="2019012316523359051" symbolName="7-SEGMENT-1_" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012316523359029" footprintName="7-SEGMENT-1_PTH-EZ">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="E" />
+      <map pad="10" gateId="1" pin="G" />
+      <map pad="2" gateId="1" pin="D" />
+      <map pad="3" gateId="1" pin="G1" />
+      <map pad="4" gateId="1" pin="C" />
+      <map pad="5" gateId="1" pin="DP" />
+      <map pad="6" gateId="1" pin="B" />
+      <map pad="7" gateId="1" pin="A" />
+      <map pad="8" gateId="1" pin="G2" />
+      <map pad="9" gateId="1" pin="F" />
+    </pad2pinMaps>
+  </footprint>
+</component>

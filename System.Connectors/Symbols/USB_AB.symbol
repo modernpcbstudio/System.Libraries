@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012314360765148" name="USB_AB">
-  <text x="47.46" y="40.094000000000008" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="7.296" bold="false" italic="false">USB AB</text>
-  <pin name="D+" showName="true" number="D+" showNumber="false" x="45.72" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="D-" showName="true" number="D-" showNumber="false" x="45.72" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="VBUS" showName="true" number="VBUS" showNumber="false" x="45.72" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="false" x="45.72" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="USBID" showName="true" number="USBID" showNumber="false" x="45.72" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="SHIELD" showName="true" number="SHIELD" showNumber="false" x="66.04" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="48.26" y1="43.18" x2="48.26" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.26" y1="58.42" x2="63.5" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.5" y1="58.42" x2="63.5" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="63.5" y1="43.18" x2="48.26" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <text zIndex="0" x="47.46" y="40.09400000000001" scaleX="1" scaleY="1" textColor="#FFFFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="7.296" bold="false" italic="false">USB AB</text>
+  <pin zIndex="0" name="D+" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="D+" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="45.72" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="D-" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="D-" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="45.72" y="53.34" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="VBUS" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="VBUS" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="45.72" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="GND" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="GND" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="45.72" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="USBID" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="USBID" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="45.72" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="SHIELD" showName="true" pinNameX="-0.269999999999996" pinNameY="-1.45" pinNameRot="0" number="SHIELD" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="66.04" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="48.26" y1="43.18" x2="48.26" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="48.26" y1="58.42" x2="63.5" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="63.5" y1="58.42" x2="63.5" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="63.5" y1="43.18" x2="48.26" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012317022546031" name="FLEX_SENSOR">
-  <smd number="P$1" x="48.73" y="51.27" rot="0" width="1.27" height="5.08" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="P$2" x="51.27" y="51.27" rot="-180" width="1.27" height="5.08" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-</footprint>

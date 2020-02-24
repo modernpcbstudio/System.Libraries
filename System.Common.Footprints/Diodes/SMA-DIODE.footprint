@@ -8,6 +8,8 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
+  <smd number="A" x="47.85" y="50" rot="0" width="1.27" height="1.47" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="C" x="52.15" y="50" rot="0" width="1.27" height="1.47" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <line x1="47.7" y1="49" x2="47.7" y2="48.55" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="47.7" y1="48.55" x2="52.3" y2="48.55" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="52.3" y1="48.55" x2="52.3" y2="49" width="0.2032" layer="501" lineStyle="Solid" />
@@ -15,6 +17,4 @@
   <line x1="52.3" y1="51.45" x2="47.7" y2="51.45" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="47.7" y1="51.45" x2="47.7" y2="51" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="53.175" y1="49" x2="53.175" y2="51" width="0.2032" layer="501" lineStyle="Solid" />
-  <smd number="A" x="47.85" y="50" rot="-180" width="1.27" height="1.47" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="C" x="52.15" y="50" rot="0" width="1.27" height="1.47" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
 </footprint>

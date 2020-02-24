@@ -216,6 +216,6 @@
   <line x1="56.75" y1="57" x2="43.25" y2="57" width="0.254" layer="501" lineStyle="Solid" />
   <line x1="43.25" y1="57" x2="43" y2="56.75" width="0.254" layer="501" lineStyle="Solid" />
   <line x1="43" y1="56.75" x2="43" y2="43.75" width="0.254" layer="501" lineStyle="Solid" />
-  <circle x="44" y="44" diameter="0.4998" borderWidth="0.254" isFilled="false" layer="501" />
+  <circle x="42.25" y="43.25" diameter="0.4998" borderWidth="0.254" isFilled="false" layer="501" />
   <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061117282032000" modelName="TQFP100-14x14" modelLibrary="System.Common.Models" />
 </footprint>

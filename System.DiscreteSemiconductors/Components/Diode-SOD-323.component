@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2020022017071773000" name="Diode-SOD-323" prefix="D" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G$1" libraryName="local" symbolId="2019012314550959002" symbolName="DIODE" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012314550958002" footprintName="SOD-323">
+    <pad2pinMaps>
+      <map pad="A" gateId="1" pin="A" />
+      <map pad="C" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

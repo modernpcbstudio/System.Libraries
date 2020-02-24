@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012313415759024" name="CRYSTAL">
-  <line x1="51.016" y1="50" x2="52.54" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="47.46" y1="50" x2="48.984" y2="50" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="49.619" y1="48.476" x2="49.619" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="49.619" y1="51.524" x2="50.381" y2="51.524" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.381" y1="51.524" x2="50.381" y2="48.476" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.381" y1="48.476" x2="49.619" y2="48.476" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="51.016" y1="48.222" x2="51.016" y2="51.778" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.984" y1="48.222" x2="48.984" y2="51.778" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <text x="47.841" y="51.143" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.2640000000000002" bold="false" italic="false">1</text>
-  <text x="51.524" y="51.143" scaleX="1" scaleY="1" textColor="#FFFFFF" backgroundColor="#00FFFFFF" rot="0" wordWrap="false" width="NaN" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="3.2640000000000002" bold="false" italic="false">2</text>
-  <pin name="2" showName="false" number="2" showNumber="false" x="52.54" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="1" showName="false" number="1" showNumber="false" x="47.46" y="50" pinLength="0" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="50.165" y1="49.53" x2="50.165" y2="52.07" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="50.165" y1="52.07" x2="51.435" y2="52.07" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="51.435" y1="52.07" x2="51.435" y2="49.53" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="51.435" y1="49.53" x2="50.165" y2="49.53" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="52.07" y1="48.895" x2="52.07" y2="52.705" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
+  <pin zIndex="0" name="2" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="2" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="53.34" y="50.8" pinLength="1.27" width="0.381" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="1" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="1" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="48.26" y="50.8" pinLength="1.27" width="0.381" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="49.53" y1="48.895" x2="49.53" y2="52.705" width="0.381" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

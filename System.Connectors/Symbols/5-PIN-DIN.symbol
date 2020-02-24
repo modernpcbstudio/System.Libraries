@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<symbol id="2019012314360765167" name="5-PIN-DIN">
-  <circle x="50.8" y="50.8" diameter="15.24" borderWidth="0.5" borderColor="#FF000080" fillColor="#00FFFFFF" />
-  <pin name="1" showName="false" number="1" showNumber="true" x="60.96" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="2" showName="false" number="2" showNumber="true" x="50.8" y="40.64" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="3" showName="false" number="3" showNumber="true" x="40.64" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="4" showName="false" number="4" showNumber="true" x="58.42" y="45.72" pinLength="1.905" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="5" showName="false" number="5" showNumber="true" x="43.18" y="45.72" pinLength="1.905" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-</symbol>

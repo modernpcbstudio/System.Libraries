@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012317073750005" name="BUTTON-18MM">
-  <circle x="50" y="50" diameter="18.5" borderWidth="0.2032" isFilled="false" layer="501" />
-  <pad number="1" x="44.5" y="50" rot="360" width="2" height="2" cornerRadius="1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="2" x="55.5" y="50" rot="360" width="2" height="2" cornerRadius="1" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
-  <rect x="44.5" y="50" width="1" height="7.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="701" />
-  <rect x="55.5" y="50" width="1" height="7.5" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="701" />
-  <hole x="50" y="50" drill="4" isPlated="false" height="0" rot="0" drillType="Drill" />
-</footprint>

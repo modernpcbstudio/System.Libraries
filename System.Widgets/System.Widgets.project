@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="FIDUCIAL1X2.component" />
-    <Component Path="FIDUCIALTAB.component" />
-    <Component Path="FIDUCIALUFIDUCIAL.component" />
-  </Folder>
-  <Folder Path="Footprints">
-    <Footprint Path="FIDUCIAL-1X2.footprint" />
-    <Footprint Path="FIDUCIAL-MICRO.footprint" />
-    <Footprint Path="FIDUCIALTAB.footprint" />
-  </Folder>
-  <Folder Path="Symbols">
-    <Symbol Path="DOCFIELD.symbol" />
-    <Symbol Path="FIDUCIAL.symbol" />
-    <Symbol Path="FIDUCIALTAB.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

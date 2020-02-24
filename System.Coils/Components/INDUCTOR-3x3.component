@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313560876019" name="INDUCTOR-3x3" prefix="L" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G$1" libraryName="local" symbolId="2019012313560875017" symbolName="INDUCTOR" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012313560875015" footprintName="INDUCTOR_3X3">
+    <pad2pinMaps>
+      <map pad="P$1" gateId="1" pin="1" />
+      <map pad="P$2" gateId="1" pin="2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

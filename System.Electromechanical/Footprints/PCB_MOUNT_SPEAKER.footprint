@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <footprint id="2019012315210613006" name="PCB_MOUNT_SPEAKER">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
   <circle x="50" y="50" diameter="29.21" borderWidth="0.2032" isFilled="false" layer="501" />
-  <pad number="+" x="42.38" y="50" rot="360" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="34" y1="49" x2="34" y2="50" width="0.2" layer="501" lineStyle="Solid" />
+  <line x1="34.5" y1="49.5" x2="33.5" y2="49.5" width="0.2" layer="501" lineStyle="Solid" />
+  <pad number="+" x="42.38" y="50" rot="0" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
   <pad number="-" x="57.62" y="50" rot="270" width="2.286" height="2.286" cornerRadius="1.143" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.143" slotHeight="0" slotRot="0" plated="false" />
 </footprint>

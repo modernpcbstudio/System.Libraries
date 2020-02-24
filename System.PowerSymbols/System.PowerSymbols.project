@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="3.3V.component" />
-    <Component Path="+5V.component" />
-    <Component Path="GND.component" />
-    <Component Path="VCC.component" />
-    <Component Path="VDD.component" />
-    <Component Path="VIN.component" />
-  </Folder>
-  <Folder Path="Footprints" />
-  <Folder Path="Symbols">
-    <Symbol Path="1.0V.symbol" />
-    <Symbol Path="1.8V.symbol" />
-    <Symbol Path="2.8V.symbol" />
-    <Symbol Path="2PT_GND_TIE.symbol" />
-    <Symbol Path="3.3V.symbol" />
-    <Symbol Path="5V.symbol" />
-    <Symbol Path="12V.symbol" />
-    <Symbol Path="AGND.symbol" />
-    <Symbol Path="DGND.symbol" />
-    <Symbol Path="GND.symbol" />
-    <Symbol Path="V_BATT.symbol" />
-    <Symbol Path="V_USB.symbol" />
-    <Symbol Path="VCC.symbol" />
-    <Symbol Path="VDD.symbol" />
-    <Symbol Path="VDDA.symbol" />
-    <Symbol Path="VIN.symbol" />
-    <Symbol Path="VNEG.symbol" />
-    <Symbol Path="VOUT.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

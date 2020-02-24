@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <footprint id="2019012314360765075" name="USB-B-MICRO-SMD_VERT">
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
   <line x1="53.77653125" y1="51.065228125" x2="53.172496875" y2="51.714565625" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="53.172496875" y1="51.714565625" x2="52.746740625" y2="51.9" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="52.746740625" y1="51.9" x2="47.253259375" y2="51.9" width="0.2032" layer="501" lineStyle="Solid" />
@@ -14,15 +22,15 @@
   <line x1="54" y1="50.496903125" x2="53.77653125" y2="51.065228125" width="0.2032" layer="501" lineStyle="Solid" />
   <rect x="48.7" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
   <rect x="49.349999999999994" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
-  <rect x="50" y="50" width="0.26000000000000512" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
+  <rect x="50" y="50" width="0.2600000000000051" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
   <rect x="50.650000000000006" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
   <rect x="51.3" y="50" width="0.259999999999998" height="1.2999999999999972" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="301" />
   <smd number="D+" x="50" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
   <smd number="D-" x="49.35" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
   <smd number="GND" x="51.3" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
   <smd number="ID" x="50.65" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
-  <pad number="P1" x="47.2" y="49.75" rot="180" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P2" x="52.8" y="49.75" rot="180" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="P3" x="50" y="51.9" rot="360" width="2.54" height="2.54" cornerRadius="1.27" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.27" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P1" x="47.2" y="49.75" rot="0" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P2" x="52.8" y="49.75" rot="0" width="2.032" height="2.032" cornerRadius="1.016" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.016" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="P3" x="50" y="51.9" rot="0" width="1.8" height="1.8" cornerRadius="1.27" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1.2" slotHeight="0" slotRot="0" plated="false" />
   <smd number="VBUS" x="48.7" y="50" rot="-270" width="1.5" height="0.45" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="false" adjustPasteMaskInRules="true" />
 </footprint>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012317022546029" name="2512">
-  <smd number="P$1" x="46.825" y="50" rot="-90" width="3.175" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="P$2" x="53.175" y="50" rot="-90" width="3.175" height="1.27" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-</footprint>

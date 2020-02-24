@@ -1,75 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project OutputType="Library">
-  <Folder Path="Components">
-    <Component Path="ATA6561.component" />
-    <Component Path="CP2102N.component" />
-    <Component Path="FT231XS.component" />
-    <Component Path="FT232RL-BASICSSOP.component" />
-    <Component Path="FT232RLSSOP.component" />
-    <Component Path="HEX_CONVERTER.component" />
-    <Component Path="MAX2323PTH.component" />
-    <Component Path="MAX2323SOIC16.component" />
-    <Component Path="MAX2323TSSOP.component" />
-    <Component Path="MAX3421ESMD.component" />
-    <Component Path="MAX13487E.component" />
-    <Component Path="MCP2515(MCP2510)P.component" />
-    <Component Path="MCP2515(MCP2510)SO.component" />
-    <Component Path="MCP2551.component" />
-    <Component Path="PCA9306.component" />
-    <Component Path="PCA9306PCA9306DC-1_1.component" />
-    <Component Path="PCA9615.component" />
-    <Component Path="RS485SOIC.component" />
-    <Component Path="SCANTOOL.component" />
-    <Component Path="TXB0104PWR.component" />
-    <Component Path="TXB0104PWRSOIC14.component" />
-    <Component Path="TXB0108.component" />
-    <Component Path="W5100.component" />
-  </Folder>
-  <Folder Path="Footprints">
-    <Footprint Path="_STN_SCANTOOL_QFN-28-S.footprint" />
-    <Footprint Path="DFN8.footprint" />
-    <Footprint Path="DIP16.footprint" />
-    <Footprint Path="DIP18.footprint" />
-    <Footprint Path="LQFP-80.footprint" />
-    <Footprint Path="PCA9306DC.footprint" />
-    <Footprint Path="PSOP-8.footprint" />
-    <Footprint Path="QFN24.footprint" />
-    <Footprint Path="SO08.footprint" />
-    <Footprint Path="SO14.footprint" />
-    <Footprint Path="SO16.footprint" />
-    <Footprint Path="SO18W.footprint" />
-    <Footprint Path="SSOP20_L.footprint" />
-    <Footprint Path="SSOP28DB.footprint" />
-    <Footprint Path="TQFP32-5MM.footprint" />
-    <Footprint Path="TSSOP10.footprint" />
-    <Footprint Path="TSSOP14.footprint" />
-    <Footprint Path="TSSOP16.footprint" />
-    <Footprint Path="UFDFN-20.footprint" />
-  </Folder>
-  <Folder Path="Symbols">
-    <Symbol Path="ATA6561DFN8.symbol" />
-    <Symbol Path="CP2102N.symbol" />
-    <Symbol Path="FT231X.symbol" />
-    <Symbol Path="FT232R.symbol" />
-    <Symbol Path="FT232R-BASIC.symbol" />
-    <Symbol Path="M74HC4050.symbol" />
-    <Symbol Path="MAX232.symbol" />
-    <Symbol Path="MAX3421E-1.symbol" />
-    <Symbol Path="MAX13487E.symbol" />
-    <Symbol Path="MCP2510.symbol" />
-    <Symbol Path="MCP2551.symbol" />
-    <Symbol Path="PCA9306.symbol" />
-    <Symbol Path="PCA9615.symbol" />
-    <Symbol Path="PWRN-1.symbol" />
-    <Symbol Path="RS485.symbol" />
-    <Symbol Path="STN1110-QFN.symbol" />
-    <Symbol Path="TXB0104PWR.symbol" />
-    <Symbol Path="TXB0108.symbol" />
-    <Symbol Path="W5100.symbol" />
-  </Folder>
   <References />
   <Properties>
-    <Version>0.7.0</Version>
+    <Version>1.0.0</Version>
     <BuildOutputFolderPath>!Output</BuildOutputFolderPath>
     <properties />
   </Properties>

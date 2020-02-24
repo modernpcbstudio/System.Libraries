@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2020022113150305000" name="Mosfet-N-Ch-DPAK" prefix="Q" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="NMOS" libraryName="local" symbolId="2019012314550959016" symbolName="NMOS" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012314550958007" footprintName="DPAK">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="G" />
+      <map pad="3" gateId="1" pin="S" />
+      <map pad="4" gateId="1" pin="D" />
+    </pad2pinMaps>
+  </footprint>
+</component>

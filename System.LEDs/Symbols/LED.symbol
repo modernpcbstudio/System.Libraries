@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316523359042" name="LED">
-  <line x1="52.032000000000004" y1="50.762" x2="50.762" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.762" y1="53.302" x2="49.492" y2="50.762" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.032000000000004" y1="53.302" x2="50.762" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="50.762" y1="53.302" x2="49.492" y2="53.302" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="52.032000000000004" y1="50.762" x2="49.492" y2="50.762" width="0.254" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.730000000000004" y1="51.524" x2="47.333" y2="52.921" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="48.857" y1="52.667" x2="47.46" y2="54.064" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
-  <pin name="C" showName="false" number="C" showNumber="false" x="50.8" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="A" showName="false" number="A" showNumber="false" x="50.8" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+  <line zIndex="0" x1="52.032000000000004" y1="50.762" x2="50.762" y2="53.302" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="50.762" y1="53.302" x2="49.492" y2="50.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="52.07" y1="53.34" x2="49.53" y2="53.34" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="52.032000000000004" y1="50.762" x2="49.492" y2="50.762" width="0.508" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="48.730000000000004" y1="51.524" x2="47.333" y2="52.921" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="48.857" y1="52.667" x2="47.46" y2="54.064" width="0.1524" lineStyle="Solid" lineColor="#FF000080" />
+  <pin zIndex="0" name="C" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="C" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="50.8" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Down" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="A" showName="false" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="A" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="50.8" y="48.26" pinLength="2.54" width="0.5" pinType="Passive" orientation="Up" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <poly zIndex="0" borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
     <vertex x="47.333" y="52.921" />
     <vertex x="47.714" y="52.032000000000004" />
     <vertex x="48.222" y="52.54" />
   </poly>
-  <poly borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
+  <poly zIndex="0" borderWidth="0.1524" borderColor="#FF000080" fillColor="#00FFFFFF">
     <vertex x="47.46" y="54.064" />
     <vertex x="47.841" y="53.175" />
     <vertex x="48.349000000000004" y="53.683" />

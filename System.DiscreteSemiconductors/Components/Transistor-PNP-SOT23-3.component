@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2020022113513342000" name="Transistor-PNP-SOT23-3" prefix="Q" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012314550959000" symbolName="PNP" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012314550958003" footprintName="SOT23-3">
+    <pad2pinMaps>
+      <map pad="1" gateId="1" pin="B" />
+      <map pad="2" gateId="1" pin="E" />
+      <map pad="3" gateId="1" pin="C" />
+    </pad2pinMaps>
+  </footprint>
+</component>

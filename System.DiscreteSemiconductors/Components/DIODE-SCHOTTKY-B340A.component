@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component id="2019012314550959024" name="DIODE-SCHOTTKY-B340A" prefix="D" componentType="Standard">
+  <properties />
+  <bomItems />
   <gates>
-    <gate id="1" name="G$1" symbolId="2019012314550959003" symbolName="DIODE-SCHOTTKY" swaplevel="0" />
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012314550959003" symbolName="DIODE-SCHOTTKY" swaplevel="0" />
   </gates>
-  <footprint footprintId="2019012314550958000" footprintName="SMA-DIODE">
+  <footprint libraryName="local" footprintId="2019012314550958000" footprintName="SMA-DIODE">
     <pad2pinMaps>
       <map pad="A" gateId="1" pin="A" />
       <map pad="C" gateId="1" pin="C" />

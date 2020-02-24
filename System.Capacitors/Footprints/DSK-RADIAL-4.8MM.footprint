@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012014511443012" name="DSK-RADIAL-4.8MM">
-  <smd number="-" x="50" y="55" rot="0" width="4" height="1.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="+" x="50" y="44.85" rot="0" width="5" height="2" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <line x1="47.5" y1="43.5" x2="52.5" y2="43.5" width="0.127" layer="501" lineStyle="Solid" />
-  <circle x="50" y="50" diameter="6.8" borderWidth="0.127" isFilled="false" layer="501" />
-</footprint>

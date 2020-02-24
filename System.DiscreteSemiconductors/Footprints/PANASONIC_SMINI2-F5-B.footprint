@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<footprint id="2019012314550958020" name="PANASONIC_SMINI2-F5-B">
-  <line x1="48.103" y1="49.375" x2="48.103" y2="50.625" width="0.2032" layer="501" lineStyle="Solid" />
-  <smd number="C" x="48.8" y="50" rot="0" width="0.9" height="1.1" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="A" x="51.2" y="50" rot="0" width="0.9" height="0.9" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <line x1="49.15" y1="49.375" x2="50.85" y2="49.375" width="0.127" layer="501" lineStyle="Solid" />
-  <line x1="49.15" y1="50.625" x2="50.85" y2="50.625" width="0.127" layer="501" lineStyle="Solid" />
-</footprint>

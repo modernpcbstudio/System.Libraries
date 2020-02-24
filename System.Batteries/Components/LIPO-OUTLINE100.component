@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<component id="2019012313185803038" name="LIPO-OUTLINE100" prefix="BT" componentType="Standard">
-  <gates>
-    <gate id="1" name="G$1" symbolId="2019012313185803019" symbolName="LIPO-OUTLINE" swaplevel="0" />
-  </gates>
-  <footprint footprintId="2019012313185803015" footprintName="LIPO-110" />
-</component>

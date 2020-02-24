@@ -8,9 +8,9 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <circle x="50" y="50" diameter="21.5" borderWidth="0.2032" isFilled="false" layer="501" />
-  <text x="38.5" y="50" layer="501" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="1.27" bold="false" italic="false">+</text>
-  <text x="45.5" y="50" layer="501" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="1.27" bold="false" italic="false">+</text>
   <pad number="+" x="47.5" y="50" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
   <pad number="-" x="52.5" y="50" rot="0" width="1.651" height="1.651" cornerRadius="0.8255" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="0.7" slotHeight="0" slotRot="0" plated="false" />
+  <circle x="50" y="50" diameter="21.5" borderWidth="0.2032" isFilled="false" layer="501" />
+  <text x="39" y="48" layer="501" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="10" bold="false" italic="false">+</text>
+  <text x="45.5" y="50" layer="501" rot="0" wordWrap="false" width="0" textAlign="Center" textDecoration="None" fontFamily="Segoe UI" fontSize="1.27" bold="false" italic="false">+</text>
 </footprint>

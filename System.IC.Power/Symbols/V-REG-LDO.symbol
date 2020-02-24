@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <symbol id="2019012316351885043" name="V-REG-LDO">
-  <pin name="IN" showName="true" number="IN" showNumber="false" x="40.64" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="GND" showName="true" number="GND" showNumber="false" x="40.64" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="OUT" showName="true" number="OUT" showNumber="false" x="58.42" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="EN" showName="true" number="EN" showNumber="false" x="40.64" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <pin name="BP" showName="true" number="BP" showNumber="false" x="58.42" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
-  <line x1="43.18" y1="43.18" x2="43.18" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="43.18" y1="58.42" x2="55.88" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.88" y1="58.42" x2="55.88" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
-  <line x1="55.88" y1="43.18" x2="43.18" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <pin zIndex="0" name="IN" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="IN" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="40.64" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="GND" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="GND" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="40.64" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="OUT" showName="true" pinNameX="-0.2700000000000031" pinNameY="-1.45" pinNameRot="0" number="OUT" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="58.42" y="45.72" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="EN" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="EN" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="40.64" y="50.8" pinLength="2.54" width="0.5" pinType="Passive" orientation="Left" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <pin zIndex="0" name="BP" showName="true" pinNameX="1" pinNameY="-1.45" pinNameRot="0" number="BP" showNumber="false" pinNumberX="0.3" pinNumberY="-2.25" pinNumberRot="0" x="58.42" y="55.88" pinLength="2.54" width="0.5" pinType="Passive" orientation="Right" swapLevel="0" pinColor="#FF000080" pinNameColor="#FF000080" pinNumberColor="#FF000080" />
+  <line zIndex="0" x1="43.18" y1="43.18" x2="43.18" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="43.18" y1="58.42" x2="55.88" y2="58.42" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="55.88" y1="58.42" x2="55.88" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
+  <line zIndex="0" x1="55.88" y1="43.18" x2="43.18" y2="43.18" width="0.5" lineStyle="Solid" lineColor="#FF000080" />
 </symbol>

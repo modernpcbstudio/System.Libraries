@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2020022314441134000" name="Cap-Panasonic-C" prefix="C" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G1" libraryName="local" symbolId="2019012014511443015" symbolName="CAP_POL" swaplevel="0" />
+  </gates>
+  <footprint libraryName="System.Common.Footprints" footprintId="2019060919523226000" footprintName="CAP-PANASONIC_C">
+    <pad2pinMaps>
+      <map pad="-" gateId="1" pin="-" />
+      <map pad="+" gateId="1" pin="+" />
+    </pad2pinMaps>
+  </footprint>
+</component>

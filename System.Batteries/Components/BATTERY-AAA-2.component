@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component id="2019012313185803032" name="BATTERY-AAA-2" prefix="BT" componentType="Standard">
+  <properties />
+  <bomItems />
+  <gates>
+    <gate id="1" name="G$1" libraryName="local" symbolId="2019012313185803018" symbolName="BATTERY" swaplevel="0" />
+  </gates>
+  <footprint libraryName="local" footprintId="2019012313185803011" footprintName="BATTERY-AAA-KIT">
+    <pad2pinMaps>
+      <map pad="GND@1" gateId="1" pin="-" />
+      <map pad="GND@2" gateId="1" pin="GND@2" />
+      <map pad="PWR@1" gateId="1" pin="+" />
+      <map pad="PWR@2" gateId="1" pin="PWR@2" />
+    </pad2pinMaps>
+  </footprint>
+</component>

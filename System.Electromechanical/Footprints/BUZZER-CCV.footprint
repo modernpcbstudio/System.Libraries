@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <footprint id="2019012315210613000" name="BUZZER-CCV">
-  <line x1="52.6" y1="56" x2="47.4" y2="56" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="52.6" y1="56" x2="52.6" y2="53.7" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="47.4" y1="56" x2="47.4" y2="53.7" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="45.8" y1="48.4" x2="51.27" y2="45.682" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="53.048" y1="46.698" x2="54.191" y2="48.349" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="54.2" y1="51.6" x2="52.6" y2="53.7" width="0.2032" layer="501" lineStyle="Solid" />
+  <layers>
+    <layer id="1" stackOrder="0" name="Top layer" layerType="Signal" color="#FFA52A2A" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="201" stackOrder="0" name="Mechanical" layerType="Mechanical" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="301" stackOrder="0" name="Top Paste" layerType="PasteMask" color="#FFAAAAAA" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="401" stackOrder="0" name="Top Solder" layerType="SolderMask" color="#FF800080" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+    <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
+  </layers>
   <line x1="46.698" y1="53.048" x2="47.4" y2="53.6" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="47.4" y1="56" x2="52.6" y2="56" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="52.6" y1="56" x2="52.6" y2="53.7" width="0.2032" layer="501" lineStyle="Solid" />
   <line x1="47.4" y1="56" x2="47.4" y2="53.6" width="0.2032" layer="501" lineStyle="Solid" />
-  <circle x="50" y="50" diameter="9" borderWidth="0.127" isFilled="false" layer="201" />
+  <arc sizeDiameter="4.5" borderWidth="0.2" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0" layer="501">
+    <startPoint>
+      <X>54.25</X>
+      <Y>48.5</Y>
+    </startPoint>
+    <endPoint>
+      <X>52.800000000000004</X>
+      <Y>46.5</Y>
+    </endPoint>
+  </arc>
+  <arc sizeDiameter="4.5" borderWidth="0.2" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" layer="501">
+    <startPoint>
+      <X>45.800000000000004</X>
+      <Y>48.400000000000006</Y>
+    </startPoint>
+    <endPoint>
+      <X>51.400000000000006</X>
+      <Y>45.7</Y>
+    </endPoint>
+  </arc>
+  <arc sizeDiameter="4.5" borderWidth="0.2" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" layer="501">
+    <startPoint>
+      <X>54.2</X>
+      <Y>51.6</Y>
+    </startPoint>
+    <endPoint>
+      <X>52.800000000000004</X>
+      <Y>53.5</Y>
+    </endPoint>
+  </arc>
   <smd number="-" x="46" y="50" rot="0" width="3.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
   <smd number="+" x="54" y="50" rot="0" width="3.2" height="2.5" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="52.6" y1="56" x2="47.4" y2="56" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="52.6" y1="56" x2="52.6" y2="53.7" width="0.127" layer="201" lineStyle="Solid" />
+  <line x1="47.4" y1="56" x2="47.4" y2="53.7" width="0.127" layer="201" lineStyle="Solid" />
+  <circle x="50" y="50" diameter="9" borderWidth="0.127" isFilled="false" layer="201" />
   <hole x="46.1" y="52.25" drill="0.8" isPlated="false" height="0" rot="0" drillType="Drill" />
   <hole x="52.25" y="46.1" drill="0.8" isPlated="false" height="0" rot="0" drillType="Drill" />
 </footprint>
