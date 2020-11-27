@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112608262089000" name="CAP-Panasonic-C">
+  <ecapParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" D1="5.3" D="6.5" L="3.5" B="0.63" A="5.8" />
+</model>

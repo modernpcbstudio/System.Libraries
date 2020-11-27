@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112611072009000" name="RES-Axial-0.3">
+  <axialParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" Appearance="Resistor" Placement="Horizontal" IsDiode="false" D="7.62" D1="5.08" A="4" E="2" B="0.5" />
+</model>

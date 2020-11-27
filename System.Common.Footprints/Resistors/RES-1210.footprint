@@ -8,15 +8,15 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <smd number="1" x="48.245" y="50" rot="0" width="1.27" height="2.06" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="2" x="51.755" y="50" rot="0" width="1.27" height="2.06" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <line x1="48.4635" y1="48.8135" x2="51.5365" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="51.5365" y1="48.8135" x2="51.5365" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="51.5365" y1="51.1865" x2="48.4635" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="48.4635" y1="51.1865" x2="48.4635" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" />
-  <line x1="47.41" y1="48.55" x2="52.59" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" />
-  <line x1="52.59" y1="48.55" x2="52.59" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" />
-  <line x1="52.59" y1="51.45" x2="47.41" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" />
-  <line x1="47.41" y1="51.45" x2="47.41" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" />
+  <smd number="1" layer="1" x="48.245" y="50" rot="0" width="1.27" height="2.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="51.755" y="50" rot="0" width="1.27" height="2.8" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="48.4635" y1="48.8135" x2="51.5365" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="51.5365" y1="48.8135" x2="51.5365" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="51.5365" y1="51.1865" x2="48.4635" y2="51.1865" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="48.4635" y1="51.1865" x2="48.4635" y2="48.8135" width="0.127" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="47.41" y1="48.55" x2="52.59" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="52.59" y1="48.55" x2="52.59" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="52.59" y1="51.45" x2="47.41" y2="51.45" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="47.41" y1="51.45" x2="47.41" y2="48.55" width="0.0508" layer="201" lineStyle="Solid" isLocked="false" />
   <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2019061115551786000" modelName="RES-1210" modelLibrary="System.Common.Models" />
 </footprint>

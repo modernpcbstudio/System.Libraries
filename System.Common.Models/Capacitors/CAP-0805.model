@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <model id="2019061117192738000" name="CAP-0805">
-  <box id="0" fillColor="#FFC0C0C0" padNumber="1" centerX="0.70000000000000007" centerY="0" centerZ="0.70500000000000007" width="1.35" height="1.35" length="0.7" rotationX="0" rotationY="0" rotationZ="0" />
-  <box id="0" fillColor="#FFC0C0C0" padNumber="2" centerX="-0.70000000000000007" centerY="0" centerZ="0.70500000000000007" width="1.35" height="1.35" length="0.7" rotationX="0" rotationY="0" rotationZ="0" />
-  <box id="0" fillColor="#FFFFA500" centerX="0" centerY="0" centerZ="0.70500000000000007" width="1.35" height="1.35" length="0.70000000000000018" rotationX="0" rotationY="0" rotationZ="0" />
+  <chipParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" E="1.25" D="2" L="0.3" A="1" IsCapacitor="true" />
 </model>

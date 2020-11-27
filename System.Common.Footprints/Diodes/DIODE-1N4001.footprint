@@ -8,17 +8,18 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <line x1="53.175" y1="48.73" x2="51.905" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="51.905" y1="48.73" x2="46.825" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="46.825" y1="48.73" x2="46.825" y2="50" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="46.825" y1="50" x2="46.825" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="46.825" y1="51.27" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="51.905" y1="51.27" x2="53.175" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="53.175" y1="51.27" x2="53.175" y2="50" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="53.175" y1="50" x2="53.175" y2="48.73" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="51.905" y1="48.73" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="46.825" y1="50" x2="46.19" y2="50" width="0.254" layer="501" lineStyle="Solid" />
-  <line x1="53.175" y1="50" x2="53.81" y2="50" width="0.254" layer="501" lineStyle="Solid" />
-  <pad number="A" x="44.92" y="50" rot="0" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
-  <pad number="C" x="55.08" y="50" rot="0" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="A" layer="1" x="44.92" y="50" rot="0" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
+  <pad number="C" layer="1" x="55.08" y="50" rot="0" width="1.9812" height="1.9812" cornerRadius="0.9906" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" holeOffsetX="0" holeOffsetY="0" drillType="Drill" drill="1" slotHeight="0" slotRot="0" plated="false" />
+  <line x1="53.175" y1="48.73" x2="51.905" y2="48.73" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.905" y1="48.73" x2="46.825" y2="48.73" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.825" y1="48.73" x2="46.825" y2="50" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.825" y1="50" x2="46.825" y2="51.27" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.825" y1="51.27" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.905" y1="51.27" x2="53.175" y2="51.27" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.175" y1="51.27" x2="53.175" y2="50" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.175" y1="50" x2="53.175" y2="48.73" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.905" y1="48.73" x2="51.905" y2="51.27" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.825" y1="50" x2="46.19" y2="50" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.175" y1="50" x2="53.81" y2="50" width="0.254" layer="501" lineStyle="Solid" isLocked="false" />
+  <model centerX="0" centerY="0" centerZ="-2.2" rotationX="0" rotationY="0" rotationZ="180" modelId="2020112614551502000" modelName="Diode-1N4001" modelLibrary="System.Common.Models" />
 </footprint>

@@ -8,19 +8,19 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <smd number="+" x="52.4" y="50" rot="0" width="3" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="-" x="47.6" y="50" rot="0" width="3" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <line x1="46.75" y1="46.75" x2="51.55" y2="46.75" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="51.55" y1="46.75" x2="53.25" y2="48.45" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="53.25" y1="48.45" x2="53.25" y2="51.55" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="53.25" y1="51.55" x2="51.55" y2="53.25" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="51.55" y1="53.25" x2="46.75" y2="53.25" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="46.75" y1="53.25" x2="46.75" y2="46.75" width="0.1016" layer="201" lineStyle="Solid" />
-  <line x1="47.9" y1="47.75" x2="47.9" y2="52.2" width="0.1016" layer="201" lineStyle="Solid" />
-  <circle x="50" y="50" diameter="6.2" borderWidth="0.1016" isFilled="false" layer="201" />
-  <rect x="46.650000000000006" y="50" width="0.60000000000000142" height="0.70000000000000284" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
-  <rect x="53.349999999999994" y="50" width="0.60000000000000142" height="0.70000000000000284" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" />
-  <poly borderWidth="0.1016" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201">
+  <smd number="+" layer="1" x="52.5" y="50" rot="0" width="3" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="-" layer="1" x="47.5" y="50" rot="0" width="3" height="1.4" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="46.75" y1="46.75" x2="51.55" y2="46.75" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="51.55" y1="46.75" x2="53.25" y2="48.45" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="53.25" y1="48.45" x2="53.25" y2="51.55" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="53.25" y1="51.55" x2="51.55" y2="53.25" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="51.55" y1="53.25" x2="46.75" y2="53.25" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="46.75" y1="53.25" x2="46.75" y2="46.75" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="47.9" y1="47.75" x2="47.9" y2="52.2" width="0.1016" layer="201" lineStyle="Solid" isLocked="false" />
+  <circle x="50" y="50" diameter="6.2" borderWidth="0.1016" isFilled="false" layer="201" isLocked="false" />
+  <rect x="46.650000000000006" y="50" width="0.6000000000000014" height="0.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <rect x="53.349999999999994" y="50" width="0.6000000000000014" height="0.7000000000000028" rot="0" borderWidth="0" isFilled="true" cornerRadius="0" layer="201" isLocked="false" />
+  <poly borderWidth="0.1016" isFilled="true" order="0" type="Fill" generateThermals="true" thermalWidth="0.2" layer="201" isLocked="false">
     <vertex x="47.85" y="47.85" />
     <vertex x="47.4" y="48.4" />
     <vertex x="47.1" y="49.1" />
@@ -30,15 +30,15 @@
     <vertex x="47.85" y="52.15" />
     <vertex x="47.85" y="47.9" />
   </poly>
-  <line x1="46.75" y1="49.05" x2="46.75" y2="46.75" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="46.75" y1="46.75" x2="51.55" y2="46.75" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="51.55" y1="46.75" x2="53.25" y2="48.45" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="53.25" y1="48.45" x2="53.25" y2="49.05" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="53.25" y1="50.95" x2="53.25" y2="51.55" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="53.25" y1="51.55" x2="51.55" y2="53.25" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="51.55" y1="53.25" x2="46.75" y2="53.25" width="0.1016" layer="501" lineStyle="Solid" />
-  <line x1="46.75" y1="53.25" x2="46.75" y2="50.95" width="0.1016" layer="501" lineStyle="Solid" />
-  <arc sizeDiameter="3.1" borderWidth="0.2" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" layer="501">
+  <line x1="46.75" y1="49.05" x2="46.75" y2="46.75" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.75" y1="46.75" x2="51.55" y2="46.75" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.55" y1="46.75" x2="53.25" y2="48.45" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.25" y1="48.45" x2="53.25" y2="49.05" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.25" y1="50.95" x2="53.25" y2="51.55" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="53.25" y1="51.55" x2="51.55" y2="53.25" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.55" y1="53.25" x2="46.75" y2="53.25" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="46.75" y1="53.25" x2="46.75" y2="50.95" width="0.1016" layer="501" lineStyle="Solid" isLocked="false" />
+  <arc sizeDiameter="3.1" borderWidth="0.2" isFilled="false" sweepDirection="Clockwise" isLargeArc="false" rotationAngle="0" layer="501" isLocked="false">
     <startPoint>
       <X>47.1</X>
       <Y>49</Y>
@@ -48,7 +48,7 @@
       <Y>49</Y>
     </endPoint>
   </arc>
-  <arc sizeDiameter="3.1" borderWidth="0.2" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0" layer="501">
+  <arc sizeDiameter="3.1" borderWidth="0.2" isFilled="false" sweepDirection="Counterclockwise" isLargeArc="false" rotationAngle="0" layer="501" isLocked="false">
     <startPoint>
       <X>47.1</X>
       <Y>51</Y>
@@ -58,4 +58,5 @@
       <Y>51</Y>
     </endPoint>
   </arc>
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="180" modelId="2020112608555560000" modelName="CAP-Panasonic-D" modelLibrary="System.Common.Models" />
 </footprint>

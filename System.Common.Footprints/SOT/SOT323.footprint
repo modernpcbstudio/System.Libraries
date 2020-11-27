@@ -8,15 +8,16 @@
     <layer id="501" stackOrder="0" name="Top Overlay" layerType="SilkScreen" color="#FFE1E100" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
     <layer id="701" stackOrder="0" name="Milling" layerType="MultiLayer" color="#80FFFFFF" thickness="0.01" dielectricConstant="0" plot="false" mirrorPlot="false" gerberExtension="GBR" />
   </layers>
-  <line x1="49.327" y1="49.3" x2="48.9" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="48.9" y1="49.3" x2="48.9" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="50.673" y1="49.3" x2="51.1" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" />
-  <line x1="51.1" y1="49.3" x2="51.1" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" />
-  <smd number="1" x="49.35" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="2" x="50.65" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <smd number="3" x="50" y="49.075" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
-  <line x1="51.1224" y1="49.3396" x2="51.1224" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" />
-  <line x1="51.1224" y1="50.6604" x2="48.8776" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" />
-  <line x1="48.8776" y1="50.6604" x2="48.8776" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" />
-  <line x1="48.8776" y1="49.3396" x2="51.1224" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" />
+  <smd number="1" layer="1" x="49.35" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="2" layer="1" x="50.65" y="50.925" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <smd number="3" layer="1" x="50" y="49.075" rot="0" width="0.7" height="0.7" cornerRadius="0" autoGenerateSolderMask="true" adjustSolderMaskInRules="true" autoGeneratePasteMask="true" adjustPasteMaskInRules="true" />
+  <line x1="51.1224" y1="49.3396" x2="51.1224" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="51.1224" y1="50.6604" x2="48.8776" y2="50.6604" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="48.8776" y1="50.6604" x2="48.8776" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="48.8776" y1="49.3396" x2="51.1224" y2="49.3396" width="0.1524" layer="201" lineStyle="Solid" isLocked="false" />
+  <line x1="49.327" y1="49.3" x2="48.9" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="48.9" y1="49.3" x2="48.9" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="50.673" y1="49.3" x2="51.1" y2="49.3" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <line x1="51.1" y1="49.3" x2="51.1" y2="50.354" width="0.2032" layer="501" lineStyle="Solid" isLocked="false" />
+  <model centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" modelId="2020112617264458000" modelName="SOT-323" modelLibrary="System.Common.Models" />
 </footprint>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112614551502000" name="Diode-1N4001">
+  <axialParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" Appearance="Resistor" Placement="Horizontal" IsDiode="true" D="10" D1="6.3" A="5" E="2.54" B="0.5" />
+</model>

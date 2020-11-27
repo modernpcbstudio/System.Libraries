@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112615064293000" name="DIP-28">
+  <dipParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" NumberPads="28" E="2.54" D1="5" D="7.62" EE="35.5" B="0.48" L="2.4" A="1.75" A1="0.23" />
+</model>

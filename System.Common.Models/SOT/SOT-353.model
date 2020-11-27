@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112617300172000" name="SOT-353">
+  <sot23ParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" NumberPads="5" E="2.1" E1="1.35" D="2.2" EE="0.65" B="0.25" L="0.25" A="0.8" A1="0.1" />
+</model>

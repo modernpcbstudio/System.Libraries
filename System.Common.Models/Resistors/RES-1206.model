@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <model id="2019061115530352000" name="RES-1206">
-  <box id="0" fillColor="#FFC0C0C0" padNumber="1" centerX="1.275" centerY="0" centerZ="0.38" width="1.65" height="0.7" length="0.7" rotationX="0" rotationY="0" rotationZ="0" />
-  <box id="0" fillColor="#FFC0C0C0" padNumber="2" centerX="-1.275" centerY="0" centerZ="0.38" width="1.65" height="0.7" length="0.7" rotationX="0" rotationY="0" rotationZ="0" />
-  <box id="0" fillColor="#FF000000" centerX="0" centerY="0" centerZ="0.38" width="1.65" height="0.7" length="1.8499999999999999" rotationX="0" rotationY="0" rotationZ="0" />
+  <chipParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" E="1.6" D="3.2" L="0.3" A="0.7" IsCapacitor="false" />
 </model>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<model id="2020112616475863000" name="SOT-26">
+  <soicParametricPackage id="0" centerX="0" centerY="0" centerZ="0" rotationX="0" rotationY="0" rotationZ="0" NumberPads="6" E="0.95" D1="1.6" D="2.8" EE="3" B="0.3" L="0.5" A="1" A1="0.15" />
+</model>
